@@ -1,64 +1,64 @@
-"No","CodeFigureForsasa","CodeFigureForBUFR","TrackingTechniquesStatusOfSystemUsed_en"
-1.00,"00","0","No wind finding"
-2.00,"01","1","Automatic with auxiliary optical direction finding"
-3.00,"02","2","Automatic with auxiliary radio direction finding"
-4.00,"03","3","Automatic with auxiliary ranging"
-5.00,"04","4","Not used"
-6.00,"05","5","Automatic with multiple VLF-Omega signals"
-7.00,"06","6","Automatic cross chain Loran-C"
-8.00,"07","7","Automatic with auxiliary wind profiler"
-9.00,"08","8","Automatic satellite navigation"
-10.00,"09-18","9-18","Reserved"
-11.00,"19","19","Tracking technique not specified"
-12.00,,,"TRACKING TECHNIQUES/STATUS OF ASAP SYSTEM"
-13.00,,,"STATUS OF SHIP SYSTEM"
-14.00,"20","20","Vessel stopped"
-15.00,"21","21","Vessel diverted from original destination"
-16.00,"22","22","Vessel's arrival delayed"
-17.00,"23","23","Container damaged"
-18.00,"24","24","Power failure to container"
-19.00,"25-28","25-28","Reserved for future use"
-20.00,"29","29","Other problems"
-21.00,,,"SOUNDING SYSTEM"
-22.00,"30","30","Major power problems"
-23.00,"31","31","UPS inoperative"
-24.00,"32","32","Receiver hardware problems"
-25.00,"33","33","Receiver software problems"
-26.00,"34","34","Processor hardware problems"
-27.00,"35","35","Processor software problems"
-28.00,"36","36","NAVAID system damaged"
-29.00,"37","37","Shortage of lifting gas"
-30.00,"38","38","Reserved"
-31.00,"39","39","Other problems"
-32.00,,,"LAUNCH FACILITIES"
-33.00,"40","40","Mechanical defect"
-34.00,"41","41","Material defect (hand launcher)"
-35.00,"42","42","Power failure"
-36.00,"43","43","Control failure"
-37.00,"44","44","Pneumatic/hydraulic failure"
-38.00,"45","45","Other problems"
-39.00,"46","46","Compressor problems"
-40.00,"47","47","Balloon problems"
-41.00,"48","48","Balloon release problems"
-42.00,"49","49","Launcher damaged"
-43.00,,,"DATA ACQUISITION SYSTEM"
-44.00,"50","50","R/S receiver antenna defect"
-45.00,"51","51","NAVAID antenna defect"
-46.00,"52","52","R/S receiver cabling (antenna) defect"
-47.00,"53","53","NAVAID antenna cabling defect"
-48.00,"54-58","54-58","Reserved"
-49.00,"59","59","Other problems"
-50.00,,,"COMMUNICATIONS"
-51.00,"60","60","ASAP communications defect"
-52.00,"61","61","Communications facility rejected data"
-53.00,"62","62","No power at transmitting antenna"
-54.00,"63","63","Antenna cable broken"
-55.00,"64","64","Antenna cable defect"
-56.00,"65","65","Message transmitted power below normal"
-57.00,"66-68","66-68","Reserved"
-58.00,"69","69","Other problems"
-59.00,"70","70","All systems in normal operation"
-60.00,"71-98","71-98","Reserved"
-61.00,"99","99","Status of system and its components not specified"
-62.00,"Not available","100-126","Reserved"
-63.00,"Not available","127","Missing value"
+CodeFigureForBUFR,TrackingTechniquesStatusOfSystemUsed_en
+0,No wind finding
+1,Automatic with auxiliary optical direction finding
+2,Automatic with auxiliary radio direction finding
+3,Automatic with auxiliary ranging
+4,Not used
+5,Automatic with multiple VLF-Omega signals
+6,Automatic cross chain Loran-C
+7,Automatic with auxiliary wind profiler
+8,Automatic satellite navigation
+9-18,Reserved
+19,Tracking technique not specified
+,TRACKING TECHNIQUES/STATUS OF ASAP SYSTEM
+,STATUS OF SHIP SYSTEM
+20,Vessel stopped
+21,Vessel diverted from original destination
+22,Vessel's arrival delayed
+23,Container damaged
+24,Power failure to container
+25-28,Reserved for future use
+29,Other problems
+,SOUNDING SYSTEM
+30,Major power problems
+31,UPS inoperative
+32,Receiver hardware problems
+33,Receiver software problems
+34,Processor hardware problems
+35,Processor software problems
+36,NAVAID system damaged
+37,Shortage of lifting gas
+38,Reserved
+39,Other problems
+,LAUNCH FACILITIES
+40,Mechanical defect
+41,Material defect (hand launcher)
+42,Power failure
+43,Control failure
+44,Pneumatic/hydraulic failure
+45,Other problems
+46,Compressor problems
+47,Balloon problems
+48,Balloon release problems
+49,Launcher damaged
+,DATA ACQUISITION SYSTEM
+50,R/S receiver antenna defect
+51,NAVAID antenna defect
+52,R/S receiver cabling (antenna) defect
+53,NAVAID antenna cabling defect
+54-58,Reserved
+59,Other problems
+,COMMUNICATIONS
+60,ASAP communications defect
+61,Communications facility rejected data
+62,No power at transmitting antenna
+63,Antenna cable broken
+64,Antenna cable defect
+65,Message transmitted power below normal
+66-68,Reserved
+69,Other problems
+70,All systems in normal operation
+71-98,Reserved
+99,Status of system and its components not specified
+100-126,Reserved
+127,Missing value

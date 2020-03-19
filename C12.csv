@@ -1,209 +1,209 @@
-﻿"No","CodeFigure_OriginatingCentres","Name_OriginatingCentres_en","CodeFigure_SubCentres","Name_SubCentres_en"
-1.00,,,"0","No sub-centre"
-2.00,,"REGION I",,
-3.00,,,,
-4.00,,"REGION II",,
-5.00,"34","Tokyo (RSMC), Japan Meteorological Agency","207","Syowa"
-6.00,"34","Tokyo (RSMC), Japan Meteorological Agency","240","Kiyose"
-7.00,"34","Tokyo (RSMC), Japan Meteorological Agency","241","Reanalysis project"
-8.00,"39","Beijing (RSMC)","225","Beijing"
-9.00,"39","Beijing (RSMC)","226","Guangzhou"
-10.00,"39","Beijing (RSMC)","228","Urumuqi"
-11.00,"40","Seoul","243","Seoul"
-12.00,"40","Seoul","245","Jincheon"
-13.00,"110","Hong-Kong, China","229","Hong-Kong"
-14.00,,"REGION III",,
-15.00,"46","Brazilian Space Agency ­ INPE","10","Cachoeira Paulista (INPE)"
-16.00,"46","Brazilian Space Agency ­ INPE","11","Cuiaba (INPE)"
-17.00,"46","Brazilian Space Agency ­ INPE","12","Brasilia (SEPIS - INMET)"
-18.00,"46","Brazilian Space Agency ­ INPE","13","Fortaleza (FUNCEME)"
-19.00,"46","Brazilian Space Agency ­ INPE","14","Natal (Navy Hygrog. Centre)"
-20.00,"46","Brazilian Space Agency ­ INPE","15","Manaus (SIVAM)"
-21.00,"46","Brazilian Space Agency ­ INPE","16","Natal (INPE)"
-22.00,"46","Brazilian Space Agency ­ INPE","17","Boa Vista"
-23.00,"46","Brazilian Space Agency ­ INPE","18","SIPAM-Porto Velho-RO"
-24.00,"46","Brazilian Space Agency ­ INPE","19","SIPAM-Belém-PA"
-25.00,"46","Brazilian Space Agency ­ INPE","25","São Paulo University - USP"
-26.00,"147","National Commission on Space Activities (CONAE) - Argentina","10","Córdoba"
-27.00,"147","National Commission on Space Activities (CONAE) - Argentina","15","Ushuaia"
-28.00,"147","National Commission on Space Activities (CONAE) - Argentina","20","Marambio"
-29.00,"147","National Commission on Space Activities (CONAE) - Argentina","30","Santiago de Chile"
-30.00,"147","National Commission on Space Activities (CONAE) - Argentina","40","Punta Arenas"
-31.00,"147","National Commission on Space Activities (CONAE) - Argentina","50","Base Presidente Frei"
-32.00,"147","National Commission on Space Activities (CONAE) - Argentina","60","Cotopaxi"
-33.00,"148","Brazilian Department of Airspace Control - DECEA","1","Integrated Centre of Aeronautical Meteorology - CIMAER"
-34.00,,"REGION IV",,
-35.00,"7","US National Weather Service, NCEP","1","NCEP Reanalysis Project"
-36.00,"7","US National Weather Service, NCEP","2","NCEP Ensemble Products"
-37.00,"7","US National Weather Service, NCEP","3","NCEP Central Operations"
-38.00,"7","US National Weather Service, NCEP","4","Environmental Modeling Center"
-39.00,"7","US National Weather Service, NCEP","5","Weather Prediction Center"
-40.00,"7","US National Weather Service, NCEP","6","Ocean Prediction Center"
-41.00,"7","US National Weather Service, NCEP","7","Climate Prediction Center"
-42.00,"7","US National Weather Service, NCEP","8","Aviation Weather Center"
-43.00,"7","US National Weather Service, NCEP","9","Storm Prediction Center"
-44.00,"7","US National Weather Service, NCEP","10","National Hurricane Center"
-45.00,"7","US National Weather Service, NCEP","11","NWS Techniques Development Laboratory"
-46.00,"7","US National Weather Service, NCEP","12","NESDIS Office of Research and Applications"
-47.00,"7","US National Weather Service, NCEP","13","Federal Aviation Administration"
-48.00,"7","US National Weather Service, NCEP","14","NWS Meteorological Development Laboratory"
-49.00,"7","US National Weather Service, NCEP","15","North American Regional Reanalysis Project"
-50.00,"7","US National Weather Service, NCEP","16","Space Weather Prediction Center"
-51.00,"7","US National Weather Service, NCEP","17","ESRL Global Systems Division"
-52.00,"160","United States NOAA/NESDIS","1","National Climatic Data Center"
-53.00,"160","United States NOAA/NESDIS","2","National Geophysical Data Center"
-54.00,"160","United States NOAA/NESDIS","3","National Oceanographic Data Center"
-55.00,"160","United States NOAA/NESDIS","4","Center for Satellite Applications and Research (STAR)"
-56.00,"160","United States NOAA/NESDIS","5","Joint Polar Satellite System"
-57.00,"160","United States NOAA/NESDIS","10","Tromso (Norway)"
-58.00,"160","United States NOAA/NESDIS","11","McMurdo (Antarctica)"
-59.00,"161","United States NOAA Office of Oceanic and Atmospheric Research (NOAA/OAR)","1","Great Lakes Environmental Research Laboratory"
-60.00,"161","United States NOAA Office of Oceanic and Atmospheric Research (NOAA/OAR)","2","Earth System Research Laboratory"
-61.00,"161","United States NOAA Office of Oceanic and Atmospheric Research (NOAA/OAR)","3","Atlantic Oceanographic and Meteorological Laboratory"
-62.00,"161","United States NOAA Office of Oceanic and Atmospheric Research (NOAA/OAR)","4","Pacific Marine Environmental Laboratory"
-63.00,"161","United States NOAA Office of Oceanic and Atmospheric Research (NOAA/OAR)","5","Air Resources Laboratory"
-64.00,"161","United States NOAA Office of Oceanic and Atmospheric Research (NOAA/OAR)","6","Geophysical Fluid Dynamics Laboratory"
-65.00,"161","United States NOAA Office of Oceanic and Atmospheric Research (NOAA/OAR)","7","National Severe Storms Laboratory"
-66.00,"173","United States National Aeronautics and Space Administration (NASA)","1","Ames Research Center"
-67.00,"173","United States National Aeronautics and Space Administration (NASA)","2","Dryden Flight Research Center"
-68.00,"173","United States National Aeronautics and Space Administration (NASA)","3","Glenn Research Center"
-69.00,"173","United States National Aeronautics and Space Administration (NASA)","4","Goddard Space Flight Center"
-70.00,"173","United States National Aeronautics and Space Administration (NASA)","5","Jet Propulsion Laboratory"
-71.00,"173","United States National Aeronautics and Space Administration (NASA)","6","Johnson Space Center"
-72.00,"173","United States National Aeronautics and Space Administration (NASA)","7","Kennedy Space Center"
-73.00,"173","United States National Aeronautics and Space Administration (NASA)","8","Langley Research Center"
-74.00,"173","United States National Aeronautics and Space Administration (NASA)","9","Marshall Space Flight Center"
-75.00,"173","United States National Aeronautics and Space Administration (NASA)","10","Stennis Space Center"
-76.00,"173","United States National Aeronautics and Space Administration (NASA)","11","Goddard Institute for Space Studies"
-77.00,"173","United States National Aeronautics and Space Administration (NASA)","12","Independent Verification and Validation Facility"
-78.00,"173","United States National Aeronautics and Space Administration (NASA)","13","NASA Shared Service Center"
-79.00,"173","United States National Aeronautics and Space Administration (NASA)","14","Wallops Flight Facility"
-80.00,"176","Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States","10","Tromso (Norway)"
-81.00,"176","Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States","11","McMurdo (Antarctica)"
-82.00,"176","Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States","12","Sodankyla (Finland)"
-83.00,"176","Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States","13","Fairbanks (United States)"
-84.00,"176","Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States","14","Barrow (United States)"
-85.00,"176","Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States","15","Rothera (Antarctica)"
-86.00,"176","Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States","20","Honolulu (United States)"
-87.00,"176","Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States","21","Gilmore Creek (United States)"
-88.00,"176","Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States","22","Madison (United States)"
-89.00,"176","Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States","23","Miami (United States)"
-90.00,"176","Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States","24","Mayaguez (Puerto Rico)"
-91.00,"176","Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States","25","Monterey (United States)"
-92.00,"176","Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States","26","Guam"
-93.00,"176","Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States","27","Corvallis (United States)"
-94.00,"176","Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States","28","Hampton (United States)"
-95.00,"176","Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States","29","New York City (United States)"
-96.00,"177","NOAA National Ocean Service - United States","1","Center for Operational Oceanographic Products and Services"
-97.00,"177","NOAA National Ocean Service - United States","2","Coast Survey Development Laboratory"
-98.00,,"REGION V",,
-99.00,"2","Melbourne","201","Casey"
-100.00,"2","Melbourne","203","Davis"
-101.00,"2","Melbourne","210","Alice Springs"
-102.00,"2","Melbourne","211","Melbourne Crib Point 1"
-103.00,"2","Melbourne","214","Darwin"
-104.00,"2","Melbourne","217","Perth"
-105.00,"2","Melbourne","219","Townsville"
-106.00,"2","Melbourne","232","Fiji"
-107.00,"2","Melbourne","235","Noumea"
-108.00,"2","Melbourne","237","Papeete"
-109.00,"2","Melbourne","250","Vladivostock"
-110.00,"2","Melbourne","251","Guam"
-111.00,"2","Melbourne","252","Honolulu"
-112.00,"69","Wellington (RSMC)","204","National Institute of Water and Atmospheric Research (NIWA - New Zealand)"
-113.00,"69","Wellington (RSMC)","205","Niue"
-114.00,"69","Wellington (RSMC)","206","Rarotonga (Cook Islands)"
-115.00,"69","Wellington (RSMC)","207","Apia (Samoa)"
-116.00,"69","Wellington (RSMC)","208","Tonga"
-117.00,"69","Wellington (RSMC)","209","Tuvalu"
-118.00,"69","Wellington (RSMC)","210","Kiribati"
-119.00,"69","Wellington (RSMC)","211","Tokelau"
-120.00,"69","Wellington (RSMC)","243","Kelburn"
-121.00,"72","Singapore","249","Singapore"
-122.00,"191","French Polynesia (NMC)","1","RARS station of Tahiti (French Polynesia)"
-123.00,"204","National Institute of Water and Atmospheric Research (NIWA - New Zealand)","101","Maupia"
-124.00,"204","National Institute of Water and Atmospheric Research (NIWA - New Zealand)","102","Lauder"
-125.00,,"REGION VI",,
-126.00,"74","UK Met Office, Exeter (RSMC)","1","Shanwick Oceanic Area Control Centre"
-127.00,"74","UK Met Office, Exeter (RSMC)","2","Fucino"
-128.00,"74","UK Met Office, Exeter (RSMC)","3","Gatineau"
-129.00,"74","UK Met Office, Exeter (RSMC)","4","Maspalomas (Spain)"
-130.00,"74","UK Met Office, Exeter (RSMC)","5","ESA ERS Central Facility"
-131.00,"74","UK Met Office, Exeter (RSMC)","6","Prince Albert"
-132.00,"74","UK Met Office, Exeter (RSMC)","7","West Freugh"
-133.00,"74","UK Met Office, Exeter (RSMC)","13","Tromso"
-134.00,"74","UK Met Office, Exeter (RSMC)","21","Agenzia Spaziale Italiana (Italy)"
-135.00,"74","UK Met Office, Exeter (RSMC)","22","Centre National de la Recherche Scientifique (France)"
-136.00,"74","UK Met Office, Exeter (RSMC)","23","GeoForschungs Zentrum (Germany)"
-137.00,"74","UK Met Office, Exeter (RSMC)","24","Geodetic Observatory Pecny (Czechia)"
-138.00,"74","UK Met Office, Exeter (RSMC)","25","Institut d'Estudis Espacials de Catalunya (Spain)"
-139.00,"74","UK Met Office, Exeter (RSMC)","26","Federal Office of Topography (Switzerland)"
-140.00,"74","UK Met Office, Exeter (RSMC)","27","Nordic Commission of Geodesy (Norway)"
-141.00,"74","UK Met Office, Exeter (RSMC)","28","Nordic Commission of Geodesy (Sweden)"
-142.00,"74","UK Met Office, Exeter (RSMC)","29","Institute Géographique National (France) - Service de géodésie"
-143.00,"74","UK Met Office, Exeter (RSMC)","30","Bundesamt für Kartographie und Geodäsie (Germany)"
-144.00,"74","UK Met Office, Exeter (RSMC)","31","Institute of Engineering Satellite Surveying and Geodesy (United Kingdom)"
-145.00,"74","UK Met Office, Exeter (RSMC)","32","Joint Operational Meteorology and Oceanography Centre (JOMOC)"
-146.00,"74","UK Met Office, Exeter (RSMC)","33","Koninklijk Nederlands Meteorologisch Institut (Netherlands)"
-147.00,"74","UK Met Office, Exeter (RSMC)","34","Nordic GPS Atmospheric Analysis centre (Sweden)"
-148.00,"74","UK Met Office, Exeter (RSMC)","35","Instituto Geografico Nacional de España (Spain)"
-149.00,"74","UK Met Office, Exeter (RSMC)","36","Met Éireann (Ireland)"
-150.00,"74","UK Met Office, Exeter (RSMC)","37","Royal Observatory of Belgium (Belgium)"
-151.00,"78","Offenbach (RSMC)","10","POLARA (Polarimetric Radar Algorithms instance)"
-152.00,"78","Offenbach (RSMC)","64","Bundeswehr Geoinformation Office (BGIO)"
-153.00,"78","Offenbach (RSMC)","110","NowCast mobile (Lightning data)"
-154.00,"78","Offenbach (RSMC)","221","Schleswig-Holstein, Traffic Operations Computing Centre (TOCC) Kiel/Neumünster"
-155.00,"78","Offenbach (RSMC)","222","Hamburg, TOCC Hamburg"
-156.00,"78","Offenbach (RSMC)","223","Niedersachsen, TOCC Hannover"
-157.00,"78","Offenbach (RSMC)","224","Austria (NMC)"
-158.00,"78","Offenbach (RSMC)","225","Nordrhein-Westfalen, TOCC Kamen Leverkusen"
-159.00,"78","Offenbach (RSMC)","226","Hessen, TOCC Rüsselsheim"
-160.00,"78","Offenbach (RSMC)","227","Rheinland-Pfalz, TOCC Koblenz"
-161.00,"78","Offenbach (RSMC)","228","Baden-Württemberg, TOCC Ludwigsburg"
-162.00,"78","Offenbach (RSMC)","229","Bayern, TOCC Freimann"
-163.00,"78","Offenbach (RSMC)","230","Saarland, TOCC Rohrbach"
-164.00,"78","Offenbach (RSMC)","231","Bayern, Autobahn directorate Nordbayern"
-165.00,"78","Offenbach (RSMC)","232","Brandenburg, TOCC Stolpe"
-166.00,"78","Offenbach (RSMC)","233","Mecklenburg-Vorpommern, TOCC Malchow"
-167.00,"78","Offenbach (RSMC)","234","Sachsen, TOCC Dresden"
-168.00,"78","Offenbach (RSMC)","235","Sachsen-Anhalt, TOCC Halle"
-169.00,"78","Offenbach (RSMC)","236","Thüringen, TOCC Erfurt"
-170.00,"78","Offenbach (RSMC)","237","EasyWay - Meteotrans"
-171.00,"78","Offenbach (RSMC)","254","EUMETSAT"
-172.00,"80","Rome (RSMC)","101","Albania (NMC)"
-173.00,"80","Rome (RSMC)","102","National Research Council/Institute of Atmospheric Sciences and Climate (CNR-ISAC)"
-174.00,"85","Toulouse (RSMC)","200","Institut National de l'Environnement Industriel et des Risques (France)"
-175.00,"85","Toulouse (RSMC)","201","Rheinisches Institut für Umweltforschung an der Universität zu Köln E.V. (Germany)"
-176.00,"85","Toulouse (RSMC)","202","Institut Français de Recherche pour l'Exploitation de la Mer"
-177.00,"85","Toulouse (RSMC)","203","Aarhus University (Denmark)"
-178.00,"85","Toulouse (RSMC)","204","Institute of Environmental Protection - National Research Institute (Poland)"
-179.00,"89","Prague (RTH)","1","Solar and Ozone Observatory Hradec Kralove"
-180.00,"96","Athens","1","Cyprus (NMC)"
-181.00,"227","Belgium (NMC)","1","Luxembourg (NMC)"
-182.00,"250","COSMO (COnsortium for Small scale MOdelling)","76","Roshydromet (Russian Federation)"
-183.00,"250","COSMO (COnsortium for Small scale MOdelling)","78","Deutscher Wetterdienst (Germany)"
-184.00,"250","COSMO (COnsortium for Small scale MOdelling)","80","Ufficio Generale Spazio Aereo e Meteorologia (Italy)"
-185.00,"250","COSMO (COnsortium for Small scale MOdelling)","96","Hellenic National Meteorological Service (Greece)"
-186.00,"250","COSMO (COnsortium for Small scale MOdelling)","215","MeteoSwiss (Switzerland)"
-187.00,"250","COSMO (COnsortium for Small scale MOdelling)","220","Institute of Meteorology and Water Management (Poland)"
-188.00,"250","COSMO (COnsortium for Small scale MOdelling)","242","National Meteorological Administration (Romania)"
-189.00,"254","EUMETSAT Operation Centre","10","Tromso (Norway)"
-190.00,"254","EUMETSAT Operation Centre","20","Maspalomas (Spain)"
-191.00,"254","EUMETSAT Operation Centre","30","Kangerlussuaq (Greenland)"
-192.00,"254","EUMETSAT Operation Centre","40","Edmonton (Canada)"
-193.00,"254","EUMETSAT Operation Centre","50","Bedford (Canada)"
-194.00,"254","EUMETSAT Operation Centre","60","Gander (Canada)"
-195.00,"254","EUMETSAT Operation Centre","70","Monterey (United States)"
-196.00,"254","EUMETSAT Operation Centre","80","Wallops Island (United States)"
-197.00,"254","EUMETSAT Operation Centre","90","Gilmor Creek (United States)"
-198.00,"254","EUMETSAT Operation Centre","100","Athens (Greece)"
-199.00,"254","EUMETSAT Operation Centre","120","Ewa Beach, Hawaii"
-200.00,"254","EUMETSAT Operation Centre","125","Ford Island, Hawaii"
-201.00,"254","EUMETSAT Operation Centre","130","Miami, Florida"
-202.00,"254","EUMETSAT Operation Centre","140","Lannion (France)"
-203.00,"254","EUMETSAT Operation Centre","150","Svalbard (Norway)"
-204.00,"254","EUMETSAT Operation Centre","170","St Denis (La Réunion)"
-205.00,"254","EUMETSAT Operation Centre","180","Moscow"
-206.00,"254","EUMETSAT Operation Centre","190","Muscat"
-207.00,"254","EUMETSAT Operation Centre","200","Khabarovsk"
-208.00,"254","EUMETSAT Operation Centre","210","Novosibirsk"
+Name_OriginatingCentres_en,CodeFigure_SubCentres,Name_SubCentres_en
+,0,No sub-centre
+REGION I,,
+,,
+REGION II,,
+"Tokyo (RSMC), Japan Meteorological Agency",207,Syowa
+"Tokyo (RSMC), Japan Meteorological Agency",240,Kiyose
+"Tokyo (RSMC), Japan Meteorological Agency",241,Reanalysis project
+Beijing (RSMC),225,Beijing
+Beijing (RSMC),226,Guangzhou
+Beijing (RSMC),228,Urumuqi
+Seoul,243,Seoul
+Seoul,245,Jincheon
+"Hong-Kong, China",229,Hong-Kong
+REGION III,,
+Brazilian Space Agency ­ INPE,10,Cachoeira Paulista (INPE)
+Brazilian Space Agency ­ INPE,11,Cuiaba (INPE)
+Brazilian Space Agency ­ INPE,12,Brasilia (SEPIS - INMET)
+Brazilian Space Agency ­ INPE,13,Fortaleza (FUNCEME)
+Brazilian Space Agency ­ INPE,14,Natal (Navy Hygrog. Centre)
+Brazilian Space Agency ­ INPE,15,Manaus (SIVAM)
+Brazilian Space Agency ­ INPE,16,Natal (INPE)
+Brazilian Space Agency ­ INPE,17,Boa Vista
+Brazilian Space Agency ­ INPE,18,SIPAM-Porto Velho-RO
+Brazilian Space Agency ­ INPE,19,SIPAM-Belém-PA
+Brazilian Space Agency ­ INPE,25,São Paulo University - USP
+National Commission on Space Activities (CONAE) - Argentina,10,Córdoba
+National Commission on Space Activities (CONAE) - Argentina,15,Ushuaia
+National Commission on Space Activities (CONAE) - Argentina,20,Marambio
+National Commission on Space Activities (CONAE) - Argentina,30,Santiago de Chile
+National Commission on Space Activities (CONAE) - Argentina,40,Punta Arenas
+National Commission on Space Activities (CONAE) - Argentina,50,Base Presidente Frei
+National Commission on Space Activities (CONAE) - Argentina,60,Cotopaxi
+Brazilian Department of Airspace Control - DECEA,1,Integrated Centre of Aeronautical Meteorology - CIMAER
+REGION IV,,
+"US National Weather Service, NCEP",1,NCEP Reanalysis Project
+"US National Weather Service, NCEP",2,NCEP Ensemble Products
+"US National Weather Service, NCEP",3,NCEP Central Operations
+"US National Weather Service, NCEP",4,Environmental Modeling Center
+"US National Weather Service, NCEP",5,Weather Prediction Center
+"US National Weather Service, NCEP",6,Ocean Prediction Center
+"US National Weather Service, NCEP",7,Climate Prediction Center
+"US National Weather Service, NCEP",8,Aviation Weather Center
+"US National Weather Service, NCEP",9,Storm Prediction Center
+"US National Weather Service, NCEP",10,National Hurricane Center
+"US National Weather Service, NCEP",11,NWS Techniques Development Laboratory
+"US National Weather Service, NCEP",12,NESDIS Office of Research and Applications
+"US National Weather Service, NCEP",13,Federal Aviation Administration
+"US National Weather Service, NCEP",14,NWS Meteorological Development Laboratory
+"US National Weather Service, NCEP",15,North American Regional Reanalysis Project
+"US National Weather Service, NCEP",16,Space Weather Prediction Center
+"US National Weather Service, NCEP",17,ESRL Global Systems Division
+United States NOAA/NESDIS,1,National Climatic Data Center
+United States NOAA/NESDIS,2,National Geophysical Data Center
+United States NOAA/NESDIS,3,National Oceanographic Data Center
+United States NOAA/NESDIS,4,Center for Satellite Applications and Research (STAR)
+United States NOAA/NESDIS,5,Joint Polar Satellite System
+United States NOAA/NESDIS,10,Tromso (Norway)
+United States NOAA/NESDIS,11,McMurdo (Antarctica)
+United States NOAA Office of Oceanic and Atmospheric Research (NOAA/OAR),1,Great Lakes Environmental Research Laboratory
+United States NOAA Office of Oceanic and Atmospheric Research (NOAA/OAR),2,Earth System Research Laboratory
+United States NOAA Office of Oceanic and Atmospheric Research (NOAA/OAR),3,Atlantic Oceanographic and Meteorological Laboratory
+United States NOAA Office of Oceanic and Atmospheric Research (NOAA/OAR),4,Pacific Marine Environmental Laboratory
+United States NOAA Office of Oceanic and Atmospheric Research (NOAA/OAR),5,Air Resources Laboratory
+United States NOAA Office of Oceanic and Atmospheric Research (NOAA/OAR),6,Geophysical Fluid Dynamics Laboratory
+United States NOAA Office of Oceanic and Atmospheric Research (NOAA/OAR),7,National Severe Storms Laboratory
+United States National Aeronautics and Space Administration (NASA),1,Ames Research Center
+United States National Aeronautics and Space Administration (NASA),2,Dryden Flight Research Center
+United States National Aeronautics and Space Administration (NASA),3,Glenn Research Center
+United States National Aeronautics and Space Administration (NASA),4,Goddard Space Flight Center
+United States National Aeronautics and Space Administration (NASA),5,Jet Propulsion Laboratory
+United States National Aeronautics and Space Administration (NASA),6,Johnson Space Center
+United States National Aeronautics and Space Administration (NASA),7,Kennedy Space Center
+United States National Aeronautics and Space Administration (NASA),8,Langley Research Center
+United States National Aeronautics and Space Administration (NASA),9,Marshall Space Flight Center
+United States National Aeronautics and Space Administration (NASA),10,Stennis Space Center
+United States National Aeronautics and Space Administration (NASA),11,Goddard Institute for Space Studies
+United States National Aeronautics and Space Administration (NASA),12,Independent Verification and Validation Facility
+United States National Aeronautics and Space Administration (NASA),13,NASA Shared Service Center
+United States National Aeronautics and Space Administration (NASA),14,Wallops Flight Facility
+Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States,10,Tromso (Norway)
+Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States,11,McMurdo (Antarctica)
+Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States,12,Sodankyla (Finland)
+Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States,13,Fairbanks (United States)
+Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States,14,Barrow (United States)
+Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States,15,Rothera (Antarctica)
+Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States,20,Honolulu (United States)
+Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States,21,Gilmore Creek (United States)
+Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States,22,Madison (United States)
+Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States,23,Miami (United States)
+Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States,24,Mayaguez (Puerto Rico)
+Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States,25,Monterey (United States)
+Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States,26,Guam
+Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States,27,Corvallis (United States)
+Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States,28,Hampton (United States)
+Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States,29,New York City (United States)
+NOAA National Ocean Service - United States,1,Center for Operational Oceanographic Products and Services
+NOAA National Ocean Service - United States,2,Coast Survey Development Laboratory
+REGION V,,
+Melbourne,201,Casey
+Melbourne,203,Davis
+Melbourne,210,Alice Springs
+Melbourne,211,Melbourne Crib Point 1
+Melbourne,214,Darwin
+Melbourne,217,Perth
+Melbourne,219,Townsville
+Melbourne,232,Fiji
+Melbourne,235,Noumea
+Melbourne,237,Papeete
+Melbourne,250,Vladivostock
+Melbourne,251,Guam
+Melbourne,252,Honolulu
+Wellington (RSMC),204,National Institute of Water and Atmospheric Research (NIWA - New Zealand)
+Wellington (RSMC),205,Niue
+Wellington (RSMC),206,Rarotonga (Cook Islands)
+Wellington (RSMC),207,Apia (Samoa)
+Wellington (RSMC),208,Tonga
+Wellington (RSMC),209,Tuvalu
+Wellington (RSMC),210,Kiribati
+Wellington (RSMC),211,Tokelau
+Wellington (RSMC),243,Kelburn
+Singapore,249,Singapore
+French Polynesia (NMC),1,RARS station of Tahiti (French Polynesia)
+National Institute of Water and Atmospheric Research (NIWA - New Zealand),101,Maupia
+National Institute of Water and Atmospheric Research (NIWA - New Zealand),102,Lauder
+REGION VI,,
+"UK Met Office, Exeter (RSMC)",1,Shanwick Oceanic Area Control Centre
+"UK Met Office, Exeter (RSMC)",2,Fucino
+"UK Met Office, Exeter (RSMC)",3,Gatineau
+"UK Met Office, Exeter (RSMC)",4,Maspalomas (Spain)
+"UK Met Office, Exeter (RSMC)",5,ESA ERS Central Facility
+"UK Met Office, Exeter (RSMC)",6,Prince Albert
+"UK Met Office, Exeter (RSMC)",7,West Freugh
+"UK Met Office, Exeter (RSMC)",13,Tromso
+"UK Met Office, Exeter (RSMC)",21,Agenzia Spaziale Italiana (Italy)
+"UK Met Office, Exeter (RSMC)",22,Centre National de la Recherche Scientifique (France)
+"UK Met Office, Exeter (RSMC)",23,GeoForschungs Zentrum (Germany)
+"UK Met Office, Exeter (RSMC)",24,Geodetic Observatory Pecny (Czechia)
+"UK Met Office, Exeter (RSMC)",25,Institut d'Estudis Espacials de Catalunya (Spain)
+"UK Met Office, Exeter (RSMC)",26,Federal Office of Topography (Switzerland)
+"UK Met Office, Exeter (RSMC)",27,Nordic Commission of Geodesy (Norway)
+"UK Met Office, Exeter (RSMC)",28,Nordic Commission of Geodesy (Sweden)
+"UK Met Office, Exeter (RSMC)",29,Institute Géographique National (France) - Service de géodésie
+"UK Met Office, Exeter (RSMC)",30,Bundesamt für Kartographie und Geodäsie (Germany)
+"UK Met Office, Exeter (RSMC)",31,Institute of Engineering Satellite Surveying and Geodesy (United Kingdom)
+"UK Met Office, Exeter (RSMC)",32,Joint Operational Meteorology and Oceanography Centre (JOMOC)
+"UK Met Office, Exeter (RSMC)",33,Koninklijk Nederlands Meteorologisch Institut (Netherlands)
+"UK Met Office, Exeter (RSMC)",34,Nordic GPS Atmospheric Analysis centre (Sweden)
+"UK Met Office, Exeter (RSMC)",35,Instituto Geografico Nacional de España (Spain)
+"UK Met Office, Exeter (RSMC)",36,Met Éireann (Ireland)
+"UK Met Office, Exeter (RSMC)",37,Royal Observatory of Belgium (Belgium)
+Offenbach (RSMC),10,POLARA (Polarimetric Radar Algorithms instance)
+Offenbach (RSMC),64,Bundeswehr Geoinformation Office (BGIO)
+Offenbach (RSMC),110,NowCast mobile (Lightning data)
+Offenbach (RSMC),221,"Schleswig-Holstein, Traffic Operations Computing Centre (TOCC) Kiel/Neumünster"
+Offenbach (RSMC),222,"Hamburg, TOCC Hamburg"
+Offenbach (RSMC),223,"Niedersachsen, TOCC Hannover"
+Offenbach (RSMC),224,Austria (NMC)
+Offenbach (RSMC),225,"Nordrhein-Westfalen, TOCC Kamen Leverkusen"
+Offenbach (RSMC),226,"Hessen, TOCC Rüsselsheim"
+Offenbach (RSMC),227,"Rheinland-Pfalz, TOCC Koblenz"
+Offenbach (RSMC),228,"Baden-Württemberg, TOCC Ludwigsburg"
+Offenbach (RSMC),229,"Bayern, TOCC Freimann"
+Offenbach (RSMC),230,"Saarland, TOCC Rohrbach"
+Offenbach (RSMC),231,"Bayern, Autobahn directorate Nordbayern"
+Offenbach (RSMC),232,"Brandenburg, TOCC Stolpe"
+Offenbach (RSMC),233,"Mecklenburg-Vorpommern, TOCC Malchow"
+Offenbach (RSMC),234,"Sachsen, TOCC Dresden"
+Offenbach (RSMC),235,"Sachsen-Anhalt, TOCC Halle"
+Offenbach (RSMC),236,"Thüringen, TOCC Erfurt"
+Offenbach (RSMC),237,EasyWay - Meteotrans
+Offenbach (RSMC),254,EUMETSAT
+Rome (RSMC),101,Albania (NMC)
+Rome (RSMC),102,National Research Council/Institute of Atmospheric Sciences and Climate (CNR-ISAC)
+Toulouse (RSMC),200,Institut National de l'Environnement Industriel et des Risques (France)
+Toulouse (RSMC),201,Rheinisches Institut für Umweltforschung an der Universität zu Köln E.V. (Germany)
+Toulouse (RSMC),202,Institut Français de Recherche pour l'Exploitation de la Mer
+Toulouse (RSMC),203,Aarhus University (Denmark)
+Toulouse (RSMC),204,Institute of Environmental Protection - National Research Institute (Poland)
+Prague (RTH),1,Solar and Ozone Observatory Hradec Kralove
+Athens,1,Cyprus (NMC)
+Belgium (NMC),1,Luxembourg (NMC)
+COSMO (COnsortium for Small scale MOdelling),76,Roshydromet (Russian Federation)
+COSMO (COnsortium for Small scale MOdelling),78,Deutscher Wetterdienst (Germany)
+COSMO (COnsortium for Small scale MOdelling),80,Ufficio Generale Spazio Aereo e Meteorologia (Italy)
+COSMO (COnsortium for Small scale MOdelling),96,Hellenic National Meteorological Service (Greece)
+COSMO (COnsortium for Small scale MOdelling),215,MeteoSwiss (Switzerland)
+COSMO (COnsortium for Small scale MOdelling),220,Institute of Meteorology and Water Management (Poland)
+COSMO (COnsortium for Small scale MOdelling),242,National Meteorological Administration (Romania)
+EUMETSAT Operation Centre,10,Tromso (Norway)
+EUMETSAT Operation Centre,20,Maspalomas (Spain)
+EUMETSAT Operation Centre,30,Kangerlussuaq (Greenland)
+EUMETSAT Operation Centre,40,Edmonton (Canada)
+EUMETSAT Operation Centre,50,Bedford (Canada)
+EUMETSAT Operation Centre,60,Gander (Canada)
+EUMETSAT Operation Centre,70,Monterey (United States)
+EUMETSAT Operation Centre,80,Wallops Island (United States)
+EUMETSAT Operation Centre,90,Gilmor Creek (United States)
+EUMETSAT Operation Centre,100,Athens (Greece)
+EUMETSAT Operation Centre,120,"Ewa Beach, Hawaii"
+EUMETSAT Operation Centre,125,"Ford Island, Hawaii"
+EUMETSAT Operation Centre,130,"Miami, Florida"
+EUMETSAT Operation Centre,140,Lannion (France)
+EUMETSAT Operation Centre,150,Svalbard (Norway)
+EUMETSAT Operation Centre,170,St Denis (La Réunion)
+EUMETSAT Operation Centre,180,Moscow
+EUMETSAT Operation Centre,190,Muscat
+EUMETSAT Operation Centre,200,Khabarovsk
+EUMETSAT Operation Centre,210,Novosibirsk

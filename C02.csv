@@ -1,173 +1,173 @@
-﻿"No","DateOfAssignment_en","CodeFigureForrara","CodeFigureForBUFR","RadiosondeSoundingSystemUsed_en"
-1.00,"Not applicable","00","0","Reserved"
-2.00,"Before","01","1","iMet-1-BB (United States)"
-3.00,"Not applicable","02","2","No radiosonde - passive target (e.g. reflector)"
-4.00,"Not applicable","03","3","No radiosonde - active target (e.g. transponder)"
-5.00,"Not applicable","04","4","No radiosonde - passive temperature-humidity profiler"
-6.00,"Not applicable","05","5","No radiosonde - active temperature-humidity profiler"
-7.00,"Not applicable","06","6","No radiosonde - radio-acoustic sounder"
-8.00,"Before","07","7","iMet-1-AB (United States)"
-9.00,"Not applicable","08","8","No radiosonde -... (reserved)"
-10.00,"Not applicable","09","9","No radiosonde - system unknown or not specified"
-11.00,"Before","10","10","VIZ type A pressure-commutated (United States)"
-12.00,"Before","11","11","VIZ type B time-commutated (United States)"
-13.00,"Before","12","12","RS SDC (Space Data Corporation - United States)"
-14.00,"Before","13","13","Astor (no longer made - Australia)"
-15.00,"Before","14","14","VIZ MARK I MICROSONDE (United States)"
-16.00,"Before","15","15","EEC Company type 23 (United States)"
-17.00,"Before","16","16","Elin (Austria)"
-18.00,"Before","17","17","Graw G. (Germany)"
-19.00,"Before","18","18","Graw DFM-06 (Germany)"
-20.00,"Before","19","19","Graw M60 (Germany)"
-21.00,"Before","20","20","Indian Meteorological Service MK3 (India)"
-22.00,"Before","21","21","VIZ/Jin Yang MARK I MICROSONDE (Republic of Korea)"
-23.00,"Before","22","22","Meisei RS2-80 (Japan)"
-24.00,"Before","23","23","Mesural FMO 1950A (France)"
-25.00,"Before","24","24","Mesural FMO 1945A (France)"
-26.00,"Before","25","25","Mesural MH73A (France)"
-27.00,"Before","26","26","Meteolabor Basora (Switzerland)"
-28.00,"Before","27","27","AVK-MRZ (Russian Federation)"
-29.00,"Before","28","28","Meteorit MARZ2-1 (Russian Federation)"
-30.00,"Before","29","29","Meteorit MARZ2-2 (Russian Federation)"
-31.00,"Before","30","30","Oki RS2-80 (Japan)"
-32.00,"Before","31","31","VIZ/Valcom type A pressure-commutated (Canada)"
-33.00,"Before","32","32","Shanghai Radio (China)"
-34.00,"Before","33","33","UK Met Office MK3 (UK)"
-35.00,"Before","34","34","Vinohrady (Czechia)"
-36.00,"Before","35","35","Vaisala RS18 (Finland)"
-37.00,"Before","36","36","Vaisala RS21 (Finland)"
-38.00,"Before","37","37","Vaisala RS80 (Finland)"
-39.00,"Before","38","38","VIZ LOCATE Loran-C (United States)"
-40.00,"Before","39","39","Sprenger E076 (Germany)"
-41.00,"Before","40","40","Sprenger E084 (Germany)"
-42.00,"Before","41","41","Sprenger E085 (Germany)"
-43.00,"Before","42","42","Sprenger E086 (Germany)"
-44.00,"Before","43","43","AIR IS - 4A - 1680 (United States)"
-45.00,"Before","44","44","AIR IS - 4A - 1680 X (United States)"
-46.00,"Before","45","45","RS MSS (United States)"
-47.00,"Before","46","46","AIR IS - 4A - 403 (United States)"
-48.00,"Before","47","47","Meisei RS2-91 (Japan)"
-49.00,"Before","48","48","VALCOM (Canada)"
-50.00,"Before","49","49","VIZ MARK II (United States)"
-51.00,"Before","50","50","Graw DFM-90 (Germany)"
-52.00,"Before","51","51","VIZ-B2 (United States)"
-53.00,"Before","52","52","Vaisala RS80-57H"
-54.00,"Before","53","53","AVK-RF95 (Russian Federation)"
-55.00,"Before","54","54","Graw DFM-97 (Germany)"
-56.00,"Before","55","55","Meisei RS-01G (Japan)"
-57.00,"Before","56","56","M2K2 (France)"
-58.00,"Before","57","57","Modem M2K2-DC (France)"
-59.00,"Before","58","58","AVK-BAR (Russian Federation)"
-60.00,"Before","59","59","Modem M2K2-R 1680 MHz RDF radiosonde with pressure sensor chip (France)"
-61.00,"Before","60","60","Vaisala RS80/MicroCora (Finland)"
-62.00,"Before","61","61","Vaisala RS80/Loran/Digicora I, II or Marwin (Finland)"
-63.00,"Before","62","62","Vaisala RS80/PCCora (Finland)"
-64.00,"Before","63","63","Vaisala RS80/Star (Finland)"
-65.00,"Before","64","64","Orbital Sciences Corporation, Space Data Division, transponder radiosonde, type 909-11-XX, where XX corresponds to the model of the instrument (United States)"
-66.00,"Before","65","65","VIZ transponder radiosonde, model number 1499-520 (United States)"
-67.00,"Before","66","66","Vaisala RS80 /Autosonde (Finland)"
-68.00,"Before","67","67","Vaisala RS80/Digicora III (Finland)"
-69.00,"Before","68","68","AVK-RZM-2 (Russian Federation)"
-70.00,"Before","69","69","MARL-A or Vektor-M-RZM-2 (Russian Federation)"
-71.00,"Before","70","70","Vaisala RS92/Star (Finland)"
-72.00,"Before","71","71","Vaisala RS90/Loran/Digicora I, II or Marwin (Finland)"
-73.00,"Before","72","72","Vaisala RS90/PC-Cora (Finland)"
-74.00,"Before","73","73","Vaisala RS90/Autosonde (Finland)"
-75.00,"Before","74","74","Vaisala RS90/Star (Finland)"
-76.00,"Before","75","75","AVK-MRZ-ARMA (Russian Federation)"
-77.00,"Before","76","76","AVK-RF95-ARMA (Russian Federation)"
-78.00,"Before","77","77","GEOLINK GPSonde GL98 (France)"
-79.00,"Before","78","78","Vaisala RS90/Digicora III (Finland)"
-80.00,"Before","79","79","Vaisala RS92/Digicora I,II or Marwin (Finland)"
-81.00,"Before","80","80","Vaisala RS92/Digicora III (Finland)"
-82.00,"Before","81","81","Vaisala RS92/Autosonde (Finland)"
-83.00,"Before","82","82","Sippican MK2 GPS/STAR (United States) with rod thermistor, carbon element and derived pressure"
-84.00,"Before","83","83","Sippican MK2 GPS/W9000 (United States) with rod thermistor, carbon element and derived pressure"
-85.00,"Before","84","84","Sippican MARK II with chip thermistor, carbon element and derived pressure from GPS height"
-86.00,"Before","85","85","Sippican MARK IIA with chip thermistor, carbon element and derived pressure from GPS height"
-87.00,"Before","86","86","Sippican MARK II with chip thermistor, pressure and carbon element"
-88.00,"Before","87","87","Sippican MARK IIA with chip thermistor, pressure and carbon element"
-89.00,"Before","88","88","MARL-A or Vektor-M-MRZ (Russian Federation)"
-90.00,"Before","89","89","MARL-A or Vektor-M-BAR (Russian Federation)"
-91.00,"Not applicable","90","90","Radiosonde not specified or unknown"
-92.00,"Not applicable","91","91","Pressure only radiosonde"
-93.00,"Not applicable","92","92","Pressure only radiosonde plus transponder"
-94.00,"Not applicable","93","93","Pressure only radiosonde plus radar reflector"
-95.00,"Not applicable","94","94","No pressure radiosonde plus transponder"
-96.00,"Not applicable","95","95","No pressure radiosonde plus radar reflector"
-97.00,"Not applicable","96","96","Descending radiosonde"
-98.00,"Before","97","97","iMet-2/iMet-1500 RDF radiosonde with pressure sensor chip (South Africa)"
-99.00,"Before","98","98","iMet-2/iMet-1500 GPS radiosonde with derived pressure from GPS height (South Africa)"
-100.00,"Before","99","99","iMet-2/iMet-3200 GPS radiosonde with derived pressure from GPS height (South Africa)"
-101.00,,"Not available","100","Reserved for BUFR only"
-102.00,,"01","101","Not vacant"
-103.00,,"Not available","102-106","Reserved for BUFR only"
-104.00,,"07","107","Not vacant"
-105.00,,"Not available","108-109","Reserved for BUFR only"
-106.00,"01/01/2008","10","110","Sippican LMS5 w/Chip Thermistor, duct mounted capacitance relative humidity sensor and derived pressure from GPS height"
-107.00,"01/01/2008","11","111","Sippican LMS6 w/Chip Thermistor, external boom mounted capacitance relative humidity sensor, and derived pressure from GPS height"
-108.00,"06/05/2015","12","112","Jin Yang RSG-20A with derived pressure from GPS height/GL-5000P (Republic of Korea)"
-109.00,"15/09/2010","13","113","Vaisala RS92/MARWIN MW32 (Finland)"
-110.00,"03/11/2011","14","114","Vaisala RS92/DigiCORA MW41 (Finland)"
-111.00,"01/12/2011","15","115","PAZA-12M/Radiotheodolite-UL (Ukraine)"
-112.00,"01/12/2011","16","116","PAZA-22/AVK-1 (Ukraine)"
-113.00,"02/05/2012","17","117","Graw DFM-09 (Germany)"
-114.00,,"18","118","Not vacant"
-115.00,"15/05/2019","19","119","Polus-MRZ-N1 (Russian Federation)"
-116.00,,"20","120","Not vacant"
-117.00,"06/05/2015","21","121","Jin Yang 1524LA LORAN-C/GL5000 (Republic of Korea)"
-118.00,"02/05/2012","22","122","Meisei RS-11G GPS radiosonde w/thermistor, capacitance relative humidity sensor, and derived pressure from GPS height (Japan)"
-119.00,"03/11/2011","23","123","Vaisala RS41/DigiCORA MW41 (Finland)"
-120.00,"03/11/2011","24","124","Vaisala RS41/AUTOSONDE (Finland)"
-121.00,"03/11/2011","25","125","Vaisala RS41/MARWIN MW32 (Finland)"
-122.00,"07/05/2014","26","126","Meteolabor SRS-C34/Argus 37 (Switzerland)"
-123.00,,"27","127","Not vacant"
-124.00,"15/09/2011","28","128","AVK - AK2-02 (Russian Federation)"
-125.00,"15/09/2011","29","129","MARL-A or Vektor-M - AK2-02 (Russian Federation)"
-126.00,"01/01/2010","30","130","Meisei RS-06G (Japan)"
-127.00,"03/11/2011","31","131","Taiyuan GTS1-1/GFE(L) (China )"
-128.00,"03/11/2011","32","132","Shanghai GTS1/GFE(L) (China)"
-129.00,"03/11/2011","33","133","Nanjing GTS1-2/GFE(L) (China)"
-130.00,"Needed","34","134","Vacant"
-131.00,"07/05/2014","35","135","Meisei iMS-100 GPS radiosonde w/thermistor sensor, capacitance relative humidity sensor, and derived pressure from GPS height (Japan)"
-132.00,"02/05/2018","36","136","Meisei iMDS-17 GPS dropsonde w/thermistor sensor, capacitance relative humidity sensor, and capacitance pressure sensor (Japan)"
-133.00,,"37","137","Not vacant"
-134.00,"Needed","38-40","138-140","Vacant"
-135.00,"03/11/2011","41","141","Vaisala RS41 with pressure derived from GPS height/DigiCORA MW41 (Finland)"
-136.00,"03/11/2011","42","142","Vaisala RS41 with pressure derived from GPS height/AUTOSONDE (Finland)"
-137.00,"07/05/2014","43","143","NanJing Daqiao XGP-3G (China)*"
-138.00,"07/05/2014","44","144","TianJin HuaYunTianYi GTS(U)1 (China)*"
-139.00,"07/05/2014","45","145","Beijing Changfeng CF-06 (China)*"
-140.00,"07/05/2014","46","146","Shanghai Changwang GTS3 (China)*"
-141.00,,"47","147","Not vacant"
-142.00,"02/05/2012","48","148","PAZA-22M/MARL-A"
-143.00,,"49","149","Not vacant"
-144.00,"02/11/2016","50","150","Meteolabor SRS-C50/Argus (Switzerland)"
-145.00,,"51","151","Not vacant"
-146.00,"03/11/2011","52","152","Vaisala RS92-NGP/Intermet IMS-2000 (United States)"
-147.00,"06/05/2015","53","153","AVK - I-2012 (Russian Federation)"
-148.00,"15/05/2019","54","154","Graw DFM-17 (Germany)"
-149.00,,"55-59","155-159","Not vacant"
-150.00,"06/05/2015","60","160","MARL-A or Vektor-M - I-2012 (Russian Federation)"
-151.00,,"61","161","Not vacant"
-152.00,"06/05/2015","62","162","MARL-A or Vektor-M - MRZ-3MK (Russian Federation)"
-153.00,"07/11/2018","63","163","Modem M20 radiosonde w/thermistor sensor, capacitance relative humidity sensor, and derived pressure from GPS height (France)"
-154.00,"07/11/2018","64","164","Modem PilotSonde GPS radiosonde (France)"
-155.00,"Needed","65-66","165-166","Vacant"
-156.00,,"67-72","167-172","Not vacant"
-157.00,"02/11/2016","73","173","МАRL-A (Russian Federation) - ASPAN-15 (Kazakhstan)"
-158.00,,"74-76","174-176","Not vacant"
-159.00,"15/03/2010","77","177","Modem GPSonde M10 (France)"
-160.00,,"78-81","178-181","Not vacant"
-161.00,"07/11/2012","82","182","Lockheed Martin LMS-6 w/chip thermistor; external boom mounted polymer capacitive relative humidity sensor; capacitive pressure sensor and GPS wind"
-162.00,"07/11/2012","83","183","Vaisala RS92-D/Intermet IMS 1500 w/silicon capacitive pressure sensor, capacitive wire temperature sensor, twin thin-film heated polymer capacitive relative humidity sensor and RDF wind"
-163.00,"06/11/2019","84","184","iMet-54/iMet-3200/3400 GPS radiosonde with derived pressure from GPS height (South Africa)"
-164.00,,"85-89","185-189","Not vacant"
-165.00,,"Not available","190","NCAR research dropsonde NRD94 with GPS and Vaisala RS92-based sensor module (United States)"
-166.00,,"Not available","191","NCAR research dropsonde NRD41 with GPS and Vaisala RS41-based sensor module (United States)"
-167.00,,"Not available","192","Vaisala/NCAR dropsonde RD94 with GPS and Vaisala RS92-based sensor module (Finland/United States)"
-168.00,,"Not available","193","Vaisala/NCAR dropsonde RD41 with GPS and Vaisala RS41-based sensor module (Finland/United States)"
-169.00,,"Not available","194-196","Reserved for BUFR only"
-170.00,,"97-99","197-199","Not vacant"
-171.00,,"Not available","200-254","Reserved for BUFR only"
-172.00,,,"255","Missing value"
+CodeFigureForrara,CodeFigureForBUFR,RadiosondeSoundingSystemUsed_en
+00,0,Reserved
+01,1,iMet-1-BB (United States)
+02,2,No radiosonde - passive target (e.g. reflector)
+03,3,No radiosonde - active target (e.g. transponder)
+04,4,No radiosonde - passive temperature-humidity profiler
+05,5,No radiosonde - active temperature-humidity profiler
+06,6,No radiosonde - radio-acoustic sounder
+07,7,iMet-1-AB (United States)
+08,8,No radiosonde -... (reserved)
+09,9,No radiosonde - system unknown or not specified
+10,10,VIZ type A pressure-commutated (United States)
+11,11,VIZ type B time-commutated (United States)
+12,12,RS SDC (Space Data Corporation - United States)
+13,13,Astor (no longer made - Australia)
+14,14,VIZ MARK I MICROSONDE (United States)
+15,15,EEC Company type 23 (United States)
+16,16,Elin (Austria)
+17,17,Graw G. (Germany)
+18,18,Graw DFM-06 (Germany)
+19,19,Graw M60 (Germany)
+20,20,Indian Meteorological Service MK3 (India)
+21,21,VIZ/Jin Yang MARK I MICROSONDE (Republic of Korea)
+22,22,Meisei RS2-80 (Japan)
+23,23,Mesural FMO 1950A (France)
+24,24,Mesural FMO 1945A (France)
+25,25,Mesural MH73A (France)
+26,26,Meteolabor Basora (Switzerland)
+27,27,AVK-MRZ (Russian Federation)
+28,28,Meteorit MARZ2-1 (Russian Federation)
+29,29,Meteorit MARZ2-2 (Russian Federation)
+30,30,Oki RS2-80 (Japan)
+31,31,VIZ/Valcom type A pressure-commutated (Canada)
+32,32,Shanghai Radio (China)
+33,33,UK Met Office MK3 (UK)
+34,34,Vinohrady (Czechia)
+35,35,Vaisala RS18 (Finland)
+36,36,Vaisala RS21 (Finland)
+37,37,Vaisala RS80 (Finland)
+38,38,VIZ LOCATE Loran-C (United States)
+39,39,Sprenger E076 (Germany)
+40,40,Sprenger E084 (Germany)
+41,41,Sprenger E085 (Germany)
+42,42,Sprenger E086 (Germany)
+43,43,AIR IS - 4A - 1680 (United States)
+44,44,AIR IS - 4A - 1680 X (United States)
+45,45,RS MSS (United States)
+46,46,AIR IS - 4A - 403 (United States)
+47,47,Meisei RS2-91 (Japan)
+48,48,VALCOM (Canada)
+49,49,VIZ MARK II (United States)
+50,50,Graw DFM-90 (Germany)
+51,51,VIZ-B2 (United States)
+52,52,Vaisala RS80-57H
+53,53,AVK-RF95 (Russian Federation)
+54,54,Graw DFM-97 (Germany)
+55,55,Meisei RS-01G (Japan)
+56,56,M2K2 (France)
+57,57,Modem M2K2-DC (France)
+58,58,AVK-BAR (Russian Federation)
+59,59,Modem M2K2-R 1680 MHz RDF radiosonde with pressure sensor chip (France)
+60,60,Vaisala RS80/MicroCora (Finland)
+61,61,"Vaisala RS80/Loran/Digicora I, II or Marwin (Finland)"
+62,62,Vaisala RS80/PCCora (Finland)
+63,63,Vaisala RS80/Star (Finland)
+64,64,"Orbital Sciences Corporation, Space Data Division, transponder radiosonde, type 909-11-XX, where XX corresponds to the model of the instrument (United States)"
+65,65,"VIZ transponder radiosonde, model number 1499-520 (United States)"
+66,66,Vaisala RS80 /Autosonde (Finland)
+67,67,Vaisala RS80/Digicora III (Finland)
+68,68,AVK-RZM-2 (Russian Federation)
+69,69,MARL-A or Vektor-M-RZM-2 (Russian Federation)
+70,70,Vaisala RS92/Star (Finland)
+71,71,"Vaisala RS90/Loran/Digicora I, II or Marwin (Finland)"
+72,72,Vaisala RS90/PC-Cora (Finland)
+73,73,Vaisala RS90/Autosonde (Finland)
+74,74,Vaisala RS90/Star (Finland)
+75,75,AVK-MRZ-ARMA (Russian Federation)
+76,76,AVK-RF95-ARMA (Russian Federation)
+77,77,GEOLINK GPSonde GL98 (France)
+78,78,Vaisala RS90/Digicora III (Finland)
+79,79,"Vaisala RS92/Digicora I,II or Marwin (Finland)"
+80,80,Vaisala RS92/Digicora III (Finland)
+81,81,Vaisala RS92/Autosonde (Finland)
+82,82,"Sippican MK2 GPS/STAR (United States) with rod thermistor, carbon element and derived pressure"
+83,83,"Sippican MK2 GPS/W9000 (United States) with rod thermistor, carbon element and derived pressure"
+84,84,"Sippican MARK II with chip thermistor, carbon element and derived pressure from GPS height"
+85,85,"Sippican MARK IIA with chip thermistor, carbon element and derived pressure from GPS height"
+86,86,"Sippican MARK II with chip thermistor, pressure and carbon element"
+87,87,"Sippican MARK IIA with chip thermistor, pressure and carbon element"
+88,88,MARL-A or Vektor-M-MRZ (Russian Federation)
+89,89,MARL-A or Vektor-M-BAR (Russian Federation)
+90,90,Radiosonde not specified or unknown
+91,91,Pressure only radiosonde
+92,92,Pressure only radiosonde plus transponder
+93,93,Pressure only radiosonde plus radar reflector
+94,94,No pressure radiosonde plus transponder
+95,95,No pressure radiosonde plus radar reflector
+96,96,Descending radiosonde
+97,97,iMet-2/iMet-1500 RDF radiosonde with pressure sensor chip (South Africa)
+98,98,iMet-2/iMet-1500 GPS radiosonde with derived pressure from GPS height (South Africa)
+99,99,iMet-2/iMet-3200 GPS radiosonde with derived pressure from GPS height (South Africa)
+Not available,100,Reserved for BUFR only
+01,101,Not vacant
+Not available,102-106,Reserved for BUFR only
+07,107,Not vacant
+Not available,108-109,Reserved for BUFR only
+10,110,"Sippican LMS5 w/Chip Thermistor, duct mounted capacitance relative humidity sensor and derived pressure from GPS height"
+11,111,"Sippican LMS6 w/Chip Thermistor, external boom mounted capacitance relative humidity sensor, and derived pressure from GPS height"
+12,112,Jin Yang RSG-20A with derived pressure from GPS height/GL-5000P (Republic of Korea)
+13,113,Vaisala RS92/MARWIN MW32 (Finland)
+14,114,Vaisala RS92/DigiCORA MW41 (Finland)
+15,115,PAZA-12M/Radiotheodolite-UL (Ukraine)
+16,116,PAZA-22/AVK-1 (Ukraine)
+17,117,Graw DFM-09 (Germany)
+18,118,Not vacant
+19,119,Polus-MRZ-N1 (Russian Federation)
+20,120,Not vacant
+21,121,Jin Yang 1524LA LORAN-C/GL5000 (Republic of Korea)
+22,122,"Meisei RS-11G GPS radiosonde w/thermistor, capacitance relative humidity sensor, and derived pressure from GPS height (Japan)"
+23,123,Vaisala RS41/DigiCORA MW41 (Finland)
+24,124,Vaisala RS41/AUTOSONDE (Finland)
+25,125,Vaisala RS41/MARWIN MW32 (Finland)
+26,126,Meteolabor SRS-C34/Argus 37 (Switzerland)
+27,127,Not vacant
+28,128,AVK - AK2-02 (Russian Federation)
+29,129,MARL-A or Vektor-M - AK2-02 (Russian Federation)
+30,130,Meisei RS-06G (Japan)
+31,131,Taiyuan GTS1-1/GFE(L) (China )
+32,132,Shanghai GTS1/GFE(L) (China)
+33,133,Nanjing GTS1-2/GFE(L) (China)
+34,134,Vacant
+35,135,"Meisei iMS-100 GPS radiosonde w/thermistor sensor, capacitance relative humidity sensor, and derived pressure from GPS height (Japan)"
+36,136,"Meisei iMDS-17 GPS dropsonde w/thermistor sensor, capacitance relative humidity sensor, and capacitance pressure sensor (Japan)"
+37,137,Not vacant
+38-40,138-140,Vacant
+41,141,Vaisala RS41 with pressure derived from GPS height/DigiCORA MW41 (Finland)
+42,142,Vaisala RS41 with pressure derived from GPS height/AUTOSONDE (Finland)
+43,143,NanJing Daqiao XGP-3G (China)*
+44,144,TianJin HuaYunTianYi GTS(U)1 (China)*
+45,145,Beijing Changfeng CF-06 (China)*
+46,146,Shanghai Changwang GTS3 (China)*
+47,147,Not vacant
+48,148,PAZA-22M/MARL-A
+49,149,Not vacant
+50,150,Meteolabor SRS-C50/Argus (Switzerland)
+51,151,Not vacant
+52,152,Vaisala RS92-NGP/Intermet IMS-2000 (United States)
+53,153,AVK - I-2012 (Russian Federation)
+54,154,Graw DFM-17 (Germany)
+55-59,155-159,Not vacant
+60,160,MARL-A or Vektor-M - I-2012 (Russian Federation)
+61,161,Not vacant
+62,162,MARL-A or Vektor-M - MRZ-3MK (Russian Federation)
+63,163,"Modem M20 radiosonde w/thermistor sensor, capacitance relative humidity sensor, and derived pressure from GPS height (France)"
+64,164,Modem PilotSonde GPS radiosonde (France)
+65-66,165-166,Vacant
+67-72,167-172,Not vacant
+73,173,МАRL-A (Russian Federation) - ASPAN-15 (Kazakhstan)
+74-76,174-176,Not vacant
+77,177,Modem GPSonde M10 (France)
+78-81,178-181,Not vacant
+82,182,Lockheed Martin LMS-6 w/chip thermistor; external boom mounted polymer capacitive relative humidity sensor; capacitive pressure sensor and GPS wind
+83,183,"Vaisala RS92-D/Intermet IMS 1500 w/silicon capacitive pressure sensor, capacitive wire temperature sensor, twin thin-film heated polymer capacitive relative humidity sensor and RDF wind"
+84,184,iMet-54/iMet-3200/3400 GPS radiosonde with derived pressure from GPS height (South Africa)
+85-89,185-189,Not vacant
+Not available,190,NCAR research dropsonde NRD94 with GPS and Vaisala RS92-based sensor module (United States)
+Not available,191,NCAR research dropsonde NRD41 with GPS and Vaisala RS41-based sensor module (United States)
+Not available,192,Vaisala/NCAR dropsonde RD94 with GPS and Vaisala RS92-based sensor module (Finland/United States)
+Not available,193,Vaisala/NCAR dropsonde RD41 with GPS and Vaisala RS41-based sensor module (Finland/United States)
+Not available,194-196,Reserved for BUFR only
+97-99,197-199,Not vacant
+Not available,200-254,Reserved for BUFR only
+,255,Missing value
