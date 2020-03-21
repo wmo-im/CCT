@@ -1,114 +1,114 @@
-CodeFigureForBUFR,InstrumentMakeAndType_en,EquationCoefficients_a,EquationCoefficients_b
-1,Sippican T-4,6.472,-2.16
-2,Sippican T-4,6.691,-2.25
-11,Sippican T-5,6.828,-1.82
-21,Sippican Fast Deep,6.346,-1.82
-31,Sippican T-6,6.472,-2.16
-32,Sippican T-6,6.691,-2.25
-41,Sippican T-7,6.472,-2.16
-42,Sippican T-7,6.691,-2.25
-51,Sippican Deep Blue,6.472,-2.16
-52,Sippican Deep Blue,6.691,-2.25
-61,Sippican T-10,6.301,-2.16
-71,Sippican T-11,1.7779,-0.255
-81,Sippican AXBT (300 m probes),1.52,0.0
-201,TSK T-4,6.472,-2.16
-202,TSK T-4,6.691,-2.25
-211,TSK T-6,6.472,-2.16
-212,TSK T-6,6.691,-2.25
-221,TSK T-7,6.472,-2.16
-222,TSK T-7,6.691,-2.25
-231,TSK T-5,6.828,-1.82
-241,TSK T-10,6.301,-2.16
-251,TSK Deep Blue,6.472,-2.16
-252,TSK Deep Blue,6.691,-2.25
-261,TSK AXBT,,
-401,Sparton XBT-1,6.301,-2.16
-411,Sparton XBT-3,5.861,-0.0904
-421,Sparton XBT-4,6.472,-2.16
-431,Sparton XBT-5,6.828,-1.82
-441,Sparton XBT-5DB,6.828,-1.82
-451,Sparton XBT-6,6.472,-2.16
-461,Sparton XBT-7,6.472,-2.16
-462,Sparton XBT-7,6.705,-2.28
-471,Sparton XBT-7DB,6.472,-2.16
-481,Sparton XBT-10,6.301,-2.16
-491,Sparton XBT-20,6.472,-2.16
-501,Sparton XBT-20DB,6.472,-2.16
-510,Sparton 536 AXBT,1.524,0
-700,Sippican XCTD Standard,,
-710,Sippican XCTD Deep,,
-720,Sippican AXCTD,,
-730,Sippican SXCTD,,
-741,TSK XCTD/XCTD-1,3.42543,-0.47
-742,TSK XCTD-2,3.43898,-0.31
-743,TSK XCTD-2F,3.43898,-0.31
-744,TSK XCTD-3,5.07598,-0.72
-745,TSK XCTD-4,3.68081,-0.47
-751,TSK AXCTD,,
-780,Sea-Bird SBE21 SEACAT Thermosalinograph,Not applicable,Not applicable
-781,Sea-Bird SBE45 MicroTSG Thermosalinograph,Not applicable,Not applicable
-800,Mechanical BT,Not applicable,Not applicable
-810,Hydrocast,Not applicable,Not applicable
-820,Thermistor chain,Not applicable,Not applicable
-825,Temperature (sonic) and pressure probes,Not applicable,Not applicable
-830,CTD,Not applicable,Not applicable
-831,CTD-P-ALACE float,Not applicable,Not applicable
-835,PROVOR IV,Not applicable,Not applicable
-836,PROVOR III,Not applicable,Not applicable
-837,"ARVOR_C, SBE conductivity sensor",,
-838,"ARVOR_D, SBE conductivity sensor",,
-839,"PROVOR-II, SBE conductivity sensor",,
-840,"PROVOR, no conductivity sensor",Not applicable,Not applicable
-841,"PROVOR, Sea-Bird conductivity sensor",Not applicable,Not applicable
-842,"PROVOR, FSI conductivity sensor",Not applicable,Not applicable
-843,"Polar Ocean Profiling System (POPS), PROVOR, SBE CTD",,
-844,"Profiling float, ARVOR, Sea-Bird conductivity sensor",,
-845,"Webb Research, no conductivity sensor",Not applicable,Not applicable
-846,"Webb Research, Sea-Bird conductivity sensor",Not applicable,Not applicable
-847,"Webb Research, FSI conductivity sensor",Not applicable,Not applicable
-848,"APEX-EM, SBE conductivity sensor",,
-849,"APEX_D, SBE conductivity sensor",,
-850,"SOLO, no conductivity sensor",Not applicable,Not applicable
-851,"SOLO, Sea-Bird conductivity sensor",Not applicable,Not applicable
-852,"SOLO, FSI conductivity sensor",Not applicable,Not applicable
-853,"Profiling float, SOLO2 (SCRIPPS), Sea-Bird conductivity sensor",,
-854,"S2A, SBE conductivity sensor",,
-855,"Profiling float, NINJA, no conductivity sensor",Not applicable,Not applicable
-856,"Profiling float, NINJA, SBE conductivity sensor",Not applicable,Not applicable
-857,"Profiling float, NINJA, FSI conductivity sensor",Not applicable,Not applicable
-858,"Profiling float, NINJA, TSK conductivity sensor",Not applicable,Not applicable
-859,"Profiling float, NEMO, no conductivity sensor",Not applicable,Not applicable
-860,"Profiling float, NEMO, SBE conductivity sensor",Not applicable,Not applicable
-861,"Profiling float, NEMO, FSI conductivity sensor",Not applicable,Not applicable
-862,"SOLO_D, SBE conductivity sensor",,
-863,"NAVIS-A, SBE conductivity sensor",,
-864,"NINJA_D, SBE conductivity sensor",,
-865,"NOVA, SBE conductivity sensor",,
-866,"ALAMO, no conductivity sensor",,
-867,"ALAMO, RBR conductivity sensor",,
-868,"ALAMO, SBE conductivity sensor",,
-869,Reserved,,
-870,HM2000,Not applicable,Not applicable
-871,COPEX,Not applicable,Not applicable
-872,S2X,Not applicable,Not applicable
-873,ALTO,Not applicable,Not applicable
-874,SOLO_D_MRV,Not applicable,Not applicable
-875-899,Reserved,,
-900,Sippican LMP-5 XBT,9.727,-0.0473
-901,"Ice-tethered Profiler (ITP), SBE CTD",,
-902,Brooke Ocean Moving Vessel Profiler (MVP),,
-903,Sea-Bird CTD,,
-904,AML Oceanographic CTD,,
-905,Falmouth Scientific CTD,,
-906,Ocean Sensors CTD,,
-907,Valeport CTD,,
-908,Oceanscience MVP,,
-909,IDRONAUT CTD,,
-910,Sea-Bird SBE 38,,
-911-994,Reserved,,
-995,Instrument attached to marine mammals,Not applicable,Not applicable
-996,Instrument attached to animals other than marine mammals,Not applicable,Not applicable
-997-999,Reserved,,
-1000-1022,Reserved,,
-1023,Missing value,,
+CodeFigureForIXIIXIX,CodeFigureForBUFR,InstrumentMakeAndType_en,EquationCoefficients_a,EquationCoefficients_b,Status
+001,1,Sippican T-4,6.472,-2.16,Operational
+002,2,Sippican T-4,6.691,-2.25,Operational
+011,11,Sippican T-5,6.828,-1.82,Operational
+021,21,Sippican Fast Deep,6.346,-1.82,Operational
+031,31,Sippican T-6,6.472,-2.16,Operational
+032,32,Sippican T-6,6.691,-2.25,Operational
+041,41,Sippican T-7,6.472,-2.16,Operational
+042,42,Sippican T-7,6.691,-2.25,Operational
+051,51,Sippican Deep Blue,6.472,-2.16,Operational
+052,52,Sippican Deep Blue,6.691,-2.25,Operational
+061,61,Sippican T-10,6.301,-2.16,Operational
+071,71,Sippican T-11,1.779,-0.255,Operational
+081,81,Sippican AXBT (300 m probes),1.52,0.0,Operational
+201,201,TSK T-4,6.472,-2.16,Operational
+202,202,TSK T-4,6.691,-2.25,Operational
+211,211,TSK T-6,6.472,-2.16,Operational
+212,212,TSK T-6,6.691,-2.25,Operational
+221,221,TSK T-7,6.472,-2.16,Operational
+222,222,TSK T-7,6.691,-2.25,Operational
+231,231,TSK T-5,6.828,-1.82,Operational
+241,241,TSK T-10,6.301,-2.16,Operational
+251,251,TSK Deep Blue,6.472,-2.16,Operational
+252,252,TSK Deep Blue,6.691,-2.25,Operational
+261,261,TSK AXBT,,,Operational
+401,401,Sparton XBT-1,6.301,-2.16,Operational
+411,411,Sparton XBT-3,5.861,-0.0904,Operational
+421,421,Sparton XBT-4,6.472,-2.16,Operational
+431,431,Sparton XBT-5,6.828,-1.82,Operational
+441,441,Sparton XBT-5DB,6.828,-1.82,Operational
+451,451,Sparton XBT-6,6.472,-2.16,Operational
+461,461,Sparton XBT-7,6.472,-2.16,Operational
+462,462,Sparton XBT-7,6.705,-2.28,Operational
+471,471,Sparton XBT-7DB,6.472,-2.16,Operational
+481,481,Sparton XBT-10,6.301,-2.16,Operational
+491,491,Sparton XBT-20,6.472,-2.16,Operational
+501,501,Sparton XBT-20DB,6.472,-2.16,Operational
+510,510,Sparton 536 AXBT,1.524,0,Operational
+700,700,Sippican XCTD Standard,,,Operational
+710,710,Sippican XCTD Deep,,,Operational
+720,720,Sippican AXCTD,,,Operational
+730,730,Sippican SXCTD,,,Operational
+741,741,TSK XCTD/XCTD-1,3.42543,-0.47,Operational
+742,742,TSK XCTD-2,3.43898,-0.31,Operational
+743,743,TSK XCTD-2F,3.43898,-0.31,Operational
+744,744,TSK XCTD-3,5.07598,-0.72,Operational
+745,745,TSK XCTD-4,3.68081,-0.47,Operational
+751,751,TSK AXCTD,,,Operational
+780,780,Sea-Bird SBE21 SEACAT Thermosalinograph,Not applicable,Not applicable,Operational
+781,781,Sea-Bird SBE45 MicroTSG Thermosalinograph,Not applicable,Not applicable,Operational
+800,800,Mechanical BT,Not applicable,Not applicable,Operational
+810,810,Hydrocast,Not applicable,Not applicable,Operational
+820,820,Thermistor chain,Not applicable,Not applicable,Operational
+825,825,Temperature (sonic) and pressure probes,Not applicable,Not applicable,Operational
+830,830,CTD,Not applicable,Not applicable,Operational
+831,831,CTD-P-ALACE float,Not applicable,Not applicable,Operational
+835,835,PROVOR IV,Not applicable,Not applicable,Operational
+836,836,PROVOR III,Not applicable,Not applicable,Operational
+837,837,"ARVOR_C, SBE conductivity sensor",,,Operational
+838,838,"ARVOR_D, SBE conductivity sensor",,,Operational
+839,839,"PROVOR-II, SBE conductivity sensor",,,Operational
+840,840,"PROVOR, no conductivity sensor",Not applicable,Not applicable,Operational
+841,841,"PROVOR, Sea-Bird conductivity sensor",Not applicable,Not applicable,Operational
+842,842,"PROVOR, FSI conductivity sensor",Not applicable,Not applicable,Operational
+843,843,"Polar Ocean Profiling System (POPS), PROVOR, SBE CTD",,,Operational
+844,844,"Profiling float, ARVOR, Sea-Bird conductivity sensor",,,Operational
+845,845,"Webb Research, no conductivity sensor",Not applicable,Not applicable,Operational
+846,846,"Webb Research, Sea-Bird conductivity sensor",Not applicable,Not applicable,Operational
+847,847,"Webb Research, FSI conductivity sensor",Not applicable,Not applicable,Operational
+848,848,"APEX-EM, SBE conductivity sensor",,,Operational
+849,849,"APEX_D, SBE conductivity sensor",,,Operational
+850,850,"SOLO, no conductivity sensor",Not applicable,Not applicable,Operational
+851,851,"SOLO, Sea-Bird conductivity sensor",Not applicable,Not applicable,Operational
+852,852,"SOLO, FSI conductivity sensor",Not applicable,Not applicable,Operational
+853,853,"Profiling float, SOLO2 (SCRIPPS), Sea-Bird conductivity sensor",,,Operational
+854,854,"S2A, SBE conductivity sensor",,,Operational
+855,855,"Profiling float, NINJA, no conductivity sensor",Not applicable,Not applicable,Operational
+856,856,"Profiling float, NINJA, SBE conductivity sensor",Not applicable,Not applicable,Operational
+857,857,"Profiling float, NINJA, FSI conductivity sensor",Not applicable,Not applicable,Operational
+858,858,"Profiling float, NINJA, TSK conductivity sensor",Not applicable,Not applicable,Operational
+859,859,"Profiling float, NEMO, no conductivity sensor",Not applicable,Not applicable,Operational
+860,860,"Profiling float, NEMO, SBE conductivity sensor",Not applicable,Not applicable,Operational
+861,861,"Profiling float, NEMO, FSI conductivity sensor",Not applicable,Not applicable,Operational
+862,862,"SOLO_D, SBE conductivity sensor",,,Operational
+863,863,"NAVIS-A, SBE conductivity sensor",,,Operational
+864,864,"NINJA_D, SBE conductivity sensor",,,Operational
+865,865,"NOVA, SBE conductivity sensor",,,Operational
+866,866,"ALAMO, no conductivity sensor",,,Operational
+867,867,"ALAMO, RBR conductivity sensor",,,Operational
+868,868,"ALAMO, SBE conductivity sensor",,,Operational
+869,869,Reserved,,,Operational
+870,870,HM2000,Not applicable,Not applicable,Operational
+871,871,COPEX,Not applicable,Not applicable,Operational
+872,872,S2X,Not applicable,Not applicable,Operational
+873,873,ALTO,Not applicable,Not applicable,Operational
+874,874,SOLO_D_MRV,Not applicable,Not applicable,Operational
+875-899,875-899,Reserved,,,Operational
+900,900,Sippican LMP-5 XBT,9.727,-0.0000473,Operational
+901,901,"Ice-tethered Profiler (ITP), SBE CTD",,,Operational
+902,902,Brooke Ocean Moving Vessel Profiler (MVP),,,Operational
+903,903,Sea-Bird CTD,,,Operational
+904,904,AML Oceanographic CTD,,,Operational
+905,905,Falmouth Scientific CTD,,,Operational
+906,906,Ocean Sensors CTD,,,Operational
+907,907,Valeport CTD,,,Operational
+908,908,Oceanscience MVP,,,Operational
+909,909,IDRONAUT CTD,,,Operational
+910,910,Sea-Bird SBE 38,,,Operational
+911-994,911-994,Reserved,,,Operational
+995,995,Instrument attached to marine mammals,Not applicable,Not applicable,Operational
+996,996,Instrument attached to animals other than marine mammals,Not applicable,Not applicable,Operational
+997-999,997-999,Reserved,,,Operational
+,1000-1022,Reserved,,,Operational
+,1023,Missing value,,,Operational
