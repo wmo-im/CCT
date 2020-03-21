@@ -1,512 +1,517 @@
-Meaning_en,ChemicalFormula
-Ozone,O3
-Water vapour,H2O
-Methane,CH4
-Carbon dioxide,CO2
-Carbon monoxide,CO
-Nitrogen dioxide,NO2
-Nitrous oxide,N2O
-Formaldehyde,HCHO
-Sulphur dioxide,SO2
-Ammonia,NH3
-Ammonium cation,NH4+
-Nitrogen monoxide,NO
-Atomic oxygen,O
-Nitrate radical,NO3•
-Hydroperoxyl radical,HOO•
-Dinitrogen pentoxide,N2O5
-Nitrous acid,HONO
-Nitric acid,HNO3
-Peroxynitric acid,HO2NO2
-Hydrogen peroxide,H2O2
-Dihydrogen,H2
-Atomic nitrogen,N
-Sulphate anion,SO42-
-Atomic Radon,Rn
-Mercury vapour,Hg(0)
-Mercury(II) cation,Hg2+
-Atomic chlorine,Cl
-Chlorine monoxide,ClO
-Dichlorine peroxide,Cl2O2
-Hypochlorous acid,HClO
-Chlorine nitrate,ClONO2
-Chlorine dioxide,ClO2
-Atomic bromine,Br
-Bromine monoxide,BrO
-Bromine chloride,BrCl
-Hydrogen bromide,HBr
-Hypobromous acid,HBrO
-Bromine nitrate,BrONO2
-Dioxygen,O2
-Nitryl chloride,NO2Cl
-Sulphuric acid,H2SO4
-Hydrogen sulphide,H2S
-Sulphur trioxide,SO3
-Bromine,Br2
-Hydrofluoric acid,HF
-Sulphur hexafluoride,SF6
-Chlorine,Cl2
-Reserved,
-Hydroxyl radical,HO•
-Methyl peroxy radical,CH3OO•
-Methyl hydroperoxide,CH3O2H
-Methanol,CH3OH
-Formic acid,CH3OOH
-Hydrogen cyanide,HCN
-Aceto nitrile,CH3CN
-Ethane,C2H6
-Ethene (= Ethylene),C2H4
-Ethyne (= Acetylene),C2H2
-Ethanol,C2H5OH
-Acetic acid,C2H5OOH
-Peroxyacetyl nitrate,CH3C(O)OONO2
-Propane,C3H8
-Propene,C3H6
-Butane (all isomers),C4H10
-Isoprene,C5H10
-Alpha pinene,C10H16
-Beta pinene,C10H16
-Limonene,C10H16
-Benzene,C6H6
-Toluene,C7H8
-Xylene,C8H10
-Methanesulphonic acid,CH3SO3H
-Methylglyoxal (2-oxopropanal),CH3C(O)CHO
-Peroxyacetyl radical,CH3C(O)OO•
-Methacrylic acid (2-methylprop-2-enoic acid),CH2C(CH3)COOH
-Methacrolein (2-methylprop-2-enal),CH2C(CH3)CHO
-Acetone (propan-2-one),CH3C(O)CH3
-Ethyl dioxidanyl radical,CH3CH2OO•
-"Butadiene (buta-1,3-diene)",(CH2CH)2
-Acetaldehyde (ethanal),CH3CHO
-Glycolaldehyde (hydroxyethanal),HOCH2CHO
-"Cresol (methylphenol), all isomers",CH3C6H4OH
-Peracetic acid (ethaneperoxoic acid),CH3C(O)OOH
-2-hydroxyethyl oxidanyl radical,HOCH2CH2O•
-2-hydroxyethyl dioxidanyl radical,HOCH2CH2OO•
-Glyoxal (oxaldehyde),OCHCHO
-Isopropyl dioxidanyl radical,(CH3)2CHOO•
-Isopropyl hydroperoxide (2-hydroperoxypropane),(CH3)2CHOOH
-Hydroxyacetone (1-hydroxypropan-2-one),CH3C(O)CH2OH
-Peroxyacetic acid (ethaneperoxoic acid),CH3C(O)OOH
-Methyl vinyl ketone (but-3-en-2-one),CH3C(O)CHCH2
-Phenoxy radical,C6H5O•
-Methyl radical,CH3•
-Carbonyl sulphide (carbon oxide sulphide),OCS
-Dibromomethane,CH2Br2
-Methoxy radical,CH3O•
-Tribromomethane,CHBr3
-Formyl radical (oxomethyl radical),HOC•
-Hydroxymethyl dioxidanyl radical,HOCH2OO•
-Ethyl hydroperoxide,CH3CH2OOH
-3-hydroxypropyl dioxidanyl radical,HOCH2CH2CH2OO•
-3-hydroxypropyl hydroperoxide,HOCH2CH2CH2OOH
-"Reserved for other simple organic molecules (e.g. higher aldehydes, alcohols, peroxides, ...)",
-Dimethyl sulphide,CH3SCH3 (DMS)
-DMSO (dimethyl sulfoxide),(CH3)2SO
-Reserved,
-Hydrogen chloride,HCl
-CFC-11 (trichlorofluoromethane),CCl3F
-CFC-12 (dichlorodifluoromethane),CCl2F2
-"CFC-113 (1,1,2-trichloro-1,2,2-trifluoroethane)",Cl2FC-CClF2
-"CFC-113a (1,1,1-trichloro-2,2,2-trifluoroethane)",Cl3C-CF3
-"CFC-114 (1,2-dichloro-1,1,2,2-tetrafluoroethane)",ClF2C-CClF2
-"CFC-115 (1-chloro-1,1,2,2,2-pentafluoroethane)",ClF2C-CF3
-HCFC-22 (chlorodifluoromethane),CHClF2
-"HCFC-141b (1,1-dichloro-1-fluoroethane)",Cl2FC-CH3
-"HCFC-142b (1-chloro-1,1-difluoroethane)",ClF2C-CH3
-Halon-1202 (dibromodifluoromethane),CBr2F2
-Halon-1211 (bromochlorodifluoromethane),CBrClF2
-Halon-1301 (bromotrifluoromethane),CBrF3
-"Halon-2402 (1,2-dibromo-1,1,2,2-tetrafluoroethane)",BrF2C-CBrF2
-HCC-40 (methyl chloride),CH3Cl
-HCC-10 (carbon tetrachloride),CCl4
-"HCC-140a (1,1,1-trichloroethane)",Cl3C-CH3
-HBC-40B1 (methyl bromide),CH3Br
-HCH (hexachlorocyclohexane) all isomers,C6H6Cl6
-α-HCH (α-hexachlorocyclohexane) both enantiomers,α-C6H6Cl6
-"PCB-153 (2,2',4,4',5,5'-hexachlorobiphenyl)",(C6H2Cl3)2
-"HCFC-141a (1,1-dichloro-2-fluoroethane)",Cl2HC-CH2F
-Reserved,
-"Radioactive pollutant (tracer, defined by originating centre)",
-Reserved,
-Tritium (Hydrogen 3),H-3
-Tritium organic bounded,H-3o
-Tritium inorganic,H-3a
-Beryllium 7,Be-7
-Beryllium 10,Be-10
-Carbon 14,C-14
-Carbon 14 CO2,C-14CO2
-Carbon 14 other gases,C-14og
-Nitrogen 13,N-13
-Nitrogen 16,N-16
-Fluorine 18,F-18
-Sodium 22,Na-22
-Phosphate 32,P-32
-Phosphate 33,P-33
-Sulphur 35,S-35
-Chlorine 36,Cl-36
-Potassium 40,K-40
-Argon 41,Ar-41
-Calcium 41,Ca-41
-Calcium 45,Ca-45
-Titanium 44,Ti-44
-Scandium 46,Sc-46
-Vanadium 48,V-48
-Vanadium 49,V-49
-Chrome 51,Cr-51
-Manganese 52,Mn-52
-Manganese 54,Mn-54
-Iron 55,Fe-55
-Iron 59,Fe-59
-Cobalt 56,Co-56
-Cobalt 57,Co-57
-Cobalt 58,Co-58
-Cobalt 60,Co-60
-Nickel 59,Ni-59
-Nickel 63,Ni-63
-Zinc 65,Zn-65
-Gallium 67,Ga-67
-Gallium 68,Ga-68
-Germanium 68,Ge-68
-Germanium 69,Ge-69
-Arsenic 73,As-73
-Selenium 75,Se-75
-Selenium 79,Se-79
-Rubidium 81,Rb-81
-Rubidium 83,Rb-83
-Rubidium 84,Rb-84
-Rubidium 86,Rb-86
-Rubidium 87,Rb-87
-Rubidium 88,Rb-88
-Krypton 85,Kr-85
-Krypton 85 metastable,Kr-85m
-Krypton 87,Kr-87
-Krypton 88,Kr-88
-Krypton 89,Kr-89
-Strontium 85,Sr-85
-Strontium 89,Sr-89
-Strontium 89/90,Sr-8990
-Strontium 90,Sr-90
-Strontium 91,Sr-91
-Strontium 92,Sr-92
-Yttrium 87,Y-87
-Yttrium 88,Y-88
-Yttrium 90,Y-90
-Yttrium 91,Y-91
-Yttrium 91 metastable,Y-91m
-Yttrium 92,Y-92
-Yttrium 93,Y-93
-Zirconium 89,Zr-89
-Zirconium 93,Zr-93
-Zirconium 95,Zr-95
-Zirconium 97,Zr-97
-Niobium 93 metastable,Nb-93m
-Niobium 94,Nb-94
-Niobium 95,Nb-95
-Niobium 95 metastable,Nb-95m
-Niobium 97,Nb-97
-Niobium 97 metastable,Nb-97m
-Molybdenum 93,Mo-93
-Molybdenum 99,Mo-99
-Technetium 95 metastable,Tc-95m
-Technetium 96,Tc-96
-Technetium 99,Tc-99
-Technetium 99 metastable,Tc-99m
-Rhodium 99,Rh-99
-Rhodium 101,Rh-101
-Rhodium 102 metastable,Rh-102m
-Rhodium 103 metastable,Rh-103m
-Rhodium 105,Rh-105
-Rhodium 106,Rh-106
-Palladium 100,Pd-100
-Palladium 103,Pd-103
-Palladium 107,Pd-107
-Ruthenium 103,Ru-103
-Ruthenium 105,Ru-105
-Ruthenium 106,Ru-106
-Silver 108 metastable,Ag-108m
-Silver 110 metastable,Ag-110m
-Cadmium 109,Cd-109
-Cadmium 113 metastable,Cd-113m
-Cadmium 115 metastable,Cd-115m
-Indium 114 metastable,In-114m
-Tin 113,Sn-113
-Tin 119 metastable,Sn-119m
-Tin 121 metastable,Sn-121m
-Tin 122,Sn-122
-Tin 123,Sn-123
-Tin 126,Sn-126
-Antimony 124,Sb-124
-Antimony 125,Sb-125
-Antimony 126,Sb-126
-Antimony 127,Sb-127
-Antimony 129,Sb-129
-Tellurium 123 metastable,Te-123m
-Tellurium 125 metastable,Te-125m
-Tellurium 127,Te-127
-Tellurium 127 metastable,Te-127m
-Tellurium 129,Te-129
-Tellurium 129 metastable,Te-129m
-Tellurium 131 metastable,Te-131m
-Tellurium 132,Te-132
-Iodine 123,I-123
-Iodine 124,I-124
-Iodine 125,I-125
-Iodine 126,I-126
-Iodine 129,I-129
-Iodine 129 elementary gaseous,I-129g
-Iodine 129 organic bounded,I-129o
-Iodine 131,I-131
-Iodine 131 elementary gaseous,I-131g
-Iodine 131 organic bounded,I-131o
-Iodine 131 gaseous elementary and organic bounded,I-131go
-Iodine 131 aerosol,I-131a
-Iodine 132,I-132
-Iodine 132 elementary gaseous,I-132g
-Iodine 132 organic bounded,I-132o
-Iodine 132 gaseous elementary and organic bounded,I-132go
-Iodine 132 aerosol,I-132a
-Iodine 133,I-133
-Iodine 133 elementary gaseous,I-133g
-Iodine 133 organic bounded,I-133o
-Iodine 133 gaseous elementary and organic bounded,I-133go
-Iodine 133 aerosol,I-133a
-Iodine 134,I-134
-Iodine 134 elementary gaseous,I-134g
-Iodine 134 organic bounded,I-134o
-Iodine 135,I-135
-Iodine 135 elementary gaseous,I-135g
-Iodine 135 organic bounded,I-135o
-Iodine 135 gaseous elementary and organic bounded,I-135go
-Iodine 135 aerosol,I-135a
-Xenon 131 metastable,Xe-131m
-Xenon 133,Xe-133
-Xenon 133 metastable,Xe-133m
-Xenon 135,Xe-135
-Xenon 135 metastable,Xe-135m
-Xenon 137,Xe-137
-Xenon 138,Xe-138
-Xenon sum of all Xenon isotopes,Xe-sum
-Caesium 131,Cs-131
-Caesium 134,Cs-134
-Caesium 135,Cs-135
-Caesium 136,Cs-136
-Caesium 137,Cs-137
-Barium 133,Ba-133
-Barium 137 metastable,Ba-137m
-Barium 140,Ba-140
-Cerium 139,Ce-139
-Cerium 141,Ce-141
-Cerium 143,Ce-143
-Cerium 144,Ce-144
-Lanthanum 140,La-140
-Lanthanum 141,La-141
-Praseodymium 143,Pr-143
-Praseodymium 144,Pr-144
-Praseodymium 144 metastable,Pr-144m
-Samarium 145,Sm-145
-Samarium 147,Sm-147
-Samarium 151,Sm-151
-Neodymium 147,Nd-147
-Promethium 146,Pm-146
-Promethium 147,Pm-147
-Promethium 151,Pm-151
-Europium 152,Eu-152 
-Europium 154,Eu-154
-Europium 155,Eu-155
-Gadolinium 153,Gd-153
-Terbium 160,Tb-160
-Holmium 166 metastable,Ho-166m
-Thulium 170,Tm-170
-Ytterbium 169,Yb-169
-Hafnium 175,Hf-175
-Hafnium 181,Hf-181
-Tantalum 179,Ta-179
-Tantalum 182,Ta-182
-Rhenium 184,Re-184
-Iridium 192,Ir-192
-Mercury 203,Hg-203
-Thallium 204,Tl-204
-Thallium 207,Tl-207
-Thallium 208,Tl-208
-Thallium 209,Tl-209
-Bismuth 205,Bi-205
-Bismuth 207,Bi-207
-Bismuth 210,Bi-210
-Bismuth 211,Bi-211
-Bismuth 212,Bi-212
-Bismuth 213,Bi-213
-Bismuth 214,Bi-214
-Polonium 208,Po-208
-Polonium 210,Po-210
-Polonium 212,Po-212
-Polonium 213,Po-213
-Polonium 214,Po-214
-Polonium 215,Po-215
-Polonium 216,Po-216
-Polonium 218,Po-218
-Lead 209,Pb-209
-Lead 210,Pb-210
-Lead 211,Pb-211
-Lead 212,Pb-212
-Lead 214,Pb-214
-Astatine 217,At-217
-Radon 219,Rn-219
-Radon 220,Rn-220
-Radon 222,Rn-222
-Francium 221,Fr-221
-Francium 223,Fr-223
-Radium 223,Ra-223
-Radium 224,Ra-224
-Radium 225,Ra-225
-Radium 226,Ra-226
-Radium 228,Ra-228
-Actinium 225,Ac-225
-Actinium 227,Ac-227
-Actinium 228,Ac-228
-Thorium 227,Th-227
-Thorium 228,Th-228
-Thorium 229,Th-229
-Thorium 230,Th-230
-Thorium 231,Th-231
-Thorium 232,Th-232
-Thorium 234,Th-234
-Protactinium 231,Pa-231
-Protactinium 233,Pa-233
-Protactinium 234 metastable,Pa-234m
-Uranium 232,U-232
-Uranium 233,U-233
-Uranium 234,U-234
-Uranium 235,U-235
-Uranium 236,U-236
-Uranium 237,U-237
-Uranium 238,U-238
-Plutonium 236,Pu-236
-Plutonium 238,Pu-238
-Plutonium 239,Pu-239
-Plutonium 240,Pu-240
-Plutonium 241,Pu-241
-Plutonium 242,Pu-242
-Plutonium 244,Pu-244
-Neptunium 237,Np-237
-Neptunium 238,Np-238
-Neptunium 239,Np-239
-Americium 241,Am-241
-Americium 242,Am-242
-Americium 242 metastable,Am-242m
-Americium 243,Am-243
-Curium 242,Cm-242
-Curium 243,Cm-243
-Curium 244,Cm-244
-Curium 245,Cm-245
-Curium 246,Cm-246
-Curium 247,Cm-247
-Curium 248,Cm-248
-Curium 243/244,Cm-243244
-Plutonium 238/Americium 241,Pu-238Am-241
-Plutonium 239/240,Pu-239240
-Berkelium 249,Bk-249
-Californium 249,Cf-249
-Californium 250,Cf-250
-Californium 252,Cf-252
-Sum aerosol particulates,SumAer
-Sum Iodine,SumIod
-Sum noble gas,SumNG
-Activation gas,ActGas
-Cs-137 Equivalent,EquCs137
-Carbon-13,C-13
-Lead,Pb
-Reserved,
-Singlet sigma oxygen (dioxygen (sigma singlet)),O2(1Σ+g)
-Singlet delta oxygen (dioxygen (delta singlet)),O2(1Δg)
-Singlet excited oxygen atom,O(1D)
-Triplet ground state oxygen atom,O(3P)
-Reserved,
-HOx radical (OH+HO2),HOx•
-Total inorganic and organic peroxy radicals (HOO• + ROO•),ROO•
-Passive Ozone,
-NOx expressed as nitrogen,NOx
-All nitrogen oxides (NOy) expressed as nitrogen,NOy
-Total inorganic chlorine,Clx
-Total inorganic bromine,Brx
-"Total inorganic chlorine except HCl, ClONO2: ClOx",
-"Total inorganic bromine except HBr, BrONO2: BrOx",
-Lumped alkanes,
-Lumped alkenes,
-Lumped aromatic compounds,
-Lumped terpenes,
-Non-methane volatile organic compounds expressed as carbon,NMVOC
-Anthropogenic non-methane volatile organic compounds expressed as carbon,aNMVOC
-Biogenic non-methane volatile organic compounds expressed as carbon,bNMVOC
-Lumped oxygenated hydrocarbons,OVOC
-NOx expressed as nitrogen dioxide (NO2),NOx
-Organic aldehydes,RCHO
-Organic peroxides,ROOH
-Organic nitrates,RNO3
-Ethers,ROR’
-Amines,NRR’R’’
-Ketones,RC(O)R’
-Dicarbonyls unsaturated,RC(O)CH2C(O)R’
-Hydroxy dicarbonyls unsaturated,RC(O)CHOHC(O)R’
-Hydroxy ketones,RC(OH)C(O)R’
-Oxides,Ox
-Reserved,
-Total aerosol,
-Dust dry,
-Water in ambient,
-Ammonium dry,
-Nitrate dry,
-Nitric acid trihydrate,
-Sulphate dry,
-Mercury dry,
-Sea salt dry,
-Black carbon dry,
-Particulate organic matter dry,
-Primary particulate organic matter dry,
-Secondary particulate organic matter dry,
-Black carbon hydrophilic dry,
-Black carbon hydrophobic dry,
-Particulate organic matter hydrophilic dry,
-Particulate organic matter hydrophobic dry,
-Nitrate hydrophilic dry,
-Nitrate hydrophobic dry,
-Reserved,
-Smoke - high absorption,
-Smoke - low absorption,
-Aerosol - high absorption,
-Aerosol - low absorption,
-Reserved,
-Volcanic ash,
-Particulate matter (PM),
-Reserved,
-Total aerosol hydrophilic,
-Total aerosol hydrophobic,
-Reserved,
-Alnus (alder) pollen,
-Betula (birch) pollen,
-Castanea (chestnut) pollen,
-Carpinus (hornbeam) pollen,
-Corylus (hazel) pollen,
-Fagus (beech) pollen,
-Fraxinus (ash) pollen,
-Pinus (pine) pollen,
-Platanus (plane) pollen,
-"Populus (cottonwood, poplar) pollen",
-Quercus (oak) pollen,
-Salix (willow) pollen,
-Taxus (yew) pollen,
-"Tilia (lime, linden) pollen",
-Ulmus (elm) pollen,
-Reserved,
-"Ambrosia (ragweed, burr-ragweed) pollen",
-"Artemisia (sagebrush, wormwood, mugwort) pollen",
-"Brassica (rape, broccoli, Brussels sprouts, cabbage, cauliflower, collards, kale, kohlrabi, mustard, rutabaga) pollen",
-Plantago (plantain) pollen,
-"Rumex (dock, sorrel) pollen",
-Urtica (nettle) pollen,
-Reserved,
-Poaceae (grass family) pollen,
-Reserved,
-For experimental use at local level,
-Missing,
+CodeFigure,Meaning_en,ChemicalFormula,Status
+0,Ozone,O3,Operational
+1,Water vapour,H2O,Operational
+2,Methane,CH4,Operational
+3,Carbon dioxide,CO2,Operational
+4,Carbon monoxide,CO,Operational
+5,Nitrogen dioxide,NO2,Operational
+6,Nitrous oxide,N2O,Operational
+7,Formaldehyde,HCHO,Operational
+8,Sulphur dioxide,SO2,Operational
+9,Ammonia,NH3,Operational
+10,Ammonium,NH4+,Operational
+11,Nitrogen monoxide,NO,Operational
+12,Atomic oxygen,O,Operational
+13,Nitrate radical,NO3,Operational
+14,Hydroperoxyl radical,HO2,Operational
+15,Dinitrogen pentoxide,N2O5,Operational
+16,Nitrous acid,HONO,Operational
+17,Nitric acid,HNO3,Operational
+18,Peroxynitric acid,HO2NO2,Operational
+19,Hydrogen peroxide,H2O2,Operational
+20,Molecular hydrogen,H2,Operational
+21,Atomic nitrogen,N,Operational
+22,Sulphate,SO42-,Operational
+23,Radon,Rn,Operational
+24,Elemental mercury,Hg(0),Operational
+25,Divalent mercury,Hg2+,Operational
+26,Atomic chlorine,Cl,Operational
+27,Chlorine monoxide,ClO,Operational
+28,Dichlorine peroxide,Cl2O2,Operational
+29,Hypochlorous acid,HClO,Operational
+30,Chlorine nitrate,ClONO2,Operational
+31,Chlorine dioxide,ClO2,Operational
+32,Atomic bromine,Br,Operational
+33,Bromine monoxide,BrO,Operational
+34,Bromine chloride,BrCl,Operational
+35,Hydrogen bromide,HBr,Operational
+36,Hypobromous acid,HBrO,Operational
+37,Bromine nitrate,BrONO2,Operational
+38,Oxygen,O2,Operational
+39-9999,Reserved,,Operational
+39,Nitryl chloride,NO2Cl,Operational
+40,Sulphuric acid,H2SO4,Operational
+41,Hydrogen sulphide,H2S,Operational
+42,Sulphur trioxide,SO3,Operational
+43,Bromine,Br2,Operational
+44,Hydrofluoric acid,HF,Operational
+45,Sulphur hexafluoride,SF6,Operational
+46,Chlorine,Cl2,Operational
+47-9999,Reserved,,Operational
+10000,Hydroxyl radical,OH,Operational
+10001,Methyl peroxy radical,CH3O2,Operational
+10002,Methyl hydroperoxide,CH3O2H,Operational
+10004,Methanol,CH3OH,Operational
+10005,Formic acid,CH3OOH,Operational
+10006,Hydrogen cyanide,HCN,Operational
+10007,Aceto nitrile,CH3CN,Operational
+10008,Ethane,C2H6,Operational
+10009,Ethene (= Ethylene),C2H4,Operational
+10010,Ethyne (= Acetylene),C2H2,Operational
+10011,Ethanol,C2H5OH,Operational
+10012,Acetic acid,C2H5OOH,Operational
+10013,Peroxyacetyl nitrate,CH3C(O)OONO2,Operational
+10014,Propane,C3H8,Operational
+10015,Propene,C3H6,Operational
+10016,Butanes,C4H10,Operational
+10017,Isoprene,C5H10,Operational
+10018,Alpha pinene,C10H16,Operational
+10019,Beta pinene,C10H16,Operational
+10020,Limonene,C10H16,Operational
+10021,Benzene,C6H6,Operational
+10022,Toluene,C7H8,Operational
+10023,Xylene,C8H10,Operational
+10024-10499,"Reserved for other simple organic molecules (e.g. higher aldehydes, alcohols, peroxides, ...)",,Operational
+10024,Methanesulphonic acid,CH3SO3H,Operational
+10025,Methylglyoxal (2-oxopropanal),CH3C(O)CHO,Operational
+10026,Peroxyacetyl radical,CH3C(O)OO•,Operational
+10027,Methacrylic acid (2-methylprop-2-enoic acid),CH2C(CH3)COOH,Operational
+10028,Methacrolein (2-methylprop-2-enal),CH2C(CH3)CHO,Operational
+10029,Acetone (propan-2-one),CH3C(O)CH3,Operational
+10030,Ethyl dioxidanyl radical,CH3CH2OO•,Operational
+10031,"Butadiene (buta-1,3-diene)",(CH2CH)2,Operational
+10032,Acetaldehyde (ethanal),CH3CHO,Operational
+10033,Glycolaldehyde (hydroxyethanal),HOCH2CHO,Operational
+10034,"Cresol (methylphenol), all isomers",CH3C6H4OH,Operational
+10035,Peracetic acid (ethaneperoxoic acid),CH3C(O)OOH,Operational
+10036,2-hydroxyethyl oxidanyl radical,HOCH2CH2O•,Operational
+10037,2-hydroxyethyl dioxidanyl radical,HOCH2CH2OO•,Operational
+10038,Glyoxal (oxaldehyde),OCHCHO,Operational
+10039,Isopropyl dioxidanyl radical,(CH3)2CHOO•,Operational
+10040,Isopropyl hydroperoxide (2-hydroperoxypropane),(CH3)2CHOOH,Operational
+10041,Hydroxyacetone (1-hydroxypropan-2-one),CH3C(O)CH2OH,Operational
+10042,Peroxyacetic acid (ethaneperoxoic acid),CH3C(O)OOH,Operational
+10043,Methyl vinyl ketone (but-3-en-2-one),CH3C(O)CHCH2,Operational
+10044,Phenoxy radical,C6H5O•,Operational
+10045,Methyl radical,CH3•,Operational
+10046,Carbonyl sulphide (carbon oxide sulphide),OCS,Operational
+10047,Dibromomethane,CH2Br2,Operational
+10048,Methoxy radical,CH3O•,Operational
+10049,Tribromomethane,CHBr3,Operational
+10050,Formyl radical (oxomethyl radical),HOC•,Operational
+10051,Hydroxymethyl dioxidanyl radical,HOCH2OO•,Operational
+10052,Ethyl hydroperoxide,CH3CH2OOH,Operational
+10053,3-hydroxypropyl dioxidanyl radical,HOCH2CH2CH2OO•,Operational
+10054,3-hydroxypropyl hydroperoxide,HOCH2CH2CH2OOH,Operational
+10055-10499,"Reserved for other simple organic molecules (e.g. higher aldehydes, alcohols, peroxides, ...)",,Operational
+10500,Dimethyl sulphide,CH3SCH3 (DMS),Operational
+10501-20000,Reserved,,Operational
+10501,DMSO (dimethyl sulfoxide),(CH3)2SO,Operational
+10502-20000,Reserved,,Operational
+20001,Hydrogen chloride,,Operational
+20002,CFC-11,,Operational
+20003,CFC-12,,Operational
+20004,CFC-113,,Operational
+20005,CFC-113a,,Operational
+20006,CFC-114,,Operational
+20007,CFC-115,,Operational
+20008,HCFC-22,,Operational
+20009,HCFC-141b,,Operational
+20010,HCFC-142b,,Operational
+20011,Halon-1202,,Operational
+20012,Halon-1211,,Operational
+20013,Halon-1301,,Operational
+20014,Halon-2402,,Operational
+20015,Methyl chloride (HCC-40),,Operational
+20016,Carbon tetrachloride (HCC-10),,Operational
+20017,HCC-140a,CH3CCl3,Operational
+20018,Methyl bromide (HBC-40B1),,Operational
+20019,Hexachlorocyclohexane (HCH),,Operational
+20020,Alpha hexachlorocyclohexane,,Operational
+20021,Hexachlorobiphenyl (PCB-153),,Operational
+20022-29999,Reserved,,Operational
+20022,"HCFC 141a (1,1-dichloro-2-fluoro-ethane)",CH3CClF2,Operational
+20023-29999,Reserved,,Operational
+30000,"Radioactive pollutant (tracer, defined by originating centre)",,Operational
+30001 - 30009,Reserved,,Operational
+30010,Hydrogen,H-3,Operational
+30011,Hydrogen organic bounded,H-3o,Operational
+30012,Hydrogen inorganic,H-3a,Operational
+30013,Beryllium 7,Be-7,Operational
+30014,Beryllium 10,Be-10,Operational
+30015,Carbon 14,C-14,Operational
+30016,Carbon 14 CO2,C-14CO2,Operational
+30017,Carbon 14 other gases,C-14og,Operational
+30018,Nitrogen 13,N-13,Operational
+30019,Nitrogen 16,N-16,Operational
+30020,Fluorine 18,F-18,Operational
+30021,Sodium 22,Na-22,Operational
+30022,Phosphate 32,P-32,Operational
+30023,Phosphate 33,P-33,Operational
+30024,Sulphur 35,S-35,Operational
+30025,Chlorine 36,Cl-36,Operational
+30026,Potassium 40,K-40,Operational
+30027,Argon 41,Ar-41,Operational
+30028,Calcium 41,Ca-41,Operational
+30029,Calcium 45,Ca-45,Operational
+30030,Titanium 44,Ti-44,Operational
+30031,Scandium 46,Sc-46,Operational
+30032,Vanadium 48,V-48,Operational
+30033,Vanadium 49,V-49,Operational
+30034,Chrome 51,Cr-51,Operational
+30035,Manganese 52,Mn-52,Operational
+30036,Manganese 54,Mn-54,Operational
+30037,Iron 55,Fe-55,Operational
+30038,Iron 59,Fe-59,Operational
+30039,Cobalt 56,Co-56,Operational
+30040,Cobalt 57,Co-57,Operational
+30041,Cobalt 58,Co-58,Operational
+30042,Cobalt 60,Co-60,Operational
+30043,Nickel 59,Ni-59,Operational
+30044,Nickel 63,Ni-63,Operational
+30045,Zinc 65,Zn-65,Operational
+30046,Gallium 67,Ga-67,Operational
+30047,Gallium 68,Ga-68,Operational
+30048,Germanium 68,Ge-68,Operational
+30049,Germanium 69,Ge-69,Operational
+30050,Arsenic 73,As-73,Operational
+30051,Selenium 75,Se-75,Operational
+30052,Selenium 79,Se-79,Operational
+30053,Rubidium 81,Rb-81,Operational
+30054,Rubidium 83,Rb-83,Operational
+30055,Rubidium 84,Rb-84,Operational
+30056,Rubidium 86,Rb-86,Operational
+30057,Rubidium 87,Rb-87,Operational
+30058,Rubidium 88,Rb-88,Operational
+30059,Krypton 85,Kr-85,Operational
+30060,Krypton 85 metastable,Kr-85m,Operational
+30061,Krypton 87,Kr-87,Operational
+30062,Krypton 88,Kr-88,Operational
+30063,Krypton 89,Kr-89,Operational
+30064,Strontium 85,Sr-85,Operational
+30065,Strontium 89,Sr-89,Operational
+30066,Strontium 89/90,Sr-8990,Operational
+30067,Strontium 90,Sr-90,Operational
+30068,Strontium 91,Sr-91,Operational
+30069,Strontium 92,Sr-92,Operational
+30070,Yttrium 87,Y-87,Operational
+30071,Yttrium 88,Y-88,Operational
+30072,Yttrium 90,Y-90,Operational
+30073,Yttrium 91,Y-91,Operational
+30074,Yttrium 91 metastable,Y-91m,Operational
+30075,Yttrium 92,Y-92,Operational
+30076,Yttrium 93,Y-93,Operational
+30077,Zirconium 89,Zr-89,Operational
+30078,Zirconium 93,Zr-93,Operational
+30079,Zirconium 95,Zr-95,Operational
+30080,Zirconium 97,Zr-97,Operational
+30081,Niobium 93 metastable,Nb-93m,Operational
+30082,Niobium 94,Nb-94,Operational
+30083,Niobium 95,Nb-95,Operational
+30084,Niobium 95 metastable,Nb-95m,Operational
+30085,Niobium 97,Nb-97,Operational
+30086,Niobium 97 metastable,Nb-97m,Operational
+30087,Molybdenum 93,Mo-93,Operational
+30088,Molybdenum 99,Mo-99,Operational
+30089,Technetium 95 metastable,Tc-95m,Operational
+30090,Technetium 96,Tc-96,Operational
+30091,Technetium 99,Tc-99,Operational
+30092,Technetium 99 metastable,Tc-99m,Operational
+30093,Rhodium 99,Rh-99,Operational
+30094,Rhodium 101,Rh-101,Operational
+30095,Rhodium 102 metastable,Rh-102m,Operational
+30096,Rhodium 103 metastable,Rh-103m,Operational
+30097,Rhodium 105,Rh-105,Operational
+30098,Rhodium 106,Rh-106,Operational
+30099,Palladium 100,Pd-100,Operational
+30100,Palladium 103,Pd-103,Operational
+30101,Palladium 107,Pd-107,Operational
+30102,Ruthenium 103,Ru-103,Operational
+30103,Ruthenium 105,Ru-105,Operational
+30104,Ruthenium 106,Ru-106,Operational
+30105,Silver 108 metastable,Ag-108m,Operational
+30106,Silver 110 metastable,Ag-110m,Operational
+30107,Cadmium 109,Cd-109,Operational
+30108,Cadmium 113 metastable,Cd-113m,Operational
+30109,Cadmium 115 metastable,Cd-115m,Operational
+30110,Indium 114 metastable,In-114m,Operational
+30111,Tin 113,Sn-113,Operational
+30112,Tin 119 metastable,Sn-119m,Operational
+30113,Tin 121 metastable,Sn-121m,Operational
+30114,Tin 122,Sn-122,Operational
+30115,Tin 123,Sn-123,Operational
+30116,Tin 126,Sn-126,Operational
+30117,Antimony 124,Sb-124,Operational
+30118,Antimony 125,Sb-125,Operational
+30119,Antimony 126,Sb-126,Operational
+30120,Antimony 127,Sb-127,Operational
+30121,Antimony 129,Sb-129,Operational
+30122,Tellurium 123 metastable,Te-123m,Operational
+30123,Tellurium 125 metastable,Te-125m,Operational
+30124,Tellurium 127,Te-127,Operational
+30125,Tellurium 127 metastable,Te-127m,Operational
+30126,Tellurium 129,Te-129,Operational
+30127,Tellurium 129 metastable,Te-129m,Operational
+30128,Tellurium 131 metastable,Te-131m,Operational
+30129,Tellurium 132,Te-132,Operational
+30130,Iodine 123,I-123,Operational
+30131,Iodine 124,I-124,Operational
+30132,Iodine 125,I-125,Operational
+30133,Iodine 126,I-126,Operational
+30134,Iodine 129,I-129,Operational
+30135,Iodine 129 elementary gaseous,I-129g,Operational
+30136,Iodine 129 organic bounded,I-129o,Operational
+30137,Iodine 131,I-131,Operational
+30138,Iodine 131 elementary gaseous,I-131g,Operational
+30139,Iodine 131 organic bounded,I-131o,Operational
+30140,Iodine 131 gaseous elementary and organic bounded,I-131go,Operational
+30141,Iodine 131 aerosol,I-131a,Operational
+30142,Iodine 132,I-132,Operational
+30143,Iodine 132 elementary gaseous,I-132g,Operational
+30144,Iodine 132 organic bounded,I-132o,Operational
+30145,Iodine 132 gaseous elementary and organic bounded,I-132go,Operational
+30146,Iodine 132 aerosol,I-132a,Operational
+30147,Iodine 133,I-133,Operational
+30148,Iodine 133 elementary gaseous,I-133g,Operational
+30149,Iodine 133 organic bounded,I-133o,Operational
+30150,Iodine 133 gaseous elementary and organic bounded,I-133go,Operational
+30151,Iodine 133 aerosol,I-133a,Operational
+30152,Iodine 134,I-134,Operational
+30153,Iodine 134 elementary gaseous,I-134g,Operational
+30154,Iodine 134 organic bounded,I-134o,Operational
+30155,Iodine 135,I-135,Operational
+30156,Iodine 135 elementary gaseous,I-135g,Operational
+30157,Iodine 135 organic bounded,I-135o,Operational
+30158,Iodine 135 gaseous elementary and organic bounded,I-135go,Operational
+30159,Iodine 135 aerosol,I-135a,Operational
+30160,Xenon 131 metastable,Xe-131m,Operational
+30161,Xenon 133,Xe-133,Operational
+30162,Xenon 133 metastable,Xe-133m,Operational
+30163,Xenon 135,Xe-135,Operational
+30164,Xenon 135 metastable,Xe-135m,Operational
+30165,Xenon 137,Xe-137,Operational
+30166,Xenon 138,Xe-138,Operational
+30167,Xenon sum of all Xenon isotopes,Xe-sum,Operational
+30168,Caesium 131,Cs-131,Operational
+30169,Caesium 134,Cs-134,Operational
+30170,Caesium 135,Cs-135,Operational
+30171,Caesium 136,Cs-136,Operational
+30172,Caesium 137,Cs-137,Operational
+30173,Barium 133,Ba-133,Operational
+30174,Barium 137 metastable,Ba-137m,Operational
+30175,Barium 140,Ba-140,Operational
+30176,Cerium 139,Ce-139,Operational
+30177,Cerium 141,Ce-141,Operational
+30178,Cerium 143,Ce-143,Operational
+30179,Cerium 144,Ce-144,Operational
+30180,Lanthanum 140,La-140,Operational
+30181,Lanthanum 141,La-141,Operational
+30182,Praseodymium 143,Pr-143,Operational
+30183,Praseodymium 144,Pr-144,Operational
+30184,Praseodymium 144 metastable,Pr-144m,Operational
+30185,Samarium 145,Sm-145,Operational
+30186,Samarium 147,Sm-147,Operational
+30187,Samarium 151,Sm-151,Operational
+30188,Neodymium 147,Nd-147,Operational
+30189,Promethium 146,Pm-146,Operational
+30190,Promethium 147,Pm-147,Operational
+30191,Promethium 151,Pm-151,Operational
+30192,Europium 152,Eu-152 ,Operational
+30193,Europium 154,Eu-154,Operational
+30194,Europium 155,Eu-155,Operational
+30195,Gadolinium 153,Gd-153,Operational
+30196,Terbium 160,Tb-160,Operational
+30197,Holmium 166 metastable,Ho-166m,Operational
+30198,Thulium 170,Tm-170,Operational
+30199,Ytterbium 169,Yb-169,Operational
+30200,Hafnium 175,Hf-175,Operational
+30201,Hafnium 181,Hf-181,Operational
+30202,Tantalum 179,Ta-179,Operational
+30203,Tantalum 182,Ta-182,Operational
+30204,Rhenium 184,Re-184,Operational
+30205,Iridium 192,Ir-192,Operational
+30206,Mercury 203,Hg-203,Operational
+30207,Thallium 204,Tl-204,Operational
+30208,Thallium 207,Tl-207,Operational
+30209,Thallium 208,Tl-208,Operational
+30210,Thallium 209,Tl-209,Operational
+30211,Bismuth 205,Bi-205,Operational
+30212,Bismuth 207,Bi-207,Operational
+30213,Bismuth 210,Bi-210,Operational
+30214,Bismuth 211,Bi-211,Operational
+30215,Bismuth 212,Bi-212,Operational
+30216,Bismuth 213,Bi-213,Operational
+30217,Bismuth 214,Bi-214,Operational
+30218,Polonium 208,Po-208,Operational
+30219,Polonium 210,Po-210,Operational
+30220,Polonium 212,Po-212,Operational
+30221,Polonium 213,Po-213,Operational
+30222,Polonium 214,Po-214,Operational
+30223,Polonium 215,Po-215,Operational
+30224,Polonium 216,Po-216,Operational
+30225,Polonium 218,Po-218,Operational
+30226,Lead 209,Pb-209,Operational
+30227,Lead 210,Pb-210,Operational
+30228,Lead 211,Pb-211,Operational
+30229,Lead 212,Pb-212,Operational
+30230,Lead 214,Pb-214,Operational
+30231,Astatine 217,At-217,Operational
+30232,Radon 219,Rn-219,Operational
+30233,Radon 220,Rn-220,Operational
+30234,Radon 222,Rn-222,Operational
+30235,Francium 221,Fr-221,Operational
+30236,Francium 223,Fr-223,Operational
+30237,Radium 223,Ra-223,Operational
+30238,Radium 224,Ra-224,Operational
+30239,Radium 225,Ra-225,Operational
+30240,Radium 226,Ra-226,Operational
+30241,Radium 228,Ra-228,Operational
+30242,Actinium 225,Ac-225,Operational
+30243,Actinium 227,Ac-227,Operational
+30244,Actinium 228,Ac-228,Operational
+30245,Thorium 227,Th-227,Operational
+30246,Thorium 228,Th-228,Operational
+30247,Thorium 229,Th-229,Operational
+30248,Thorium 230,Th-230,Operational
+30249,Thorium 231,Th-231,Operational
+30250,Thorium 232,Th-232,Operational
+30251,Thorium 234,Th-234,Operational
+30252,Protactinium 231,Pa-231,Operational
+30253,Protactinium 233,Pa-233,Operational
+30254,Protactinium 234 metastable,Pa-234m,Operational
+30255,Uranium 232,U-232,Operational
+30256,Uranium 233,U-233,Operational
+30257,Uranium 234,U-234,Operational
+30258,Uranium 235,U-235,Operational
+30259,Uranium 236,U-236,Operational
+30260,Uranium 237,U-237,Operational
+30261,Uranium 238,U-238,Operational
+30262,Plutonium 236,Pu-236,Operational
+30263,Plutonium 238,Pu-238,Operational
+30264,Plutonium 239,Pu-239,Operational
+30265,Plutonium 240,Pu-240,Operational
+30266,Plutonium 241,Pu-241,Operational
+30267,Plutonium 242,Pu-242,Operational
+30268,Plutonium 244,Pu-244,Operational
+30269,Neptunium 237,Np-237,Operational
+30270,Neptunium 238,Np-238,Operational
+30271,Neptunium 239,Np-239,Operational
+30272,Americium 241,Am-241,Operational
+30273,Americium 242,Am-242,Operational
+30274,Americium 242 metastable,Am-242m,Operational
+30275,Americium 243,Am-243,Operational
+30276,Curium 242,Cm-242,Operational
+30277,Curium 243,Cm-243,Operational
+30278,Curium 244,Cm-244,Operational
+30279,Curium 245,Cm-245,Operational
+30280,Curium 246,Cm-246,Operational
+30281,Curium 247,Cm-247,Operational
+30282,Curium 248,Cm-248,Operational
+30283,Curium 243/244,Cm-243244,Operational
+30284,Plutonium 238/Americium 241,Pu-238Am-241,Operational
+30285,Plutonium 239/240,Pu-239240,Operational
+30286,Berkelium 249,Bk-249,Operational
+30287,Californium 249,Cf-249,Operational
+30288,Californium 250,Cf-250,Operational
+30289,Californium 252,Cf-252,Operational
+30290,Sum aerosol particulates,SumAer,Operational
+30291,Sum Iodine,SumIod,Operational
+30292,Sum noble gas,SumNG,Operational
+30293,Activation gas,ActGas,Operational
+30294,Cs-137 Equivalent,EquCs137,Operational
+30295-59999,Reserved,,Operational
+30295,Carbon-13,C-13,Operational
+30296,Lead,Pb,Operational
+30297-39999,Reserved,,Operational
+40000,Singlet sigma oxygen (dioxygen (sigma singlet)),O2(1Σ+g),Operational
+40001,Singlet delta oxygen (dioxygen (delta singlet)),O2(1Δg),Operational
+40002,Singlet excited oxygen atom,O(1D),Operational
+40003,Triplet ground state oxygen atom,O(3P),Operational
+40004-59999,Reserved,,Operational
+60000,HOx radical (OH+HO2),,Operational
+60001,Total inorganic and organic peroxy radicals (HO2 + RO2),RO2,Operational
+60002,Passive Ozone,,Operational
+60003,NOx expressed as nitrogen,NOx,Operational
+60004,All nitrogen oxides (NOy) expressed as nitrogen,NOy,Operational
+60005,Total inorganic chlorine,Clx,Operational
+60006,Total inorganic bromine,Brx,Operational
+60007,"Total inorganic chlorine except HCl, ClONO2: ClOx",,Operational
+60008,"Total inorganic bromine except HBr, BrONO2: BrOx",,Operational
+60009,Lumped alkanes,,Operational
+60010,Lumped alkenes,,Operational
+60011,Lumped aromatic compounds,,Operational
+60012,Lumped terpenes,,Operational
+60013,Non-methane volatile organic compounds expressed as carbon,NMVOC,Operational
+60014,Anthropogenic non-methane volatile organic compounds expressed as carbon,aNMVOC,Operational
+60015,Biogenic non-methane volatile organic compounds expressed as carbon,bNMVOC,Operational
+60016,Lumped oxygenated hydrocarbons,OVOC,Operational
+60017,NOx expressed as nitrogen dioxide (NO2),NOx,Operational
+60018-61999,Reserved,,Operational
+60018,Organic aldehydes,RCHO,Operational
+60019,Organic peroxides,ROOH,Operational
+60020,Organic nitrates,RNO3,Operational
+60021,Ethers,ROR’,Operational
+60022,Amines,NRR’R’’,Operational
+60023,Ketones,RC(O)R’,Operational
+60024,Dicarbonyls unsaturated,RC(O)CH2C(O)R’,Operational
+60025,Hydroxy dicarbonyls unsaturated,RC(O)CHOHC(O)R’,Operational
+60026,Hydroxy ketones,RC(OH)C(O)R’,Operational
+60027,Oxides,Ox,Operational
+60028-62027,Reserved,,Operational
+62028,Total aerosol hydrophilic,,Operational
+62029,Total aerosol hydrophobic,,Operational
+62030-61999,Reserved,,Operational
+62000,Total aerosol,,Operational
+62001,Dust dry,,Operational
+62002,Water in ambient,,Operational
+62003,Ammonium dry,,Operational
+62004,Nitrate dry,,Operational
+62005,Nitric acid trihydrate,,Operational
+62006,Sulphate dry,,Operational
+62007,Mercury dry,,Operational
+62008,Sea salt dry,,Operational
+62009,Black carbon dry,,Operational
+62010,Particulate organic matter dry,,Operational
+62011,Primary particulate organic matter dry,,Operational
+62012,Secondary particulate organic matter dry,,Operational
+62013,Black carbon hydrophilic dry,,Operational
+62014,Black carbon hydrophobic dry,,Operational
+62015,Particulate organic matter hydrophilic dry,,Operational
+62016,Particulate organic matter hydrophobic dry,,Operational
+62017,Nitrate hydrophilic dry,,Operational
+62018,Nitrate hydrophobic dry,,Operational
+62019,Reserved,,Operational
+62020,Smoke - high absorption,,Operational
+62021,Smoke - low absorption,,Operational
+62022,Aerosol - high absorption,,Operational
+62023,Aerosol - low absorption,,Operational
+62024,Reserved,,Operational
+62025,Volcanic ash,,Operational
+62026,Particulate matter (PM),,Operational
+62027-62099,Reserved,,Operational
+62100,Alnus (alder) pollen,,Operational
+62101,Betula (birch) pollen,,Operational
+62102,Castanea (chestnut) pollen,,Operational
+62103,Carpinus (hornbeam) pollen,,Operational
+62104,Corylus (hazel) pollen,,Operational
+62105,Fagus (beech) pollen,,Operational
+62106,Fraxinus (ash) pollen,,Operational
+62107,Pinus (pine) pollen,,Operational
+62108,Platanus (plane) pollen,,Operational
+62109,"Populus (cottonwood, poplar) pollen",,Operational
+62110,Quercus (oak) pollen,,Operational
+62111,Salix (willow) pollen,,Operational
+62112,Taxus (yew) pollen,,Operational
+62113,"Tilia (lime, linden) pollen",,Operational
+62114,Ulmus (elm) pollen,,Operational
+62115-62199,Reserved,,Operational
+62200,"Ambrosia (ragweed, burr-ragweed) pollen",,Operational
+62201,"Artemisia (sagebrush, wormwood, mugwort) pollen",,Operational
+62202,"Brassica (rape, broccoli, Brussels sprouts, cabbage, cauliflower, collards, kale, kohlrabi, mustard, rutabaga) pollen",,Operational
+62203,Plantago (plantain) pollen,,Operational
+62204,"Rumex (dock, sorrel) pollen",,Operational
+62205,Urtica (nettle) pollen,,Operational
+62206-62299,Reserved,,Operational
+62300,Poaceae (grass family) pollen,,Operational
+62301-65534,Reserved,,Operational
+65535,Missing,,Operational
