@@ -4,7 +4,7 @@ CommonCodeTable,Title_en,Applicable_en,Status
 0.00,"GRIB, BUFR and CREX master table version number","CREX Edition 2, vv and bb in Group No. 1, Section 1",Operational
 1.00,Identification of originating/generating centre,F1F2 for alphanumeric codes,Operational
 1.00,Identification of originating/generating centre,F3F3F3 for alphanumeric codes,Operational
-1.00,Identification of originating/generating centre,Code table 0 in GRIB Edition 1/Code table 0 01 033 for BUFR Edition 3,Operational
+1.00,Identification of originating/generating centre,Code table 0 in GRIB Edition 1/Code table 0 01 033 in BUFR,Operational
 1.00,Identification of originating/generating centre,Octet 5 in Section 1 of GRIB Edition 1/Octet 6 in Section 1 of BUFR Edition 3,Operational
 2.00,Radiosonde/ sounding system used,Code table 3685 - rara (Radiosonde/sounding system used) - for alphanumeric codes,Operational
 2.00,Radiosonde/ sounding system used,Code table 0 02 011 (Radiosonde type) in BUFR,Operational
@@ -32,3 +32,4 @@ CommonCodeTable,Title_en,Applicable_en,Status
 13.00,Data sub-categories of categories defined by entries in BUFR Table A,"BUFR Edition 4, Octet 12 in Section 1 (if = 255, it means other sub-category or undefined)",Operational
 13.00,Data sub-categories of categories defined by entries in BUFR Table A,"CREX Edition 2,  mmm in Group Annnmmm of Section 1",Operational
 14.00,Atmospheric chemical or physical constituent type,Code Table 4.230 in GRIB 2,Operational
+14.00,Atmospheric chemical or physical constituent type,Code table 0 08 046 in BUFR,Operational
