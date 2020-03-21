@@ -17,6 +17,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 54,CNES,Radiometer,ScaRaB/MV2,Scanner for Earth's radiation budget,Operational
 55,CNES,Radiometer,POLDER,POLDER,Operational
 56,CNES,Imaging multi-spectral radiometer,IIR,Imaging Infrared Radiometer,Operational
+57,ESA/EUMETSAT,Radar altimeter,POSEIDON-4,"High precision altimetry, dual frequency (C- and Ku-band) pulse-width limited radar altimeter, synthetic-aperture processing, interleaved Low Rate and High Rate",Operational
 60,CNES,Spectrometer,VEGETATION,VEGETATION,Operational
 61,CNES,Spectrometer,WINDII,WINDII,Operational
 62,CNES,Altimeter,AltiKa,Ka band Radar Altimeter,Operational
@@ -344,6 +345,10 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 962,CMA,Atmospheric temperature and humidity sounder,GIIRS,Geostationary Interferometric Infrared Sounder,Operational
 963,CMA,High-resolution optical imager,LMI,Lightning Mapping Imager,Operational
 964,CMA,Space environment,SEP,Space Environment Package,Operational
-965-999,Reserved,,,,Operational
+965-979,Reserved,,,,Operational
+980,KMA,Imager,AMI,Advanced Meteorological Imager,Operational
+981,KMA,Imager,MI,Meteorological Imager,Operational
+982,KMA,Space environment,KSEM,Korea Space wEather Monitor,Operational
+983-999,Reserved,,,,Operational
 1000-2046,Reserved for long-term future use,,,,Operational
 2047,Missing value,,,,Operational

@@ -34,6 +34,8 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 063,63,63,Sentinel 1B,Operational
 064,64,64,Sentinel 5P,Operational
 065,65,65,Sentinel 3B,Operational
+066,66,66,Sentinel-6A,Operational
+067,67,67,Sentinel-6B,Operational
 070,70,70,METEOSAT 11,Operational
 ,,,100-199: Numbers allocated to Japan,Operational
 120,120,120,ADEOS,Operational
@@ -141,6 +143,7 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 515,515,515,FY-2E,Operational
 516,516,516,FY-2F,Operational
 517,517,517,FY-2G,Operational
+518,518,518,FY-2H,Operational
 520,520,520,FY-3A,Operational
 521,521,521,FY-3B,Operational
 522,522,522,FY-3C,Operational
@@ -206,8 +209,8 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 802,802,802,CFOSAT,Operational
 803,803,803,GRACE C (GRACE-FO),Operational
 804,804,804,GRACE D (GRACE-FO),Operational
-810,810,810,COMS-1,Operational
-811,811,811,COMS-2,Operational
+810,810,810,COMS,Operational
+811,811,811,GEO-KOMPSAT-2A,Operational
 812,812,812,SCISAT-1,Operational
 813,813,813,ODIN,Operational
 820,820,820,SAC-C,Operational

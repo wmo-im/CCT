@@ -10,7 +10,7 @@ CodeFigureForIXIIXIX,CodeFigureForBUFR,InstrumentMakeAndType_en,EquationCoeffici
 051,51,Sippican Deep Blue,6.472,-2.16,Operational
 052,52,Sippican Deep Blue,6.691,-2.25,Operational
 061,61,Sippican T-10,6.301,-2.16,Operational
-071,71,Sippican T-11,1.779,-0.255,Operational
+071,71,Sippican T-11,1.7779,-0.255,Operational
 081,81,Sippican AXBT (300 m probes),1.52,0.0,Operational
 201,201,TSK T-4,6.472,-2.16,Operational
 202,202,TSK T-4,6.691,-2.25,Operational
@@ -95,7 +95,7 @@ CodeFigureForIXIIXIX,CodeFigureForBUFR,InstrumentMakeAndType_en,EquationCoeffici
 873,873,ALTO,Not applicable,Not applicable,Operational
 874,874,SOLO_D_MRV,Not applicable,Not applicable,Operational
 875-899,875-899,Reserved,,,Operational
-900,900,Sippican LMP-5 XBT,9.727,-0.0000473,Operational
+900,900,Sippican LMP-5 XBT,9.727,-0.0473,Operational
 901,901,"Ice-tethered Profiler (ITP), SBE CTD",,,Operational
 902,902,Brooke Ocean Moving Vessel Profiler (MVP),,,Operational
 903,903,Sea-Bird CTD,,,Operational
