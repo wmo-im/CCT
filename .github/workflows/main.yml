@@ -9,7 +9,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with: 
-        ref: ${{ github.ref }}
+        ref: "wmo-im/CCT@csv-to-xml"
     - name: create xml files
       run: | 
         python scripts/csv2xml.py
