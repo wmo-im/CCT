@@ -30,7 +30,7 @@ for fileName in files:
     baseFileName, fileExtension = os.path.splitext(fileName)
     recordElement = baseFileName
 
-    xmlFile = open(baseFileName + ".xml", "w")
+    xmlFile = open("xml/" + baseFileName + ".xml", "w")
 
     with open(fileName) as ifile:
         data = csv.reader(ifile, dialect='custom')
