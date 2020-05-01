@@ -8,8 +8,12 @@ jobs:
     
     steps:
     - uses: actions/checkout@v2
+      with: 
+        ref: ${{ github.ref }}
     - name: create xml files
-      run: python scripts/csv2xml.py
+      run: | 
+        python scripts/csv2xml.py
+        ls xml
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
