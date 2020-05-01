@@ -1,0 +1,14 @@
+name: CI
+
+on: [ push , pull_request ]
+
+jobs:
+  make_xml:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+    - name: create xml files
+      run: python scripts/csv2xml.py
+    - name: GitHub Push
+      uses: ad-m/github-push-action@v0.5.0
