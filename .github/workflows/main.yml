@@ -11,21 +11,13 @@ jobs:
       uses: actions/checkout@v2
       with: 
         ref: ${{ github.ref }}
-    - name: create xml files
+    - name: create xml files and push
       run: | 
-        git branch
         python scripts/csv2xml.py
         ls xml
-    - name: Commit files
-      run: |
         git config --global user.email "efucile@wmo.int"
         git config --global user.name "Enrico Fucile"
         git branch 
         git add .
         git commit -m "xml files" -a
         git push
-        # - name: GitHub Push
-        #uses: ad-m/github-push-action@v0.5.0
-        #with: 
-        #github_token: ${{ secrets.GITHUB_TOKEN }}
-        #branch: ${{ github.ref }}
