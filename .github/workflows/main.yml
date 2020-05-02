@@ -7,10 +7,6 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - name: some print
-      run: |
-        echo ${{ github.ref }}
-        echo ${{ github.head_ref }}
     - name: checkout
       uses: actions/checkout@v2
       with: 
@@ -27,8 +23,9 @@ jobs:
         git branch 
         git add .
         git commit -m "xml files" -a
-    - name: GitHub Push
-      uses: ad-m/github-push-action@v0.5.0
-      with: 
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
+        git push
+        # - name: GitHub Push
+        #uses: ad-m/github-push-action@v0.5.0
+        #with: 
+        #github_token: ${{ secrets.GITHUB_TOKEN }}
+        #branch: ${{ github.ref }}
