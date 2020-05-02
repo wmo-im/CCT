@@ -9,7 +9,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with: 
-        ref: ${{ github.ref }}
+        ref: ${{ github.head_ref }}
     - name: create xml files
       run: | 
         python scripts/csv2xml.py
@@ -23,4 +23,4 @@ jobs:
       uses: ad-m/github-push-action@v0.5.0
       with: 
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
+        branch: ${{ github.head_ref }}
