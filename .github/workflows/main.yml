@@ -16,6 +16,8 @@ jobs:
         ls xml
     - name: Commit files
       run: |
+        git config --global user.email "efucile@wmo.int"
+        git config --global user.name "Actions"
         git commit -m "xml files" -a
     - name: GitHub Push
       uses: ad-m/github-push-action@v0.5.0
