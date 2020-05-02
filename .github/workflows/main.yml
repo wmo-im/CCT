@@ -7,18 +7,24 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
+    - name: some print
+      run: |
+        echo ${{ github.ref }}
+        echo ${{ github.head_ref }}
     - name: checkout
       uses: actions/checkout@v2
       with: 
         ref: ${{ github.ref }}
     - name: create xml files
       run: | 
+        git branch
         python scripts/csv2xml.py
         ls xml
     - name: Commit files
       run: |
         git config --global user.email "efucile@wmo.int"
         git config --global user.name "Enrico Fucile"
+        git branch 
         git add .
         git commit -m "xml files" -a
     - name: GitHub Push
