@@ -1,0 +1,3068 @@
+<dataroot>
+   <C14>
+      <CodeFigure>0</CodeFigure>
+      <Meaning_en>Ozone</Meaning_en>
+      <ChemicalFormula>O3</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>1</CodeFigure>
+      <Meaning_en>Water vapour</Meaning_en>
+      <ChemicalFormula>H2O</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>2</CodeFigure>
+      <Meaning_en>Methane</Meaning_en>
+      <ChemicalFormula>CH4</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>3</CodeFigure>
+      <Meaning_en>Carbon dioxide</Meaning_en>
+      <ChemicalFormula>CO2</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>4</CodeFigure>
+      <Meaning_en>Carbon monoxide</Meaning_en>
+      <ChemicalFormula>CO</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>5</CodeFigure>
+      <Meaning_en>Nitrogen dioxide</Meaning_en>
+      <ChemicalFormula>NO2</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>6</CodeFigure>
+      <Meaning_en>Nitrous oxide</Meaning_en>
+      <ChemicalFormula>N2O</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>7</CodeFigure>
+      <Meaning_en>Formaldehyde</Meaning_en>
+      <ChemicalFormula>HCHO</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>8</CodeFigure>
+      <Meaning_en>Sulphur dioxide</Meaning_en>
+      <ChemicalFormula>SO2</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>9</CodeFigure>
+      <Meaning_en>Ammonia</Meaning_en>
+      <ChemicalFormula>NH3</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10</CodeFigure>
+      <Meaning_en>Ammonium cation</Meaning_en>
+      <ChemicalFormula>NH4+</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>11</CodeFigure>
+      <Meaning_en>Nitrogen monoxide</Meaning_en>
+      <ChemicalFormula>NO</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>12</CodeFigure>
+      <Meaning_en>Atomic oxygen</Meaning_en>
+      <ChemicalFormula>O</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>13</CodeFigure>
+      <Meaning_en>Nitrate radical</Meaning_en>
+      <ChemicalFormula>NO3•</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>14</CodeFigure>
+      <Meaning_en>Hydroperoxyl radical</Meaning_en>
+      <ChemicalFormula>HOO•</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>15</CodeFigure>
+      <Meaning_en>Dinitrogen pentoxide</Meaning_en>
+      <ChemicalFormula>N2O5</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>16</CodeFigure>
+      <Meaning_en>Nitrous acid</Meaning_en>
+      <ChemicalFormula>HONO</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>17</CodeFigure>
+      <Meaning_en>Nitric acid</Meaning_en>
+      <ChemicalFormula>HNO3</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>18</CodeFigure>
+      <Meaning_en>Peroxynitric acid</Meaning_en>
+      <ChemicalFormula>HO2NO2</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>19</CodeFigure>
+      <Meaning_en>Hydrogen peroxide</Meaning_en>
+      <ChemicalFormula>H2O2</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>20</CodeFigure>
+      <Meaning_en>Dihydrogen</Meaning_en>
+      <ChemicalFormula>H2</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>21</CodeFigure>
+      <Meaning_en>Atomic nitrogen</Meaning_en>
+      <ChemicalFormula>N</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>22</CodeFigure>
+      <Meaning_en>Sulphate anion</Meaning_en>
+      <ChemicalFormula>SO42-</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>23</CodeFigure>
+      <Meaning_en>Atomic Radon</Meaning_en>
+      <ChemicalFormula>Rn</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>24</CodeFigure>
+      <Meaning_en>Mercury vapour</Meaning_en>
+      <ChemicalFormula>Hg(0)</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>25</CodeFigure>
+      <Meaning_en>Mercury(II) cation</Meaning_en>
+      <ChemicalFormula>Hg2+</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>26</CodeFigure>
+      <Meaning_en>Atomic chlorine</Meaning_en>
+      <ChemicalFormula>Cl</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>27</CodeFigure>
+      <Meaning_en>Chlorine monoxide</Meaning_en>
+      <ChemicalFormula>ClO</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>28</CodeFigure>
+      <Meaning_en>Dichlorine peroxide</Meaning_en>
+      <ChemicalFormula>Cl2O2</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>29</CodeFigure>
+      <Meaning_en>Hypochlorous acid</Meaning_en>
+      <ChemicalFormula>HClO</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30</CodeFigure>
+      <Meaning_en>Chlorine nitrate</Meaning_en>
+      <ChemicalFormula>ClONO2</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>31</CodeFigure>
+      <Meaning_en>Chlorine dioxide</Meaning_en>
+      <ChemicalFormula>ClO2</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>32</CodeFigure>
+      <Meaning_en>Atomic bromine</Meaning_en>
+      <ChemicalFormula>Br</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>33</CodeFigure>
+      <Meaning_en>Bromine monoxide</Meaning_en>
+      <ChemicalFormula>BrO</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>34</CodeFigure>
+      <Meaning_en>Bromine chloride</Meaning_en>
+      <ChemicalFormula>BrCl</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>35</CodeFigure>
+      <Meaning_en>Hydrogen bromide</Meaning_en>
+      <ChemicalFormula>HBr</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>36</CodeFigure>
+      <Meaning_en>Hypobromous acid</Meaning_en>
+      <ChemicalFormula>HBrO</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>37</CodeFigure>
+      <Meaning_en>Bromine nitrate</Meaning_en>
+      <ChemicalFormula>BrONO2</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>38</CodeFigure>
+      <Meaning_en>Dioxygen</Meaning_en>
+      <ChemicalFormula>O2</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>39</CodeFigure>
+      <Meaning_en>Nitryl chloride</Meaning_en>
+      <ChemicalFormula>NO2Cl</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>40</CodeFigure>
+      <Meaning_en>Sulphuric acid</Meaning_en>
+      <ChemicalFormula>H2SO4</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>41</CodeFigure>
+      <Meaning_en>Hydrogen sulphide</Meaning_en>
+      <ChemicalFormula>H2S</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>42</CodeFigure>
+      <Meaning_en>Sulphur trioxide</Meaning_en>
+      <ChemicalFormula>SO3</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>43</CodeFigure>
+      <Meaning_en>Bromine</Meaning_en>
+      <ChemicalFormula>Br2</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>44</CodeFigure>
+      <Meaning_en>Hydrofluoric acid</Meaning_en>
+      <ChemicalFormula>HF</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>45</CodeFigure>
+      <Meaning_en>Sulphur hexafluoride</Meaning_en>
+      <ChemicalFormula>SF6</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>46</CodeFigure>
+      <Meaning_en>Chlorine</Meaning_en>
+      <ChemicalFormula>Cl2</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>47-9999</CodeFigure>
+      <Meaning_en>Reserved</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10000</CodeFigure>
+      <Meaning_en>Hydroxyl radical</Meaning_en>
+      <ChemicalFormula>HO•</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10001</CodeFigure>
+      <Meaning_en>Methyl peroxy radical</Meaning_en>
+      <ChemicalFormula>CH3OO•</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10002</CodeFigure>
+      <Meaning_en>Methyl hydroperoxide</Meaning_en>
+      <ChemicalFormula>CH3O2H</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10004</CodeFigure>
+      <Meaning_en>Methanol</Meaning_en>
+      <ChemicalFormula>CH3OH</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10005</CodeFigure>
+      <Meaning_en>Formic acid</Meaning_en>
+      <ChemicalFormula>CH3OOH</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10006</CodeFigure>
+      <Meaning_en>Hydrogen cyanide</Meaning_en>
+      <ChemicalFormula>HCN</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10007</CodeFigure>
+      <Meaning_en>Aceto nitrile</Meaning_en>
+      <ChemicalFormula>CH3CN</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10008</CodeFigure>
+      <Meaning_en>Ethane</Meaning_en>
+      <ChemicalFormula>C2H6</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10009</CodeFigure>
+      <Meaning_en>Ethene (= Ethylene)</Meaning_en>
+      <ChemicalFormula>C2H4</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10010</CodeFigure>
+      <Meaning_en>Ethyne (= Acetylene)</Meaning_en>
+      <ChemicalFormula>C2H2</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10011</CodeFigure>
+      <Meaning_en>Ethanol</Meaning_en>
+      <ChemicalFormula>C2H5OH</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10012</CodeFigure>
+      <Meaning_en>Acetic acid</Meaning_en>
+      <ChemicalFormula>C2H5OOH</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10013</CodeFigure>
+      <Meaning_en>Peroxyacetyl nitrate</Meaning_en>
+      <ChemicalFormula>CH3C(O)OONO2</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10014</CodeFigure>
+      <Meaning_en>Propane</Meaning_en>
+      <ChemicalFormula>C3H8</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10015</CodeFigure>
+      <Meaning_en>Propene</Meaning_en>
+      <ChemicalFormula>C3H6</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10016</CodeFigure>
+      <Meaning_en>Butane (all isomers)</Meaning_en>
+      <ChemicalFormula>C4H10</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10017</CodeFigure>
+      <Meaning_en>Isoprene</Meaning_en>
+      <ChemicalFormula>C5H10</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10018</CodeFigure>
+      <Meaning_en>Alpha pinene</Meaning_en>
+      <ChemicalFormula>C10H16</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10019</CodeFigure>
+      <Meaning_en>Beta pinene</Meaning_en>
+      <ChemicalFormula>C10H16</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10020</CodeFigure>
+      <Meaning_en>Limonene</Meaning_en>
+      <ChemicalFormula>C10H16</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10021</CodeFigure>
+      <Meaning_en>Benzene</Meaning_en>
+      <ChemicalFormula>C6H6</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10022</CodeFigure>
+      <Meaning_en>Toluene</Meaning_en>
+      <ChemicalFormula>C7H8</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10023</CodeFigure>
+      <Meaning_en>Xylene</Meaning_en>
+      <ChemicalFormula>C8H10</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10024</CodeFigure>
+      <Meaning_en>Methanesulphonic acid</Meaning_en>
+      <ChemicalFormula>CH3SO3H</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10025</CodeFigure>
+      <Meaning_en>Methylglyoxal (2-oxopropanal)</Meaning_en>
+      <ChemicalFormula>CH3C(O)CHO</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10026</CodeFigure>
+      <Meaning_en>Peroxyacetyl radical</Meaning_en>
+      <ChemicalFormula>CH3C(O)OO•</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10027</CodeFigure>
+      <Meaning_en>Methacrylic acid (2-methylprop-2-enoic acid)</Meaning_en>
+      <ChemicalFormula>CH2C(CH3)COOH</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10028</CodeFigure>
+      <Meaning_en>Methacrolein (2-methylprop-2-enal)</Meaning_en>
+      <ChemicalFormula>CH2C(CH3)CHO</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10029</CodeFigure>
+      <Meaning_en>Acetone (propan-2-one)</Meaning_en>
+      <ChemicalFormula>CH3C(O)CH3</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10030</CodeFigure>
+      <Meaning_en>Ethyl dioxidanyl radical</Meaning_en>
+      <ChemicalFormula>CH3CH2OO•</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10031</CodeFigure>
+      <Meaning_en>Butadiene (buta-1,3-diene)</Meaning_en>
+      <ChemicalFormula>(CH2CH)2</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10032</CodeFigure>
+      <Meaning_en>Acetaldehyde (ethanal)</Meaning_en>
+      <ChemicalFormula>CH3CHO</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10033</CodeFigure>
+      <Meaning_en>Glycolaldehyde (hydroxyethanal)</Meaning_en>
+      <ChemicalFormula>HOCH2CHO</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10034</CodeFigure>
+      <Meaning_en>Cresol (methylphenol), all isomers</Meaning_en>
+      <ChemicalFormula>CH3C6H4OH</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10035</CodeFigure>
+      <Meaning_en>Peracetic acid (ethaneperoxoic acid)</Meaning_en>
+      <ChemicalFormula>CH3C(O)OOH</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10036</CodeFigure>
+      <Meaning_en>2-hydroxyethyl oxidanyl radical</Meaning_en>
+      <ChemicalFormula>HOCH2CH2O•</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10037</CodeFigure>
+      <Meaning_en>2-hydroxyethyl dioxidanyl radical</Meaning_en>
+      <ChemicalFormula>HOCH2CH2OO•</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10038</CodeFigure>
+      <Meaning_en>Glyoxal (oxaldehyde)</Meaning_en>
+      <ChemicalFormula>OCHCHO</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10039</CodeFigure>
+      <Meaning_en>Isopropyl dioxidanyl radical</Meaning_en>
+      <ChemicalFormula>(CH3)2CHOO•</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10040</CodeFigure>
+      <Meaning_en>Isopropyl hydroperoxide (2-hydroperoxypropane)</Meaning_en>
+      <ChemicalFormula>(CH3)2CHOOH</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10041</CodeFigure>
+      <Meaning_en>Hydroxyacetone (1-hydroxypropan-2-one)</Meaning_en>
+      <ChemicalFormula>CH3C(O)CH2OH</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10042</CodeFigure>
+      <Meaning_en>Peroxyacetic acid (ethaneperoxoic acid)</Meaning_en>
+      <ChemicalFormula>CH3C(O)OOH</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10043</CodeFigure>
+      <Meaning_en>Methyl vinyl ketone (but-3-en-2-one)</Meaning_en>
+      <ChemicalFormula>CH3C(O)CHCH2</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10044</CodeFigure>
+      <Meaning_en>Phenoxy radical</Meaning_en>
+      <ChemicalFormula>C6H5O•</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10045</CodeFigure>
+      <Meaning_en>Methyl radical</Meaning_en>
+      <ChemicalFormula>CH3•</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10046</CodeFigure>
+      <Meaning_en>Carbonyl sulphide (carbon oxide sulphide)</Meaning_en>
+      <ChemicalFormula>OCS</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10047</CodeFigure>
+      <Meaning_en>Dibromomethane</Meaning_en>
+      <ChemicalFormula>CH2Br2</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10048</CodeFigure>
+      <Meaning_en>Methoxy radical</Meaning_en>
+      <ChemicalFormula>CH3O•</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10049</CodeFigure>
+      <Meaning_en>Tribromomethane</Meaning_en>
+      <ChemicalFormula>CHBr3</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10050</CodeFigure>
+      <Meaning_en>Formyl radical (oxomethyl radical)</Meaning_en>
+      <ChemicalFormula>HOC•</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10051</CodeFigure>
+      <Meaning_en>Hydroxymethyl dioxidanyl radical</Meaning_en>
+      <ChemicalFormula>HOCH2OO•</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10052</CodeFigure>
+      <Meaning_en>Ethyl hydroperoxide</Meaning_en>
+      <ChemicalFormula>CH3CH2OOH</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10053</CodeFigure>
+      <Meaning_en>3-hydroxypropyl dioxidanyl radical</Meaning_en>
+      <ChemicalFormula>HOCH2CH2CH2OO•</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10054</CodeFigure>
+      <Meaning_en>3-hydroxypropyl hydroperoxide</Meaning_en>
+      <ChemicalFormula>HOCH2CH2CH2OOH</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10055-10499</CodeFigure>
+      <Meaning_en>Reserved for other simple organic molecules (e.g. higher aldehydes, alcohols, peroxides, ...)</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10500</CodeFigure>
+      <Meaning_en>Dimethyl sulphide</Meaning_en>
+      <ChemicalFormula>CH3SCH3 (DMS)</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10501</CodeFigure>
+      <Meaning_en>DMSO (dimethyl sulfoxide)</Meaning_en>
+      <ChemicalFormula>(CH3)2SO</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>10502-20000</CodeFigure>
+      <Meaning_en>Reserved</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>20001</CodeFigure>
+      <Meaning_en>Hydrogen chloride</Meaning_en>
+      <ChemicalFormula>HCl</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>20002</CodeFigure>
+      <Meaning_en>CFC-11 (trichlorofluoromethane)</Meaning_en>
+      <ChemicalFormula>CCl3F</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>20003</CodeFigure>
+      <Meaning_en>CFC-12 (dichlorodifluoromethane)</Meaning_en>
+      <ChemicalFormula>CCl2F2</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>20004</CodeFigure>
+      <Meaning_en>CFC-113 (1,1,2-trichloro-1,2,2-trifluoroethane)</Meaning_en>
+      <ChemicalFormula>Cl2FC-CClF2</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>20005</CodeFigure>
+      <Meaning_en>CFC-113a (1,1,1-trichloro-2,2,2-trifluoroethane)</Meaning_en>
+      <ChemicalFormula>Cl3C-CF3</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>20006</CodeFigure>
+      <Meaning_en>CFC-114 (1,2-dichloro-1,1,2,2-tetrafluoroethane)</Meaning_en>
+      <ChemicalFormula>ClF2C-CClF2</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>20007</CodeFigure>
+      <Meaning_en>CFC-115 (1-chloro-1,1,2,2,2-pentafluoroethane)</Meaning_en>
+      <ChemicalFormula>ClF2C-CF3</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>20008</CodeFigure>
+      <Meaning_en>HCFC-22 (chlorodifluoromethane)</Meaning_en>
+      <ChemicalFormula>CHClF2</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>20009</CodeFigure>
+      <Meaning_en>HCFC-141b (1,1-dichloro-1-fluoroethane)</Meaning_en>
+      <ChemicalFormula>Cl2FC-CH3</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>20010</CodeFigure>
+      <Meaning_en>HCFC-142b (1-chloro-1,1-difluoroethane)</Meaning_en>
+      <ChemicalFormula>ClF2C-CH3</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>20011</CodeFigure>
+      <Meaning_en>Halon-1202 (dibromodifluoromethane)</Meaning_en>
+      <ChemicalFormula>CBr2F2</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>20012</CodeFigure>
+      <Meaning_en>Halon-1211 (bromochlorodifluoromethane)</Meaning_en>
+      <ChemicalFormula>CBrClF2</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>20013</CodeFigure>
+      <Meaning_en>Halon-1301 (bromotrifluoromethane)</Meaning_en>
+      <ChemicalFormula>CBrF3</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>20014</CodeFigure>
+      <Meaning_en>Halon-2402 (1,2-dibromo-1,1,2,2-tetrafluoroethane)</Meaning_en>
+      <ChemicalFormula>BrF2C-CBrF2</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>20015</CodeFigure>
+      <Meaning_en>HCC-40 (methyl chloride)</Meaning_en>
+      <ChemicalFormula>CH3Cl</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>20016</CodeFigure>
+      <Meaning_en>HCC-10 (carbon tetrachloride)</Meaning_en>
+      <ChemicalFormula>CCl4</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>20017</CodeFigure>
+      <Meaning_en>HCC-140a (1,1,1-trichloroethane)</Meaning_en>
+      <ChemicalFormula>Cl3C-CH3</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>20018</CodeFigure>
+      <Meaning_en>HBC-40B1 (methyl bromide)</Meaning_en>
+      <ChemicalFormula>CH3Br</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>20019</CodeFigure>
+      <Meaning_en>HCH (hexachlorocyclohexane) all isomers</Meaning_en>
+      <ChemicalFormula>C6H6Cl6</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>20020</CodeFigure>
+      <Meaning_en>α-HCH (α-hexachlorocyclohexane) both enantiomers</Meaning_en>
+      <ChemicalFormula>α-C6H6Cl6</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>20021</CodeFigure>
+      <Meaning_en>PCB-153 (2,2',4,4',5,5'-hexachlorobiphenyl)</Meaning_en>
+      <ChemicalFormula>(C6H2Cl3)2</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>20022</CodeFigure>
+      <Meaning_en>HCFC-141a (1,1-dichloro-2-fluoroethane)</Meaning_en>
+      <ChemicalFormula>Cl2HC-CH2F</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>20023-29999</CodeFigure>
+      <Meaning_en>Reserved</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30000</CodeFigure>
+      <Meaning_en>Radioactive pollutant (tracer, defined by originating centre)</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30001-30009</CodeFigure>
+      <Meaning_en>Reserved</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30010</CodeFigure>
+      <Meaning_en>Tritium (Hydrogen 3)</Meaning_en>
+      <ChemicalFormula>H-3</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30011</CodeFigure>
+      <Meaning_en>Tritium organic bounded</Meaning_en>
+      <ChemicalFormula>H-3o</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30012</CodeFigure>
+      <Meaning_en>Tritium inorganic</Meaning_en>
+      <ChemicalFormula>H-3a</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30013</CodeFigure>
+      <Meaning_en>Beryllium 7</Meaning_en>
+      <ChemicalFormula>Be-7</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30014</CodeFigure>
+      <Meaning_en>Beryllium 10</Meaning_en>
+      <ChemicalFormula>Be-10</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30015</CodeFigure>
+      <Meaning_en>Carbon 14</Meaning_en>
+      <ChemicalFormula>C-14</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30016</CodeFigure>
+      <Meaning_en>Carbon 14 CO2</Meaning_en>
+      <ChemicalFormula>C-14CO2</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30017</CodeFigure>
+      <Meaning_en>Carbon 14 other gases</Meaning_en>
+      <ChemicalFormula>C-14og</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30018</CodeFigure>
+      <Meaning_en>Nitrogen 13</Meaning_en>
+      <ChemicalFormula>N-13</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30019</CodeFigure>
+      <Meaning_en>Nitrogen 16</Meaning_en>
+      <ChemicalFormula>N-16</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30020</CodeFigure>
+      <Meaning_en>Fluorine 18</Meaning_en>
+      <ChemicalFormula>F-18</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30021</CodeFigure>
+      <Meaning_en>Sodium 22</Meaning_en>
+      <ChemicalFormula>Na-22</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30022</CodeFigure>
+      <Meaning_en>Phosphate 32</Meaning_en>
+      <ChemicalFormula>P-32</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30023</CodeFigure>
+      <Meaning_en>Phosphate 33</Meaning_en>
+      <ChemicalFormula>P-33</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30024</CodeFigure>
+      <Meaning_en>Sulphur 35</Meaning_en>
+      <ChemicalFormula>S-35</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30025</CodeFigure>
+      <Meaning_en>Chlorine 36</Meaning_en>
+      <ChemicalFormula>Cl-36</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30026</CodeFigure>
+      <Meaning_en>Potassium 40</Meaning_en>
+      <ChemicalFormula>K-40</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30027</CodeFigure>
+      <Meaning_en>Argon 41</Meaning_en>
+      <ChemicalFormula>Ar-41</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30028</CodeFigure>
+      <Meaning_en>Calcium 41</Meaning_en>
+      <ChemicalFormula>Ca-41</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30029</CodeFigure>
+      <Meaning_en>Calcium 45</Meaning_en>
+      <ChemicalFormula>Ca-45</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30030</CodeFigure>
+      <Meaning_en>Titanium 44</Meaning_en>
+      <ChemicalFormula>Ti-44</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30031</CodeFigure>
+      <Meaning_en>Scandium 46</Meaning_en>
+      <ChemicalFormula>Sc-46</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30032</CodeFigure>
+      <Meaning_en>Vanadium 48</Meaning_en>
+      <ChemicalFormula>V-48</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30033</CodeFigure>
+      <Meaning_en>Vanadium 49</Meaning_en>
+      <ChemicalFormula>V-49</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30034</CodeFigure>
+      <Meaning_en>Chrome 51</Meaning_en>
+      <ChemicalFormula>Cr-51</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30035</CodeFigure>
+      <Meaning_en>Manganese 52</Meaning_en>
+      <ChemicalFormula>Mn-52</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30036</CodeFigure>
+      <Meaning_en>Manganese 54</Meaning_en>
+      <ChemicalFormula>Mn-54</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30037</CodeFigure>
+      <Meaning_en>Iron 55</Meaning_en>
+      <ChemicalFormula>Fe-55</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30038</CodeFigure>
+      <Meaning_en>Iron 59</Meaning_en>
+      <ChemicalFormula>Fe-59</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30039</CodeFigure>
+      <Meaning_en>Cobalt 56</Meaning_en>
+      <ChemicalFormula>Co-56</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30040</CodeFigure>
+      <Meaning_en>Cobalt 57</Meaning_en>
+      <ChemicalFormula>Co-57</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30041</CodeFigure>
+      <Meaning_en>Cobalt 58</Meaning_en>
+      <ChemicalFormula>Co-58</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30042</CodeFigure>
+      <Meaning_en>Cobalt 60</Meaning_en>
+      <ChemicalFormula>Co-60</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30043</CodeFigure>
+      <Meaning_en>Nickel 59</Meaning_en>
+      <ChemicalFormula>Ni-59</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30044</CodeFigure>
+      <Meaning_en>Nickel 63</Meaning_en>
+      <ChemicalFormula>Ni-63</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30045</CodeFigure>
+      <Meaning_en>Zinc 65</Meaning_en>
+      <ChemicalFormula>Zn-65</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30046</CodeFigure>
+      <Meaning_en>Gallium 67</Meaning_en>
+      <ChemicalFormula>Ga-67</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30047</CodeFigure>
+      <Meaning_en>Gallium 68</Meaning_en>
+      <ChemicalFormula>Ga-68</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30048</CodeFigure>
+      <Meaning_en>Germanium 68</Meaning_en>
+      <ChemicalFormula>Ge-68</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30049</CodeFigure>
+      <Meaning_en>Germanium 69</Meaning_en>
+      <ChemicalFormula>Ge-69</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30050</CodeFigure>
+      <Meaning_en>Arsenic 73</Meaning_en>
+      <ChemicalFormula>As-73</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30051</CodeFigure>
+      <Meaning_en>Selenium 75</Meaning_en>
+      <ChemicalFormula>Se-75</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30052</CodeFigure>
+      <Meaning_en>Selenium 79</Meaning_en>
+      <ChemicalFormula>Se-79</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30053</CodeFigure>
+      <Meaning_en>Rubidium 81</Meaning_en>
+      <ChemicalFormula>Rb-81</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30054</CodeFigure>
+      <Meaning_en>Rubidium 83</Meaning_en>
+      <ChemicalFormula>Rb-83</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30055</CodeFigure>
+      <Meaning_en>Rubidium 84</Meaning_en>
+      <ChemicalFormula>Rb-84</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30056</CodeFigure>
+      <Meaning_en>Rubidium 86</Meaning_en>
+      <ChemicalFormula>Rb-86</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30057</CodeFigure>
+      <Meaning_en>Rubidium 87</Meaning_en>
+      <ChemicalFormula>Rb-87</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30058</CodeFigure>
+      <Meaning_en>Rubidium 88</Meaning_en>
+      <ChemicalFormula>Rb-88</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30059</CodeFigure>
+      <Meaning_en>Krypton 85</Meaning_en>
+      <ChemicalFormula>Kr-85</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30060</CodeFigure>
+      <Meaning_en>Krypton 85 metastable</Meaning_en>
+      <ChemicalFormula>Kr-85m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30061</CodeFigure>
+      <Meaning_en>Krypton 87</Meaning_en>
+      <ChemicalFormula>Kr-87</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30062</CodeFigure>
+      <Meaning_en>Krypton 88</Meaning_en>
+      <ChemicalFormula>Kr-88</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30063</CodeFigure>
+      <Meaning_en>Krypton 89</Meaning_en>
+      <ChemicalFormula>Kr-89</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30064</CodeFigure>
+      <Meaning_en>Strontium 85</Meaning_en>
+      <ChemicalFormula>Sr-85</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30065</CodeFigure>
+      <Meaning_en>Strontium 89</Meaning_en>
+      <ChemicalFormula>Sr-89</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30066</CodeFigure>
+      <Meaning_en>Strontium 89/90</Meaning_en>
+      <ChemicalFormula>Sr-8990</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30067</CodeFigure>
+      <Meaning_en>Strontium 90</Meaning_en>
+      <ChemicalFormula>Sr-90</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30068</CodeFigure>
+      <Meaning_en>Strontium 91</Meaning_en>
+      <ChemicalFormula>Sr-91</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30069</CodeFigure>
+      <Meaning_en>Strontium 92</Meaning_en>
+      <ChemicalFormula>Sr-92</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30070</CodeFigure>
+      <Meaning_en>Yttrium 87</Meaning_en>
+      <ChemicalFormula>Y-87</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30071</CodeFigure>
+      <Meaning_en>Yttrium 88</Meaning_en>
+      <ChemicalFormula>Y-88</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30072</CodeFigure>
+      <Meaning_en>Yttrium 90</Meaning_en>
+      <ChemicalFormula>Y-90</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30073</CodeFigure>
+      <Meaning_en>Yttrium 91</Meaning_en>
+      <ChemicalFormula>Y-91</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30074</CodeFigure>
+      <Meaning_en>Yttrium 91 metastable</Meaning_en>
+      <ChemicalFormula>Y-91m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30075</CodeFigure>
+      <Meaning_en>Yttrium 92</Meaning_en>
+      <ChemicalFormula>Y-92</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30076</CodeFigure>
+      <Meaning_en>Yttrium 93</Meaning_en>
+      <ChemicalFormula>Y-93</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30077</CodeFigure>
+      <Meaning_en>Zirconium 89</Meaning_en>
+      <ChemicalFormula>Zr-89</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30078</CodeFigure>
+      <Meaning_en>Zirconium 93</Meaning_en>
+      <ChemicalFormula>Zr-93</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30079</CodeFigure>
+      <Meaning_en>Zirconium 95</Meaning_en>
+      <ChemicalFormula>Zr-95</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30080</CodeFigure>
+      <Meaning_en>Zirconium 97</Meaning_en>
+      <ChemicalFormula>Zr-97</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30081</CodeFigure>
+      <Meaning_en>Niobium 93 metastable</Meaning_en>
+      <ChemicalFormula>Nb-93m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30082</CodeFigure>
+      <Meaning_en>Niobium 94</Meaning_en>
+      <ChemicalFormula>Nb-94</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30083</CodeFigure>
+      <Meaning_en>Niobium 95</Meaning_en>
+      <ChemicalFormula>Nb-95</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30084</CodeFigure>
+      <Meaning_en>Niobium 95 metastable</Meaning_en>
+      <ChemicalFormula>Nb-95m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30085</CodeFigure>
+      <Meaning_en>Niobium 97</Meaning_en>
+      <ChemicalFormula>Nb-97</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30086</CodeFigure>
+      <Meaning_en>Niobium 97 metastable</Meaning_en>
+      <ChemicalFormula>Nb-97m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30087</CodeFigure>
+      <Meaning_en>Molybdenum 93</Meaning_en>
+      <ChemicalFormula>Mo-93</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30088</CodeFigure>
+      <Meaning_en>Molybdenum 99</Meaning_en>
+      <ChemicalFormula>Mo-99</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30089</CodeFigure>
+      <Meaning_en>Technetium 95 metastable</Meaning_en>
+      <ChemicalFormula>Tc-95m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30090</CodeFigure>
+      <Meaning_en>Technetium 96</Meaning_en>
+      <ChemicalFormula>Tc-96</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30091</CodeFigure>
+      <Meaning_en>Technetium 99</Meaning_en>
+      <ChemicalFormula>Tc-99</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30092</CodeFigure>
+      <Meaning_en>Technetium 99 metastable</Meaning_en>
+      <ChemicalFormula>Tc-99m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30093</CodeFigure>
+      <Meaning_en>Rhodium 99</Meaning_en>
+      <ChemicalFormula>Rh-99</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30094</CodeFigure>
+      <Meaning_en>Rhodium 101</Meaning_en>
+      <ChemicalFormula>Rh-101</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30095</CodeFigure>
+      <Meaning_en>Rhodium 102 metastable</Meaning_en>
+      <ChemicalFormula>Rh-102m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30096</CodeFigure>
+      <Meaning_en>Rhodium 103 metastable</Meaning_en>
+      <ChemicalFormula>Rh-103m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30097</CodeFigure>
+      <Meaning_en>Rhodium 105</Meaning_en>
+      <ChemicalFormula>Rh-105</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30098</CodeFigure>
+      <Meaning_en>Rhodium 106</Meaning_en>
+      <ChemicalFormula>Rh-106</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30099</CodeFigure>
+      <Meaning_en>Palladium 100</Meaning_en>
+      <ChemicalFormula>Pd-100</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30100</CodeFigure>
+      <Meaning_en>Palladium 103</Meaning_en>
+      <ChemicalFormula>Pd-103</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30101</CodeFigure>
+      <Meaning_en>Palladium 107</Meaning_en>
+      <ChemicalFormula>Pd-107</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30102</CodeFigure>
+      <Meaning_en>Ruthenium 103</Meaning_en>
+      <ChemicalFormula>Ru-103</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30103</CodeFigure>
+      <Meaning_en>Ruthenium 105</Meaning_en>
+      <ChemicalFormula>Ru-105</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30104</CodeFigure>
+      <Meaning_en>Ruthenium 106</Meaning_en>
+      <ChemicalFormula>Ru-106</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30105</CodeFigure>
+      <Meaning_en>Silver 108 metastable</Meaning_en>
+      <ChemicalFormula>Ag-108m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30106</CodeFigure>
+      <Meaning_en>Silver 110 metastable</Meaning_en>
+      <ChemicalFormula>Ag-110m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30107</CodeFigure>
+      <Meaning_en>Cadmium 109</Meaning_en>
+      <ChemicalFormula>Cd-109</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30108</CodeFigure>
+      <Meaning_en>Cadmium 113 metastable</Meaning_en>
+      <ChemicalFormula>Cd-113m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30109</CodeFigure>
+      <Meaning_en>Cadmium 115 metastable</Meaning_en>
+      <ChemicalFormula>Cd-115m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30110</CodeFigure>
+      <Meaning_en>Indium 114 metastable</Meaning_en>
+      <ChemicalFormula>In-114m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30111</CodeFigure>
+      <Meaning_en>Tin 113</Meaning_en>
+      <ChemicalFormula>Sn-113</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30112</CodeFigure>
+      <Meaning_en>Tin 119 metastable</Meaning_en>
+      <ChemicalFormula>Sn-119m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30113</CodeFigure>
+      <Meaning_en>Tin 121 metastable</Meaning_en>
+      <ChemicalFormula>Sn-121m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30114</CodeFigure>
+      <Meaning_en>Tin 122</Meaning_en>
+      <ChemicalFormula>Sn-122</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30115</CodeFigure>
+      <Meaning_en>Tin 123</Meaning_en>
+      <ChemicalFormula>Sn-123</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30116</CodeFigure>
+      <Meaning_en>Tin 126</Meaning_en>
+      <ChemicalFormula>Sn-126</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30117</CodeFigure>
+      <Meaning_en>Antimony 124</Meaning_en>
+      <ChemicalFormula>Sb-124</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30118</CodeFigure>
+      <Meaning_en>Antimony 125</Meaning_en>
+      <ChemicalFormula>Sb-125</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30119</CodeFigure>
+      <Meaning_en>Antimony 126</Meaning_en>
+      <ChemicalFormula>Sb-126</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30120</CodeFigure>
+      <Meaning_en>Antimony 127</Meaning_en>
+      <ChemicalFormula>Sb-127</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30121</CodeFigure>
+      <Meaning_en>Antimony 129</Meaning_en>
+      <ChemicalFormula>Sb-129</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30122</CodeFigure>
+      <Meaning_en>Tellurium 123 metastable</Meaning_en>
+      <ChemicalFormula>Te-123m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30123</CodeFigure>
+      <Meaning_en>Tellurium 125 metastable</Meaning_en>
+      <ChemicalFormula>Te-125m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30124</CodeFigure>
+      <Meaning_en>Tellurium 127</Meaning_en>
+      <ChemicalFormula>Te-127</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30125</CodeFigure>
+      <Meaning_en>Tellurium 127 metastable</Meaning_en>
+      <ChemicalFormula>Te-127m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30126</CodeFigure>
+      <Meaning_en>Tellurium 129</Meaning_en>
+      <ChemicalFormula>Te-129</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30127</CodeFigure>
+      <Meaning_en>Tellurium 129 metastable</Meaning_en>
+      <ChemicalFormula>Te-129m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30128</CodeFigure>
+      <Meaning_en>Tellurium 131 metastable</Meaning_en>
+      <ChemicalFormula>Te-131m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30129</CodeFigure>
+      <Meaning_en>Tellurium 132</Meaning_en>
+      <ChemicalFormula>Te-132</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30130</CodeFigure>
+      <Meaning_en>Iodine 123</Meaning_en>
+      <ChemicalFormula>I-123</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30131</CodeFigure>
+      <Meaning_en>Iodine 124</Meaning_en>
+      <ChemicalFormula>I-124</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30132</CodeFigure>
+      <Meaning_en>Iodine 125</Meaning_en>
+      <ChemicalFormula>I-125</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30133</CodeFigure>
+      <Meaning_en>Iodine 126</Meaning_en>
+      <ChemicalFormula>I-126</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30134</CodeFigure>
+      <Meaning_en>Iodine 129</Meaning_en>
+      <ChemicalFormula>I-129</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30135</CodeFigure>
+      <Meaning_en>Iodine 129 elementary gaseous</Meaning_en>
+      <ChemicalFormula>I-129g</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30136</CodeFigure>
+      <Meaning_en>Iodine 129 organic bounded</Meaning_en>
+      <ChemicalFormula>I-129o</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30137</CodeFigure>
+      <Meaning_en>Iodine 131</Meaning_en>
+      <ChemicalFormula>I-131</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30138</CodeFigure>
+      <Meaning_en>Iodine 131 elementary gaseous</Meaning_en>
+      <ChemicalFormula>I-131g</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30139</CodeFigure>
+      <Meaning_en>Iodine 131 organic bounded</Meaning_en>
+      <ChemicalFormula>I-131o</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30140</CodeFigure>
+      <Meaning_en>Iodine 131 gaseous elementary and organic bounded</Meaning_en>
+      <ChemicalFormula>I-131go</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30141</CodeFigure>
+      <Meaning_en>Iodine 131 aerosol</Meaning_en>
+      <ChemicalFormula>I-131a</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30142</CodeFigure>
+      <Meaning_en>Iodine 132</Meaning_en>
+      <ChemicalFormula>I-132</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30143</CodeFigure>
+      <Meaning_en>Iodine 132 elementary gaseous</Meaning_en>
+      <ChemicalFormula>I-132g</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30144</CodeFigure>
+      <Meaning_en>Iodine 132 organic bounded</Meaning_en>
+      <ChemicalFormula>I-132o</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30145</CodeFigure>
+      <Meaning_en>Iodine 132 gaseous elementary and organic bounded</Meaning_en>
+      <ChemicalFormula>I-132go</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30146</CodeFigure>
+      <Meaning_en>Iodine 132 aerosol</Meaning_en>
+      <ChemicalFormula>I-132a</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30147</CodeFigure>
+      <Meaning_en>Iodine 133</Meaning_en>
+      <ChemicalFormula>I-133</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30148</CodeFigure>
+      <Meaning_en>Iodine 133 elementary gaseous</Meaning_en>
+      <ChemicalFormula>I-133g</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30149</CodeFigure>
+      <Meaning_en>Iodine 133 organic bounded</Meaning_en>
+      <ChemicalFormula>I-133o</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30150</CodeFigure>
+      <Meaning_en>Iodine 133 gaseous elementary and organic bounded</Meaning_en>
+      <ChemicalFormula>I-133go</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30151</CodeFigure>
+      <Meaning_en>Iodine 133 aerosol</Meaning_en>
+      <ChemicalFormula>I-133a</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30152</CodeFigure>
+      <Meaning_en>Iodine 134</Meaning_en>
+      <ChemicalFormula>I-134</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30153</CodeFigure>
+      <Meaning_en>Iodine 134 elementary gaseous</Meaning_en>
+      <ChemicalFormula>I-134g</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30154</CodeFigure>
+      <Meaning_en>Iodine 134 organic bounded</Meaning_en>
+      <ChemicalFormula>I-134o</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30155</CodeFigure>
+      <Meaning_en>Iodine 135</Meaning_en>
+      <ChemicalFormula>I-135</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30156</CodeFigure>
+      <Meaning_en>Iodine 135 elementary gaseous</Meaning_en>
+      <ChemicalFormula>I-135g</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30157</CodeFigure>
+      <Meaning_en>Iodine 135 organic bounded</Meaning_en>
+      <ChemicalFormula>I-135o</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30158</CodeFigure>
+      <Meaning_en>Iodine 135 gaseous elementary and organic bounded</Meaning_en>
+      <ChemicalFormula>I-135go</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30159</CodeFigure>
+      <Meaning_en>Iodine 135 aerosol</Meaning_en>
+      <ChemicalFormula>I-135a</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30160</CodeFigure>
+      <Meaning_en>Xenon 131 metastable</Meaning_en>
+      <ChemicalFormula>Xe-131m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30161</CodeFigure>
+      <Meaning_en>Xenon 133</Meaning_en>
+      <ChemicalFormula>Xe-133</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30162</CodeFigure>
+      <Meaning_en>Xenon 133 metastable</Meaning_en>
+      <ChemicalFormula>Xe-133m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30163</CodeFigure>
+      <Meaning_en>Xenon 135</Meaning_en>
+      <ChemicalFormula>Xe-135</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30164</CodeFigure>
+      <Meaning_en>Xenon 135 metastable</Meaning_en>
+      <ChemicalFormula>Xe-135m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30165</CodeFigure>
+      <Meaning_en>Xenon 137</Meaning_en>
+      <ChemicalFormula>Xe-137</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30166</CodeFigure>
+      <Meaning_en>Xenon 138</Meaning_en>
+      <ChemicalFormula>Xe-138</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30167</CodeFigure>
+      <Meaning_en>Xenon sum of all Xenon isotopes</Meaning_en>
+      <ChemicalFormula>Xe-sum</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30168</CodeFigure>
+      <Meaning_en>Caesium 131</Meaning_en>
+      <ChemicalFormula>Cs-131</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30169</CodeFigure>
+      <Meaning_en>Caesium 134</Meaning_en>
+      <ChemicalFormula>Cs-134</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30170</CodeFigure>
+      <Meaning_en>Caesium 135</Meaning_en>
+      <ChemicalFormula>Cs-135</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30171</CodeFigure>
+      <Meaning_en>Caesium 136</Meaning_en>
+      <ChemicalFormula>Cs-136</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30172</CodeFigure>
+      <Meaning_en>Caesium 137</Meaning_en>
+      <ChemicalFormula>Cs-137</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30173</CodeFigure>
+      <Meaning_en>Barium 133</Meaning_en>
+      <ChemicalFormula>Ba-133</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30174</CodeFigure>
+      <Meaning_en>Barium 137 metastable</Meaning_en>
+      <ChemicalFormula>Ba-137m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30175</CodeFigure>
+      <Meaning_en>Barium 140</Meaning_en>
+      <ChemicalFormula>Ba-140</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30176</CodeFigure>
+      <Meaning_en>Cerium 139</Meaning_en>
+      <ChemicalFormula>Ce-139</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30177</CodeFigure>
+      <Meaning_en>Cerium 141</Meaning_en>
+      <ChemicalFormula>Ce-141</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30178</CodeFigure>
+      <Meaning_en>Cerium 143</Meaning_en>
+      <ChemicalFormula>Ce-143</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30179</CodeFigure>
+      <Meaning_en>Cerium 144</Meaning_en>
+      <ChemicalFormula>Ce-144</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30180</CodeFigure>
+      <Meaning_en>Lanthanum 140</Meaning_en>
+      <ChemicalFormula>La-140</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30181</CodeFigure>
+      <Meaning_en>Lanthanum 141</Meaning_en>
+      <ChemicalFormula>La-141</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30182</CodeFigure>
+      <Meaning_en>Praseodymium 143</Meaning_en>
+      <ChemicalFormula>Pr-143</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30183</CodeFigure>
+      <Meaning_en>Praseodymium 144</Meaning_en>
+      <ChemicalFormula>Pr-144</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30184</CodeFigure>
+      <Meaning_en>Praseodymium 144 metastable</Meaning_en>
+      <ChemicalFormula>Pr-144m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30185</CodeFigure>
+      <Meaning_en>Samarium 145</Meaning_en>
+      <ChemicalFormula>Sm-145</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30186</CodeFigure>
+      <Meaning_en>Samarium 147</Meaning_en>
+      <ChemicalFormula>Sm-147</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30187</CodeFigure>
+      <Meaning_en>Samarium 151</Meaning_en>
+      <ChemicalFormula>Sm-151</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30188</CodeFigure>
+      <Meaning_en>Neodymium 147</Meaning_en>
+      <ChemicalFormula>Nd-147</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30189</CodeFigure>
+      <Meaning_en>Promethium 146</Meaning_en>
+      <ChemicalFormula>Pm-146</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30190</CodeFigure>
+      <Meaning_en>Promethium 147</Meaning_en>
+      <ChemicalFormula>Pm-147</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30191</CodeFigure>
+      <Meaning_en>Promethium 151</Meaning_en>
+      <ChemicalFormula>Pm-151</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30192</CodeFigure>
+      <Meaning_en>Europium 152</Meaning_en>
+      <ChemicalFormula>Eu-152 </ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30193</CodeFigure>
+      <Meaning_en>Europium 154</Meaning_en>
+      <ChemicalFormula>Eu-154</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30194</CodeFigure>
+      <Meaning_en>Europium 155</Meaning_en>
+      <ChemicalFormula>Eu-155</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30195</CodeFigure>
+      <Meaning_en>Gadolinium 153</Meaning_en>
+      <ChemicalFormula>Gd-153</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30196</CodeFigure>
+      <Meaning_en>Terbium 160</Meaning_en>
+      <ChemicalFormula>Tb-160</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30197</CodeFigure>
+      <Meaning_en>Holmium 166 metastable</Meaning_en>
+      <ChemicalFormula>Ho-166m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30198</CodeFigure>
+      <Meaning_en>Thulium 170</Meaning_en>
+      <ChemicalFormula>Tm-170</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30199</CodeFigure>
+      <Meaning_en>Ytterbium 169</Meaning_en>
+      <ChemicalFormula>Yb-169</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30200</CodeFigure>
+      <Meaning_en>Hafnium 175</Meaning_en>
+      <ChemicalFormula>Hf-175</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30201</CodeFigure>
+      <Meaning_en>Hafnium 181</Meaning_en>
+      <ChemicalFormula>Hf-181</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30202</CodeFigure>
+      <Meaning_en>Tantalum 179</Meaning_en>
+      <ChemicalFormula>Ta-179</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30203</CodeFigure>
+      <Meaning_en>Tantalum 182</Meaning_en>
+      <ChemicalFormula>Ta-182</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30204</CodeFigure>
+      <Meaning_en>Rhenium 184</Meaning_en>
+      <ChemicalFormula>Re-184</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30205</CodeFigure>
+      <Meaning_en>Iridium 192</Meaning_en>
+      <ChemicalFormula>Ir-192</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30206</CodeFigure>
+      <Meaning_en>Mercury 203</Meaning_en>
+      <ChemicalFormula>Hg-203</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30207</CodeFigure>
+      <Meaning_en>Thallium 204</Meaning_en>
+      <ChemicalFormula>Tl-204</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30208</CodeFigure>
+      <Meaning_en>Thallium 207</Meaning_en>
+      <ChemicalFormula>Tl-207</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30209</CodeFigure>
+      <Meaning_en>Thallium 208</Meaning_en>
+      <ChemicalFormula>Tl-208</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30210</CodeFigure>
+      <Meaning_en>Thallium 209</Meaning_en>
+      <ChemicalFormula>Tl-209</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30211</CodeFigure>
+      <Meaning_en>Bismuth 205</Meaning_en>
+      <ChemicalFormula>Bi-205</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30212</CodeFigure>
+      <Meaning_en>Bismuth 207</Meaning_en>
+      <ChemicalFormula>Bi-207</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30213</CodeFigure>
+      <Meaning_en>Bismuth 210</Meaning_en>
+      <ChemicalFormula>Bi-210</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30214</CodeFigure>
+      <Meaning_en>Bismuth 211</Meaning_en>
+      <ChemicalFormula>Bi-211</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30215</CodeFigure>
+      <Meaning_en>Bismuth 212</Meaning_en>
+      <ChemicalFormula>Bi-212</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30216</CodeFigure>
+      <Meaning_en>Bismuth 213</Meaning_en>
+      <ChemicalFormula>Bi-213</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30217</CodeFigure>
+      <Meaning_en>Bismuth 214</Meaning_en>
+      <ChemicalFormula>Bi-214</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30218</CodeFigure>
+      <Meaning_en>Polonium 208</Meaning_en>
+      <ChemicalFormula>Po-208</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30219</CodeFigure>
+      <Meaning_en>Polonium 210</Meaning_en>
+      <ChemicalFormula>Po-210</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30220</CodeFigure>
+      <Meaning_en>Polonium 212</Meaning_en>
+      <ChemicalFormula>Po-212</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30221</CodeFigure>
+      <Meaning_en>Polonium 213</Meaning_en>
+      <ChemicalFormula>Po-213</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30222</CodeFigure>
+      <Meaning_en>Polonium 214</Meaning_en>
+      <ChemicalFormula>Po-214</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30223</CodeFigure>
+      <Meaning_en>Polonium 215</Meaning_en>
+      <ChemicalFormula>Po-215</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30224</CodeFigure>
+      <Meaning_en>Polonium 216</Meaning_en>
+      <ChemicalFormula>Po-216</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30225</CodeFigure>
+      <Meaning_en>Polonium 218</Meaning_en>
+      <ChemicalFormula>Po-218</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30226</CodeFigure>
+      <Meaning_en>Lead 209</Meaning_en>
+      <ChemicalFormula>Pb-209</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30227</CodeFigure>
+      <Meaning_en>Lead 210</Meaning_en>
+      <ChemicalFormula>Pb-210</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30228</CodeFigure>
+      <Meaning_en>Lead 211</Meaning_en>
+      <ChemicalFormula>Pb-211</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30229</CodeFigure>
+      <Meaning_en>Lead 212</Meaning_en>
+      <ChemicalFormula>Pb-212</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30230</CodeFigure>
+      <Meaning_en>Lead 214</Meaning_en>
+      <ChemicalFormula>Pb-214</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30231</CodeFigure>
+      <Meaning_en>Astatine 217</Meaning_en>
+      <ChemicalFormula>At-217</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30232</CodeFigure>
+      <Meaning_en>Radon 219</Meaning_en>
+      <ChemicalFormula>Rn-219</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30233</CodeFigure>
+      <Meaning_en>Radon 220</Meaning_en>
+      <ChemicalFormula>Rn-220</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30234</CodeFigure>
+      <Meaning_en>Radon 222</Meaning_en>
+      <ChemicalFormula>Rn-222</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30235</CodeFigure>
+      <Meaning_en>Francium 221</Meaning_en>
+      <ChemicalFormula>Fr-221</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30236</CodeFigure>
+      <Meaning_en>Francium 223</Meaning_en>
+      <ChemicalFormula>Fr-223</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30237</CodeFigure>
+      <Meaning_en>Radium 223</Meaning_en>
+      <ChemicalFormula>Ra-223</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30238</CodeFigure>
+      <Meaning_en>Radium 224</Meaning_en>
+      <ChemicalFormula>Ra-224</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30239</CodeFigure>
+      <Meaning_en>Radium 225</Meaning_en>
+      <ChemicalFormula>Ra-225</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30240</CodeFigure>
+      <Meaning_en>Radium 226</Meaning_en>
+      <ChemicalFormula>Ra-226</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30241</CodeFigure>
+      <Meaning_en>Radium 228</Meaning_en>
+      <ChemicalFormula>Ra-228</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30242</CodeFigure>
+      <Meaning_en>Actinium 225</Meaning_en>
+      <ChemicalFormula>Ac-225</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30243</CodeFigure>
+      <Meaning_en>Actinium 227</Meaning_en>
+      <ChemicalFormula>Ac-227</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30244</CodeFigure>
+      <Meaning_en>Actinium 228</Meaning_en>
+      <ChemicalFormula>Ac-228</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30245</CodeFigure>
+      <Meaning_en>Thorium 227</Meaning_en>
+      <ChemicalFormula>Th-227</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30246</CodeFigure>
+      <Meaning_en>Thorium 228</Meaning_en>
+      <ChemicalFormula>Th-228</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30247</CodeFigure>
+      <Meaning_en>Thorium 229</Meaning_en>
+      <ChemicalFormula>Th-229</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30248</CodeFigure>
+      <Meaning_en>Thorium 230</Meaning_en>
+      <ChemicalFormula>Th-230</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30249</CodeFigure>
+      <Meaning_en>Thorium 231</Meaning_en>
+      <ChemicalFormula>Th-231</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30250</CodeFigure>
+      <Meaning_en>Thorium 232</Meaning_en>
+      <ChemicalFormula>Th-232</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30251</CodeFigure>
+      <Meaning_en>Thorium 234</Meaning_en>
+      <ChemicalFormula>Th-234</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30252</CodeFigure>
+      <Meaning_en>Protactinium 231</Meaning_en>
+      <ChemicalFormula>Pa-231</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30253</CodeFigure>
+      <Meaning_en>Protactinium 233</Meaning_en>
+      <ChemicalFormula>Pa-233</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30254</CodeFigure>
+      <Meaning_en>Protactinium 234 metastable</Meaning_en>
+      <ChemicalFormula>Pa-234m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30255</CodeFigure>
+      <Meaning_en>Uranium 232</Meaning_en>
+      <ChemicalFormula>U-232</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30256</CodeFigure>
+      <Meaning_en>Uranium 233</Meaning_en>
+      <ChemicalFormula>U-233</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30257</CodeFigure>
+      <Meaning_en>Uranium 234</Meaning_en>
+      <ChemicalFormula>U-234</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30258</CodeFigure>
+      <Meaning_en>Uranium 235</Meaning_en>
+      <ChemicalFormula>U-235</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30259</CodeFigure>
+      <Meaning_en>Uranium 236</Meaning_en>
+      <ChemicalFormula>U-236</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30260</CodeFigure>
+      <Meaning_en>Uranium 237</Meaning_en>
+      <ChemicalFormula>U-237</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30261</CodeFigure>
+      <Meaning_en>Uranium 238</Meaning_en>
+      <ChemicalFormula>U-238</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30262</CodeFigure>
+      <Meaning_en>Plutonium 236</Meaning_en>
+      <ChemicalFormula>Pu-236</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30263</CodeFigure>
+      <Meaning_en>Plutonium 238</Meaning_en>
+      <ChemicalFormula>Pu-238</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30264</CodeFigure>
+      <Meaning_en>Plutonium 239</Meaning_en>
+      <ChemicalFormula>Pu-239</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30265</CodeFigure>
+      <Meaning_en>Plutonium 240</Meaning_en>
+      <ChemicalFormula>Pu-240</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30266</CodeFigure>
+      <Meaning_en>Plutonium 241</Meaning_en>
+      <ChemicalFormula>Pu-241</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30267</CodeFigure>
+      <Meaning_en>Plutonium 242</Meaning_en>
+      <ChemicalFormula>Pu-242</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30268</CodeFigure>
+      <Meaning_en>Plutonium 244</Meaning_en>
+      <ChemicalFormula>Pu-244</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30269</CodeFigure>
+      <Meaning_en>Neptunium 237</Meaning_en>
+      <ChemicalFormula>Np-237</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30270</CodeFigure>
+      <Meaning_en>Neptunium 238</Meaning_en>
+      <ChemicalFormula>Np-238</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30271</CodeFigure>
+      <Meaning_en>Neptunium 239</Meaning_en>
+      <ChemicalFormula>Np-239</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30272</CodeFigure>
+      <Meaning_en>Americium 241</Meaning_en>
+      <ChemicalFormula>Am-241</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30273</CodeFigure>
+      <Meaning_en>Americium 242</Meaning_en>
+      <ChemicalFormula>Am-242</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30274</CodeFigure>
+      <Meaning_en>Americium 242 metastable</Meaning_en>
+      <ChemicalFormula>Am-242m</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30275</CodeFigure>
+      <Meaning_en>Americium 243</Meaning_en>
+      <ChemicalFormula>Am-243</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30276</CodeFigure>
+      <Meaning_en>Curium 242</Meaning_en>
+      <ChemicalFormula>Cm-242</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30277</CodeFigure>
+      <Meaning_en>Curium 243</Meaning_en>
+      <ChemicalFormula>Cm-243</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30278</CodeFigure>
+      <Meaning_en>Curium 244</Meaning_en>
+      <ChemicalFormula>Cm-244</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30279</CodeFigure>
+      <Meaning_en>Curium 245</Meaning_en>
+      <ChemicalFormula>Cm-245</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30280</CodeFigure>
+      <Meaning_en>Curium 246</Meaning_en>
+      <ChemicalFormula>Cm-246</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30281</CodeFigure>
+      <Meaning_en>Curium 247</Meaning_en>
+      <ChemicalFormula>Cm-247</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30282</CodeFigure>
+      <Meaning_en>Curium 248</Meaning_en>
+      <ChemicalFormula>Cm-248</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30283</CodeFigure>
+      <Meaning_en>Curium 243/244</Meaning_en>
+      <ChemicalFormula>Cm-243244</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30284</CodeFigure>
+      <Meaning_en>Plutonium 238/Americium 241</Meaning_en>
+      <ChemicalFormula>Pu-238Am-241</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30285</CodeFigure>
+      <Meaning_en>Plutonium 239/240</Meaning_en>
+      <ChemicalFormula>Pu-239240</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30286</CodeFigure>
+      <Meaning_en>Berkelium 249</Meaning_en>
+      <ChemicalFormula>Bk-249</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30287</CodeFigure>
+      <Meaning_en>Californium 249</Meaning_en>
+      <ChemicalFormula>Cf-249</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30288</CodeFigure>
+      <Meaning_en>Californium 250</Meaning_en>
+      <ChemicalFormula>Cf-250</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30289</CodeFigure>
+      <Meaning_en>Californium 252</Meaning_en>
+      <ChemicalFormula>Cf-252</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30290</CodeFigure>
+      <Meaning_en>Sum aerosol particulates</Meaning_en>
+      <ChemicalFormula>SumAer</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30291</CodeFigure>
+      <Meaning_en>Sum Iodine</Meaning_en>
+      <ChemicalFormula>SumIod</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30292</CodeFigure>
+      <Meaning_en>Sum noble gas</Meaning_en>
+      <ChemicalFormula>SumNG</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30293</CodeFigure>
+      <Meaning_en>Activation gas</Meaning_en>
+      <ChemicalFormula>ActGas</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30294</CodeFigure>
+      <Meaning_en>Cs-137 Equivalent</Meaning_en>
+      <ChemicalFormula>EquCs137</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30295</CodeFigure>
+      <Meaning_en>Carbon-13</Meaning_en>
+      <ChemicalFormula>C-13</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30296</CodeFigure>
+      <Meaning_en>Lead</Meaning_en>
+      <ChemicalFormula>Pb</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>30297-39999</CodeFigure>
+      <Meaning_en>Reserved</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>40000</CodeFigure>
+      <Meaning_en>Singlet sigma oxygen (dioxygen (sigma singlet))</Meaning_en>
+      <ChemicalFormula>O2(1Σ+g)</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>40001</CodeFigure>
+      <Meaning_en>Singlet delta oxygen (dioxygen (delta singlet))</Meaning_en>
+      <ChemicalFormula>O2(1Δg)</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>40002</CodeFigure>
+      <Meaning_en>Singlet excited oxygen atom</Meaning_en>
+      <ChemicalFormula>O(1D)</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>40003</CodeFigure>
+      <Meaning_en>Triplet ground state oxygen atom</Meaning_en>
+      <ChemicalFormula>O(3P)</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>40004-59999</CodeFigure>
+      <Meaning_en>Reserved</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60000</CodeFigure>
+      <Meaning_en>HOx radical (OH+HO2)</Meaning_en>
+      <ChemicalFormula>HOx•</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60001</CodeFigure>
+      <Meaning_en>Total inorganic and organic peroxy radicals (HOO• + ROO•)</Meaning_en>
+      <ChemicalFormula>ROO•</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60002</CodeFigure>
+      <Meaning_en>Passive Ozone</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60003</CodeFigure>
+      <Meaning_en>NOx expressed as nitrogen</Meaning_en>
+      <ChemicalFormula>NOx</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60004</CodeFigure>
+      <Meaning_en>All nitrogen oxides (NOy) expressed as nitrogen</Meaning_en>
+      <ChemicalFormula>NOy</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60005</CodeFigure>
+      <Meaning_en>Total inorganic chlorine</Meaning_en>
+      <ChemicalFormula>Clx</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60006</CodeFigure>
+      <Meaning_en>Total inorganic bromine</Meaning_en>
+      <ChemicalFormula>Brx</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60007</CodeFigure>
+      <Meaning_en>Total inorganic chlorine except HCl, ClONO2: ClOx</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60008</CodeFigure>
+      <Meaning_en>Total inorganic bromine except HBr, BrONO2: BrOx</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60009</CodeFigure>
+      <Meaning_en>Lumped alkanes</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60010</CodeFigure>
+      <Meaning_en>Lumped alkenes</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60011</CodeFigure>
+      <Meaning_en>Lumped aromatic compounds</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60012</CodeFigure>
+      <Meaning_en>Lumped terpenes</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60013</CodeFigure>
+      <Meaning_en>Non-methane volatile organic compounds expressed as carbon</Meaning_en>
+      <ChemicalFormula>NMVOC</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60014</CodeFigure>
+      <Meaning_en>Anthropogenic non-methane volatile organic compounds expressed as carbon</Meaning_en>
+      <ChemicalFormula>aNMVOC</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60015</CodeFigure>
+      <Meaning_en>Biogenic non-methane volatile organic compounds expressed as carbon</Meaning_en>
+      <ChemicalFormula>bNMVOC</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60016</CodeFigure>
+      <Meaning_en>Lumped oxygenated hydrocarbons</Meaning_en>
+      <ChemicalFormula>OVOC</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60017</CodeFigure>
+      <Meaning_en>NOx expressed as nitrogen dioxide (NO2)</Meaning_en>
+      <ChemicalFormula>NOx</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60018</CodeFigure>
+      <Meaning_en>Organic aldehydes</Meaning_en>
+      <ChemicalFormula>RCHO</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60019</CodeFigure>
+      <Meaning_en>Organic peroxides</Meaning_en>
+      <ChemicalFormula>ROOH</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60020</CodeFigure>
+      <Meaning_en>Organic nitrates</Meaning_en>
+      <ChemicalFormula>RNO3</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60021</CodeFigure>
+      <Meaning_en>Ethers</Meaning_en>
+      <ChemicalFormula>ROR’</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60022</CodeFigure>
+      <Meaning_en>Amines</Meaning_en>
+      <ChemicalFormula>NRR’R’’</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60023</CodeFigure>
+      <Meaning_en>Ketones</Meaning_en>
+      <ChemicalFormula>RC(O)R’</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60024</CodeFigure>
+      <Meaning_en>Dicarbonyls unsaturated</Meaning_en>
+      <ChemicalFormula>RC(O)CH2C(O)R’</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60025</CodeFigure>
+      <Meaning_en>Hydroxy dicarbonyls unsaturated</Meaning_en>
+      <ChemicalFormula>RC(O)CHOHC(O)R’</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60026</CodeFigure>
+      <Meaning_en>Hydroxy ketones</Meaning_en>
+      <ChemicalFormula>RC(OH)C(O)R’</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60027</CodeFigure>
+      <Meaning_en>Oxides</Meaning_en>
+      <ChemicalFormula>Ox</ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>60028-61999</CodeFigure>
+      <Meaning_en>Reserved</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62000</CodeFigure>
+      <Meaning_en>Total aerosol</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62001</CodeFigure>
+      <Meaning_en>Dust dry</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62002</CodeFigure>
+      <Meaning_en>Water in ambient</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62003</CodeFigure>
+      <Meaning_en>Ammonium dry</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62004</CodeFigure>
+      <Meaning_en>Nitrate dry</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62005</CodeFigure>
+      <Meaning_en>Nitric acid trihydrate</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62006</CodeFigure>
+      <Meaning_en>Sulphate dry</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62007</CodeFigure>
+      <Meaning_en>Mercury dry</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62008</CodeFigure>
+      <Meaning_en>Sea salt dry</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62009</CodeFigure>
+      <Meaning_en>Black carbon dry</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62010</CodeFigure>
+      <Meaning_en>Particulate organic matter dry</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62011</CodeFigure>
+      <Meaning_en>Primary particulate organic matter dry</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62012</CodeFigure>
+      <Meaning_en>Secondary particulate organic matter dry</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62013</CodeFigure>
+      <Meaning_en>Black carbon hydrophilic dry</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62014</CodeFigure>
+      <Meaning_en>Black carbon hydrophobic dry</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62015</CodeFigure>
+      <Meaning_en>Particulate organic matter hydrophilic dry</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62016</CodeFigure>
+      <Meaning_en>Particulate organic matter hydrophobic dry</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62017</CodeFigure>
+      <Meaning_en>Nitrate hydrophilic dry</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62018</CodeFigure>
+      <Meaning_en>Nitrate hydrophobic dry</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62019</CodeFigure>
+      <Meaning_en>Reserved</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62020</CodeFigure>
+      <Meaning_en>Smoke - high absorption</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62021</CodeFigure>
+      <Meaning_en>Smoke - low absorption</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62022</CodeFigure>
+      <Meaning_en>Aerosol - high absorption</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62023</CodeFigure>
+      <Meaning_en>Aerosol - low absorption</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62024</CodeFigure>
+      <Meaning_en>Reserved</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62025</CodeFigure>
+      <Meaning_en>Volcanic ash</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62026</CodeFigure>
+      <Meaning_en>Particulate matter (PM)</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62027</CodeFigure>
+      <Meaning_en>Reserved</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62028</CodeFigure>
+      <Meaning_en>Total aerosol hydrophilic</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62029</CodeFigure>
+      <Meaning_en>Total aerosol hydrophobic</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62030-62099</CodeFigure>
+      <Meaning_en>Reserved</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62100</CodeFigure>
+      <Meaning_en>Alnus (alder) pollen</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62101</CodeFigure>
+      <Meaning_en>Betula (birch) pollen</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62102</CodeFigure>
+      <Meaning_en>Castanea (chestnut) pollen</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62103</CodeFigure>
+      <Meaning_en>Carpinus (hornbeam) pollen</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62104</CodeFigure>
+      <Meaning_en>Corylus (hazel) pollen</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62105</CodeFigure>
+      <Meaning_en>Fagus (beech) pollen</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62106</CodeFigure>
+      <Meaning_en>Fraxinus (ash) pollen</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62107</CodeFigure>
+      <Meaning_en>Pinus (pine) pollen</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62108</CodeFigure>
+      <Meaning_en>Platanus (plane) pollen</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62109</CodeFigure>
+      <Meaning_en>Populus (cottonwood, poplar) pollen</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62110</CodeFigure>
+      <Meaning_en>Quercus (oak) pollen</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62111</CodeFigure>
+      <Meaning_en>Salix (willow) pollen</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62112</CodeFigure>
+      <Meaning_en>Taxus (yew) pollen</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62113</CodeFigure>
+      <Meaning_en>Tilia (lime, linden) pollen</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62114</CodeFigure>
+      <Meaning_en>Ulmus (elm) pollen</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62115-62199</CodeFigure>
+      <Meaning_en>Reserved</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62200</CodeFigure>
+      <Meaning_en>Ambrosia (ragweed, burr-ragweed) pollen</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62201</CodeFigure>
+      <Meaning_en>Artemisia (sagebrush, wormwood, mugwort) pollen</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62202</CodeFigure>
+      <Meaning_en>Brassica (rape, broccoli, Brussels sprouts, cabbage, cauliflower, collards, kale, kohlrabi, mustard, rutabaga) pollen</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62203</CodeFigure>
+      <Meaning_en>Plantago (plantain) pollen</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62204</CodeFigure>
+      <Meaning_en>Rumex (dock, sorrel) pollen</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62205</CodeFigure>
+      <Meaning_en>Urtica (nettle) pollen</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62206-62299</CodeFigure>
+      <Meaning_en>Reserved</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62300</CodeFigure>
+      <Meaning_en>Poaceae (grass family) pollen</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>62301-62999</CodeFigure>
+      <Meaning_en>Reserved</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>63000-65534</CodeFigure>
+      <Meaning_en>For experimental use at local level</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+   <C14>
+      <CodeFigure>65535</CodeFigure>
+      <Meaning_en>Missing</Meaning_en>
+      <ChemicalFormula></ChemicalFormula>
+      <Status>Operational</Status>
+   </C14>
+</dataroot>
