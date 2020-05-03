@@ -13,7 +13,7 @@ jobs:
         ref: ${{ github.ref }}
     - name: create xml files and push
       run: | 
-        python scripts/csv2xml.py
+        python3 scripts/csv2xml.py
         ls xml
         git config --global user.email "efucile@wmo.int"
         git config --global user.name "Enrico Fucile"
