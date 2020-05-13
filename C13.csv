@@ -57,6 +57,7 @@ CodeFigure_DataCategories,Name_DataCategories_en,CodeFigure_InternationalDataSub
 3,Vertical soundings (satellite),50,Radio occultation sounding,Operational
 4,Single level upper-air data (other than satellite),0,ASDAR/ACARS (AMDAR),Operational
 4,Single level upper-air data (other than satellite),1,"Manual (AIREP, PIREP)",Operational
+4,Single level upper-air data (other than satellite),2,Mode-S,Operational
 5,Single level upper-air data (satellite),0,Cloud wind data (SATOB),Operational
 5,Single level upper-air data (satellite),1,Cloud properties,Operational
 6,Radar data,0,Reflectivity data,Operational
