@@ -792,6 +792,20 @@
     <Status>Operational</Status>
   </C05>
   <C05>
+    <CodeFigureForI6I6I6>324</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>324</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>324</CodeFigureForGRIB2>
+    <SatelliteName_en>Meteor-M N2</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>325</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>325</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>325</CodeFigureForGRIB2>
+    <SatelliteName_en>Meteor-M N2 2</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
     <CodeFigureForI6I6I6>341</CodeFigureForI6I6I6>
     <CodeFigureForBUFR>341</CodeFigureForBUFR>
     <CodeFigureForGRIB2>341</CodeFigureForGRIB2>
