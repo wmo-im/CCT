@@ -1699,8 +1699,14 @@
     <Status>Operational</Status>
   </C11>
   <C11>
-    <CREX2>00290-65534</CREX2>
-    <GRIB2_BUFR4>290-65534</GRIB2_BUFR4>
+    <CREX2>00291</CREX2>
+    <GRIB2_BUFR4>291</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>The Institute of Atmospheric Physics(IAP) of Chinese Academy of Sciences (CAS)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00292-65534</CREX2>
+    <GRIB2_BUFR4>292-65534</GRIB2_BUFR4>
     <OriginatingGeneratingCentre_en>Reserved for other centres</OriginatingGeneratingCentre_en>
     <Status>Operational</Status>
   </C11>
