@@ -331,7 +331,7 @@
   <C03>
     <CodeFigureForIXIIXIX>741</CodeFigureForIXIIXIX>
     <CodeFigureForBUFR>741</CodeFigureForBUFR>
-    <InstrumentMakeAndType_en>TSK XCTD/XCTD-1</InstrumentMakeAndType_en>
+    <InstrumentMakeAndType_en>TSK XCTD/XCTD-1/XCTD-1N</InstrumentMakeAndType_en>
     <EquationCoefficients_a>3.42543</EquationCoefficients_a>
     <EquationCoefficients_b>-0.47</EquationCoefficients_b>
     <Status>Operational</Status>
@@ -339,7 +339,7 @@
   <C03>
     <CodeFigureForIXIIXIX>742</CodeFigureForIXIIXIX>
     <CodeFigureForBUFR>742</CodeFigureForBUFR>
-    <InstrumentMakeAndType_en>TSK XCTD-2</InstrumentMakeAndType_en>
+    <InstrumentMakeAndType_en>TSK XCTD-2/XCTD-2N</InstrumentMakeAndType_en>
     <EquationCoefficients_a>3.43898</EquationCoefficients_a>
     <EquationCoefficients_b>-0.31</EquationCoefficients_b>
     <Status>Operational</Status>
@@ -355,7 +355,7 @@
   <C03>
     <CodeFigureForIXIIXIX>744</CodeFigureForIXIIXIX>
     <CodeFigureForBUFR>744</CodeFigureForBUFR>
-    <InstrumentMakeAndType_en>TSK XCTD-3</InstrumentMakeAndType_en>
+    <InstrumentMakeAndType_en>TSK XCTD-3/XCTD-3N</InstrumentMakeAndType_en>
     <EquationCoefficients_a>5.07598</EquationCoefficients_a>
     <EquationCoefficients_b>-0.72</EquationCoefficients_b>
     <Status>Operational</Status>
@@ -363,7 +363,7 @@
   <C03>
     <CodeFigureForIXIIXIX>745</CodeFigureForIXIIXIX>
     <CodeFigureForBUFR>745</CodeFigureForBUFR>
-    <InstrumentMakeAndType_en>TSK XCTD-4</InstrumentMakeAndType_en>
+    <InstrumentMakeAndType_en>TSK XCTD-4/XCTD-4N</InstrumentMakeAndType_en>
     <EquationCoefficients_a>3.68081</EquationCoefficients_a>
     <EquationCoefficients_b>-0.47</EquationCoefficients_b>
     <Status>Operational</Status>
