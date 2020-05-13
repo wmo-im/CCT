@@ -101,7 +101,12 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 10052,Ethyl hydroperoxide,CH3CH2OOH,Operational
 10053,3-hydroxypropyl dioxidanyl radical,HOCH2CH2CH2OO•,Operational
 10054,3-hydroxypropyl hydroperoxide,HOCH2CH2CH2OOH,Operational
-10055-10499,"Reserved for other simple organic molecules (e.g. higher aldehydes, alcohols, peroxides, ...)",,Operational
+10055,methyl-peroxy-nitrate (nitroperoxy-methane),CH_3OONO_2,Operational
+10056,2-lambda^1-Oxidanyloxy-2-methylbut-3-en-1-ol (4-Hydroxy-3-methyl-1-butene-3-ylperoxy radical),HOCH_2C(CH_3)(OO•)CHCH_2,Operational
+10057,2-lambda^1-Oxidanyloxy-3-methylbut-3-en-1-ol (2-Hydroxy-1-isopropenylethylperoxy radical),HOCH_2CH(OO•)C(CH_3)CH_2,Operational
+10058,(Z)-4-Hydroperoxy-2-methyl-2-butenal,CH2(OOH)CHC(CH_3)CHO,Operational
+10059,(Z)-4-Hydroperoxy-3-methyl-2-butenal,CH2(OOH)C(CH_3)CHCHO,Operational
+10060-10499,"Reserved for other simple organic molecules (e.g. higher aldehydes, alcohols, peroxides, ...)",,Operational
 10500,Dimethyl sulphide,CH3SCH3 (DMS),Operational
 10501,DMSO (dimethyl sulfoxide),(CH3)2SO,Operational
 10502-20000,Reserved,,Operational
@@ -451,7 +456,12 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 60025,Hydroxy dicarbonyls unsaturated,RC(O)CHOHC(O)R’,Operational
 60026,Hydroxy ketones,RC(OH)C(O)R’,Operational
 60027,Oxides,Ox,Operational
-60028-61999,Reserved,,Operational
+60028,Peroxyacyl nitrates,RC(O)OONO_2,Operational
+60029,Aromatic peroxide radical (Aryl dioxydanyl radicals),ArOO•,Operational
+60030,Biogenic Secondary Organic Compound,,Operational
+60031,Anthropogenic Secondary Organic Compound,,Operational
+60032,all hydroxy-peroxides products of the reaction of hydroxy-isoprene adducts with O_2,ISOPOOH,Operational
+60033-61999,Reserved,,Operational
 62000,Total aerosol,,Operational
 62001,Dust dry,,Operational
 62002,Water in ambient,,Operational
@@ -482,7 +492,11 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 62027,Reserved,,Operational
 62028,Total aerosol hydrophilic,,Operational
 62029,Total aerosol hydrophobic,,Operational
-62030-62099,Reserved,,Operational
+62030,Primary particulate inorganic matter dry,,Operational
+62031,Secondary particulate Inorganic matter dry,,Operational
+62032,Biogenic Secondary Organic aerosol,,Operational
+62033,Anthropogenic Secondary Organic aerosol,,Operational
+62034-62099,Reserved,,Operational
 62100,Alnus (alder) pollen,,Operational
 62101,Betula (birch) pollen,,Operational
 62102,Castanea (chestnut) pollen,,Operational
@@ -498,7 +512,8 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 62112,Taxus (yew) pollen,,Operational
 62113,"Tilia (lime, linden) pollen",,Operational
 62114,Ulmus (elm) pollen,,Operational
-62115-62199,Reserved,,Operational
+62115,Olea (olive) pollen,,Operational
+62116-62199,Reserved,,Operational
 62200,"Ambrosia (ragweed, burr-ragweed) pollen",,Operational
 62201,"Artemisia (sagebrush, wormwood, mugwort) pollen",,Operational
 62202,"Brassica (rape, broccoli, Brussels sprouts, cabbage, cauliflower, collards, kale, kohlrabi, mustard, rutabaga) pollen",,Operational
