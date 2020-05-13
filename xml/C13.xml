@@ -407,6 +407,13 @@
     <Status>Operational</Status>
   </C13>
   <C13>
+    <CodeFigure_DataCategories>4</CodeFigure_DataCategories>
+    <Name_DataCategories_en>Single level upper-air data (other than satellite)</Name_DataCategories_en>
+    <CodeFigure_InternationalDataSubcategories>2</CodeFigure_InternationalDataSubcategories>
+    <Name_InternationalDataSubcategories_en>Mode-S</Name_InternationalDataSubcategories_en>
+    <Status>Operational</Status>
+  </C13>
+  <C13>
     <CodeFigure_DataCategories>5</CodeFigure_DataCategories>
     <Name_DataCategories_en>Single level upper-air data (satellite)</Name_DataCategories_en>
     <CodeFigure_InternationalDataSubcategories>0</CodeFigure_InternationalDataSubcategories>
