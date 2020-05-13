@@ -304,6 +304,8 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 858,ROSCOSMOS,Spectrometer,KGI-4,,Operational
 859,ROSCOSMOS,Spectrometer,Ozon-M,,Operational
 860,ROSCOSMOS,Spectrometer,RMK-2,,Operational
+861,ROSCOSMOS,Atmospheric temperature and humidity sounder,MTVZA-GY,Module for temperature and humidity sounding in the atmosphere,Operational
+862,ROSCOSMOS,Spectrometer,IKFS-2,Infrared Fourier spectrometer,Operational
 900,NOAA,Radiometer,MAXIE,Magnetospheric atmospheric X-ray imaging experiment,Operational
 901,NOAA,Radiometer,OLS,Operational linescan system,Operational
 905,NOAA,Radiometer,SSM/I,Mission sensor microwave imager,Operational
