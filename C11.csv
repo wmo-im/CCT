@@ -184,7 +184,9 @@ CREX2,GRIB2_BUFR4,OriginatingGeneratingCentre_en,Status
 00176,176,Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States,Operational
 00177,177,NOAA National Ocean Service - United States,Operational
 00178,178,"Spire Global, Inc.",Operational
-00179-00189,179-189,Reserved for other centres,Operational
+00179,179,"GeoOptics, Inc.",Operational
+00180,180,PlanetiQ,Operational
+00181-00189,181-189,Reserved for other centres,Operational
 00190,190,Cook Islands (NMC),Operational
 00191,191,French Polynesia (NMC),Operational
 00192,192,Tonga (NMC),Operational
