@@ -1111,8 +1111,20 @@
     <Status>Operational</Status>
   </C11>
   <C11>
-    <CREX2>00179-00189</CREX2>
-    <GRIB2_BUFR4>179-189</GRIB2_BUFR4>
+    <CREX2>00179</CREX2>
+    <GRIB2_BUFR4>179</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>GeoOptics, Inc.</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00180</CREX2>
+    <GRIB2_BUFR4>180</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>PlanetiQ</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00181-00189</CREX2>
+    <GRIB2_BUFR4>181-189</GRIB2_BUFR4>
     <OriginatingGeneratingCentre_en>Reserved for other centres</OriginatingGeneratingCentre_en>
     <Status>Operational</Status>
   </C11>
