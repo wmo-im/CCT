@@ -222,6 +222,7 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 853,853,853,Combination of METEOSAT and DMSP,Operational
 854,854,854,Non-specific mixture of geostationary and low Earth-orbiting satellites,Operational
 855,855,855,Combination of INSAT 3D and INSAT 3DR,Operational
+856,856,856,Combination of Sentinel-3 satellites,Operational
 870-998,870-998,870-998,Reserved,Operational
 999 Missing value,999-1022,999-65534,Reserved,Operational
 ,1023,65535,Missing value,Operational
