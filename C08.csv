@@ -190,10 +190,16 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 517,JAXA,Imager,TANSO-CAI,Thermal and Near infrared Sensor for carbon Observations (TANSO) Cloud and Aerosol Imager (CAI),Operational
 518,JAXA,Cloud and precipitation radar,DPR,Dual-frequency precipitation radar,Operational
 519,NASA,"MW imaging/sounding radiometer, conical scanning",GMI,GPM microwave imager,Operational
+526,GeoOptics,GNSS occultation sounder,Cion-A,GeoOptics Cion GNSS occultation receiver A,Operational
+527,GeoOptics,GNSS occultation sounder,Cion-B,GeoOptics Cion GNSS occultation receiver B,Operational
+528,GeoOptics,GNSS occultation sounder,Cion-C,GeoOptics Cion GNSS occultation receiver C,Operational
+529,GeoOptics,GNSS occultation sounder,Cion-D,GeoOptics Cion GNSS occultation receiver D,Operational
 530,Spire,GNSS occultation sounder,SGNOS-A,Spire global navigation satellite system occultation sounder A,Operational
 531,Spire,GNSS occultation sounder,SGNOS-B,Spire global navigation satellite system occultation sounder B,Operational
 532,Spire,GNSS occultation sounder,SGNOS-C,Spire global navigation satellite system occultation sounder C,Operational
 533,Spire,GNSS occultation sounder,SGNOS-D,Spire global navigation satellite system occultation sounder D,Operational
+534,PlanetiQ,GNSS occultation sounder,Pyxis-A,PlanetiQ Pyxis GNSS occultation receiver A,Operational
+535,PlanetiQ,GNSS occultation sounder,Pyxis-B,PlanetiQ Pyxis GNSS occultation receiver B,Operational
 540,NOAA,Communications,DCS (NOAA),Data-collection system (NOAA),Operational
 541,NOAA,Communications,GOES Comms,Communications package on GOES,Operational
 542,NOAA,Communications,LANDSAT Comms,Communications package for LANDSAT,Operational
