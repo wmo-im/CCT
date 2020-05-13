@@ -2441,6 +2441,22 @@
     <Status>Operational</Status>
   </C08>
   <C08>
+    <Code>861</Code>
+    <Agency_en>ROSCOSMOS</Agency_en>
+    <Type_en>Atmospheric temperature and humidity sounder</Type_en>
+    <InstrumentShortName_en>MTVZA-GY</InstrumentShortName_en>
+    <InstrumentLongName_en>Module for temperature and humidity sounding in the atmosphere</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>862</Code>
+    <Agency_en>ROSCOSMOS</Agency_en>
+    <Type_en>Spectrometer</Type_en>
+    <InstrumentShortName_en>IKFS-2</InstrumentShortName_en>
+    <InstrumentLongName_en>Infrared Fourier spectrometer</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
     <Code>900</Code>
     <Agency_en>NOAA</Agency_en>
     <Type_en>Radiometer</Type_en>
