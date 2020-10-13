@@ -613,7 +613,37 @@
     <Status>Operational</Status>
   </C14>
   <C14>
-    <CodeFigure>10055-10499</CodeFigure>
+    <CodeFigure>10055</CodeFigure>
+    <Meaning_en>methyl-peroxy-nitrate (nitroperoxy-methane)</Meaning_en>
+    <ChemicalFormula>CH_3OONO_2</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>10056</CodeFigure>
+    <Meaning_en>2-lambda^1-Oxidanyloxy-2-methylbut-3-en-1-ol (4-Hydroxy-3-methyl-1-butene-3-ylperoxy radical)</Meaning_en>
+    <ChemicalFormula>HOCH_2C(CH_3)(OO•)CHCH_2</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>10057</CodeFigure>
+    <Meaning_en>2-lambda^1-Oxidanyloxy-3-methylbut-3-en-1-ol (2-Hydroxy-1-isopropenylethylperoxy radical)</Meaning_en>
+    <ChemicalFormula>HOCH_2CH(OO•)C(CH_3)CH_2</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>10058</CodeFigure>
+    <Meaning_en>(Z)-4-Hydroperoxy-2-methyl-2-butenal</Meaning_en>
+    <ChemicalFormula>CH2(OOH)CHC(CH_3)CHO</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>10059</CodeFigure>
+    <Meaning_en>(Z)-4-Hydroperoxy-3-methyl-2-butenal</Meaning_en>
+    <ChemicalFormula>CH2(OOH)C(CH_3)CHCHO</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>10060-10499</CodeFigure>
     <Meaning_en>Reserved for other simple organic molecules (e.g. higher aldehydes, alcohols, peroxides, ...)</Meaning_en>
     <ChemicalFormula/>
     <Status>Operational</Status>
@@ -2713,7 +2743,37 @@
     <Status>Operational</Status>
   </C14>
   <C14>
-    <CodeFigure>60028-61999</CodeFigure>
+    <CodeFigure>60028</CodeFigure>
+    <Meaning_en>Peroxyacyl nitrates</Meaning_en>
+    <ChemicalFormula>RC(O)OONO_2</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>60029</CodeFigure>
+    <Meaning_en>Aromatic peroxide radical (Aryl dioxydanyl radicals)</Meaning_en>
+    <ChemicalFormula>ArOO•</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>60030</CodeFigure>
+    <Meaning_en>Biogenic Secondary Organic Compound</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>60031</CodeFigure>
+    <Meaning_en>Anthropogenic Secondary Organic Compound</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>60032</CodeFigure>
+    <Meaning_en>all hydroxy-peroxides products of the reaction of hydroxy-isoprene adducts with O_2</Meaning_en>
+    <ChemicalFormula>ISOPOOH</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>60033-61999</CodeFigure>
     <Meaning_en>Reserved</Meaning_en>
     <ChemicalFormula/>
     <Status>Operational</Status>
@@ -2899,7 +2959,31 @@
     <Status>Operational</Status>
   </C14>
   <C14>
-    <CodeFigure>62030-62099</CodeFigure>
+    <CodeFigure>62030</CodeFigure>
+    <Meaning_en>Primary particulate inorganic matter dry</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62031</CodeFigure>
+    <Meaning_en>Secondary particulate Inorganic matter dry</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62032</CodeFigure>
+    <Meaning_en>Biogenic Secondary Organic aerosol</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62033</CodeFigure>
+    <Meaning_en>Anthropogenic Secondary Organic aerosol</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62034-62099</CodeFigure>
     <Meaning_en>Reserved</Meaning_en>
     <ChemicalFormula/>
     <Status>Operational</Status>
@@ -2995,7 +3079,13 @@
     <Status>Operational</Status>
   </C14>
   <C14>
-    <CodeFigure>62115-62199</CodeFigure>
+    <CodeFigure>62115</CodeFigure>
+    <Meaning_en>Olea (olive) pollen</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62116-62199</CodeFigure>
     <Meaning_en>Reserved</Meaning_en>
     <ChemicalFormula/>
     <Status>Operational</Status>

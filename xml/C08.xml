@@ -1529,6 +1529,38 @@
     <Status>Operational</Status>
   </C08>
   <C08>
+    <Code>526</Code>
+    <Agency_en>GeoOptics</Agency_en>
+    <Type_en>GNSS occultation sounder</Type_en>
+    <InstrumentShortName_en>Cion-A</InstrumentShortName_en>
+    <InstrumentLongName_en>GeoOptics Cion GNSS occultation receiver A</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>527</Code>
+    <Agency_en>GeoOptics</Agency_en>
+    <Type_en>GNSS occultation sounder</Type_en>
+    <InstrumentShortName_en>Cion-B</InstrumentShortName_en>
+    <InstrumentLongName_en>GeoOptics Cion GNSS occultation receiver B</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>528</Code>
+    <Agency_en>GeoOptics</Agency_en>
+    <Type_en>GNSS occultation sounder</Type_en>
+    <InstrumentShortName_en>Cion-C</InstrumentShortName_en>
+    <InstrumentLongName_en>GeoOptics Cion GNSS occultation receiver C</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>529</Code>
+    <Agency_en>GeoOptics</Agency_en>
+    <Type_en>GNSS occultation sounder</Type_en>
+    <InstrumentShortName_en>Cion-D</InstrumentShortName_en>
+    <InstrumentLongName_en>GeoOptics Cion GNSS occultation receiver D</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
     <Code>530</Code>
     <Agency_en>Spire</Agency_en>
     <Type_en>GNSS occultation sounder</Type_en>
@@ -1558,6 +1590,22 @@
     <Type_en>GNSS occultation sounder</Type_en>
     <InstrumentShortName_en>SGNOS-D</InstrumentShortName_en>
     <InstrumentLongName_en>Spire global navigation satellite system occultation sounder D</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>534</Code>
+    <Agency_en>PlanetiQ</Agency_en>
+    <Type_en>GNSS occultation sounder</Type_en>
+    <InstrumentShortName_en>Pyxis-A</InstrumentShortName_en>
+    <InstrumentLongName_en>PlanetiQ Pyxis GNSS occultation receiver A</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>535</Code>
+    <Agency_en>PlanetiQ</Agency_en>
+    <Type_en>GNSS occultation sounder</Type_en>
+    <InstrumentShortName_en>Pyxis-B</InstrumentShortName_en>
+    <InstrumentLongName_en>PlanetiQ Pyxis GNSS occultation receiver B</InstrumentLongName_en>
     <Status>Operational</Status>
   </C08>
   <C08>
@@ -2438,6 +2486,22 @@
     <Type_en>Spectrometer</Type_en>
     <InstrumentShortName_en>RMK-2</InstrumentShortName_en>
     <InstrumentLongName_en/>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>861</Code>
+    <Agency_en>ROSCOSMOS</Agency_en>
+    <Type_en>Atmospheric temperature and humidity sounder</Type_en>
+    <InstrumentShortName_en>MTVZA-GY</InstrumentShortName_en>
+    <InstrumentLongName_en>Module for temperature and humidity sounding in the atmosphere</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>862</Code>
+    <Agency_en>ROSCOSMOS</Agency_en>
+    <Type_en>Spectrometer</Type_en>
+    <InstrumentShortName_en>IKFS-2</InstrumentShortName_en>
+    <InstrumentLongName_en>Infrared Fourier spectrometer</InstrumentLongName_en>
     <Status>Operational</Status>
   </C08>
   <C08>

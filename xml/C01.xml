@@ -1297,8 +1297,22 @@
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
-    <CodeFigureForF3F3F3>179-189</CodeFigureForF3F3F3>
-    <Octet5GRIB1_Octet6BUFR3>179-189</Octet5GRIB1_Octet6BUFR3>
+    <CodeFigureForF3F3F3>179</CodeFigureForF3F3F3>
+    <Octet5GRIB1_Octet6BUFR3>179</Octet5GRIB1_Octet6BUFR3>
+    <OriginatingGeneratingCentres_en>GeoOptics, Inc.</OriginatingGeneratingCentres_en>
+    <Status>Operational</Status>
+  </C01>
+  <C01>
+    <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
+    <CodeFigureForF3F3F3>180</CodeFigureForF3F3F3>
+    <Octet5GRIB1_Octet6BUFR3>180</Octet5GRIB1_Octet6BUFR3>
+    <OriginatingGeneratingCentres_en>PlanetiQ</OriginatingGeneratingCentres_en>
+    <Status>Operational</Status>
+  </C01>
+  <C01>
+    <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
+    <CodeFigureForF3F3F3>181-189</CodeFigureForF3F3F3>
+    <Octet5GRIB1_Octet6BUFR3>181-189</Octet5GRIB1_Octet6BUFR3>
     <OriginatingGeneratingCentres_en>Reserved for other centres</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>

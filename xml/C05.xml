@@ -652,6 +652,34 @@
     <Status>Operational</Status>
   </C05>
   <C05>
+    <CodeFigureForI6I6I6>265</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>265</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>265</CodeFigureForGRIB2>
+    <SatelliteName_en>GeoOptics CICERO OP1</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>266</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>266</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>266</CodeFigureForGRIB2>
+    <SatelliteName_en>GeoOptics CICERO OP2</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>267</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>267</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>267</CodeFigureForGRIB2>
+    <SatelliteName_en>PlanetiQ GNOMES-A</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>268</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>268</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>268</CodeFigureForGRIB2>
+    <SatelliteName_en>PlanetiQ GNOMES-B</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
     <CodeFigureForI6I6I6>269</CodeFigureForI6I6I6>
     <CodeFigureForBUFR>269</CodeFigureForBUFR>
     <CodeFigureForGRIB2>269</CodeFigureForGRIB2>
@@ -789,6 +817,20 @@
     <CodeFigureForBUFR>323</CodeFigureForBUFR>
     <CodeFigureForGRIB2>323</CodeFigureForGRIB2>
     <SatelliteName_en>METEOR 3M-2</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>324</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>324</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>324</CodeFigureForGRIB2>
+    <SatelliteName_en>METEOR-M N2</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>325</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>325</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>325</CodeFigureForGRIB2>
+    <SatelliteName_en>METEOR-M N2 2</SatelliteName_en>
     <Status>Operational</Status>
   </C05>
   <C05>
@@ -1559,6 +1601,13 @@
     <CodeFigureForBUFR>855</CodeFigureForBUFR>
     <CodeFigureForGRIB2>855</CodeFigureForGRIB2>
     <SatelliteName_en>Combination of INSAT 3D and INSAT 3DR</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>856</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>856</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>856</CodeFigureForGRIB2>
+    <SatelliteName_en>Combination of Sentinel-3 satellites</SatelliteName_en>
     <Status>Operational</Status>
   </C05>
   <C05>

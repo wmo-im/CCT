@@ -92,6 +92,10 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 260,260,260,JASON 1,Operational
 261,261,261,JASON 2,Operational
 262,262,262,JASON 3,Operational
+265,265,265,GeoOptics CICERO OP1,Operational
+266,266,266,GeoOptics CICERO OP2,Operational
+267,267,267,PlanetiQ GNOMES-A,Operational
+268,268,268,PlanetiQ GNOMES-B,Operational
 269,269,269,Spire Lemur 3U CubeSat,Operational
 270,270,270,GOES 16,Operational
 271,271,271,GOES 17,Operational
@@ -112,6 +116,8 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 321,321,321,METEOR 3-5,Operational
 322,322,322,METEOR 3M-1,Operational
 323,323,323,METEOR 3M-2,Operational
+324,324,324,METEOR-M N2,Operational
+325,325,325,METEOR-M N2 2,Operational
 341,341,341,RESURS 01-4,Operational
 ,,,400-499: Numbers allocated to India,Operational
 410,410,410,KALPANA-1,Operational
@@ -222,6 +228,7 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 853,853,853,Combination of METEOSAT and DMSP,Operational
 854,854,854,Non-specific mixture of geostationary and low Earth-orbiting satellites,Operational
 855,855,855,Combination of INSAT 3D and INSAT 3DR,Operational
+856,856,856,Combination of Sentinel-3 satellites,Operational
 870-998,870-998,870-998,Reserved,Operational
 999 Missing value,999-1022,999-65534,Reserved,Operational
 ,1023,65535,Missing value,Operational
