@@ -6,7 +6,7 @@
     <InstrumentMakeAndType_en>Sippican T-4</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.472</EquationCoefficients_a>
     <EquationCoefficients_b>-2.16</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>002</CodeFigureForIXIIXIX>
@@ -14,7 +14,7 @@
     <InstrumentMakeAndType_en>Sippican T-4</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.691</EquationCoefficients_a>
     <EquationCoefficients_b>-2.25</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>011</CodeFigureForIXIIXIX>
@@ -22,7 +22,7 @@
     <InstrumentMakeAndType_en>Sippican T-5</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.828</EquationCoefficients_a>
     <EquationCoefficients_b>-1.82</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>021</CodeFigureForIXIIXIX>
@@ -30,7 +30,7 @@
     <InstrumentMakeAndType_en>Sippican Fast Deep</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.346</EquationCoefficients_a>
     <EquationCoefficients_b>-1.82</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>031</CodeFigureForIXIIXIX>
@@ -38,7 +38,7 @@
     <InstrumentMakeAndType_en>Sippican T-6</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.472</EquationCoefficients_a>
     <EquationCoefficients_b>-2.16</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>032</CodeFigureForIXIIXIX>
@@ -46,7 +46,7 @@
     <InstrumentMakeAndType_en>Sippican T-6</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.691</EquationCoefficients_a>
     <EquationCoefficients_b>-2.25</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>041</CodeFigureForIXIIXIX>
@@ -54,7 +54,7 @@
     <InstrumentMakeAndType_en>Sippican T-7</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.472</EquationCoefficients_a>
     <EquationCoefficients_b>-2.16</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>042</CodeFigureForIXIIXIX>
@@ -62,7 +62,7 @@
     <InstrumentMakeAndType_en>Sippican T-7</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.691</EquationCoefficients_a>
     <EquationCoefficients_b>-2.25</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>051</CodeFigureForIXIIXIX>
@@ -70,7 +70,7 @@
     <InstrumentMakeAndType_en>Sippican Deep Blue</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.472</EquationCoefficients_a>
     <EquationCoefficients_b>-2.16</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>052</CodeFigureForIXIIXIX>
@@ -78,7 +78,7 @@
     <InstrumentMakeAndType_en>Sippican Deep Blue</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.691</EquationCoefficients_a>
     <EquationCoefficients_b>-2.25</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>061</CodeFigureForIXIIXIX>
@@ -86,7 +86,7 @@
     <InstrumentMakeAndType_en>Sippican T-10</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.301</EquationCoefficients_a>
     <EquationCoefficients_b>-2.16</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>071</CodeFigureForIXIIXIX>
@@ -94,7 +94,7 @@
     <InstrumentMakeAndType_en>Sippican T-11</InstrumentMakeAndType_en>
     <EquationCoefficients_a>1.7779</EquationCoefficients_a>
     <EquationCoefficients_b>-0.255</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>081</CodeFigureForIXIIXIX>
@@ -102,7 +102,7 @@
     <InstrumentMakeAndType_en>Sippican AXBT (300 m probes)</InstrumentMakeAndType_en>
     <EquationCoefficients_a>1.52</EquationCoefficients_a>
     <EquationCoefficients_b>0.0</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>201</CodeFigureForIXIIXIX>
@@ -110,7 +110,7 @@
     <InstrumentMakeAndType_en>TSK T-4</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.472</EquationCoefficients_a>
     <EquationCoefficients_b>-2.16</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>202</CodeFigureForIXIIXIX>
@@ -118,7 +118,7 @@
     <InstrumentMakeAndType_en>TSK T-4</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.691</EquationCoefficients_a>
     <EquationCoefficients_b>-2.25</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>211</CodeFigureForIXIIXIX>
@@ -126,7 +126,7 @@
     <InstrumentMakeAndType_en>TSK T-6</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.472</EquationCoefficients_a>
     <EquationCoefficients_b>-2.16</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>212</CodeFigureForIXIIXIX>
@@ -134,7 +134,7 @@
     <InstrumentMakeAndType_en>TSK T-6</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.691</EquationCoefficients_a>
     <EquationCoefficients_b>-2.25</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>221</CodeFigureForIXIIXIX>
@@ -142,7 +142,7 @@
     <InstrumentMakeAndType_en>TSK T-7</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.472</EquationCoefficients_a>
     <EquationCoefficients_b>-2.16</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>222</CodeFigureForIXIIXIX>
@@ -150,7 +150,7 @@
     <InstrumentMakeAndType_en>TSK T-7</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.691</EquationCoefficients_a>
     <EquationCoefficients_b>-2.25</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>231</CodeFigureForIXIIXIX>
@@ -158,7 +158,7 @@
     <InstrumentMakeAndType_en>TSK T-5</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.828</EquationCoefficients_a>
     <EquationCoefficients_b>-1.82</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>241</CodeFigureForIXIIXIX>
@@ -166,7 +166,7 @@
     <InstrumentMakeAndType_en>TSK T-10</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.301</EquationCoefficients_a>
     <EquationCoefficients_b>-2.16</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>251</CodeFigureForIXIIXIX>
@@ -174,7 +174,7 @@
     <InstrumentMakeAndType_en>TSK Deep Blue</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.472</EquationCoefficients_a>
     <EquationCoefficients_b>-2.16</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>252</CodeFigureForIXIIXIX>
@@ -182,7 +182,7 @@
     <InstrumentMakeAndType_en>TSK Deep Blue</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.691</EquationCoefficients_a>
     <EquationCoefficients_b>-2.25</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>261</CodeFigureForIXIIXIX>
@@ -190,7 +190,7 @@
     <InstrumentMakeAndType_en>TSK AXBT</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>401</CodeFigureForIXIIXIX>
@@ -198,7 +198,7 @@
     <InstrumentMakeAndType_en>Sparton XBT-1</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.301</EquationCoefficients_a>
     <EquationCoefficients_b>-2.16</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>411</CodeFigureForIXIIXIX>
@@ -206,7 +206,7 @@
     <InstrumentMakeAndType_en>Sparton XBT-3</InstrumentMakeAndType_en>
     <EquationCoefficients_a>5.861</EquationCoefficients_a>
     <EquationCoefficients_b>-0.0904</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>421</CodeFigureForIXIIXIX>
@@ -214,7 +214,7 @@
     <InstrumentMakeAndType_en>Sparton XBT-4</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.472</EquationCoefficients_a>
     <EquationCoefficients_b>-2.16</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>431</CodeFigureForIXIIXIX>
@@ -222,7 +222,7 @@
     <InstrumentMakeAndType_en>Sparton XBT-5</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.828</EquationCoefficients_a>
     <EquationCoefficients_b>-1.82</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>441</CodeFigureForIXIIXIX>
@@ -230,7 +230,7 @@
     <InstrumentMakeAndType_en>Sparton XBT-5DB</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.828</EquationCoefficients_a>
     <EquationCoefficients_b>-1.82</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>451</CodeFigureForIXIIXIX>
@@ -238,7 +238,7 @@
     <InstrumentMakeAndType_en>Sparton XBT-6</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.472</EquationCoefficients_a>
     <EquationCoefficients_b>-2.16</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>461</CodeFigureForIXIIXIX>
@@ -246,7 +246,7 @@
     <InstrumentMakeAndType_en>Sparton XBT-7</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.472</EquationCoefficients_a>
     <EquationCoefficients_b>-2.16</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>462</CodeFigureForIXIIXIX>
@@ -254,7 +254,7 @@
     <InstrumentMakeAndType_en>Sparton XBT-7</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.705</EquationCoefficients_a>
     <EquationCoefficients_b>-2.28</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>471</CodeFigureForIXIIXIX>
@@ -262,7 +262,7 @@
     <InstrumentMakeAndType_en>Sparton XBT-7DB</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.472</EquationCoefficients_a>
     <EquationCoefficients_b>-2.16</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>481</CodeFigureForIXIIXIX>
@@ -270,7 +270,7 @@
     <InstrumentMakeAndType_en>Sparton XBT-10</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.301</EquationCoefficients_a>
     <EquationCoefficients_b>-2.16</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>491</CodeFigureForIXIIXIX>
@@ -278,7 +278,7 @@
     <InstrumentMakeAndType_en>Sparton XBT-20</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.472</EquationCoefficients_a>
     <EquationCoefficients_b>-2.16</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>501</CodeFigureForIXIIXIX>
@@ -286,7 +286,7 @@
     <InstrumentMakeAndType_en>Sparton XBT-20DB</InstrumentMakeAndType_en>
     <EquationCoefficients_a>6.472</EquationCoefficients_a>
     <EquationCoefficients_b>-2.16</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>510</CodeFigureForIXIIXIX>
@@ -294,7 +294,7 @@
     <InstrumentMakeAndType_en>Sparton 536 AXBT</InstrumentMakeAndType_en>
     <EquationCoefficients_a>1.524</EquationCoefficients_a>
     <EquationCoefficients_b>0</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>700</CodeFigureForIXIIXIX>
@@ -302,7 +302,7 @@
     <InstrumentMakeAndType_en>Sippican XCTD Standard</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>710</CodeFigureForIXIIXIX>
@@ -310,7 +310,7 @@
     <InstrumentMakeAndType_en>Sippican XCTD Deep</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>720</CodeFigureForIXIIXIX>
@@ -318,7 +318,7 @@
     <InstrumentMakeAndType_en>Sippican AXCTD</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>730</CodeFigureForIXIIXIX>
@@ -326,7 +326,7 @@
     <InstrumentMakeAndType_en>Sippican SXCTD</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>741</CodeFigureForIXIIXIX>
@@ -334,7 +334,7 @@
     <InstrumentMakeAndType_en>TSK XCTD/XCTD-1/XCTD-1N</InstrumentMakeAndType_en>
     <EquationCoefficients_a>3.42543</EquationCoefficients_a>
     <EquationCoefficients_b>-0.47</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>742</CodeFigureForIXIIXIX>
@@ -342,7 +342,7 @@
     <InstrumentMakeAndType_en>TSK XCTD-2/XCTD-2N</InstrumentMakeAndType_en>
     <EquationCoefficients_a>3.43898</EquationCoefficients_a>
     <EquationCoefficients_b>-0.31</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>743</CodeFigureForIXIIXIX>
@@ -350,7 +350,7 @@
     <InstrumentMakeAndType_en>TSK XCTD-2F</InstrumentMakeAndType_en>
     <EquationCoefficients_a>3.43898</EquationCoefficients_a>
     <EquationCoefficients_b>-0.31</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>744</CodeFigureForIXIIXIX>
@@ -358,7 +358,7 @@
     <InstrumentMakeAndType_en>TSK XCTD-3/XCTD-3N</InstrumentMakeAndType_en>
     <EquationCoefficients_a>5.07598</EquationCoefficients_a>
     <EquationCoefficients_b>-0.72</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>745</CodeFigureForIXIIXIX>
@@ -366,7 +366,7 @@
     <InstrumentMakeAndType_en>TSK XCTD-4/XCTD-4N</InstrumentMakeAndType_en>
     <EquationCoefficients_a>3.68081</EquationCoefficients_a>
     <EquationCoefficients_b>-0.47</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>751</CodeFigureForIXIIXIX>
@@ -374,7 +374,7 @@
     <InstrumentMakeAndType_en>TSK AXCTD</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>780</CodeFigureForIXIIXIX>
@@ -382,7 +382,7 @@
     <InstrumentMakeAndType_en>Sea-Bird SBE21 SEACAT Thermosalinograph</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>781</CodeFigureForIXIIXIX>
@@ -390,7 +390,7 @@
     <InstrumentMakeAndType_en>Sea-Bird SBE45 MicroTSG Thermosalinograph</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>800</CodeFigureForIXIIXIX>
@@ -398,7 +398,7 @@
     <InstrumentMakeAndType_en>Mechanical BT</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>810</CodeFigureForIXIIXIX>
@@ -406,7 +406,7 @@
     <InstrumentMakeAndType_en>Hydrocast</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>820</CodeFigureForIXIIXIX>
@@ -414,7 +414,7 @@
     <InstrumentMakeAndType_en>Thermistor chain</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>825</CodeFigureForIXIIXIX>
@@ -422,7 +422,7 @@
     <InstrumentMakeAndType_en>Temperature (sonic) and pressure probes</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>830</CodeFigureForIXIIXIX>
@@ -430,7 +430,7 @@
     <InstrumentMakeAndType_en>CTD</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>831</CodeFigureForIXIIXIX>
@@ -438,7 +438,7 @@
     <InstrumentMakeAndType_en>CTD-P-ALACE float</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>835</CodeFigureForIXIIXIX>
@@ -446,7 +446,7 @@
     <InstrumentMakeAndType_en>PROVOR IV</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>836</CodeFigureForIXIIXIX>
@@ -454,7 +454,7 @@
     <InstrumentMakeAndType_en>PROVOR III</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>837</CodeFigureForIXIIXIX>
@@ -462,7 +462,7 @@
     <InstrumentMakeAndType_en>ARVOR_C, SBE conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>838</CodeFigureForIXIIXIX>
@@ -470,7 +470,7 @@
     <InstrumentMakeAndType_en>ARVOR_D, SBE conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>839</CodeFigureForIXIIXIX>
@@ -478,7 +478,7 @@
     <InstrumentMakeAndType_en>PROVOR-II, SBE conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>840</CodeFigureForIXIIXIX>
@@ -486,7 +486,7 @@
     <InstrumentMakeAndType_en>PROVOR, no conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>841</CodeFigureForIXIIXIX>
@@ -494,7 +494,7 @@
     <InstrumentMakeAndType_en>PROVOR, Sea-Bird conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>842</CodeFigureForIXIIXIX>
@@ -502,7 +502,7 @@
     <InstrumentMakeAndType_en>PROVOR, FSI conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>843</CodeFigureForIXIIXIX>
@@ -510,7 +510,7 @@
     <InstrumentMakeAndType_en>Polar Ocean Profiling System (POPS), PROVOR, SBE CTD</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>844</CodeFigureForIXIIXIX>
@@ -518,7 +518,7 @@
     <InstrumentMakeAndType_en>Profiling float, ARVOR, Sea-Bird conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>845</CodeFigureForIXIIXIX>
@@ -526,7 +526,7 @@
     <InstrumentMakeAndType_en>Webb Research, no conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>846</CodeFigureForIXIIXIX>
@@ -534,7 +534,7 @@
     <InstrumentMakeAndType_en>Webb Research, Sea-Bird conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>847</CodeFigureForIXIIXIX>
@@ -542,7 +542,7 @@
     <InstrumentMakeAndType_en>Webb Research, FSI conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>848</CodeFigureForIXIIXIX>
@@ -550,7 +550,7 @@
     <InstrumentMakeAndType_en>APEX-EM, SBE conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>849</CodeFigureForIXIIXIX>
@@ -558,7 +558,7 @@
     <InstrumentMakeAndType_en>APEX_D, SBE conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>850</CodeFigureForIXIIXIX>
@@ -566,7 +566,7 @@
     <InstrumentMakeAndType_en>SOLO, no conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>851</CodeFigureForIXIIXIX>
@@ -574,7 +574,7 @@
     <InstrumentMakeAndType_en>SOLO, Sea-Bird conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>852</CodeFigureForIXIIXIX>
@@ -582,7 +582,7 @@
     <InstrumentMakeAndType_en>SOLO, FSI conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>853</CodeFigureForIXIIXIX>
@@ -590,7 +590,7 @@
     <InstrumentMakeAndType_en>Profiling float, SOLO2 (SCRIPPS), Sea-Bird conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>854</CodeFigureForIXIIXIX>
@@ -598,7 +598,7 @@
     <InstrumentMakeAndType_en>S2A, SBE conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>855</CodeFigureForIXIIXIX>
@@ -606,7 +606,7 @@
     <InstrumentMakeAndType_en>Profiling float, NINJA, no conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>856</CodeFigureForIXIIXIX>
@@ -614,7 +614,7 @@
     <InstrumentMakeAndType_en>Profiling float, NINJA, SBE conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>857</CodeFigureForIXIIXIX>
@@ -622,7 +622,7 @@
     <InstrumentMakeAndType_en>Profiling float, NINJA, FSI conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>858</CodeFigureForIXIIXIX>
@@ -630,7 +630,7 @@
     <InstrumentMakeAndType_en>Profiling float, NINJA, TSK conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>859</CodeFigureForIXIIXIX>
@@ -638,7 +638,7 @@
     <InstrumentMakeAndType_en>Profiling float, NEMO, no conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>860</CodeFigureForIXIIXIX>
@@ -646,7 +646,7 @@
     <InstrumentMakeAndType_en>Profiling float, NEMO, SBE conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>861</CodeFigureForIXIIXIX>
@@ -654,7 +654,7 @@
     <InstrumentMakeAndType_en>Profiling float, NEMO, FSI conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>862</CodeFigureForIXIIXIX>
@@ -662,7 +662,7 @@
     <InstrumentMakeAndType_en>SOLO_D, SBE conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>863</CodeFigureForIXIIXIX>
@@ -670,7 +670,7 @@
     <InstrumentMakeAndType_en>NAVIS-A, SBE conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>864</CodeFigureForIXIIXIX>
@@ -678,7 +678,7 @@
     <InstrumentMakeAndType_en>NINJA_D, SBE conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>865</CodeFigureForIXIIXIX>
@@ -686,7 +686,7 @@
     <InstrumentMakeAndType_en>NOVA, SBE conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>866</CodeFigureForIXIIXIX>
@@ -694,7 +694,7 @@
     <InstrumentMakeAndType_en>ALAMO, no conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>867</CodeFigureForIXIIXIX>
@@ -702,7 +702,7 @@
     <InstrumentMakeAndType_en>ALAMO, RBR conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>868</CodeFigureForIXIIXIX>
@@ -710,7 +710,7 @@
     <InstrumentMakeAndType_en>ALAMO, SBE conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>869</CodeFigureForIXIIXIX>
@@ -718,7 +718,7 @@
     <InstrumentMakeAndType_en>Reserved</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>870</CodeFigureForIXIIXIX>
@@ -726,7 +726,7 @@
     <InstrumentMakeAndType_en>HM2000</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>871</CodeFigureForIXIIXIX>
@@ -734,7 +734,7 @@
     <InstrumentMakeAndType_en>COPEX</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>872</CodeFigureForIXIIXIX>
@@ -742,7 +742,7 @@
     <InstrumentMakeAndType_en>S2X</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>873</CodeFigureForIXIIXIX>
@@ -750,7 +750,7 @@
     <InstrumentMakeAndType_en>ALTO</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>874</CodeFigureForIXIIXIX>
@@ -758,7 +758,7 @@
     <InstrumentMakeAndType_en>SOLO_D_MRV</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>875-899</CodeFigureForIXIIXIX>
@@ -766,7 +766,7 @@
     <InstrumentMakeAndType_en>Reserved</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>900</CodeFigureForIXIIXIX>
@@ -774,7 +774,7 @@
     <InstrumentMakeAndType_en>Sippican LMP-5 XBT</InstrumentMakeAndType_en>
     <EquationCoefficients_a>9.727</EquationCoefficients_a>
     <EquationCoefficients_b>-0.0473</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>901</CodeFigureForIXIIXIX>
@@ -782,7 +782,7 @@
     <InstrumentMakeAndType_en>Ice-tethered Profiler (ITP), SBE CTD</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>902</CodeFigureForIXIIXIX>
@@ -790,7 +790,7 @@
     <InstrumentMakeAndType_en>Brooke Ocean Moving Vessel Profiler (MVP)</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>903</CodeFigureForIXIIXIX>
@@ -798,7 +798,7 @@
     <InstrumentMakeAndType_en>Sea-Bird CTD</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>904</CodeFigureForIXIIXIX>
@@ -806,7 +806,7 @@
     <InstrumentMakeAndType_en>AML Oceanographic CTD</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>905</CodeFigureForIXIIXIX>
@@ -814,7 +814,7 @@
     <InstrumentMakeAndType_en>Falmouth Scientific CTD</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>906</CodeFigureForIXIIXIX>
@@ -822,7 +822,7 @@
     <InstrumentMakeAndType_en>Ocean Sensors CTD</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>907</CodeFigureForIXIIXIX>
@@ -830,7 +830,7 @@
     <InstrumentMakeAndType_en>Valeport CTD</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>908</CodeFigureForIXIIXIX>
@@ -838,7 +838,7 @@
     <InstrumentMakeAndType_en>Oceanscience MVP</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>909</CodeFigureForIXIIXIX>
@@ -846,7 +846,7 @@
     <InstrumentMakeAndType_en>IDRONAUT CTD</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>910</CodeFigureForIXIIXIX>
@@ -854,7 +854,7 @@
     <InstrumentMakeAndType_en>Sea-Bird SBE 38</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>911-994</CodeFigureForIXIIXIX>
@@ -862,7 +862,7 @@
     <InstrumentMakeAndType_en>Reserved</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>995</CodeFigureForIXIIXIX>
@@ -870,7 +870,7 @@
     <InstrumentMakeAndType_en>Instrument attached to marine mammals</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>996</CodeFigureForIXIIXIX>
@@ -878,7 +878,7 @@
     <InstrumentMakeAndType_en>Instrument attached to animals other than marine mammals</InstrumentMakeAndType_en>
     <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
     <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX>997-999</CodeFigureForIXIIXIX>
@@ -886,7 +886,7 @@
     <InstrumentMakeAndType_en>Reserved</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX/>
@@ -894,7 +894,7 @@
     <InstrumentMakeAndType_en>Reserved</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
   <C03>
     <CodeFigureForIXIIXIX/>
@@ -902,6 +902,6 @@
     <InstrumentMakeAndType_en>Missing value</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
-    <Status>Operational</Status>
+    <Status->Operational</Status->
   </C03>
 </dataroot>
