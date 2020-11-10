@@ -1,4 +1,4 @@
-CommonCodeTable,Title_en,Applicable_en,Status 
+CommonCodeTable,Title_en,Applicable_en,Status
 0.00,"GRIB, BUFR and CREX master table version number","GRIB Edition 2, Octet 10 in Section 1",Operational
 0.00,"GRIB, BUFR and CREX master table version number","BUFR Edition 4, Octet 14 in Section 1",Operational
 0.00,"GRIB, BUFR and CREX master table version number","CREX Edition 2, vv and bb in Group No. 1, Section 1",Operational
