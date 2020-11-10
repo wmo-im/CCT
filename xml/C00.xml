@@ -10,7 +10,7 @@
   <C00>
     <GRIB-version-number/>
     <BUFR-version-number>1</BUFR-version-number>
-    <CREX-version-number> </CREX-version-number>
+    <CREX-version-number/>
     <Effective-date>1 November 1988</Effective-date>
     <Status>Operational</Status>
   </C00>
