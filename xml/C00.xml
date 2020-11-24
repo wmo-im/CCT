@@ -10,7 +10,7 @@
   <C00>
     <GRIB-version-number/>
     <BUFR-version-number>1</BUFR-version-number>
-    <CREX-version-number> </CREX-version-number>
+    <CREX-version-number/>
     <Effective-date>1 November 1988</Effective-date>
     <Status>Operational</Status>
   </C00>
@@ -249,7 +249,7 @@
     <GRIB-version-number>26</GRIB-version-number>
     <BUFR-version-number>35</BUFR-version-number>
     <CREX-version-number>35</CREX-version-number>
-    <Effective-date>Pre-operational to be implemented by next amendment</Effective-date>
+    <Effective-date>16 November 2020</Effective-date>
     <Status>Operational</Status>
   </C00>
   <C00>
