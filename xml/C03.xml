@@ -441,14 +441,6 @@
     <Status>Operational</Status>
   </C03>
   <C03>
-    <CodeFigureForIXIIXIX>834</CodeFigureForIXIIXIX>
-    <CodeFigureForBUFR>834</CodeFigureForBUFR>
-    <InstrumentMakeAndType_en>Provor V SBE</InstrumentMakeAndType_en>
-    <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
-    <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
-  </C03>
-  <C03>
     <CodeFigureForIXIIXIX>835</CodeFigureForIXIIXIX>
     <CodeFigureForBUFR>835</CodeFigureForBUFR>
     <InstrumentMakeAndType_en>PROVOR IV</InstrumentMakeAndType_en>
@@ -769,56 +761,8 @@
     <Status>Operational</Status>
   </C03>
   <C03>
-    <CodeFigureForIXIIXIX>875</CodeFigureForIXIIXIX>
-    <CodeFigureForBUFR>875</CodeFigureForBUFR>
-    <InstrumentMakeAndType_en>Alto RBR</InstrumentMakeAndType_en>
-    <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
-    <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
-  </C03>
-  <C03>
-    <CodeFigureForIXIIXIX>876</CodeFigureForIXIIXIX>
-    <CodeFigureForBUFR>876</CodeFigureForBUFR>
-    <InstrumentMakeAndType_en>Alto SBE</InstrumentMakeAndType_en>
-    <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
-    <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational 			</Status>
-  </C03>
-  <C03>
-    <CodeFigureForIXIIXIX>877</CodeFigureForIXIIXIX>
-    <CodeFigureForBUFR>877</CodeFigureForBUFR>
-    <InstrumentMakeAndType_en>Apex RBR</InstrumentMakeAndType_en>
-    <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
-    <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational 			</Status>
-  </C03>
-  <C03>
-    <CodeFigureForIXIIXIX>878</CodeFigureForIXIIXIX>
-    <CodeFigureForBUFR>878</CodeFigureForBUFR>
-    <InstrumentMakeAndType_en>Arvor RBR</InstrumentMakeAndType_en>
-    <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
-    <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational 			</Status>
-  </C03>
-  <C03>
-    <CodeFigureForIXIIXIX>879</CodeFigureForIXIIXIX>
-    <CodeFigureForBUFR>879</CodeFigureForBUFR>
-    <InstrumentMakeAndType_en>Solo II RBR</InstrumentMakeAndType_en>
-    <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
-    <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational 			</Status>
-  </C03>
-  <C03>
-    <CodeFigureForIXIIXIX>880</CodeFigureForIXIIXIX>
-    <CodeFigureForBUFR>880</CodeFigureForBUFR>
-    <InstrumentMakeAndType_en>S2A RBR</InstrumentMakeAndType_en>
-    <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
-    <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
-    <Status>Operational</Status>
-  </C03>
-  <C03>
-    <CodeFigureForIXIIXIX>881-899</CodeFigureForIXIIXIX>
-    <CodeFigureForBUFR>881-899</CodeFigureForBUFR>
+    <CodeFigureForIXIIXIX>875-899</CodeFigureForIXIIXIX>
+    <CodeFigureForBUFR>875-899</CodeFigureForBUFR>
     <InstrumentMakeAndType_en>Reserved</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
