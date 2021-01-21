@@ -1002,6 +1002,13 @@
     <Status>Operational</Status>
   </C05>
   <C05>
+    <CodeFigureForI6I6I6>504</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>504</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>504</CodeFigureForGRIB2>
+    <SatelliteName_en>Hai Yang 2C (HY-2C, SOA/NSOAS China)</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
     <CodeFigureForI6I6I6>510</CodeFigureForI6I6I6>
     <CodeFigureForBUFR>510</CodeFigureForBUFR>
     <CodeFigureForGRIB2>510</CodeFigureForGRIB2>
