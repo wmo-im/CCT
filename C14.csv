@@ -460,7 +460,7 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 60029,Aromatic peroxide radical (Aryl dioxydanyl radicals),ArOO•,Operational
 60030,Biogenic Secondary Organic Compound,,Operational
 60031,Anthropogenic Secondary Organic Compound,,Operational
-60032,all hydroxy-peroxides products of the reaction of hydroxy-isoprene adducts with O_2,ISOPOOH,Operational
+60032,all hydroxy-peroxides products of the reaction of hydroxy-isoprene adducts with O2,ISOPOOH,Operational
 60033-61999,Reserved,,Operational
 62000,Total aerosol,,Operational
 62001,Dust dry,,Operational
