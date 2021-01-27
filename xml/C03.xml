@@ -444,8 +444,8 @@
     <CodeFigureForIXIIXIX>834</CodeFigureForIXIIXIX>
     <CodeFigureForBUFR>834</CodeFigureForBUFR>
     <InstrumentMakeAndType_en>Provor V SBE</InstrumentMakeAndType_en>
-    <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
-    <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
+    <EquationCoefficients_a>not-applicable</EquationCoefficients_a>
+    <EquationCoefficients_b>not-applicable</EquationCoefficients_b>
     <Status>Operational</Status>
   </C03>
   <C03>
