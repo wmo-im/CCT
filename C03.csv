@@ -54,6 +54,7 @@ CodeFigureForIXIIXIX,CodeFigureForBUFR,InstrumentMakeAndType_en,EquationCoeffici
 825,825,Temperature (sonic) and pressure probes,Not applicable,Not applicable,Operational
 830,830,CTD,Not applicable,Not applicable,Operational
 831,831,CTD-P-ALACE float,Not applicable,Not applicable,Operational
+834,834,Provor V SBE,Not applicable,Not applicable,Operational
 835,835,PROVOR IV,Not applicable,Not applicable,Operational
 836,836,PROVOR III,Not applicable,Not applicable,Operational
 837,837,"ARVOR_C, SBE conductivity sensor",,,Operational
@@ -94,7 +95,13 @@ CodeFigureForIXIIXIX,CodeFigureForBUFR,InstrumentMakeAndType_en,EquationCoeffici
 872,872,S2X,Not applicable,Not applicable,Operational
 873,873,ALTO,Not applicable,Not applicable,Operational
 874,874,SOLO_D_MRV,Not applicable,Not applicable,Operational
-875-899,875-899,Reserved,,,Operational
+875,875,Alto RBR,Not applicable,Not applicable,Operational
+876,876,Alto SBE,Not applicable,Not applicable,Operational
+877,877,Apex RBR,Not applicable,Not applicable,Operational
+878,878,Arvor RBR,Not applicable,Not applicable,Operational
+879,879,Solo II RBR,Not applicable,Not applicable,Operational
+880,880,S2A RBR,Not applicable,Not applicable,Operational
+881-899,881-899,Reserved,,,Operational
 900,900,Sippican LMP-5 XBT,9.727,-0.0473,Operational
 901,901,"Ice-tethered Profiler (ITP), SBE CTD",,,Operational
 902,902,Brooke Ocean Moving Vessel Profiler (MVP),,,Operational
