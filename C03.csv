@@ -95,11 +95,11 @@ CodeFigureForIXIIXIX,CodeFigureForBUFR,InstrumentMakeAndType_en,EquationCoeffici
 872,872,S2X,Not applicable,Not applicable,Operational
 873,873,ALTO,Not applicable,Not applicable,Operational
 874,874,SOLO_D_MRV,Not applicable,Not applicable,Operational
-875,875,Alto RBR,Not applicable,Not applicable,Operational
-876,876,Alto SBE,Not applicable,Not applicable,Operational
-877,877,Apex RBR,Not applicable,Not applicable,Operational
-878,878,Arvor RBR,Not applicable,Not applicable,Operational
-879,879,Solo II RBR,Not applicable,Not applicable,Operational
+875,875,ALTO RBR,Not applicable,Not applicable,Operational
+876,876,ALTO SBE,Not applicable,Not applicable,Operational
+877,877,APEX RBR,Not applicable,Not applicable,Operational
+878,878,ARVOR RBR,Not applicable,Not applicable,Operational
+879,879,SOLO II RBR,Not applicable,Not applicable,Operational
 880,880,S2A RBR,Not applicable,Not applicable,Operational
 881-899,881-899,Reserved,,,Operational
 900,900,Sippican LMP-5 XBT,9.727,-0.0473,Operational
