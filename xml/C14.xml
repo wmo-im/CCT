@@ -615,31 +615,31 @@
   <C14>
     <CodeFigure>10055</CodeFigure>
     <Meaning_en>Methyl-peroxy-nitrate (nitroperoxy-methane)</Meaning_en>
-    <ChemicalFormula>CH_3OONO_2</ChemicalFormula>
+    <ChemicalFormula>CH3OONO2</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
     <CodeFigure>10056</CodeFigure>
     <Meaning_en>2-lambda^1-oxidanyloxy-2-methylbut-3-en-1-ol (4-hydroxy-3-methyl-1-butene-3-ylperoxy radical)</Meaning_en>
-    <ChemicalFormula>HOCH_2C(CH_3)(OO•)CHCH_2</ChemicalFormula>
+    <ChemicalFormula>HOCH2C(CH3)(OO•)CHCH2</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
     <CodeFigure>10057</CodeFigure>
     <Meaning_en>2-lambda^1-oxidanyloxy-3-methylbut-3-en-1-ol (2-hydroxy-1-isopropenylethylperoxy radical)</Meaning_en>
-    <ChemicalFormula>HOCH_2CH(OO•)C(CH_3)CH_2</ChemicalFormula>
+    <ChemicalFormula>HOCH2CH(OO•)C(CH3)CH2</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
     <CodeFigure>10058</CodeFigure>
     <Meaning_en>(Z)-4-hydroperoxy-2-methyl-2-butenal</Meaning_en>
-    <ChemicalFormula>CH2(OOH)CHC(CH_3)CHO</ChemicalFormula>
+    <ChemicalFormula>CH2(OOH)CHC(CH3)CHO</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
     <CodeFigure>10059</CodeFigure>
     <Meaning_en>(Z)-4-hydroperoxy-3-methyl-2-butenal</Meaning_en>
-    <ChemicalFormula>CH2(OOH)C(CH_3)CHCHO</ChemicalFormula>
+    <ChemicalFormula>CH2(OOH)C(CH3)CHCHO</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
@@ -2745,7 +2745,7 @@
   <C14>
     <CodeFigure>60028</CodeFigure>
     <Meaning_en>Peroxyacyl nitrates</Meaning_en>
-    <ChemicalFormula>RC(O)OONO_2</ChemicalFormula>
+    <ChemicalFormula>RC(O)OONO2</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
@@ -2768,7 +2768,7 @@
   </C14>
   <C14>
     <CodeFigure>60032</CodeFigure>
-    <Meaning_en>All hydroxy-peroxides products of the reaction of hydroxy-isoprene adducts with O_2</Meaning_en>
+    <Meaning_en>All hydroxy-peroxides products of the reaction of hydroxy-isoprene adducts with O2</Meaning_en>
     <ChemicalFormula>ISOPOOH</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
