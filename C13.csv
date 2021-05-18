@@ -116,6 +116,7 @@ CodeFigure_DataCategories,Name_DataCategories_en,CodeFigure_InternationalDataSub
 31,Oceanographic data,5,XBT/XCTD profiles (TESAC),Operational
 31,Oceanographic data,6,Waves reports,Operational
 31,Oceanographic data,7,Tsunameter data,Operational
+32,Lidar (Ground based),0,Wind,Cloud,Aerosol,Operational
 101,Image data (satellite),0,Multi-purpose VIS/IR imagery,Operational
 101,Image data (satellite),1,Conical scanning MW imagery (intermediate frequencies),Operational
 101,Image data (satellite),2,Low frequency MW imagery,Operational
