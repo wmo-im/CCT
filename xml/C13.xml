@@ -164,6 +164,13 @@
   <C13>
     <CodeFigure_DataCategories>1</CodeFigure_DataCategories>
     <Name_DataCategories_en>Surface data - sea</Name_DataCategories_en>
+    <CodeFigure_InternationalDataSubcategories>15</CodeFigure_InternationalDataSubcategories>
+    <Name_InternationalDataSubcategories_en>Uncrewed surface vehicle</Name_InternationalDataSubcategories_en>
+    <Status>Operational</Status>
+  </C13>
+  <C13>
+    <CodeFigure_DataCategories>1</CodeFigure_DataCategories>
+    <Name_DataCategories_en>Surface data - sea</Name_DataCategories_en>
     <CodeFigure_InternationalDataSubcategories>20</CodeFigure_InternationalDataSubcategories>
     <Name_InternationalDataSubcategories_en>Climatological observations (CLIMAT SHIP)</Name_InternationalDataSubcategories_en>
     <Status>Operational</Status>
