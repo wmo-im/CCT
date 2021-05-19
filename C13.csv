@@ -22,6 +22,7 @@ CodeFigure_DataCategories,Name_DataCategories_en,CodeFigure_InternationalDataSub
 1,Surface data - sea,0,Synoptic observations (SHIP),Operational
 1,Surface data - sea,6,One-hour observations from automated stations,Operational
 1,Surface data - sea,7,n-minute observations from AWS stations,Operational
+1,Surface data - sea,15,Uncrewed surface vehicle,Operational
 1,Surface data - sea,20,Climatological observations (CLIMAT SHIP),Operational
 1,Surface data - sea,25,Buoy observation (BUOY),Operational
 1,Surface data - sea,30,Tide gauge,Operational
