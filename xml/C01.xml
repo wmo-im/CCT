@@ -510,7 +510,7 @@
     <Octet5GRIB1_Octet6BUFR3>58</Octet5GRIB1_Octet6BUFR3>
     <OriginatingGeneratingCentres>Fleet Numerical Meteorology and Oceanography Center, Monterey, CA, United States</OriginatingGeneratingCentres>
     <OriginatingGeneratingCentres_ia5>Fleet Numerical Meteorology and Oceanography Center, Monterey, CA, United States</OriginatingGeneratingCentres_ia5>
-    <Status>Operational </Status>
+    <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>59</CodeFigureForF1F2>
