@@ -49,7 +49,7 @@ CodeFigureForF1F2,CodeFigureForF3F3F3,Octet5GRIB1_Octet6BUFR3,OriginatingGenerat
 43,043,43,Brasilia (RSMC),Brasilia (RSMC),Operational
 44,044,44,),),Operational
 45,045,45,Santiago,Santiago,Operational
-46,046,46,Brazilian Space Agency ­ INPE,Brazilian Space Agency ­ INPE,Operational
+46,046,46,Brazilian Space Agency INPE,Brazilian Space Agency INPE,Operational
 47,047,47,Colombia (NMC),Colombia (NMC),Operational
 48,048,48,Ecuador (NMC),Ecuador (NMC),Operational
 49,049,49,Peru (NMC),Peru (NMC),Operational
@@ -80,7 +80,7 @@ CodeFigureForF1F2,CodeFigureForF3F3F3,Octet5GRIB1_Octet6BUFR3,OriginatingGenerat
 72,072,72,Singapore,Singapore,Operational
 73,073,73,Malaysia (NMC),Malaysia (NMC),Operational
 ,,,74-99: Centres in Region VI,74-99: Centres in Region VI,Operational
-74,074,74,UK Meteorological Office ­ Exeter (RSMC),UK Meteorological Office ­ Exeter (RSMC),Operational
+74,074,74,UK Meteorological Office Exeter (RSMC),UK Meteorological Office Exeter (RSMC),Operational
 75,075,75,),),Operational
 76,076,76,Moscow (RSMC),Moscow (RSMC),Operational
 77,077,77,Reserved,Reserved,Operational
