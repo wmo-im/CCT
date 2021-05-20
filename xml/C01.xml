@@ -404,8 +404,8 @@
     <CodeFigureForF1F2>46</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>046</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>46</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Brazilian Space Agency ­ INPE</OriginatingGeneratingCentres>
-    <OriginatingGeneratingCentres_ia5>Brazilian Space Agency ­ INPE</OriginatingGeneratingCentres_ia5>
+    <OriginatingGeneratingCentres>Brazilian Space Agency INPE</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_ia5>Brazilian Space Agency INPE</OriginatingGeneratingCentres_ia5>
     <Status>Operational</Status>
   </C01>
   <C01>
@@ -652,8 +652,8 @@
     <CodeFigureForF1F2>74</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>074</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>74</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>UK Meteorological Office ­ Exeter (RSMC)</OriginatingGeneratingCentres>
-    <OriginatingGeneratingCentres_ia5>UK Meteorological Office ­ Exeter (RSMC)</OriginatingGeneratingCentres_ia5>
+    <OriginatingGeneratingCentres>UK Meteorological Office Exeter (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_ia5>UK Meteorological Office Exeter (RSMC)</OriginatingGeneratingCentres_ia5>
     <Status>Operational</Status>
   </C01>
   <C01>
