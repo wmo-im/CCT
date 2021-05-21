@@ -3,9 +3,9 @@ CodeFigure_OriginatingCentres,Name_OriginatingCentres,CodeFigure_SubCentres,Name
 ,REGION I,,,,Operational
 ,,,,,Operational
 ,REGION II,,,,Operational
-34,"Tokyo (RSMC), Japan Meteorological Agency",207,207,Syowa34,Syowa34,Operational
-34,"Tokyo (RSMC), Japan Meteorological Agency",240,240,Kiyose34,Kiyose34,Operational
-34,"Tokyo (RSMC), Japan Meteorological Agency",241,241,Reanalysis project,Reanalysis project,Operational
+34,"Tokyo (RSMC), Japan Meteorological Agency",207,Syowa34,Syowa34,Operational
+34,"Tokyo (RSMC), Japan Meteorological Agency",240,Kiyose34,Kiyose34,Operational
+34,"Tokyo (RSMC), Japan Meteorological Agency",241,Reanalysis project,Reanalysis project,Operational
 39,Beijing (RSMC),225,Beijing,Beijing,Operational
 39,Beijing (RSMC),226,Guangzhou,Guangzhou,Operational
 39,Beijing (RSMC),228,Urumuqi,Urumuqi,Operational
@@ -33,23 +33,23 @@ CodeFigure_OriginatingCentres,Name_OriginatingCentres,CodeFigure_SubCentres,Name
 147,National Commission on Space Activities (CONAE) - Argentina,60,Cotopaxi,Cotopaxi,Operational
 148,Brazilian Department of Airspace Control - DECEA,1,Integrated Centre of Aeronautical Meteorology - CIMAER,Integrated Centre of Aeronautical Meteorology - CIMAER,Operational
 ,REGION IV,,,,Operational
-7,"US National Weather Service, NCEP",1,1,NCEP Reanalysis Project,NCEP Reanalysis Project,Operational
-7,"US National Weather Service, NCEP",2,2,NCEP Ensemble Products,NCEP Ensemble Products,Operational
-7,"US National Weather Service, NCEP",3,3,NCEP Central Operations,NCEP Central Operations,Operational
-7,"US National Weather Service, NCEP",4,4,Environmental Modeling Center,Environmental Modeling Center,Operational
-7,"US National Weather Service, NCEP",5,5,Weather Prediction Center,Weather Prediction Center,Operational
-7,"US National Weather Service, NCEP",6,6,Ocean Prediction Center,Ocean Prediction Center,Operational
-7,"US National Weather Service, NCEP",7,7,Climate Prediction Center,Climate Prediction Center,Operational
-7,"US National Weather Service, NCEP",8,8,Aviation Weather Center,Aviation Weather Center,Operational
+7,"US National Weather Service, NCEP",1,NCEP Reanalysis Project,NCEP Reanalysis Project,Operational
+7,"US National Weather Service, NCEP",2,NCEP Ensemble Products,NCEP Ensemble Products,Operational
+7,"US National Weather Service, NCEP",3,NCEP Central Operations,NCEP Central Operations,Operational
+7,"US National Weather Service, NCEP",4,Environmental Modeling Center,Environmental Modeling Center,Operational
+7,"US National Weather Service, NCEP",5,Weather Prediction Center,Weather Prediction Center,Operational
+7,"US National Weather Service, NCEP",6,Ocean Prediction Center,Ocean Prediction Center,Operational
+7,"US National Weather Service, NCEP",7,Climate Prediction Center,Climate Prediction Center,Operational
+7,"US National Weather Service, NCEP",8,Aviation Weather Center,Aviation Weather Center,Operational
 7,"US National Weather Service, NCEP",9,9,Storm Prediction Center,Storm Prediction Center,Operational
-7,"US National Weather Service, NCEP",10,10,National Hurricane Center,National Hurricane Center,Operational
-7,"US National Weather Service, NCEP",11,11,NWS Techniques Development Laboratory,NWS Techniques Development Laboratory,Operational
-7,"US National Weather Service, NCEP",12,12,NESDIS Office of Research and Applications,NESDIS Office of Research and Applications,Operational
-7,"US National Weather Service, NCEP",13,13,Federal Aviation Administration,Federal Aviation Administration,Operational
-7,"US National Weather Service, NCEP",14,14,NWS Meteorological Development Laboratory,NWS Meteorological Development Laboratory,Operational
-7,"US National Weather Service, NCEP",15,15,North American Regional Reanalysis Project,North American Regional Reanalysis Project,Operational
-7,"US National Weather Service, NCEP",16,16,Space Weather Prediction Center,Space Weather Prediction Center,Operational
-7,"US National Weather Service, NCEP",17,17,ESRL Global Systems Division,ESRL Global Systems Division,Operational
+7,"US National Weather Service, NCEP",10,National Hurricane Center,National Hurricane Center,Operational
+7,"US National Weather Service, NCEP",11,NWS Techniques Development Laboratory,NWS Techniques Development Laboratory,Operational
+7,"US National Weather Service, NCEP",12,NESDIS Office of Research and Applications,NESDIS Office of Research and Applications,Operational
+7,"US National Weather Service, NCEP",13,Federal Aviation Administration,Federal Aviation Administration,Operational
+7,"US National Weather Service, NCEP",14,NWS Meteorological Development Laboratory,NWS Meteorological Development Laboratory,Operational
+7,"US National Weather Service, NCEP",15,North American Regional Reanalysis Project,North American Regional Reanalysis Project,Operational
+7,"US National Weather Service, NCEP",16,Space Weather Prediction Center,Space Weather Prediction Center,Operational
+7,"US National Weather Service, NCEP",17,ESRL Global Systems Division,ESRL Global Systems Division,Operational
 160,United States NOAA/NESDIS,1,National Climatic Data Center,National Climatic Data Center,Operational
 160,United States NOAA/NESDIS,2,National Geophysical Data Center,National Geophysical Data Center,Operational
 160,United States NOAA/NESDIS,3,National Oceanographic Data Center,National Oceanographic Data Center,Operational
@@ -124,31 +124,31 @@ CodeFigure_OriginatingCentres,Name_OriginatingCentres,CodeFigure_SubCentres,Name
 204,National Institute of Water and Atmospheric Research (NIWA - New Zealand),101,Maupuia,Maupuia,Operational
 204,National Institute of Water and Atmospheric Research (NIWA - New Zealand),102,Lauder,Lauder,Operational
 ,REGION VI,,,,Operational
-74,"UK Met Office, Exeter (RSMC)",1,1,Shanwick Oceanic Area Control Centre,Shanwick Oceanic Area Control Centre,Operational
-74,"UK Met Office, Exeter (RSMC)",2,2,Fucino,Fucino,Operational
-74,"UK Met Office, Exeter (RSMC)",3,3,Gatineau,Gatineau,Operational
-74,"UK Met Office, Exeter (RSMC)",4,4,Maspalomas (Spain),Maspalomas (Spain),Operational
-74,"UK Met Office, Exeter (RSMC)",5,5,ESA ERS Central Facility,ESA ERS Central Facility,Operational
-74,"UK Met Office, Exeter (RSMC)",6,6,Prince Albert,Prince Albert,Operational
-74,"UK Met Office, Exeter (RSMC)",7,7,West Freugh,West Freugh,Operational
-74,"UK Met Office, Exeter (RSMC)",13,13,Tromso,Tromso,Operational
-74,"UK Met Office, Exeter (RSMC)",21,21,Agenzia Spaziale Italiana (Italy),Agenzia Spaziale Italiana (Italy),Operational
-74,"UK Met Office, Exeter (RSMC)",22,22,Centre National de la Recherche Scientifique (France),Centre National de la Recherche Scientifique (France),Operational
-74,"UK Met Office, Exeter (RSMC)",23,23,GeoForschungs Zentrum (Germany),GeoForschungs Zentrum (Germany),Operational
-74,"UK Met Office, Exeter (RSMC)",24,24,Geodetic Observatory Pecny (Czechia),Geodetic Observatory Pecny (Czechia),Operational
-74,"UK Met Office, Exeter (RSMC)",25,25,Institut d'Estudis Espacials de Catalunya (Spain),Institut d'Estudis Espacials de Catalunya (Spain),Operational
-74,"UK Met Office, Exeter (RSMC)",26,26,Federal Office of Topography (Switzerland),Federal Office of Topography (Switzerland),Operational
-74,"UK Met Office, Exeter (RSMC)",27,27,Nordic Commission of Geodesy (Norway),Nordic Commission of Geodesy (Norway),Operational
-74,"UK Met Office, Exeter (RSMC)",28,28,Nordic Commission of Geodesy (Sweden),Nordic Commission of Geodesy (Sweden),Operational
-74,"UK Met Office, Exeter (RSMC)",29,29,Institute Géographique National (France) - Service de géodésie,Institute Geographique National (France) - Service de geodesie,Operational
-74,"UK Met Office, Exeter (RSMC)",30,30,Bundesamt für Kartographie und Geodäsie (Germany),Bundesamt fuer Kartographie und Geodaesie (Germany),Operational
-74,"UK Met Office, Exeter (RSMC)",31,31,Institute of Engineering Satellite Surveying and Geodesy (United Kingdom),Institute of Engineering Satellite Surveying and Geodesy (United Kingdom),Operational
-74,"UK Met Office, Exeter (RSMC)",32,32,Joint Operational Meteorology and Oceanography Centre (JOMOC),Joint Operational Meteorology and Oceanography Centre (JOMOC),Operational
-74,"UK Met Office, Exeter (RSMC)",33,33,Koninklijk Nederlands Meteorologisch Institut (Netherlands),Koninklijk Nederlands Meteorologisch Institut (Netherlands),Operational
-74,"UK Met Office, Exeter (RSMC)",34,34,Nordic GPS Atmospheric Analysis centre (Sweden),Nordic GPS Atmospheric Analysis centre (Sweden),Operational
-74,"UK Met Office, Exeter (RSMC)",35,35,Instituto Geografico Nacional de España (Spain),Instituto Geografico Nacional de Espana (Spain),Operational
-74,"UK Met Office, Exeter (RSMC)",36,36,Met Éireann (Ireland),Met Eireann (Ireland),Operational
-74,"UK Met Office, Exeter (RSMC)",37,37,Royal Observatory of Belgium (Belgium),Royal Observatory of Belgium (Belgium),Operational
+74,"UK Met Office, Exeter (RSMC)",1,Shanwick Oceanic Area Control Centre,Shanwick Oceanic Area Control Centre,Operational
+74,"UK Met Office, Exeter (RSMC)",2,Fucino,Fucino,Operational
+74,"UK Met Office, Exeter (RSMC)",3,Gatineau,Gatineau,Operational
+74,"UK Met Office, Exeter (RSMC)",4,Maspalomas (Spain),Maspalomas (Spain),Operational
+74,"UK Met Office, Exeter (RSMC)",5,ESA ERS Central Facility,ESA ERS Central Facility,Operational
+74,"UK Met Office, Exeter (RSMC)",6,Prince Albert,Prince Albert,Operational
+74,"UK Met Office, Exeter (RSMC)",7,West Freugh,West Freugh,Operational
+74,"UK Met Office, Exeter (RSMC)",13,Tromso,Tromso,Operational
+74,"UK Met Office, Exeter (RSMC)",21,Agenzia Spaziale Italiana (Italy),Agenzia Spaziale Italiana (Italy),Operational
+74,"UK Met Office, Exeter (RSMC)",22,Centre National de la Recherche Scientifique (France),Centre National de la Recherche Scientifique (France),Operational
+74,"UK Met Office, Exeter (RSMC)",23,GeoForschungs Zentrum (Germany),GeoForschungs Zentrum (Germany),Operational
+74,"UK Met Office, Exeter (RSMC)",24,Geodetic Observatory Pecny (Czechia),Geodetic Observatory Pecny (Czechia),Operational
+74,"UK Met Office, Exeter (RSMC)",25,Institut d'Estudis Espacials de Catalunya (Spain),Institut d'Estudis Espacials de Catalunya (Spain),Operational
+74,"UK Met Office, Exeter (RSMC)",26,Federal Office of Topography (Switzerland),Federal Office of Topography (Switzerland),Operational
+74,"UK Met Office, Exeter (RSMC)",27,Nordic Commission of Geodesy (Norway),Nordic Commission of Geodesy (Norway),Operational
+74,"UK Met Office, Exeter (RSMC)",28,Nordic Commission of Geodesy (Sweden),Nordic Commission of Geodesy (Sweden),Operational
+74,"UK Met Office, Exeter (RSMC)",29,Institute Géographique National (France) - Service de géodésie,Institute Geographique National (France) - Service de geodesie,Operational
+74,"UK Met Office, Exeter (RSMC)",30,Bundesamt für Kartographie und Geodäsie (Germany),Bundesamt fuer Kartographie und Geodaesie (Germany),Operational
+74,"UK Met Office, Exeter (RSMC)",31,Institute of Engineering Satellite Surveying and Geodesy (United Kingdom),Institute of Engineering Satellite Surveying and Geodesy (United Kingdom),Operational
+74,"UK Met Office, Exeter (RSMC)",32,Joint Operational Meteorology and Oceanography Centre (JOMOC),Joint Operational Meteorology and Oceanography Centre (JOMOC),Operational
+74,"UK Met Office, Exeter (RSMC)",33,Koninklijk Nederlands Meteorologisch Institut (Netherlands),Koninklijk Nederlands Meteorologisch Institut (Netherlands),Operational
+74,"UK Met Office, Exeter (RSMC)",34,Nordic GPS Atmospheric Analysis centre (Sweden),Nordic GPS Atmospheric Analysis centre (Sweden),Operational
+74,"UK Met Office, Exeter (RSMC)",35,Instituto Geografico Nacional de España (Spain),Instituto Geografico Nacional de Espana (Spain),Operational
+74,"UK Met Office, Exeter (RSMC)",36,Met Éireann (Ireland),Met Eireann (Ireland),Operational
+74,"UK Met Office, Exeter (RSMC)",37,Royal Observatory of Belgium (Belgium),Royal Observatory of Belgium (Belgium),Operational
 78,Offenbach (RSMC),10,POLARA (Polarimetric Radar Algorithms instance),POLARA (Polarimetric Radar Algorithms instance),Operational
 78,Offenbach (RSMC),64,Bundeswehr Geoinformation Office (BGIO),Bundeswehr Geoinformation Office (BGIO),Operational
 78,Offenbach (RSMC),110,NowCast mobile (Lightning data),NowCast mobile (Lightning data),Operational
