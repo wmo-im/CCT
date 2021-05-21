@@ -36,16 +36,16 @@
     <CodeFigure_OriginatingCentres>34</CodeFigure_OriginatingCentres>
     <Name_OriginatingCentres>Tokyo (RSMC), Japan Meteorological Agency</Name_OriginatingCentres>
     <CodeFigure_SubCentres>207</CodeFigure_SubCentres>
-    <Name_SubCentres>Syowa34</Name_SubCentres>
-    <Name_SubCentres_ia5>Syowa34</Name_SubCentres_ia5>
+    <Name_SubCentres>Syowa</Name_SubCentres>
+    <Name_SubCentres_ia5>Syowa</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
     <CodeFigure_OriginatingCentres>34</CodeFigure_OriginatingCentres>
     <Name_OriginatingCentres>Tokyo (RSMC), Japan Meteorological Agency</Name_OriginatingCentres>
     <CodeFigure_SubCentres>240</CodeFigure_SubCentres>
-    <Name_SubCentres>Kiyose34</Name_SubCentres>
-    <Name_SubCentres_ia5>Kiyose34</Name_SubCentres_ia5>
+    <Name_SubCentres>Kiyose</Name_SubCentres>
+    <Name_SubCentres_ia5>Kiyose</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
