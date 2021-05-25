@@ -33,6 +33,14 @@
     <Status>Operational</Status>
   </C08>
   <C08>
+    <Code>14</Code>
+    <Agency_en>UKSA</Agency_en>
+    <Type_en>Radiometer</Type_en>
+    <InstrumentShortName_en>PMR</InstrumentShortName_en>
+    <InstrumentLongName_en>Pressure modulator radiometer</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
     <Code>30</Code>
     <Agency_en>CNES</Agency_en>
     <Type_en>Communications</Type_en>
@@ -1193,6 +1201,22 @@
     <Status>Operational</Status>
   </C08>
   <C08>
+    <Code>397</Code>
+    <Agency_en>NASA</Agency_en>
+    <Type_en>Radiometer</Type_en>
+    <InstrumentShortName_en>HRIR</InstrumentShortName_en>
+    <InstrumentLongName_en>High resolution infrared radiometer</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>398</Code>
+    <Agency_en>NASA</Agency_en>
+    <Type_en>Radiometer</Type_en>
+    <InstrumentShortName_en>MRIR</InstrumentShortName_en>
+    <InstrumentLongName_en>Single-channel IR radiometer</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
     <Code>399</Code>
     <Agency_en>NASA</Agency_en>
     <Type_en>Spectro-radiometer</Type_en>
@@ -1254,6 +1278,22 @@
     <Type_en>Spectrometer</Type_en>
     <InstrumentShortName_en>AIRS</InstrumentShortName_en>
     <InstrumentLongName_en>Atmospheric Infrared sounder</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>421</Code>
+    <Agency_en>NASA</Agency_en>
+    <Type_en>Spectrometer</Type_en>
+    <InstrumentShortName_en>SIRS-A</InstrumentShortName_en>
+    <InstrumentLongName_en>Satellite infrared spectrometer-A</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>422</Code>
+    <Agency_en>NASA</Agency_en>
+    <Type_en>Spectrometer</Type_en>
+    <InstrumentShortName_en>SIRS-B</InstrumentShortName_en>
+    <InstrumentLongName_en>Satellite infrared spectrometer-B</InstrumentLongName_en>
     <Status>Operational</Status>
   </C08>
   <C08>
@@ -2553,6 +2593,14 @@
     <Status>Operational</Status>
   </C08>
   <C08>
+    <Code>909</Code>
+    <Agency_en>NOAA</Agency_en>
+    <Type_en>Radiometer</Type_en>
+    <InstrumentShortName_en>VTPR</InstrumentShortName_en>
+    <InstrumentLongName_en>Vertical temperature profile radiometer</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
     <Code>910</Code>
     <Agency_en>NOAA</Agency_en>
     <Type_en>Radiometer</Type_en>
@@ -2865,7 +2913,31 @@
     <Status>Operational</Status>
   </C08>
   <C08>
-    <Code>983-999</Code>
+    <Code>983-989</Code>
+    <Agency_en>Reserved</Agency_en>
+    <Type_en/>
+    <InstrumentShortName_en/>
+    <InstrumentLongName_en/>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>990</Code>
+    <Agency_en>NASA</Agency_en>
+    <Type_en>Radiometer</Type_en>
+    <InstrumentShortName_en>SMMR</InstrumentShortName_en>
+    <InstrumentLongName_en>Scanning multichannel microwave radiometer</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>991</Code>
+    <Agency_en>NASA</Agency_en>
+    <Type_en>Radiometer</Type_en>
+    <InstrumentShortName_en>THIR</InstrumentShortName_en>
+    <InstrumentLongName_en>Temperature-humidity infrared radiometer</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>992-999</Code>
     <Agency_en>Reserved</Agency_en>
     <Type_en/>
     <InstrumentShortName_en/>
