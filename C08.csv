@@ -3,6 +3,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 11,BNSC,Radiometer,ATSR,Along track scanning radiometer,Operational
 12,BNSC,Radiometer,ATSR-2,Along track scanning radiometer-2,Operational
 13,BNSC,Radiometer,MWR,Microwave radiometer,Operational
+14,UKSA,Radiometer,PMR,Pressure modulator radiometer,Operational
 30,CNES,Communications,ARGOS,,Operational
 40,CNES,Lidar,Laser reflectors,,Operational
 41,CNES,Lidar,DORIS,Doppler orbitography and radio-positioning integrated by satellite,Operational
@@ -148,6 +149,8 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 394,NASA,Total and profile ozone,OMI,Ozone measuring instrument,Operational
 395,NASA,Radiometer,Atmospheric corrector,Atmospheric corrector,Operational
 396,NASA,Radiometer,Hyperion,Hyperspectral imager,Operational
+397,NASA,Radiometer,HRIR,High resolution infrared radiometer,Operational
+398,NASA,Radiometer,MRIR,Single-channel IR radiometer,Operational
 399,NASA,Spectro-radiometer,SAGE I,Stratospheric aerosol and gas experiment-I,Operational
 400,NASA,Spectro-radiometer,SAGE II,Stratospheric aerosol and gas experiment-II,Operational
 401,NASA,Spectro-radiometer,SAGE III,Stratospheric aerosol and gas experiment-III,Operational
@@ -156,6 +159,8 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 404,NASA,Spectro-radiometer,IRIS,Infrared interferometer spectrometer,Operational
 405,NASA,Atmospheric temperature and humidity sounder,GIFTS,Geosynchronous imaging Fourier transform spectrometer,Operational
 420,NASA,Spectrometer,AIRS,Atmospheric Infrared sounder,Operational
+421,NASA,Spectrometer,SIRS-A,Satellite infrared spectrometer-A,Operational
+422,NASA,Spectrometer,SIRS-B,Satellite infrared spectrometer-B,Operational
 426,NASA,Spectrometer,SOLSTICE,Solar stellar irradiance comparison experiment,Operational
 430,NASA,Spectrometer,TES,Tropospheric emission spectrometer,Operational
 431,NASA,Spectrometer,TOMS,Total ozone mapping spectrometer,Operational
@@ -318,6 +323,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 906,NOAA,Radiometer,SSM/T-1,Mission sensor microwave temperature sounder,Operational
 907,NOAA,Radiometer,SSM/T-2,Mission sensor microwave water vapour sounder,Operational
 908,NOAA,Radiometer,SSMIS,Special sensor microwave imager sounder,Operational
+909,NOAA,Radiometer,VTPR,Vertical temperature profile radiometer,Operational
 910,NOAA,Radiometer,SXI,Solar X-ray imager,Operational
 930,NOAA,Spectrometer,EHIC,Energetic heavy ion composition experiment,Operational
 931,NOAA,Spectrometer,X-ray astronomy payload,,Operational
@@ -357,6 +363,9 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 980,KMA,Imager,AMI,Advanced Meteorological Imager,Operational
 981,KMA,Imager,MI,Meteorological Imager,Operational
 982,KMA,Space environment,KSEM,Korea Space wEather Monitor,Operational
-983-999,Reserved,,,,Operational
+983-989,Reserved,,,,Operational
+990,NASA,Radiometer,SMMR,Scanning multichannel microwave radiometer,Operational
+991,NASA,Radiometer,THIR,Temperature-humidity infrared radiometer,Operational
+992-999,Reserved,,,,Operational
 1000-2046,Reserved for long-term future use,,,,Operational
 2047,Missing value,,,,Operational
