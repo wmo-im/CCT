@@ -783,7 +783,7 @@
   <C14>
     <CodeFigure>20020</CodeFigure>
     <Meaning_en>alpha-HCH (alpha-hexachlorocyclohexane) both enantiomers</Meaning_en>
-    <ChemicalFormula>alpha-C6H6Cl6</ChemicalFormula>
+    <ChemicalFormula>&amp;alpha;-C6H6Cl6</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
@@ -2547,13 +2547,13 @@
   <C14>
     <CodeFigure>40000</CodeFigure>
     <Meaning_en>Singlet sigma oxygen (dioxygen (sigma singlet))</Meaning_en>
-    <ChemicalFormula>O2(1Σ+g)</ChemicalFormula>
+    <ChemicalFormula>O2(1&amp;Sigma;+g)</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
     <CodeFigure>40001</CodeFigure>
     <Meaning_en>Singlet delta oxygen (dioxygen (delta singlet))</Meaning_en>
-    <ChemicalFormula>O2(1Δg)</ChemicalFormula>
+    <ChemicalFormula>O2(1&amp;Delta;g)</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
