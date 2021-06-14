@@ -81,13 +81,13 @@
   <C14>
     <CodeFigure>13</CodeFigure>
     <Meaning_en>Nitrate radical</Meaning_en>
-    <ChemicalFormula>NO3•</ChemicalFormula>
+    <ChemicalFormula>NO3.</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
     <CodeFigure>14</CodeFigure>
     <Meaning_en>Hydroperoxyl radical</Meaning_en>
-    <ChemicalFormula>HOO•</ChemicalFormula>
+    <ChemicalFormula>HOO.</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
@@ -291,13 +291,13 @@
   <C14>
     <CodeFigure>10000</CodeFigure>
     <Meaning_en>Hydroxyl radical</Meaning_en>
-    <ChemicalFormula>HO•</ChemicalFormula>
+    <ChemicalFormula>HO.</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
     <CodeFigure>10001</CodeFigure>
     <Meaning_en>Methyl peroxy radical</Meaning_en>
-    <ChemicalFormula>CH3OO•</ChemicalFormula>
+    <ChemicalFormula>CH3OO.</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
@@ -441,7 +441,7 @@
   <C14>
     <CodeFigure>10026</CodeFigure>
     <Meaning_en>Peroxyacetyl radical</Meaning_en>
-    <ChemicalFormula>CH3C(O)OO•</ChemicalFormula>
+    <ChemicalFormula>CH3C(O)OO.</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
@@ -465,7 +465,7 @@
   <C14>
     <CodeFigure>10030</CodeFigure>
     <Meaning_en>Ethyl dioxidanyl radical</Meaning_en>
-    <ChemicalFormula>CH3CH2OO•</ChemicalFormula>
+    <ChemicalFormula>CH3CH2OO.</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
@@ -501,13 +501,13 @@
   <C14>
     <CodeFigure>10036</CodeFigure>
     <Meaning_en>2-hydroxyethyl oxidanyl radical</Meaning_en>
-    <ChemicalFormula>HOCH2CH2O•</ChemicalFormula>
+    <ChemicalFormula>HOCH2CH2O.</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
     <CodeFigure>10037</CodeFigure>
     <Meaning_en>2-hydroxyethyl dioxidanyl radical</Meaning_en>
-    <ChemicalFormula>HOCH2CH2OO•</ChemicalFormula>
+    <ChemicalFormula>HOCH2CH2OO.</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
@@ -519,7 +519,7 @@
   <C14>
     <CodeFigure>10039</CodeFigure>
     <Meaning_en>Isopropyl dioxidanyl radical</Meaning_en>
-    <ChemicalFormula>(CH3)2CHOO•</ChemicalFormula>
+    <ChemicalFormula>(CH3)2CHOO.</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
@@ -549,13 +549,13 @@
   <C14>
     <CodeFigure>10044</CodeFigure>
     <Meaning_en>Phenoxy radical</Meaning_en>
-    <ChemicalFormula>C6H5O•</ChemicalFormula>
+    <ChemicalFormula>C6H5O.</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
     <CodeFigure>10045</CodeFigure>
     <Meaning_en>Methyl radical</Meaning_en>
-    <ChemicalFormula>CH3•</ChemicalFormula>
+    <ChemicalFormula>CH3.</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
@@ -573,7 +573,7 @@
   <C14>
     <CodeFigure>10048</CodeFigure>
     <Meaning_en>Methoxy radical</Meaning_en>
-    <ChemicalFormula>CH3O•</ChemicalFormula>
+    <ChemicalFormula>CH3O.</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
@@ -585,13 +585,13 @@
   <C14>
     <CodeFigure>10050</CodeFigure>
     <Meaning_en>Formyl radical (oxomethyl radical)</Meaning_en>
-    <ChemicalFormula>HOC•</ChemicalFormula>
+    <ChemicalFormula>HOC.</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
     <CodeFigure>10051</CodeFigure>
     <Meaning_en>Hydroxymethyl dioxidanyl radical</Meaning_en>
-    <ChemicalFormula>HOCH2OO•</ChemicalFormula>
+    <ChemicalFormula>HOCH2OO.</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
@@ -603,7 +603,7 @@
   <C14>
     <CodeFigure>10053</CodeFigure>
     <Meaning_en>3-hydroxypropyl dioxidanyl radical</Meaning_en>
-    <ChemicalFormula>HOCH2CH2CH2OO•</ChemicalFormula>
+    <ChemicalFormula>HOCH2CH2CH2OO.</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
@@ -621,13 +621,13 @@
   <C14>
     <CodeFigure>10056</CodeFigure>
     <Meaning_en>2-lambda^1-oxidanyloxy-2-methylbut-3-en-1-ol (4-hydroxy-3-methyl-1-butene-3-ylperoxy radical)</Meaning_en>
-    <ChemicalFormula>HOCH2C(CH3)(OO•)CHCH2</ChemicalFormula>
+    <ChemicalFormula>HOCH2C(CH3)(OO.)CHCH2</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
     <CodeFigure>10057</CodeFigure>
     <Meaning_en>2-lambda^1-oxidanyloxy-3-methylbut-3-en-1-ol (2-hydroxy-1-isopropenylethylperoxy radical)</Meaning_en>
-    <ChemicalFormula>HOCH2CH(OO•)C(CH3)CH2</ChemicalFormula>
+    <ChemicalFormula>HOCH2CH(OO.)C(CH3)CH2</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
@@ -782,8 +782,8 @@
   </C14>
   <C14>
     <CodeFigure>20020</CodeFigure>
-    <Meaning_en>α-HCH (α-hexachlorocyclohexane) both enantiomers</Meaning_en>
-    <ChemicalFormula>α-C6H6Cl6</ChemicalFormula>
+    <Meaning_en>alpha-HCH (alpha-hexachlorocyclohexane) both enantiomers</Meaning_en>
+    <ChemicalFormula>alpha-C6H6Cl6</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
@@ -2577,13 +2577,13 @@
   <C14>
     <CodeFigure>60000</CodeFigure>
     <Meaning_en>HOx radical (OH+HO2)</Meaning_en>
-    <ChemicalFormula>HOx•</ChemicalFormula>
+    <ChemicalFormula>HOx.</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
     <CodeFigure>60001</CodeFigure>
-    <Meaning_en>Total inorganic and organic peroxy radicals (HOO• + ROO•)</Meaning_en>
-    <ChemicalFormula>ROO•</ChemicalFormula>
+    <Meaning_en>Total inorganic and organic peroxy radicals (HOO. + ROO.)</Meaning_en>
+    <ChemicalFormula>ROO.</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
@@ -2703,37 +2703,37 @@
   <C14>
     <CodeFigure>60021</CodeFigure>
     <Meaning_en>Ethers</Meaning_en>
-    <ChemicalFormula>ROR’</ChemicalFormula>
+    <ChemicalFormula>ROR'</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
     <CodeFigure>60022</CodeFigure>
     <Meaning_en>Amines</Meaning_en>
-    <ChemicalFormula>NRR’R’’</ChemicalFormula>
+    <ChemicalFormula>NRR'R''</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
     <CodeFigure>60023</CodeFigure>
     <Meaning_en>Ketones</Meaning_en>
-    <ChemicalFormula>RC(O)R’</ChemicalFormula>
+    <ChemicalFormula>RC(O)R'</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
     <CodeFigure>60024</CodeFigure>
     <Meaning_en>Dicarbonyls unsaturated</Meaning_en>
-    <ChemicalFormula>RC(O)CH2C(O)R’</ChemicalFormula>
+    <ChemicalFormula>RC(O)CH2C(O)R'</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
     <CodeFigure>60025</CodeFigure>
     <Meaning_en>Hydroxy dicarbonyls unsaturated</Meaning_en>
-    <ChemicalFormula>RC(O)CHOHC(O)R’</ChemicalFormula>
+    <ChemicalFormula>RC(O)CHOHC(O)R'</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
     <CodeFigure>60026</CodeFigure>
     <Meaning_en>Hydroxy ketones</Meaning_en>
-    <ChemicalFormula>RC(OH)C(O)R’</ChemicalFormula>
+    <ChemicalFormula>RC(OH)C(O)R'</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
@@ -2751,7 +2751,7 @@
   <C14>
     <CodeFigure>60029</CodeFigure>
     <Meaning_en>Aromatic peroxide radical (Aryl dioxydanyl radicals)</Meaning_en>
-    <ChemicalFormula>ArOO•</ChemicalFormula>
+    <ChemicalFormula>ArOO.</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
