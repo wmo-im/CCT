@@ -129,7 +129,7 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 20017,"HCC-140a (1,1,1-trichloroethane)",Cl3C-CH3,Operational
 20018,HBC-40B1 (methyl bromide),CH3Br,Operational
 20019,HCH (hexachlorocyclohexane) all isomers,C6H6Cl6,Operational
-20020,alpha-HCH (alpha-hexachlorocyclohexane) both enantiomers,alpha-C6H6Cl6,Operational
+20020,alpha-HCH (alpha-hexachlorocyclohexane) both enantiomers,&alpha;-C6H6Cl6,Operational
 20021,"PCB-153 (2,2',4,4',5,5'-hexachlorobiphenyl)",(C6H2Cl3)2,Operational
 20022,"HCFC-141a (1,1-dichloro-2-fluoroethane)",Cl2HC-CH2F,Operational
 20023-29999,Reserved,,Operational
@@ -423,8 +423,8 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 30295,Carbon-13,C-13,Operational
 30296,Lead,Pb,Operational
 30297-39999,Reserved,,Operational
-40000,Singlet sigma oxygen (dioxygen (sigma singlet)),O2(1Σ+g),Operational
-40001,Singlet delta oxygen (dioxygen (delta singlet)),O2(1Δg),Operational
+40000,Singlet sigma oxygen (dioxygen (sigma singlet)),O2(1&Sigma;+g),Operational
+40001,Singlet delta oxygen (dioxygen (delta singlet)),O2(1&Delta;g),Operational
 40002,Singlet excited oxygen atom,O(1D),Operational
 40003,Triplet ground state oxygen atom,O(3P),Operational
 40004-59999,Reserved,,Operational
