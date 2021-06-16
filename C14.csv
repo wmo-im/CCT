@@ -12,8 +12,8 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 10,Ammonium cation,NH4+,Operational
 11,Nitrogen monoxide,NO,Operational
 12,Atomic oxygen,O,Operational
-13,Nitrate radical,NO3.,Operational
-14,Hydroperoxyl radical,HOO.,Operational
+13,Nitrate radical,NO3*,Operational
+14,Hydroperoxyl radical,HOO*,Operational
 15,Dinitrogen pentoxide,N2O5,Operational
 16,Nitrous acid,HONO,Operational
 17,Nitric acid,HNO3,Operational
@@ -47,8 +47,8 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 45,Sulphur hexafluoride,SF6,Operational
 46,Chlorine,Cl2,Operational
 47-9999,Reserved,,Operational
-10000,Hydroxyl radical,HO.,Operational
-10001,Methyl peroxy radical,CH3OO.,Operational
+10000,Hydroxyl radical,HO*,Operational
+10001,Methyl peroxy radical,CH3OO*,Operational
 10002,Methyl hydroperoxide,CH3O2H,Operational
 10004,Methanol,CH3OH,Operational
 10005,Formic acid,CH3OOH,Operational
@@ -72,38 +72,38 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 10023,Xylene,C8H10,Operational
 10024,Methanesulphonic acid,CH3SO3H,Operational
 10025,Methylglyoxal (2-oxopropanal),CH3C(O)CHO,Operational
-10026,Peroxyacetyl radical,CH3C(O)OO.,Operational
+10026,Peroxyacetyl radical,CH3C(O)OO*,Operational
 10027,Methacrylic acid (2-methylprop-2-enoic acid),CH2C(CH3)COOH,Operational
 10028,Methacrolein (2-methylprop-2-enal),CH2C(CH3)CHO,Operational
 10029,Acetone (propan-2-one),CH3C(O)CH3,Operational
-10030,Ethyl dioxidanyl radical,CH3CH2OO.,Operational
+10030,Ethyl dioxidanyl radical,CH3CH2OO*,Operational
 10031,"Butadiene (buta-1,3-diene)",(CH2CH)2,Operational
 10032,Acetaldehyde (ethanal),CH3CHO,Operational
 10033,Glycolaldehyde (hydroxyethanal),HOCH2CHO,Operational
 10034,"Cresol (methylphenol), all isomers",CH3C6H4OH,Operational
 10035,Peracetic acid (ethaneperoxoic acid),CH3C(O)OOH,Operational
-10036,2-hydroxyethyl oxidanyl radical,HOCH2CH2O.,Operational
-10037,2-hydroxyethyl dioxidanyl radical,HOCH2CH2OO.,Operational
+10036,2-hydroxyethyl oxidanyl radical,HOCH2CH2O*,Operational
+10037,2-hydroxyethyl dioxidanyl radical,HOCH2CH2OO*,Operational
 10038,Glyoxal (oxaldehyde),OCHCHO,Operational
-10039,Isopropyl dioxidanyl radical,(CH3)2CHOO.,Operational
+10039,Isopropyl dioxidanyl radical,(CH3)2CHOO*,Operational
 10040,Isopropyl hydroperoxide (2-hydroperoxypropane),(CH3)2CHOOH,Operational
 10041,Hydroxyacetone (1-hydroxypropan-2-one),CH3C(O)CH2OH,Operational
 10042,Peroxyacetic acid (ethaneperoxoic acid),CH3C(O)OOH,Operational
 10043,Methyl vinyl ketone (but-3-en-2-one),CH3C(O)CHCH2,Operational
-10044,Phenoxy radical,C6H5O.,Operational
-10045,Methyl radical,CH3.,Operational
+10044,Phenoxy radical,C6H5O*,Operational
+10045,Methyl radical,CH3*,Operational
 10046,Carbonyl sulphide (carbon oxide sulphide),OCS,Operational
 10047,Dibromomethane,CH2Br2,Operational
-10048,Methoxy radical,CH3O.,Operational
+10048,Methoxy radical,CH3O*,Operational
 10049,Tribromomethane,CHBr3,Operational
-10050,Formyl radical (oxomethyl radical),HOC.,Operational
-10051,Hydroxymethyl dioxidanyl radical,HOCH2OO.,Operational
+10050,Formyl radical (oxomethyl radical),HOC*,Operational
+10051,Hydroxymethyl dioxidanyl radical,HOCH2OO*,Operational
 10052,Ethyl hydroperoxide,CH3CH2OOH,Operational
-10053,3-hydroxypropyl dioxidanyl radical,HOCH2CH2CH2OO.,Operational
+10053,3-hydroxypropyl dioxidanyl radical,HOCH2CH2CH2OO*,Operational
 10054,3-hydroxypropyl hydroperoxide,HOCH2CH2CH2OOH,Operational
 10055,Methyl-peroxy-nitrate (nitroperoxy-methane),CH3OONO2,Operational
-10056,2-lambda^1-oxidanyloxy-2-methylbut-3-en-1-ol (4-hydroxy-3-methyl-1-butene-3-ylperoxy radical),HOCH2C(CH3)(OO.)CHCH2,Operational
-10057,2-lambda^1-oxidanyloxy-3-methylbut-3-en-1-ol (2-hydroxy-1-isopropenylethylperoxy radical),HOCH2CH(OO.)C(CH3)CH2,Operational
+10056,2-lambda^1-oxidanyloxy-2-methylbut-3-en-1-ol (4-hydroxy-3-methyl-1-butene-3-ylperoxy radical),HOCH2C(CH3)(OO*)CHCH2,Operational
+10057,2-lambda^1-oxidanyloxy-3-methylbut-3-en-1-ol (2-hydroxy-1-isopropenylethylperoxy radical),HOCH2CH(OO*)C(CH3)CH2,Operational
 10058,(Z)-4-hydroperoxy-2-methyl-2-butenal,CH2(OOH)CHC(CH3)CHO,Operational
 10059,(Z)-4-hydroperoxy-3-methyl-2-butenal,CH2(OOH)C(CH3)CHCHO,Operational
 10060-10499,"Reserved for other simple organic molecules (e.g. higher aldehydes, alcohols, peroxides, etc.)",,Operational
@@ -428,8 +428,8 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 40002,Singlet excited oxygen atom,O(1D),Operational
 40003,Triplet ground state oxygen atom,O(3P),Operational
 40004-59999,Reserved,,Operational
-60000,HOx radical (OH+HO2),HOx.,Operational
-60001,Total inorganic and organic peroxy radicals (HOO. + ROO.),ROO.,Operational
+60000,HOx radical (OH+HO2),HOx*,Operational
+60001,Total inorganic and organic peroxy radicals (HOO* + ROO*),ROO*,Operational
 60002,Passive Ozone,,Operational
 60003,NOx expressed as nitrogen,NOx,Operational
 60004,All nitrogen oxides (NOy) expressed as nitrogen,NOy,Operational
@@ -457,7 +457,7 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 60026,Hydroxy ketones,"RC(OH)C(O)R'",Operational
 60027,Oxides,Ox,Operational
 60028,Peroxyacyl nitrates,RC(O)OONO2,Operational
-60029,Aromatic peroxide radical (Aryl dioxydanyl radicals),ArOO.,Operational
+60029,Aromatic peroxide radical (Aryl dioxydanyl radicals),ArOO*,Operational
 60030,Biogenic secondary organic compound,,Operational
 60031,Anthropogenic secondary organic compound,,Operational
 60032,All hydroxy-peroxides products of the reaction of hydroxy-isoprene adducts with O2,ISOPOOH,Operational
