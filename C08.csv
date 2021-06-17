@@ -149,8 +149,8 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 394,NASA,Total and profile ozone,OMI,Ozone measuring instrument,Operational
 395,NASA,Radiometer,Atmospheric corrector,Atmospheric corrector,Operational
 396,NASA,Radiometer,Hyperion,Hyperspectral imager,Operational
-397,NASA,Radiometer,HRIR,High resolution infrared radiometer,Operational
-398,NASA,Radiometer,MRIR,Single-channel IR radiometer,Operational
+397,NASA,Radiometer,HRIR,High-resolution infrared radiometer,Operational
+398,NASA,Radiometer,MRIR,Single channel IR radiometer,Operational
 399,NASA,Spectro-radiometer,SAGE I,Stratospheric aerosol and gas experiment-I,Operational
 400,NASA,Spectro-radiometer,SAGE II,Stratospheric aerosol and gas experiment-II,Operational
 401,NASA,Spectro-radiometer,SAGE III,Stratospheric aerosol and gas experiment-III,Operational
