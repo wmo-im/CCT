@@ -5,7 +5,6 @@
     <Name_OriginatingCentres/>
     <CodeFigure_SubCentres>0</CodeFigure_SubCentres>
     <Name_SubCentres>No sub-centre</Name_SubCentres>
-    <Name_SubCentres_ia5>No sub-centre</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -13,7 +12,6 @@
     <Name_OriginatingCentres>REGION I</Name_OriginatingCentres>
     <CodeFigure_SubCentres/>
     <Name_SubCentres/>
-    <Name_SubCentres_ia5/>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -21,7 +19,6 @@
     <Name_OriginatingCentres/>
     <CodeFigure_SubCentres/>
     <Name_SubCentres/>
-    <Name_SubCentres_ia5/>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -29,7 +26,6 @@
     <Name_OriginatingCentres>REGION II</Name_OriginatingCentres>
     <CodeFigure_SubCentres/>
     <Name_SubCentres/>
-    <Name_SubCentres_ia5/>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -37,7 +33,6 @@
     <Name_OriginatingCentres>Tokyo (RSMC), Japan Meteorological Agency</Name_OriginatingCentres>
     <CodeFigure_SubCentres>207</CodeFigure_SubCentres>
     <Name_SubCentres>Syowa</Name_SubCentres>
-    <Name_SubCentres_ia5>Syowa</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -45,7 +40,6 @@
     <Name_OriginatingCentres>Tokyo (RSMC), Japan Meteorological Agency</Name_OriginatingCentres>
     <CodeFigure_SubCentres>240</CodeFigure_SubCentres>
     <Name_SubCentres>Kiyose</Name_SubCentres>
-    <Name_SubCentres_ia5>Kiyose</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -53,7 +47,6 @@
     <Name_OriginatingCentres>Tokyo (RSMC), Japan Meteorological Agency</Name_OriginatingCentres>
     <CodeFigure_SubCentres>241</CodeFigure_SubCentres>
     <Name_SubCentres>Reanalysis project</Name_SubCentres>
-    <Name_SubCentres_ia5>Reanalysis project</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -61,7 +54,6 @@
     <Name_OriginatingCentres>Beijing (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>225</CodeFigure_SubCentres>
     <Name_SubCentres>Beijing</Name_SubCentres>
-    <Name_SubCentres_ia5>Beijing</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -69,7 +61,6 @@
     <Name_OriginatingCentres>Beijing (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>226</CodeFigure_SubCentres>
     <Name_SubCentres>Guangzhou</Name_SubCentres>
-    <Name_SubCentres_ia5>Guangzhou</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -77,7 +68,6 @@
     <Name_OriginatingCentres>Beijing (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>228</CodeFigure_SubCentres>
     <Name_SubCentres>Urumuqi</Name_SubCentres>
-    <Name_SubCentres_ia5>Urumuqi</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -85,7 +75,6 @@
     <Name_OriginatingCentres>Seoul</Name_OriginatingCentres>
     <CodeFigure_SubCentres>243</CodeFigure_SubCentres>
     <Name_SubCentres>Seoul</Name_SubCentres>
-    <Name_SubCentres_ia5>Seoul</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -93,7 +82,6 @@
     <Name_OriginatingCentres>Seoul</Name_OriginatingCentres>
     <CodeFigure_SubCentres>245</CodeFigure_SubCentres>
     <Name_SubCentres>Jincheon</Name_SubCentres>
-    <Name_SubCentres_ia5>Jincheon</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -101,7 +89,6 @@
     <Name_OriginatingCentres>Hong-Kong, China</Name_OriginatingCentres>
     <CodeFigure_SubCentres>229</CodeFigure_SubCentres>
     <Name_SubCentres>Hong-Kong</Name_SubCentres>
-    <Name_SubCentres_ia5>Hong-Kong</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -109,7 +96,6 @@
     <Name_OriginatingCentres>REGION III</Name_OriginatingCentres>
     <CodeFigure_SubCentres/>
     <Name_SubCentres/>
-    <Name_SubCentres_ia5/>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -117,7 +103,6 @@
     <Name_OriginatingCentres>Brazilian Space Agency INPE</Name_OriginatingCentres>
     <CodeFigure_SubCentres>10</CodeFigure_SubCentres>
     <Name_SubCentres>Cachoeira Paulista (INPE)</Name_SubCentres>
-    <Name_SubCentres_ia5>Cachoeira Paulista (INPE)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -125,7 +110,6 @@
     <Name_OriginatingCentres>Brazilian Space Agency INPE</Name_OriginatingCentres>
     <CodeFigure_SubCentres>11</CodeFigure_SubCentres>
     <Name_SubCentres>Cuiaba (INPE)</Name_SubCentres>
-    <Name_SubCentres_ia5>Cuiaba (INPE)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -133,7 +117,6 @@
     <Name_OriginatingCentres>Brazilian Space Agency INPE</Name_OriginatingCentres>
     <CodeFigure_SubCentres>12</CodeFigure_SubCentres>
     <Name_SubCentres>Brasilia (SEPIS - INMET)</Name_SubCentres>
-    <Name_SubCentres_ia5>Brasilia (SEPIS - INMET)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -141,7 +124,6 @@
     <Name_OriginatingCentres>Brazilian Space Agency INPE</Name_OriginatingCentres>
     <CodeFigure_SubCentres>13</CodeFigure_SubCentres>
     <Name_SubCentres>Fortaleza (FUNCEME)</Name_SubCentres>
-    <Name_SubCentres_ia5>Fortaleza (FUNCEME)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -149,7 +131,6 @@
     <Name_OriginatingCentres>Brazilian Space Agency INPE</Name_OriginatingCentres>
     <CodeFigure_SubCentres>14</CodeFigure_SubCentres>
     <Name_SubCentres>Natal (Navy Hygrog. Centre)</Name_SubCentres>
-    <Name_SubCentres_ia5>Natal (Navy Hygrog. Centre)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -157,7 +138,6 @@
     <Name_OriginatingCentres>Brazilian Space Agency INPE</Name_OriginatingCentres>
     <CodeFigure_SubCentres>15</CodeFigure_SubCentres>
     <Name_SubCentres>Manaus (SIVAM)</Name_SubCentres>
-    <Name_SubCentres_ia5>Manaus (SIVAM)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -165,7 +145,6 @@
     <Name_OriginatingCentres>Brazilian Space Agency INPE</Name_OriginatingCentres>
     <CodeFigure_SubCentres>16</CodeFigure_SubCentres>
     <Name_SubCentres>Natal (INPE)</Name_SubCentres>
-    <Name_SubCentres_ia5>Natal (INPE)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -173,7 +152,6 @@
     <Name_OriginatingCentres>Brazilian Space Agency INPE</Name_OriginatingCentres>
     <CodeFigure_SubCentres>17</CodeFigure_SubCentres>
     <Name_SubCentres>Boa Vista</Name_SubCentres>
-    <Name_SubCentres_ia5>Boa Vista</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -181,31 +159,27 @@
     <Name_OriginatingCentres>Brazilian Space Agency INPE</Name_OriginatingCentres>
     <CodeFigure_SubCentres>18</CodeFigure_SubCentres>
     <Name_SubCentres>SIPAM-Porto Velho-RO</Name_SubCentres>
-    <Name_SubCentres_ia5>SIPAM-Porto Velho-RO</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
     <CodeFigure_OriginatingCentres>46</CodeFigure_OriginatingCentres>
     <Name_OriginatingCentres>Brazilian Space Agency INPE</Name_OriginatingCentres>
     <CodeFigure_SubCentres>19</CodeFigure_SubCentres>
-    <Name_SubCentres>SIPAM-Belém-PA</Name_SubCentres>
-    <Name_SubCentres_ia5>SIPAM-Belem-PA</Name_SubCentres_ia5>
+    <Name_SubCentres>SIPAM-Belem-PA</Name_SubCentres>
     <Status>Operational</Status>
   </C12>
   <C12>
     <CodeFigure_OriginatingCentres>46</CodeFigure_OriginatingCentres>
     <Name_OriginatingCentres>Brazilian Space Agency INPE</Name_OriginatingCentres>
     <CodeFigure_SubCentres>25</CodeFigure_SubCentres>
-    <Name_SubCentres>São Paulo University - USP</Name_SubCentres>
-    <Name_SubCentres_ia5>Sao Paulo University - USP</Name_SubCentres_ia5>
+    <Name_SubCentres>Sao Paulo University - USP</Name_SubCentres>
     <Status>Operational</Status>
   </C12>
   <C12>
     <CodeFigure_OriginatingCentres>147</CodeFigure_OriginatingCentres>
     <Name_OriginatingCentres>National Commission on Space Activities (CONAE) - Argentina</Name_OriginatingCentres>
     <CodeFigure_SubCentres>10</CodeFigure_SubCentres>
-    <Name_SubCentres>Córdoba</Name_SubCentres>
-    <Name_SubCentres_ia5>Cordoba</Name_SubCentres_ia5>
+    <Name_SubCentres>Cordoba</Name_SubCentres>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -213,7 +187,6 @@
     <Name_OriginatingCentres>National Commission on Space Activities (CONAE) - Argentina</Name_OriginatingCentres>
     <CodeFigure_SubCentres>15</CodeFigure_SubCentres>
     <Name_SubCentres>Ushuaia</Name_SubCentres>
-    <Name_SubCentres_ia5>Ushuaia</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -221,7 +194,6 @@
     <Name_OriginatingCentres>National Commission on Space Activities (CONAE) - Argentina</Name_OriginatingCentres>
     <CodeFigure_SubCentres>20</CodeFigure_SubCentres>
     <Name_SubCentres>Marambio</Name_SubCentres>
-    <Name_SubCentres_ia5>Marambio</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -229,7 +201,6 @@
     <Name_OriginatingCentres>National Commission on Space Activities (CONAE) - Argentina</Name_OriginatingCentres>
     <CodeFigure_SubCentres>30</CodeFigure_SubCentres>
     <Name_SubCentres>Santiago de Chile</Name_SubCentres>
-    <Name_SubCentres_ia5>Santiago de Chile</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -237,7 +208,6 @@
     <Name_OriginatingCentres>National Commission on Space Activities (CONAE) - Argentina</Name_OriginatingCentres>
     <CodeFigure_SubCentres>40</CodeFigure_SubCentres>
     <Name_SubCentres>Punta Arenas</Name_SubCentres>
-    <Name_SubCentres_ia5>Punta Arenas</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -245,7 +215,6 @@
     <Name_OriginatingCentres>National Commission on Space Activities (CONAE) - Argentina</Name_OriginatingCentres>
     <CodeFigure_SubCentres>50</CodeFigure_SubCentres>
     <Name_SubCentres>Base Presidente Frei</Name_SubCentres>
-    <Name_SubCentres_ia5>Base Presidente Frei</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -253,7 +222,6 @@
     <Name_OriginatingCentres>National Commission on Space Activities (CONAE) - Argentina</Name_OriginatingCentres>
     <CodeFigure_SubCentres>60</CodeFigure_SubCentres>
     <Name_SubCentres>Cotopaxi</Name_SubCentres>
-    <Name_SubCentres_ia5>Cotopaxi</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -261,7 +229,6 @@
     <Name_OriginatingCentres>Brazilian Department of Airspace Control - DECEA</Name_OriginatingCentres>
     <CodeFigure_SubCentres>1</CodeFigure_SubCentres>
     <Name_SubCentres>Integrated Centre of Aeronautical Meteorology - CIMAER</Name_SubCentres>
-    <Name_SubCentres_ia5>Integrated Centre of Aeronautical Meteorology - CIMAER</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -269,7 +236,6 @@
     <Name_OriginatingCentres>REGION IV</Name_OriginatingCentres>
     <CodeFigure_SubCentres/>
     <Name_SubCentres/>
-    <Name_SubCentres_ia5/>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -277,7 +243,6 @@
     <Name_OriginatingCentres>US National Weather Service, NCEP</Name_OriginatingCentres>
     <CodeFigure_SubCentres>1</CodeFigure_SubCentres>
     <Name_SubCentres>NCEP Reanalysis Project</Name_SubCentres>
-    <Name_SubCentres_ia5>NCEP Reanalysis Project</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -285,7 +250,6 @@
     <Name_OriginatingCentres>US National Weather Service, NCEP</Name_OriginatingCentres>
     <CodeFigure_SubCentres>2</CodeFigure_SubCentres>
     <Name_SubCentres>NCEP Ensemble Products</Name_SubCentres>
-    <Name_SubCentres_ia5>NCEP Ensemble Products</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -293,7 +257,6 @@
     <Name_OriginatingCentres>US National Weather Service, NCEP</Name_OriginatingCentres>
     <CodeFigure_SubCentres>3</CodeFigure_SubCentres>
     <Name_SubCentres>NCEP Central Operations</Name_SubCentres>
-    <Name_SubCentres_ia5>NCEP Central Operations</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -301,7 +264,6 @@
     <Name_OriginatingCentres>US National Weather Service, NCEP</Name_OriginatingCentres>
     <CodeFigure_SubCentres>4</CodeFigure_SubCentres>
     <Name_SubCentres>Environmental Modeling Center</Name_SubCentres>
-    <Name_SubCentres_ia5>Environmental Modeling Center</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -309,7 +271,6 @@
     <Name_OriginatingCentres>US National Weather Service, NCEP</Name_OriginatingCentres>
     <CodeFigure_SubCentres>5</CodeFigure_SubCentres>
     <Name_SubCentres>Weather Prediction Center</Name_SubCentres>
-    <Name_SubCentres_ia5>Weather Prediction Center</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -317,7 +278,6 @@
     <Name_OriginatingCentres>US National Weather Service, NCEP</Name_OriginatingCentres>
     <CodeFigure_SubCentres>6</CodeFigure_SubCentres>
     <Name_SubCentres>Ocean Prediction Center</Name_SubCentres>
-    <Name_SubCentres_ia5>Ocean Prediction Center</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -325,7 +285,6 @@
     <Name_OriginatingCentres>US National Weather Service, NCEP</Name_OriginatingCentres>
     <CodeFigure_SubCentres>7</CodeFigure_SubCentres>
     <Name_SubCentres>Climate Prediction Center</Name_SubCentres>
-    <Name_SubCentres_ia5>Climate Prediction Center</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -333,7 +292,6 @@
     <Name_OriginatingCentres>US National Weather Service, NCEP</Name_OriginatingCentres>
     <CodeFigure_SubCentres>8</CodeFigure_SubCentres>
     <Name_SubCentres>Aviation Weather Center</Name_SubCentres>
-    <Name_SubCentres_ia5>Aviation Weather Center</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -341,7 +299,6 @@
     <Name_OriginatingCentres>US National Weather Service, NCEP</Name_OriginatingCentres>
     <CodeFigure_SubCentres>9</CodeFigure_SubCentres>
     <Name_SubCentres>Storm Prediction Center</Name_SubCentres>
-    <Name_SubCentres_ia5>Storm Prediction Center</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -349,7 +306,6 @@
     <Name_OriginatingCentres>US National Weather Service, NCEP</Name_OriginatingCentres>
     <CodeFigure_SubCentres>10</CodeFigure_SubCentres>
     <Name_SubCentres>National Hurricane Center</Name_SubCentres>
-    <Name_SubCentres_ia5>National Hurricane Center</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -357,7 +313,6 @@
     <Name_OriginatingCentres>US National Weather Service, NCEP</Name_OriginatingCentres>
     <CodeFigure_SubCentres>11</CodeFigure_SubCentres>
     <Name_SubCentres>NWS Techniques Development Laboratory</Name_SubCentres>
-    <Name_SubCentres_ia5>NWS Techniques Development Laboratory</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -365,7 +320,6 @@
     <Name_OriginatingCentres>US National Weather Service, NCEP</Name_OriginatingCentres>
     <CodeFigure_SubCentres>12</CodeFigure_SubCentres>
     <Name_SubCentres>NESDIS Office of Research and Applications</Name_SubCentres>
-    <Name_SubCentres_ia5>NESDIS Office of Research and Applications</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -373,7 +327,6 @@
     <Name_OriginatingCentres>US National Weather Service, NCEP</Name_OriginatingCentres>
     <CodeFigure_SubCentres>13</CodeFigure_SubCentres>
     <Name_SubCentres>Federal Aviation Administration</Name_SubCentres>
-    <Name_SubCentres_ia5>Federal Aviation Administration</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -381,7 +334,6 @@
     <Name_OriginatingCentres>US National Weather Service, NCEP</Name_OriginatingCentres>
     <CodeFigure_SubCentres>14</CodeFigure_SubCentres>
     <Name_SubCentres>NWS Meteorological Development Laboratory</Name_SubCentres>
-    <Name_SubCentres_ia5>NWS Meteorological Development Laboratory</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -389,7 +341,6 @@
     <Name_OriginatingCentres>US National Weather Service, NCEP</Name_OriginatingCentres>
     <CodeFigure_SubCentres>15</CodeFigure_SubCentres>
     <Name_SubCentres>North American Regional Reanalysis Project</Name_SubCentres>
-    <Name_SubCentres_ia5>North American Regional Reanalysis Project</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -397,7 +348,6 @@
     <Name_OriginatingCentres>US National Weather Service, NCEP</Name_OriginatingCentres>
     <CodeFigure_SubCentres>16</CodeFigure_SubCentres>
     <Name_SubCentres>Space Weather Prediction Center</Name_SubCentres>
-    <Name_SubCentres_ia5>Space Weather Prediction Center</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -405,7 +355,6 @@
     <Name_OriginatingCentres>US National Weather Service, NCEP</Name_OriginatingCentres>
     <CodeFigure_SubCentres>17</CodeFigure_SubCentres>
     <Name_SubCentres>ESRL Global Systems Division</Name_SubCentres>
-    <Name_SubCentres_ia5>ESRL Global Systems Division</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -413,7 +362,6 @@
     <Name_OriginatingCentres>United States NOAA/NESDIS</Name_OriginatingCentres>
     <CodeFigure_SubCentres>1</CodeFigure_SubCentres>
     <Name_SubCentres>National Climatic Data Center</Name_SubCentres>
-    <Name_SubCentres_ia5>National Climatic Data Center</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -421,7 +369,6 @@
     <Name_OriginatingCentres>United States NOAA/NESDIS</Name_OriginatingCentres>
     <CodeFigure_SubCentres>2</CodeFigure_SubCentres>
     <Name_SubCentres>National Geophysical Data Center</Name_SubCentres>
-    <Name_SubCentres_ia5>National Geophysical Data Center</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -429,7 +376,6 @@
     <Name_OriginatingCentres>United States NOAA/NESDIS</Name_OriginatingCentres>
     <CodeFigure_SubCentres>3</CodeFigure_SubCentres>
     <Name_SubCentres>National Oceanographic Data Center</Name_SubCentres>
-    <Name_SubCentres_ia5>National Oceanographic Data Center</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -437,7 +383,6 @@
     <Name_OriginatingCentres>United States NOAA/NESDIS</Name_OriginatingCentres>
     <CodeFigure_SubCentres>4</CodeFigure_SubCentres>
     <Name_SubCentres>Center for Satellite Applications and Research (STAR)</Name_SubCentres>
-    <Name_SubCentres_ia5>Center for Satellite Applications and Research (STAR)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -445,7 +390,6 @@
     <Name_OriginatingCentres>United States NOAA/NESDIS</Name_OriginatingCentres>
     <CodeFigure_SubCentres>5</CodeFigure_SubCentres>
     <Name_SubCentres>Joint Polar Satellite System</Name_SubCentres>
-    <Name_SubCentres_ia5>Joint Polar Satellite System</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -453,7 +397,6 @@
     <Name_OriginatingCentres>United States NOAA/NESDIS</Name_OriginatingCentres>
     <CodeFigure_SubCentres>10</CodeFigure_SubCentres>
     <Name_SubCentres>Tromso (Norway)</Name_SubCentres>
-    <Name_SubCentres_ia5>Tromso (Norway)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -461,7 +404,6 @@
     <Name_OriginatingCentres>United States NOAA/NESDIS</Name_OriginatingCentres>
     <CodeFigure_SubCentres>11</CodeFigure_SubCentres>
     <Name_SubCentres>McMurdo (Antarctica)</Name_SubCentres>
-    <Name_SubCentres_ia5>McMurdo (Antarctica)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -469,7 +411,6 @@
     <Name_OriginatingCentres>United States NOAA Office of Oceanic and Atmospheric Research (NOAA/OAR)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>1</CodeFigure_SubCentres>
     <Name_SubCentres>Great Lakes Environmental Research Laboratory</Name_SubCentres>
-    <Name_SubCentres_ia5>Great Lakes Environmental Research Laboratory</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -477,7 +418,6 @@
     <Name_OriginatingCentres>United States NOAA Office of Oceanic and Atmospheric Research (NOAA/OAR)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>2</CodeFigure_SubCentres>
     <Name_SubCentres>Earth System Research Laboratory</Name_SubCentres>
-    <Name_SubCentres_ia5>Earth System Research Laboratory</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -485,7 +425,6 @@
     <Name_OriginatingCentres>United States NOAA Office of Oceanic and Atmospheric Research (NOAA/OAR)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>3</CodeFigure_SubCentres>
     <Name_SubCentres>Atlantic Oceanographic and Meteorological Laboratory</Name_SubCentres>
-    <Name_SubCentres_ia5>Atlantic Oceanographic and Meteorological Laboratory</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -493,7 +432,6 @@
     <Name_OriginatingCentres>United States NOAA Office of Oceanic and Atmospheric Research (NOAA/OAR)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>4</CodeFigure_SubCentres>
     <Name_SubCentres>Pacific Marine Environmental Laboratory</Name_SubCentres>
-    <Name_SubCentres_ia5>Pacific Marine Environmental Laboratory</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -501,7 +439,6 @@
     <Name_OriginatingCentres>United States NOAA Office of Oceanic and Atmospheric Research (NOAA/OAR)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>5</CodeFigure_SubCentres>
     <Name_SubCentres>Air Resources Laboratory</Name_SubCentres>
-    <Name_SubCentres_ia5>Air Resources Laboratory</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -509,7 +446,6 @@
     <Name_OriginatingCentres>United States NOAA Office of Oceanic and Atmospheric Research (NOAA/OAR)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>6</CodeFigure_SubCentres>
     <Name_SubCentres>Geophysical Fluid Dynamics Laboratory</Name_SubCentres>
-    <Name_SubCentres_ia5>Geophysical Fluid Dynamics Laboratory</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -517,7 +453,6 @@
     <Name_OriginatingCentres>United States NOAA Office of Oceanic and Atmospheric Research (NOAA/OAR)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>7</CodeFigure_SubCentres>
     <Name_SubCentres>National Severe Storms Laboratory</Name_SubCentres>
-    <Name_SubCentres_ia5>National Severe Storms Laboratory</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -525,7 +460,6 @@
     <Name_OriginatingCentres>United States National Aeronautics and Space Administration (NASA)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>1</CodeFigure_SubCentres>
     <Name_SubCentres>Ames Research Center</Name_SubCentres>
-    <Name_SubCentres_ia5>Ames Research Center</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -533,7 +467,6 @@
     <Name_OriginatingCentres>United States National Aeronautics and Space Administration (NASA)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>2</CodeFigure_SubCentres>
     <Name_SubCentres>Dryden Flight Research Center</Name_SubCentres>
-    <Name_SubCentres_ia5>Dryden Flight Research Center</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -541,7 +474,6 @@
     <Name_OriginatingCentres>United States National Aeronautics and Space Administration (NASA)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>3</CodeFigure_SubCentres>
     <Name_SubCentres>Glenn Research Center</Name_SubCentres>
-    <Name_SubCentres_ia5>Glenn Research Center</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -549,7 +481,6 @@
     <Name_OriginatingCentres>United States National Aeronautics and Space Administration (NASA)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>4</CodeFigure_SubCentres>
     <Name_SubCentres>Goddard Space Flight Center</Name_SubCentres>
-    <Name_SubCentres_ia5>Goddard Space Flight Center</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -557,7 +488,6 @@
     <Name_OriginatingCentres>United States National Aeronautics and Space Administration (NASA)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>5</CodeFigure_SubCentres>
     <Name_SubCentres>Jet Propulsion Laboratory</Name_SubCentres>
-    <Name_SubCentres_ia5>Jet Propulsion Laboratory</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -565,7 +495,6 @@
     <Name_OriginatingCentres>United States National Aeronautics and Space Administration (NASA)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>6</CodeFigure_SubCentres>
     <Name_SubCentres>Johnson Space Center</Name_SubCentres>
-    <Name_SubCentres_ia5>Johnson Space Center</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -573,7 +502,6 @@
     <Name_OriginatingCentres>United States National Aeronautics and Space Administration (NASA)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>7</CodeFigure_SubCentres>
     <Name_SubCentres>Kennedy Space Center</Name_SubCentres>
-    <Name_SubCentres_ia5>Kennedy Space Center</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -581,7 +509,6 @@
     <Name_OriginatingCentres>United States National Aeronautics and Space Administration (NASA)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>8</CodeFigure_SubCentres>
     <Name_SubCentres>Langley Research Center</Name_SubCentres>
-    <Name_SubCentres_ia5>Langley Research Center</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -589,7 +516,6 @@
     <Name_OriginatingCentres>United States National Aeronautics and Space Administration (NASA)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>9</CodeFigure_SubCentres>
     <Name_SubCentres>Marshall Space Flight Center</Name_SubCentres>
-    <Name_SubCentres_ia5>Marshall Space Flight Center</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -597,7 +523,6 @@
     <Name_OriginatingCentres>United States National Aeronautics and Space Administration (NASA)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>10</CodeFigure_SubCentres>
     <Name_SubCentres>Stennis Space Center</Name_SubCentres>
-    <Name_SubCentres_ia5>Stennis Space Center</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -605,7 +530,6 @@
     <Name_OriginatingCentres>United States National Aeronautics and Space Administration (NASA)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>11</CodeFigure_SubCentres>
     <Name_SubCentres>Goddard Institute for Space Studies</Name_SubCentres>
-    <Name_SubCentres_ia5>Goddard Institute for Space Studies</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -613,7 +537,6 @@
     <Name_OriginatingCentres>United States National Aeronautics and Space Administration (NASA)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>12</CodeFigure_SubCentres>
     <Name_SubCentres>Independent Verification and Validation Facility</Name_SubCentres>
-    <Name_SubCentres_ia5>Independent Verification and Validation Facility</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -621,7 +544,6 @@
     <Name_OriginatingCentres>United States National Aeronautics and Space Administration (NASA)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>13</CodeFigure_SubCentres>
     <Name_SubCentres>NASA Shared Service Center</Name_SubCentres>
-    <Name_SubCentres_ia5>NASA Shared Service Center</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -629,7 +551,6 @@
     <Name_OriginatingCentres>United States National Aeronautics and Space Administration (NASA)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>14</CodeFigure_SubCentres>
     <Name_SubCentres>Wallops Flight Facility</Name_SubCentres>
-    <Name_SubCentres_ia5>Wallops Flight Facility</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -637,7 +558,6 @@
     <Name_OriginatingCentres>Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States</Name_OriginatingCentres>
     <CodeFigure_SubCentres>10</CodeFigure_SubCentres>
     <Name_SubCentres>Tromso (Norway)</Name_SubCentres>
-    <Name_SubCentres_ia5>Tromso (Norway)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -645,7 +565,6 @@
     <Name_OriginatingCentres>Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States</Name_OriginatingCentres>
     <CodeFigure_SubCentres>11</CodeFigure_SubCentres>
     <Name_SubCentres>McMurdo (Antarctica)</Name_SubCentres>
-    <Name_SubCentres_ia5>McMurdo (Antarctica)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -653,7 +572,6 @@
     <Name_OriginatingCentres>Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States</Name_OriginatingCentres>
     <CodeFigure_SubCentres>12</CodeFigure_SubCentres>
     <Name_SubCentres>Sodankyla (Finland)</Name_SubCentres>
-    <Name_SubCentres_ia5>Sodankyla (Finland)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -661,7 +579,6 @@
     <Name_OriginatingCentres>Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States</Name_OriginatingCentres>
     <CodeFigure_SubCentres>13</CodeFigure_SubCentres>
     <Name_SubCentres>Fairbanks (United States)</Name_SubCentres>
-    <Name_SubCentres_ia5>Fairbanks (United States)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -669,7 +586,6 @@
     <Name_OriginatingCentres>Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States</Name_OriginatingCentres>
     <CodeFigure_SubCentres>14</CodeFigure_SubCentres>
     <Name_SubCentres>Barrow (United States)</Name_SubCentres>
-    <Name_SubCentres_ia5>Barrow (United States)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -677,7 +593,6 @@
     <Name_OriginatingCentres>Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States</Name_OriginatingCentres>
     <CodeFigure_SubCentres>15</CodeFigure_SubCentres>
     <Name_SubCentres>Rothera (Antarctica)</Name_SubCentres>
-    <Name_SubCentres_ia5>Rothera (Antarctica)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -685,7 +600,6 @@
     <Name_OriginatingCentres>Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States</Name_OriginatingCentres>
     <CodeFigure_SubCentres>20</CodeFigure_SubCentres>
     <Name_SubCentres>Honolulu (United States)</Name_SubCentres>
-    <Name_SubCentres_ia5>Honolulu (United States)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -693,7 +607,6 @@
     <Name_OriginatingCentres>Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States</Name_OriginatingCentres>
     <CodeFigure_SubCentres>21</CodeFigure_SubCentres>
     <Name_SubCentres>Gilmore Creek (United States)</Name_SubCentres>
-    <Name_SubCentres_ia5>Gilmore Creek (United States)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -701,7 +614,6 @@
     <Name_OriginatingCentres>Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States</Name_OriginatingCentres>
     <CodeFigure_SubCentres>22</CodeFigure_SubCentres>
     <Name_SubCentres>Madison (United States)</Name_SubCentres>
-    <Name_SubCentres_ia5>Madison (United States)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -709,7 +621,6 @@
     <Name_OriginatingCentres>Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States</Name_OriginatingCentres>
     <CodeFigure_SubCentres>23</CodeFigure_SubCentres>
     <Name_SubCentres>Miami (United States)</Name_SubCentres>
-    <Name_SubCentres_ia5>Miami (United States)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -717,7 +628,6 @@
     <Name_OriginatingCentres>Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States</Name_OriginatingCentres>
     <CodeFigure_SubCentres>24</CodeFigure_SubCentres>
     <Name_SubCentres>Mayaguez (Puerto Rico)</Name_SubCentres>
-    <Name_SubCentres_ia5>Mayaguez (Puerto Rico)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -725,7 +635,6 @@
     <Name_OriginatingCentres>Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States</Name_OriginatingCentres>
     <CodeFigure_SubCentres>25</CodeFigure_SubCentres>
     <Name_SubCentres>Monterey (United States)</Name_SubCentres>
-    <Name_SubCentres_ia5>Monterey (United States)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -733,7 +642,6 @@
     <Name_OriginatingCentres>Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States</Name_OriginatingCentres>
     <CodeFigure_SubCentres>26</CodeFigure_SubCentres>
     <Name_SubCentres>Guam</Name_SubCentres>
-    <Name_SubCentres_ia5>Guam</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -741,7 +649,6 @@
     <Name_OriginatingCentres>Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States</Name_OriginatingCentres>
     <CodeFigure_SubCentres>27</CodeFigure_SubCentres>
     <Name_SubCentres>Corvallis (United States)</Name_SubCentres>
-    <Name_SubCentres_ia5>Corvallis (United States)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -749,7 +656,6 @@
     <Name_OriginatingCentres>Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States</Name_OriginatingCentres>
     <CodeFigure_SubCentres>28</CodeFigure_SubCentres>
     <Name_SubCentres>Hampton (United States)</Name_SubCentres>
-    <Name_SubCentres_ia5>Hampton (United States)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -757,7 +663,6 @@
     <Name_OriginatingCentres>Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States</Name_OriginatingCentres>
     <CodeFigure_SubCentres>29</CodeFigure_SubCentres>
     <Name_SubCentres>New York City (United States)</Name_SubCentres>
-    <Name_SubCentres_ia5>New York City (United States)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -765,7 +670,6 @@
     <Name_OriginatingCentres>NOAA National Ocean Service - United States</Name_OriginatingCentres>
     <CodeFigure_SubCentres>1</CodeFigure_SubCentres>
     <Name_SubCentres>Center for Operational Oceanographic Products and Services</Name_SubCentres>
-    <Name_SubCentres_ia5>Center for Operational Oceanographic Products and Services</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -773,7 +677,6 @@
     <Name_OriginatingCentres>NOAA National Ocean Service - United States</Name_OriginatingCentres>
     <CodeFigure_SubCentres>2</CodeFigure_SubCentres>
     <Name_SubCentres>Coast Survey Development Laboratory</Name_SubCentres>
-    <Name_SubCentres_ia5>Coast Survey Development Laboratory</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -781,7 +684,6 @@
     <Name_OriginatingCentres>REGION V</Name_OriginatingCentres>
     <CodeFigure_SubCentres/>
     <Name_SubCentres/>
-    <Name_SubCentres_ia5/>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -789,7 +691,6 @@
     <Name_OriginatingCentres>Melbourne</Name_OriginatingCentres>
     <CodeFigure_SubCentres>201</CodeFigure_SubCentres>
     <Name_SubCentres>Casey</Name_SubCentres>
-    <Name_SubCentres_ia5>Casey</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -797,7 +698,6 @@
     <Name_OriginatingCentres>Melbourne</Name_OriginatingCentres>
     <CodeFigure_SubCentres>203</CodeFigure_SubCentres>
     <Name_SubCentres>Davis</Name_SubCentres>
-    <Name_SubCentres_ia5>Davis</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -805,7 +705,6 @@
     <Name_OriginatingCentres>Melbourne</Name_OriginatingCentres>
     <CodeFigure_SubCentres>210</CodeFigure_SubCentres>
     <Name_SubCentres>Alice Springs</Name_SubCentres>
-    <Name_SubCentres_ia5>Alice Springs</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -813,7 +712,6 @@
     <Name_OriginatingCentres>Melbourne</Name_OriginatingCentres>
     <CodeFigure_SubCentres>211</CodeFigure_SubCentres>
     <Name_SubCentres>Melbourne Crib Point 1</Name_SubCentres>
-    <Name_SubCentres_ia5>Melbourne Crib Point 1</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -821,7 +719,6 @@
     <Name_OriginatingCentres>Melbourne</Name_OriginatingCentres>
     <CodeFigure_SubCentres>214</CodeFigure_SubCentres>
     <Name_SubCentres>Darwin</Name_SubCentres>
-    <Name_SubCentres_ia5>Darwin</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -829,7 +726,6 @@
     <Name_OriginatingCentres>Melbourne</Name_OriginatingCentres>
     <CodeFigure_SubCentres>217</CodeFigure_SubCentres>
     <Name_SubCentres>Perth</Name_SubCentres>
-    <Name_SubCentres_ia5>Perth</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -837,7 +733,6 @@
     <Name_OriginatingCentres>Melbourne</Name_OriginatingCentres>
     <CodeFigure_SubCentres>219</CodeFigure_SubCentres>
     <Name_SubCentres>Townsville</Name_SubCentres>
-    <Name_SubCentres_ia5>Townsville</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -845,7 +740,6 @@
     <Name_OriginatingCentres>Melbourne</Name_OriginatingCentres>
     <CodeFigure_SubCentres>232</CodeFigure_SubCentres>
     <Name_SubCentres>Fiji</Name_SubCentres>
-    <Name_SubCentres_ia5>Fiji</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -853,7 +747,6 @@
     <Name_OriginatingCentres>Melbourne</Name_OriginatingCentres>
     <CodeFigure_SubCentres>235</CodeFigure_SubCentres>
     <Name_SubCentres>Noumea</Name_SubCentres>
-    <Name_SubCentres_ia5>Noumea</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -861,7 +754,6 @@
     <Name_OriginatingCentres>Melbourne</Name_OriginatingCentres>
     <CodeFigure_SubCentres>237</CodeFigure_SubCentres>
     <Name_SubCentres>Papeete</Name_SubCentres>
-    <Name_SubCentres_ia5>Papeete</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -869,7 +761,6 @@
     <Name_OriginatingCentres>Melbourne</Name_OriginatingCentres>
     <CodeFigure_SubCentres>250</CodeFigure_SubCentres>
     <Name_SubCentres>Vladivostock</Name_SubCentres>
-    <Name_SubCentres_ia5>Vladivostock</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -877,7 +768,6 @@
     <Name_OriginatingCentres>Melbourne</Name_OriginatingCentres>
     <CodeFigure_SubCentres>251</CodeFigure_SubCentres>
     <Name_SubCentres>Guam</Name_SubCentres>
-    <Name_SubCentres_ia5>Guam</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -885,7 +775,6 @@
     <Name_OriginatingCentres>Melbourne</Name_OriginatingCentres>
     <CodeFigure_SubCentres>252</CodeFigure_SubCentres>
     <Name_SubCentres>Honolulu</Name_SubCentres>
-    <Name_SubCentres_ia5>Honolulu</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -893,7 +782,6 @@
     <Name_OriginatingCentres>Wellington (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>204</CodeFigure_SubCentres>
     <Name_SubCentres>National Institute of Water and Atmospheric Research (NIWA - New Zealand)</Name_SubCentres>
-    <Name_SubCentres_ia5>National Institute of Water and Atmospheric Research (NIWA - New Zealand)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -901,7 +789,6 @@
     <Name_OriginatingCentres>Wellington (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>205</CodeFigure_SubCentres>
     <Name_SubCentres>Niue</Name_SubCentres>
-    <Name_SubCentres_ia5>Niue</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -909,7 +796,6 @@
     <Name_OriginatingCentres>Wellington (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>206</CodeFigure_SubCentres>
     <Name_SubCentres>Rarotonga (Cook Islands)</Name_SubCentres>
-    <Name_SubCentres_ia5>Rarotonga (Cook Islands)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -917,7 +803,6 @@
     <Name_OriginatingCentres>Wellington (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>207</CodeFigure_SubCentres>
     <Name_SubCentres>Apia (Samoa)</Name_SubCentres>
-    <Name_SubCentres_ia5>Apia (Samoa)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -925,7 +810,6 @@
     <Name_OriginatingCentres>Wellington (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>208</CodeFigure_SubCentres>
     <Name_SubCentres>Tonga</Name_SubCentres>
-    <Name_SubCentres_ia5>Tonga</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -933,7 +817,6 @@
     <Name_OriginatingCentres>Wellington (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>209</CodeFigure_SubCentres>
     <Name_SubCentres>Tuvalu</Name_SubCentres>
-    <Name_SubCentres_ia5>Tuvalu</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -941,7 +824,6 @@
     <Name_OriginatingCentres>Wellington (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>210</CodeFigure_SubCentres>
     <Name_SubCentres>Kiribati</Name_SubCentres>
-    <Name_SubCentres_ia5>Kiribati</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -949,7 +831,6 @@
     <Name_OriginatingCentres>Wellington (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>211</CodeFigure_SubCentres>
     <Name_SubCentres>Tokelau</Name_SubCentres>
-    <Name_SubCentres_ia5>Tokelau</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -957,7 +838,6 @@
     <Name_OriginatingCentres>Wellington (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>243</CodeFigure_SubCentres>
     <Name_SubCentres>Kelburn</Name_SubCentres>
-    <Name_SubCentres_ia5>Kelburn</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -965,7 +845,6 @@
     <Name_OriginatingCentres>Singapore</Name_OriginatingCentres>
     <CodeFigure_SubCentres>249</CodeFigure_SubCentres>
     <Name_SubCentres>Singapore</Name_SubCentres>
-    <Name_SubCentres_ia5>Singapore</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -973,7 +852,6 @@
     <Name_OriginatingCentres>French Polynesia (NMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>1</CodeFigure_SubCentres>
     <Name_SubCentres>RARS station of Tahiti (French Polynesia)</Name_SubCentres>
-    <Name_SubCentres_ia5>RARS station of Tahiti (French Polynesia)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -981,7 +859,6 @@
     <Name_OriginatingCentres>National Institute of Water and Atmospheric Research (NIWA - New Zealand)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>101</CodeFigure_SubCentres>
     <Name_SubCentres>Maupuia</Name_SubCentres>
-    <Name_SubCentres_ia5>Maupuia</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -989,7 +866,6 @@
     <Name_OriginatingCentres>National Institute of Water and Atmospheric Research (NIWA - New Zealand)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>102</CodeFigure_SubCentres>
     <Name_SubCentres>Lauder</Name_SubCentres>
-    <Name_SubCentres_ia5>Lauder</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -997,7 +873,6 @@
     <Name_OriginatingCentres>REGION VI</Name_OriginatingCentres>
     <CodeFigure_SubCentres/>
     <Name_SubCentres/>
-    <Name_SubCentres_ia5/>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1005,7 +880,6 @@
     <Name_OriginatingCentres>UK Met Office, Exeter (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>1</CodeFigure_SubCentres>
     <Name_SubCentres>Shanwick Oceanic Area Control Centre</Name_SubCentres>
-    <Name_SubCentres_ia5>Shanwick Oceanic Area Control Centre</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1013,7 +887,6 @@
     <Name_OriginatingCentres>UK Met Office, Exeter (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>2</CodeFigure_SubCentres>
     <Name_SubCentres>Fucino</Name_SubCentres>
-    <Name_SubCentres_ia5>Fucino</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1021,7 +894,6 @@
     <Name_OriginatingCentres>UK Met Office, Exeter (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>3</CodeFigure_SubCentres>
     <Name_SubCentres>Gatineau</Name_SubCentres>
-    <Name_SubCentres_ia5>Gatineau</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1029,7 +901,6 @@
     <Name_OriginatingCentres>UK Met Office, Exeter (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>4</CodeFigure_SubCentres>
     <Name_SubCentres>Maspalomas (Spain)</Name_SubCentres>
-    <Name_SubCentres_ia5>Maspalomas (Spain)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1037,7 +908,6 @@
     <Name_OriginatingCentres>UK Met Office, Exeter (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>5</CodeFigure_SubCentres>
     <Name_SubCentres>ESA ERS Central Facility</Name_SubCentres>
-    <Name_SubCentres_ia5>ESA ERS Central Facility</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1045,7 +915,6 @@
     <Name_OriginatingCentres>UK Met Office, Exeter (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>6</CodeFigure_SubCentres>
     <Name_SubCentres>Prince Albert</Name_SubCentres>
-    <Name_SubCentres_ia5>Prince Albert</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1053,7 +922,6 @@
     <Name_OriginatingCentres>UK Met Office, Exeter (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>7</CodeFigure_SubCentres>
     <Name_SubCentres>West Freugh</Name_SubCentres>
-    <Name_SubCentres_ia5>West Freugh</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1061,7 +929,6 @@
     <Name_OriginatingCentres>UK Met Office, Exeter (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>13</CodeFigure_SubCentres>
     <Name_SubCentres>Tromso</Name_SubCentres>
-    <Name_SubCentres_ia5>Tromso</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1069,7 +936,6 @@
     <Name_OriginatingCentres>UK Met Office, Exeter (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>21</CodeFigure_SubCentres>
     <Name_SubCentres>Agenzia Spaziale Italiana (Italy)</Name_SubCentres>
-    <Name_SubCentres_ia5>Agenzia Spaziale Italiana (Italy)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1077,7 +943,6 @@
     <Name_OriginatingCentres>UK Met Office, Exeter (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>22</CodeFigure_SubCentres>
     <Name_SubCentres>Centre National de la Recherche Scientifique (France)</Name_SubCentres>
-    <Name_SubCentres_ia5>Centre National de la Recherche Scientifique (France)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1085,7 +950,6 @@
     <Name_OriginatingCentres>UK Met Office, Exeter (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>23</CodeFigure_SubCentres>
     <Name_SubCentres>GeoForschungs Zentrum (Germany)</Name_SubCentres>
-    <Name_SubCentres_ia5>GeoForschungs Zentrum (Germany)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1093,7 +957,6 @@
     <Name_OriginatingCentres>UK Met Office, Exeter (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>24</CodeFigure_SubCentres>
     <Name_SubCentres>Geodetic Observatory Pecny (Czechia)</Name_SubCentres>
-    <Name_SubCentres_ia5>Geodetic Observatory Pecny (Czechia)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1101,7 +964,6 @@
     <Name_OriginatingCentres>UK Met Office, Exeter (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>25</CodeFigure_SubCentres>
     <Name_SubCentres>Institut d'Estudis Espacials de Catalunya (Spain)</Name_SubCentres>
-    <Name_SubCentres_ia5>Institut d'Estudis Espacials de Catalunya (Spain)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1109,7 +971,6 @@
     <Name_OriginatingCentres>UK Met Office, Exeter (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>26</CodeFigure_SubCentres>
     <Name_SubCentres>Federal Office of Topography (Switzerland)</Name_SubCentres>
-    <Name_SubCentres_ia5>Federal Office of Topography (Switzerland)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1117,7 +978,6 @@
     <Name_OriginatingCentres>UK Met Office, Exeter (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>27</CodeFigure_SubCentres>
     <Name_SubCentres>Nordic Commission of Geodesy (Norway)</Name_SubCentres>
-    <Name_SubCentres_ia5>Nordic Commission of Geodesy (Norway)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1125,23 +985,20 @@
     <Name_OriginatingCentres>UK Met Office, Exeter (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>28</CodeFigure_SubCentres>
     <Name_SubCentres>Nordic Commission of Geodesy (Sweden)</Name_SubCentres>
-    <Name_SubCentres_ia5>Nordic Commission of Geodesy (Sweden)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
     <CodeFigure_OriginatingCentres>74</CodeFigure_OriginatingCentres>
     <Name_OriginatingCentres>UK Met Office, Exeter (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>29</CodeFigure_SubCentres>
-    <Name_SubCentres>Institute Géographique National (France) - Service de géodésie</Name_SubCentres>
-    <Name_SubCentres_ia5>Institute Geographique National (France) - Service de geodesie</Name_SubCentres_ia5>
+    <Name_SubCentres>Institute Geographique National (France) - Service de geodesie</Name_SubCentres>
     <Status>Operational</Status>
   </C12>
   <C12>
     <CodeFigure_OriginatingCentres>74</CodeFigure_OriginatingCentres>
     <Name_OriginatingCentres>UK Met Office, Exeter (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>30</CodeFigure_SubCentres>
-    <Name_SubCentres>Bundesamt für Kartographie und Geodäsie (Germany)</Name_SubCentres>
-    <Name_SubCentres_ia5>Bundesamt fuer Kartographie und Geodaesie (Germany)</Name_SubCentres_ia5>
+    <Name_SubCentres>Bundesamt fuer Kartographie und Geodaesie (Germany)</Name_SubCentres>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1149,7 +1006,6 @@
     <Name_OriginatingCentres>UK Met Office, Exeter (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>31</CodeFigure_SubCentres>
     <Name_SubCentres>Institute of Engineering Satellite Surveying and Geodesy (United Kingdom)</Name_SubCentres>
-    <Name_SubCentres_ia5>Institute of Engineering Satellite Surveying and Geodesy (United Kingdom)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1157,7 +1013,6 @@
     <Name_OriginatingCentres>UK Met Office, Exeter (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>32</CodeFigure_SubCentres>
     <Name_SubCentres>Joint Operational Meteorology and Oceanography Centre (JOMOC)</Name_SubCentres>
-    <Name_SubCentres_ia5>Joint Operational Meteorology and Oceanography Centre (JOMOC)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1165,7 +1020,6 @@
     <Name_OriginatingCentres>UK Met Office, Exeter (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>33</CodeFigure_SubCentres>
     <Name_SubCentres>Koninklijk Nederlands Meteorologisch Institut (Netherlands)</Name_SubCentres>
-    <Name_SubCentres_ia5>Koninklijk Nederlands Meteorologisch Institut (Netherlands)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1173,23 +1027,20 @@
     <Name_OriginatingCentres>UK Met Office, Exeter (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>34</CodeFigure_SubCentres>
     <Name_SubCentres>Nordic GPS Atmospheric Analysis centre (Sweden)</Name_SubCentres>
-    <Name_SubCentres_ia5>Nordic GPS Atmospheric Analysis centre (Sweden)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
     <CodeFigure_OriginatingCentres>74</CodeFigure_OriginatingCentres>
     <Name_OriginatingCentres>UK Met Office, Exeter (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>35</CodeFigure_SubCentres>
-    <Name_SubCentres>Instituto Geografico Nacional de España (Spain)</Name_SubCentres>
-    <Name_SubCentres_ia5>Instituto Geografico Nacional de Espana (Spain)</Name_SubCentres_ia5>
+    <Name_SubCentres>Instituto Geografico Nacional de Espana (Spain)</Name_SubCentres>
     <Status>Operational</Status>
   </C12>
   <C12>
     <CodeFigure_OriginatingCentres>74</CodeFigure_OriginatingCentres>
     <Name_OriginatingCentres>UK Met Office, Exeter (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>36</CodeFigure_SubCentres>
-    <Name_SubCentres>Met Éireann (Ireland)</Name_SubCentres>
-    <Name_SubCentres_ia5>Met Eireann (Ireland)</Name_SubCentres_ia5>
+    <Name_SubCentres>Met Eireann (Ireland)</Name_SubCentres>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1197,7 +1048,6 @@
     <Name_OriginatingCentres>UK Met Office, Exeter (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>37</CodeFigure_SubCentres>
     <Name_SubCentres>Royal Observatory of Belgium (Belgium)</Name_SubCentres>
-    <Name_SubCentres_ia5>Royal Observatory of Belgium (Belgium)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1205,7 +1055,6 @@
     <Name_OriginatingCentres>Offenbach (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>10</CodeFigure_SubCentres>
     <Name_SubCentres>POLARA (Polarimetric Radar Algorithms instance)</Name_SubCentres>
-    <Name_SubCentres_ia5>POLARA (Polarimetric Radar Algorithms instance)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1213,7 +1062,6 @@
     <Name_OriginatingCentres>Offenbach (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>64</CodeFigure_SubCentres>
     <Name_SubCentres>Bundeswehr Geoinformation Office (BGIO)</Name_SubCentres>
-    <Name_SubCentres_ia5>Bundeswehr Geoinformation Office (BGIO)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1221,15 +1069,13 @@
     <Name_OriginatingCentres>Offenbach (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>110</CodeFigure_SubCentres>
     <Name_SubCentres>NowCast mobile (Lightning data)</Name_SubCentres>
-    <Name_SubCentres_ia5>NowCast mobile (Lightning data)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
     <CodeFigure_OriginatingCentres>78</CodeFigure_OriginatingCentres>
     <Name_OriginatingCentres>Offenbach (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>221</CodeFigure_SubCentres>
-    <Name_SubCentres>Schleswig-Holstein, Traffic Operations Computing Centre (TOCC) Kiel/Neumünster</Name_SubCentres>
-    <Name_SubCentres_ia5>Schleswig-Holstein, Traffic Operations Computing Centre (TOCC) Kiel/Neumuenster</Name_SubCentres_ia5>
+    <Name_SubCentres>Schleswig-Holstein, Traffic Operations Computing Centre (TOCC) Kiel/Neumuenster</Name_SubCentres>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1237,7 +1083,6 @@
     <Name_OriginatingCentres>Offenbach (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>222</CodeFigure_SubCentres>
     <Name_SubCentres>Hamburg, TOCC Hamburg</Name_SubCentres>
-    <Name_SubCentres_ia5>Hamburg, TOCC Hamburg</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1245,7 +1090,6 @@
     <Name_OriginatingCentres>Offenbach (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>223</CodeFigure_SubCentres>
     <Name_SubCentres>Niedersachsen, TOCC Hannover</Name_SubCentres>
-    <Name_SubCentres_ia5>Niedersachsen, TOCC Hannover</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1253,7 +1097,6 @@
     <Name_OriginatingCentres>Offenbach (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>224</CodeFigure_SubCentres>
     <Name_SubCentres>Austria (NMC)</Name_SubCentres>
-    <Name_SubCentres_ia5>Austria (NMC)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1261,15 +1104,13 @@
     <Name_OriginatingCentres>Offenbach (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>225</CodeFigure_SubCentres>
     <Name_SubCentres>Nordrhein-Westfalen, TOCC Kamen Leverkusen</Name_SubCentres>
-    <Name_SubCentres_ia5>Nordrhein-Westfalen, TOCC Kamen Leverkusen</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
     <CodeFigure_OriginatingCentres>78</CodeFigure_OriginatingCentres>
     <Name_OriginatingCentres>Offenbach (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>226</CodeFigure_SubCentres>
-    <Name_SubCentres>Hessen, TOCC Rüsselsheim</Name_SubCentres>
-    <Name_SubCentres_ia5>Hessen, TOCC Ruesselsheim</Name_SubCentres_ia5>
+    <Name_SubCentres>Hessen, TOCC Ruesselsheim</Name_SubCentres>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1277,15 +1118,13 @@
     <Name_OriginatingCentres>Offenbach (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>227</CodeFigure_SubCentres>
     <Name_SubCentres>Rheinland-Pfalz, TOCC Koblenz</Name_SubCentres>
-    <Name_SubCentres_ia5>Rheinland-Pfalz, TOCC Koblenz</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
     <CodeFigure_OriginatingCentres>78</CodeFigure_OriginatingCentres>
     <Name_OriginatingCentres>Offenbach (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>228</CodeFigure_SubCentres>
-    <Name_SubCentres>Baden-Württemberg, TOCC Ludwigsburg</Name_SubCentres>
-    <Name_SubCentres_ia5>Baden-Wuerttemberg, TOCC Ludwigsburg</Name_SubCentres_ia5>
+    <Name_SubCentres>Baden-Wuerttemberg, TOCC Ludwigsburg</Name_SubCentres>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1293,7 +1132,6 @@
     <Name_OriginatingCentres>Offenbach (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>229</CodeFigure_SubCentres>
     <Name_SubCentres>Bayern, TOCC Freimann</Name_SubCentres>
-    <Name_SubCentres_ia5>Bayern, TOCC Freimann</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1301,7 +1139,6 @@
     <Name_OriginatingCentres>Offenbach (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>230</CodeFigure_SubCentres>
     <Name_SubCentres>Saarland, TOCC Rohrbach</Name_SubCentres>
-    <Name_SubCentres_ia5>Saarland, TOCC Rohrbach</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1309,7 +1146,6 @@
     <Name_OriginatingCentres>Offenbach (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>231</CodeFigure_SubCentres>
     <Name_SubCentres>Bayern, Autobahn directorate Nordbayern</Name_SubCentres>
-    <Name_SubCentres_ia5>Bayern, Autobahn directorate Nordbayern</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1317,7 +1153,6 @@
     <Name_OriginatingCentres>Offenbach (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>232</CodeFigure_SubCentres>
     <Name_SubCentres>Brandenburg, TOCC Stolpe</Name_SubCentres>
-    <Name_SubCentres_ia5>Brandenburg, TOCC Stolpe</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1325,7 +1160,6 @@
     <Name_OriginatingCentres>Offenbach (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>233</CodeFigure_SubCentres>
     <Name_SubCentres>Mecklenburg-Vorpommern, TOCC Malchow</Name_SubCentres>
-    <Name_SubCentres_ia5>Mecklenburg-Vorpommern, TOCC Malchow</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1333,7 +1167,6 @@
     <Name_OriginatingCentres>Offenbach (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>234</CodeFigure_SubCentres>
     <Name_SubCentres>Sachsen, TOCC Dresden</Name_SubCentres>
-    <Name_SubCentres_ia5>Sachsen, TOCC Dresden</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1341,15 +1174,13 @@
     <Name_OriginatingCentres>Offenbach (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>235</CodeFigure_SubCentres>
     <Name_SubCentres>Sachsen-Anhalt, TOCC Halle</Name_SubCentres>
-    <Name_SubCentres_ia5>Sachsen-Anhalt, TOCC Halle</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
     <CodeFigure_OriginatingCentres>78</CodeFigure_OriginatingCentres>
     <Name_OriginatingCentres>Offenbach (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>236</CodeFigure_SubCentres>
-    <Name_SubCentres>Thüringen, TOCC Erfurt</Name_SubCentres>
-    <Name_SubCentres_ia5>Thueringen, TOCC Erfurt</Name_SubCentres_ia5>
+    <Name_SubCentres>Thueringen, TOCC Erfurt</Name_SubCentres>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1357,7 +1188,6 @@
     <Name_OriginatingCentres>Offenbach (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>237</CodeFigure_SubCentres>
     <Name_SubCentres>EasyWay - Meteotrans</Name_SubCentres>
-    <Name_SubCentres_ia5>EasyWay - Meteotrans</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1365,7 +1195,6 @@
     <Name_OriginatingCentres>Offenbach (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>254</CodeFigure_SubCentres>
     <Name_SubCentres>EUMETSAT</Name_SubCentres>
-    <Name_SubCentres_ia5>EUMETSAT</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1373,7 +1202,6 @@
     <Name_OriginatingCentres>Rome (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>101</CodeFigure_SubCentres>
     <Name_SubCentres>Albania (NMC)</Name_SubCentres>
-    <Name_SubCentres_ia5>Albania (NMC)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1381,7 +1209,6 @@
     <Name_OriginatingCentres>Rome (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>102</CodeFigure_SubCentres>
     <Name_SubCentres>National Research Council/Institute of Atmospheric Sciences and Climate (CNR-ISAC)</Name_SubCentres>
-    <Name_SubCentres_ia5>National Research Council/Institute of Atmospheric Sciences and Climate (CNR-ISAC)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1389,23 +1216,20 @@
     <Name_OriginatingCentres>Toulouse (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>200</CodeFigure_SubCentres>
     <Name_SubCentres>Institut National de l'Environnement Industriel et des Risques (France)</Name_SubCentres>
-    <Name_SubCentres_ia5>Institut National de l'Environnement Industriel et des Risques (France)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
     <CodeFigure_OriginatingCentres>85</CodeFigure_OriginatingCentres>
     <Name_OriginatingCentres>Toulouse (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>201</CodeFigure_SubCentres>
-    <Name_SubCentres>Rheinisches Institut für Umweltforschung an der Universität zu Köln E.V. (Germany)</Name_SubCentres>
-    <Name_SubCentres_ia5>Rheinisches Institut fuer Umweltforschung an der Universitaet zu Koeln E.V. (Germany)</Name_SubCentres_ia5>
+    <Name_SubCentres>Rheinisches Institut fuer Umweltforschung an der Universitaet zu Koeln E.V. (Germany)</Name_SubCentres>
     <Status>Operational</Status>
   </C12>
   <C12>
     <CodeFigure_OriginatingCentres>85</CodeFigure_OriginatingCentres>
     <Name_OriginatingCentres>Toulouse (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>202</CodeFigure_SubCentres>
-    <Name_SubCentres>Institut Français de Recherche pour l'Exploitation de la Mer</Name_SubCentres>
-    <Name_SubCentres_ia5>Institut Francais de Recherche pour l'Exploitation de la Mer</Name_SubCentres_ia5>
+    <Name_SubCentres>Institut Francais de Recherche pour l'Exploitation de la Mer</Name_SubCentres>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1413,7 +1237,6 @@
     <Name_OriginatingCentres>Toulouse (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>203</CodeFigure_SubCentres>
     <Name_SubCentres>Aarhus University (Denmark)</Name_SubCentres>
-    <Name_SubCentres_ia5>Aarhus University (Denmark)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1421,7 +1244,6 @@
     <Name_OriginatingCentres>Toulouse (RSMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>204</CodeFigure_SubCentres>
     <Name_SubCentres>Institute of Environmental Protection - National Research Institute (Poland)</Name_SubCentres>
-    <Name_SubCentres_ia5>Institute of Environmental Protection - National Research Institute (Poland)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1429,7 +1251,6 @@
     <Name_OriginatingCentres>Prague (RTH)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>1</CodeFigure_SubCentres>
     <Name_SubCentres>Solar and Ozone Observatory Hradec Kralove</Name_SubCentres>
-    <Name_SubCentres_ia5>Solar and Ozone Observatory Hradec Kralove</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1437,7 +1258,6 @@
     <Name_OriginatingCentres>Athens</Name_OriginatingCentres>
     <CodeFigure_SubCentres>1</CodeFigure_SubCentres>
     <Name_SubCentres>Cyprus (NMC)</Name_SubCentres>
-    <Name_SubCentres_ia5>Cyprus (NMC)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1445,7 +1265,6 @@
     <Name_OriginatingCentres>Belgium (NMC)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>1</CodeFigure_SubCentres>
     <Name_SubCentres>Luxembourg (NMC)</Name_SubCentres>
-    <Name_SubCentres_ia5>Luxembourg (NMC)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1453,7 +1272,6 @@
     <Name_OriginatingCentres>COSMO (COnsortium for Small scale MOdelling)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>76</CodeFigure_SubCentres>
     <Name_SubCentres>Roshydromet (Russian Federation)</Name_SubCentres>
-    <Name_SubCentres_ia5>Roshydromet (Russian Federation)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1461,7 +1279,6 @@
     <Name_OriginatingCentres>COSMO (COnsortium for Small scale MOdelling)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>78</CodeFigure_SubCentres>
     <Name_SubCentres>Deutscher Wetterdienst (Germany)</Name_SubCentres>
-    <Name_SubCentres_ia5>Deutscher Wetterdienst (Germany)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1469,7 +1286,6 @@
     <Name_OriginatingCentres>COSMO (COnsortium for Small scale MOdelling)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>80</CodeFigure_SubCentres>
     <Name_SubCentres>Ufficio Generale Spazio Aereo e Meteorologia (Italy)</Name_SubCentres>
-    <Name_SubCentres_ia5>Ufficio Generale Spazio Aereo e Meteorologia (Italy)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1477,7 +1293,6 @@
     <Name_OriginatingCentres>COSMO (COnsortium for Small scale MOdelling)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>96</CodeFigure_SubCentres>
     <Name_SubCentres>Hellenic National Meteorological Service (Greece)</Name_SubCentres>
-    <Name_SubCentres_ia5>Hellenic National Meteorological Service (Greece)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1485,7 +1300,6 @@
     <Name_OriginatingCentres>COSMO (COnsortium for Small scale MOdelling)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>215</CodeFigure_SubCentres>
     <Name_SubCentres>MeteoSwiss (Switzerland)</Name_SubCentres>
-    <Name_SubCentres_ia5>MeteoSwiss (Switzerland)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1493,7 +1307,6 @@
     <Name_OriginatingCentres>COSMO (COnsortium for Small scale MOdelling)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>220</CodeFigure_SubCentres>
     <Name_SubCentres>Institute of Meteorology and Water Management (Poland)</Name_SubCentres>
-    <Name_SubCentres_ia5>Institute of Meteorology and Water Management (Poland)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1501,7 +1314,6 @@
     <Name_OriginatingCentres>COSMO (COnsortium for Small scale MOdelling)</Name_OriginatingCentres>
     <CodeFigure_SubCentres>242</CodeFigure_SubCentres>
     <Name_SubCentres>National Meteorological Administration (Romania)</Name_SubCentres>
-    <Name_SubCentres_ia5>National Meteorological Administration (Romania)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1509,7 +1321,6 @@
     <Name_OriginatingCentres>EUMETSAT Operation Centre</Name_OriginatingCentres>
     <CodeFigure_SubCentres>10</CodeFigure_SubCentres>
     <Name_SubCentres>Tromso (Norway)</Name_SubCentres>
-    <Name_SubCentres_ia5>Tromso (Norway)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1517,7 +1328,6 @@
     <Name_OriginatingCentres>EUMETSAT Operation Centre</Name_OriginatingCentres>
     <CodeFigure_SubCentres>20</CodeFigure_SubCentres>
     <Name_SubCentres>Maspalomas (Spain)</Name_SubCentres>
-    <Name_SubCentres_ia5>Maspalomas (Spain)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1525,7 +1335,6 @@
     <Name_OriginatingCentres>EUMETSAT Operation Centre</Name_OriginatingCentres>
     <CodeFigure_SubCentres>30</CodeFigure_SubCentres>
     <Name_SubCentres>Kangerlussuaq (Greenland)</Name_SubCentres>
-    <Name_SubCentres_ia5>Kangerlussuaq (Greenland)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1533,7 +1342,6 @@
     <Name_OriginatingCentres>EUMETSAT Operation Centre</Name_OriginatingCentres>
     <CodeFigure_SubCentres>40</CodeFigure_SubCentres>
     <Name_SubCentres>Edmonton (Canada)</Name_SubCentres>
-    <Name_SubCentres_ia5>Edmonton (Canada)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1541,7 +1349,6 @@
     <Name_OriginatingCentres>EUMETSAT Operation Centre</Name_OriginatingCentres>
     <CodeFigure_SubCentres>50</CodeFigure_SubCentres>
     <Name_SubCentres>Bedford (Canada)</Name_SubCentres>
-    <Name_SubCentres_ia5>Bedford (Canada)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1549,7 +1356,6 @@
     <Name_OriginatingCentres>EUMETSAT Operation Centre</Name_OriginatingCentres>
     <CodeFigure_SubCentres>60</CodeFigure_SubCentres>
     <Name_SubCentres>Gander (Canada)</Name_SubCentres>
-    <Name_SubCentres_ia5>Gander (Canada)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1557,7 +1363,6 @@
     <Name_OriginatingCentres>EUMETSAT Operation Centre</Name_OriginatingCentres>
     <CodeFigure_SubCentres>70</CodeFigure_SubCentres>
     <Name_SubCentres>Monterey (United States)</Name_SubCentres>
-    <Name_SubCentres_ia5>Monterey (United States)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1565,7 +1370,6 @@
     <Name_OriginatingCentres>EUMETSAT Operation Centre</Name_OriginatingCentres>
     <CodeFigure_SubCentres>80</CodeFigure_SubCentres>
     <Name_SubCentres>Wallops Island (United States)</Name_SubCentres>
-    <Name_SubCentres_ia5>Wallops Island (United States)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1573,7 +1377,6 @@
     <Name_OriginatingCentres>EUMETSAT Operation Centre</Name_OriginatingCentres>
     <CodeFigure_SubCentres>90</CodeFigure_SubCentres>
     <Name_SubCentres>Gilmor Creek (United States)</Name_SubCentres>
-    <Name_SubCentres_ia5>Gilmor Creek (United States)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1581,7 +1384,6 @@
     <Name_OriginatingCentres>EUMETSAT Operation Centre</Name_OriginatingCentres>
     <CodeFigure_SubCentres>100</CodeFigure_SubCentres>
     <Name_SubCentres>Athens (Greece)</Name_SubCentres>
-    <Name_SubCentres_ia5>Athens (Greece)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1589,7 +1391,6 @@
     <Name_OriginatingCentres>EUMETSAT Operation Centre</Name_OriginatingCentres>
     <CodeFigure_SubCentres>120</CodeFigure_SubCentres>
     <Name_SubCentres>Ewa Beach, Hawaii</Name_SubCentres>
-    <Name_SubCentres_ia5>Ewa Beach, Hawaii</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1597,7 +1398,6 @@
     <Name_OriginatingCentres>EUMETSAT Operation Centre</Name_OriginatingCentres>
     <CodeFigure_SubCentres>125</CodeFigure_SubCentres>
     <Name_SubCentres>Ford Island, Hawaii</Name_SubCentres>
-    <Name_SubCentres_ia5>Ford Island, Hawaii</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1605,7 +1405,6 @@
     <Name_OriginatingCentres>EUMETSAT Operation Centre</Name_OriginatingCentres>
     <CodeFigure_SubCentres>130</CodeFigure_SubCentres>
     <Name_SubCentres>Miami, Florida</Name_SubCentres>
-    <Name_SubCentres_ia5>Miami, Florida</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1613,7 +1412,6 @@
     <Name_OriginatingCentres>EUMETSAT Operation Centre</Name_OriginatingCentres>
     <CodeFigure_SubCentres>140</CodeFigure_SubCentres>
     <Name_SubCentres>Lannion (France)</Name_SubCentres>
-    <Name_SubCentres_ia5>Lannion (France)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1621,15 +1419,13 @@
     <Name_OriginatingCentres>EUMETSAT Operation Centre</Name_OriginatingCentres>
     <CodeFigure_SubCentres>150</CodeFigure_SubCentres>
     <Name_SubCentres>Svalbard (Norway)</Name_SubCentres>
-    <Name_SubCentres_ia5>Svalbard (Norway)</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
     <CodeFigure_OriginatingCentres>254</CodeFigure_OriginatingCentres>
     <Name_OriginatingCentres>EUMETSAT Operation Centre</Name_OriginatingCentres>
     <CodeFigure_SubCentres>170</CodeFigure_SubCentres>
-    <Name_SubCentres>St Denis (La Réunion)</Name_SubCentres>
-    <Name_SubCentres_ia5>St Denis (La Reunion)</Name_SubCentres_ia5>
+    <Name_SubCentres>St Denis (La Reunion)</Name_SubCentres>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1637,7 +1433,6 @@
     <Name_OriginatingCentres>EUMETSAT Operation Centre</Name_OriginatingCentres>
     <CodeFigure_SubCentres>180</CodeFigure_SubCentres>
     <Name_SubCentres>Moscow</Name_SubCentres>
-    <Name_SubCentres_ia5>Moscow</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1645,7 +1440,6 @@
     <Name_OriginatingCentres>EUMETSAT Operation Centre</Name_OriginatingCentres>
     <CodeFigure_SubCentres>190</CodeFigure_SubCentres>
     <Name_SubCentres>Muscat</Name_SubCentres>
-    <Name_SubCentres_ia5>Muscat</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1653,7 +1447,6 @@
     <Name_OriginatingCentres>EUMETSAT Operation Centre</Name_OriginatingCentres>
     <CodeFigure_SubCentres>200</CodeFigure_SubCentres>
     <Name_SubCentres>Khabarovsk</Name_SubCentres>
-    <Name_SubCentres_ia5>Khabarovsk</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
   <C12>
@@ -1661,7 +1454,6 @@
     <Name_OriginatingCentres>EUMETSAT Operation Centre</Name_OriginatingCentres>
     <CodeFigure_SubCentres>210</CodeFigure_SubCentres>
     <Name_SubCentres>Novosibirsk</Name_SubCentres>
-    <Name_SubCentres_ia5>Novosibirsk</Name_SubCentres_ia5>
     <Status>Operational</Status>
   </C12>
 </dataroot>
