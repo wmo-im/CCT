@@ -821,9 +821,9 @@
   </C13>
   <C13>
     <CodeFigure_DataCategories>32</CodeFigure_DataCategories>
-    <Name_DataCategories_en>Lidar (Ground based)</Name_DataCategories_en>
+    <Name_DataCategories_en>Lidar (ground-based)</Name_DataCategories_en>
     <CodeFigure_InternationalDataSubcategories>0</CodeFigure_InternationalDataSubcategories>
-    <Name_InternationalDataSubcategories_en>Wind, Cloud, Aerosol</Name_InternationalDataSubcategories_en>
+    <Name_InternationalDataSubcategories_en>Wind, cloud, aerosol</Name_InternationalDataSubcategories_en>
     <Status>Operational</Status>
   </C13>
   <C13>
