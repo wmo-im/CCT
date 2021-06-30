@@ -1,252 +1,252 @@
-CodeFigureForF1F2,CodeFigureForF3F3F3,Octet5GRIB1_Octet6BUFR3,OriginatingGeneratingCentres,OriginatingGeneratingCentres_ia5,Status
-00,000,0,WMO Secretariat,WMO Secretariat,Operational
-,,,01-09: WMCs,01-09: WMCs,Operational
-01,001,1,Melbourne,Melbourne,Operational
-02,002,2,Melbourne,Melbourne,Operational
-03,003,3,),),Operational
-04,004,4,Moscow,Moscow,Operational
-05,005,5,Moscow,Moscow,Operational
-06,006,6,),),Operational
-07,007,7,US National Weather Service - National Centres for Environmental Prediction (NCEP),US National Weather Service - National Centres for Environmental Prediction (NCEP),Operational
-08,008,8,US National Weather Service Telecommunications Gateway (NWSTG),US National Weather Service Telecommunications Gateway (NWSTG),Operational
-09,009,9,US National Weather Service - Other,US National Weather Service - Other,Operational
-,,,10-25: Centres in Region I,10-25: Centres in Region I,Operational
-10,010,10,Cairo (RSMC),Cairo (RSMC),Operational
-11,011,11,),),Operational
-12,012,12,Dakar (RSMC),Dakar (RSMC),Operational
-13,013,13,),),Operational
-14,014,14,Nairobi (RSMC),Nairobi (RSMC),Operational
-15,015,15,),),Operational
-16,016,16,Casablanca (RSMC),Casablanca (RSMC),Operational
-17,017,17,Tunis (RSMC),Tunis (RSMC),Operational
-18,018,18,Tunis - Casablanca (RSMC),Tunis - Casablanca (RSMC),Operational
-19,019,19,),),Operational
-20,020,20,Las Palmas,Las Palmas,Operational
-21,021,21,Algiers (RSMC),Algiers (RSMC),Operational
-22,022,22,ACMAD,ACMAD,Operational
-23,023,23,Mozambique (NMC),Mozambique (NMC),Operational
-24,024,24,Pretoria (RSMC),Pretoria (RSMC),Operational
-25,025,25,La Réunion (RSMC),La Reunion (RSMC),Operational
-,,,26-40: Centres in Region II,26-40: Centres in Region II,Operational
-26,026,26,Khabarovsk (RSMC),Khabarovsk (RSMC),Operational
-27,027,27,),),Operational
-28,028,28,New Delhi (RSMC),New Delhi (RSMC),Operational
-29,029,29,),),Operational
-30,030,30,Novosibirsk (RSMC),Novosibirsk (RSMC),Operational
-31,031,31,),),Operational
-32,032,32,Tashkent (RSMC),Tashkent (RSMC),Operational
-33,033,33,Jeddah (RSMC),Jeddah (RSMC),Operational
-34,034,34,"Tokyo (RSMC), Japan Meteorological Agency","Tokyo (RSMC), Japan Meteorological Agency",Operational
-35,035,35,),),Operational
-36,036,36,Bangkok,Bangkok,Operational
-37,037,37,Ulaanbaatar,Ulaanbaatar,Operational
-38,038,38,Beijing (RSMC),Beijing (RSMC),Operational
-39,039,39,),),Operational
-40,040,40,Seoul,Seoul,Operational
-,,,41-50: Centres in Region III,41-50: Centres in Region III,Operational
-41,041,41,Buenos Aires (RSMC),Buenos Aires (RSMC),Operational
-42,042,42,),),Operational
-43,043,43,Brasilia (RSMC),Brasilia (RSMC),Operational
-44,044,44,),),Operational
-45,045,45,Santiago,Santiago,Operational
-46,046,46,Brazilian Space Agency INPE,Brazilian Space Agency INPE,Operational
-47,047,47,Colombia (NMC),Colombia (NMC),Operational
-48,048,48,Ecuador (NMC),Ecuador (NMC),Operational
-49,049,49,Peru (NMC),Peru (NMC),Operational
-50,050,50,Venezuela (Bolivarian Republic of) (NMC),Venezuela (Bolivarian Republic of) (NMC),Operational
-,,,51-63: Centres in Region IV,51-63: Centres in Region IV,Operational
-51,051,51,Miami (RSMC),Miami (RSMC),Operational
-52,052,52,"Miami (RSMC), National Hurricane Centre","Miami (RSMC), National Hurricane Centre",Operational
-53,053,53,MSC Monitoring,MSC Monitoring,Operational
-54,054,54,Montreal (RSMC),Montreal (RSMC),Operational
-55,055,55,San Francisco,San Francisco,Operational
-56,056,56,ARINC Centre,ARINC Centre,Operational
-57,057,57,US Air Force - Air Force Global Weather Central,US Air Force - Air Force Global Weather Central,Operational
-58,058,58,"Fleet Numerical Meteorology and Oceanography Center, Monterey, CA, United States","Fleet Numerical Meteorology and Oceanography Center, Monterey, CA, United States",Operational
-59,059,59,"The NOAA Forecast Systems Laboratory, Boulder, CO, United States","The NOAA Forecast Systems Laboratory, Boulder, CO, United States",Operational
-60,060,60,United States National Center for Atmospheric Research (NCAR),United States National Center for Atmospheric Research (NCAR),Operational
-61,061,61,Service ARGOS - Landover,Service ARGOS - Landover,Operational
-62,062,62,US Naval Oceanographic Office,US Naval Oceanographic Office,Operational
-63,063,63,International Research Institute for Climate and Society (IRI),International Research Institute for Climate and Society (IRI),Operational
-,,,64-73: Centres in Region V,64-73: Centres in Region V,Operational
-64,064,64,Honolulu (RSMC),Honolulu (RSMC),Operational
-65,065,65,Darwin (RSMC),Darwin (RSMC),Operational
-66,066,66,),),Operational
-67,067,67,Melbourne (RSMC),Melbourne (RSMC),Operational
-68,068,68,Reserved,Reserved,Operational
-69,069,69,Wellington (RSMC),Wellington (RSMC),Operational
-70,070,70,),),Operational
-71,071,71,Nadi (RSMC),Nadi (RSMC),Operational
-72,072,72,Singapore,Singapore,Operational
-73,073,73,Malaysia (NMC),Malaysia (NMC),Operational
-,,,74-99: Centres in Region VI,74-99: Centres in Region VI,Operational
-74,074,74,UK Meteorological Office Exeter (RSMC),UK Meteorological Office Exeter (RSMC),Operational
-75,075,75,),),Operational
-76,076,76,Moscow (RSMC),Moscow (RSMC),Operational
-77,077,77,Reserved,Reserved,Operational
-78,078,78,Offenbach (RSMC),Offenbach (RSMC),Operational
-79,079,79,),),Operational
-80,080,80,Rome (RSMC),Rome (RSMC),Operational
-81,081,81,),),Operational
-82,082,82,Norrköping,Norrkoping,Operational
-83,083,83,),),Operational
-84,084,84,Toulouse (RSMC),Toulouse (RSMC),Operational
-85,085,85,Toulouse (RSMC),Toulouse (RSMC),Operational
-86,086,86,Helsinki,Helsinki,Operational
-87,087,87,Belgrade,Belgrade,Operational
-88,088,88,Oslo,Oslo,Operational
-89,089,89,Prague,Prague,Operational
-90,090,90,Episkopi,Episkopi,Operational
-91,091,91,Ankara,Ankara,Operational
-92,092,92,Frankfurt/Main,Frankfurt/Main,Operational
-93,093,93,London (WAFC),London (WAFC),Operational
-94,094,94,Copenhagen,Copenhagen,Operational
-95,095,95,Rota,Rota,Operational
-96,096,96,Athens,Athens,Operational
-97,097,97,European Space Agency (ESA),European Space Agency (ESA),Operational
-98,098,98,European Centre for Medium-Range Weather Forecasts (ECMWF) (RSMC),European Centre for Medium-Range Weather Forecasts (ECMWF) (RSMC),Operational
-99,099,99,De Bilt,De Bilt,Operational
-,,,Additional Centres,Additional Centres,Operational
-Not applicable,100,100,Brazzaville,Brazzaville,Operational
-Not applicable,101,101,Abidjan,Abidjan,Operational
-Not applicable,102,102,Libya (NMC),Libya (NMC),Operational
-Not applicable,103,103,Madagascar (NMC),Madagascar (NMC),Operational
-Not applicable,104,104,Mauritius (NMC),Mauritius (NMC),Operational
-Not applicable,105,105,Niger (NMC),Niger (NMC),Operational
-Not applicable,106,106,Seychelles (NMC),Seychelles (NMC),Operational
-Not applicable,107,107,Uganda (NMC),Uganda (NMC),Operational
-Not applicable,108,108,United Republic of Tanzania (NMC),United Republic of Tanzania (NMC),Operational
-Not applicable,109,109,Zimbabwe (NMC),Zimbabwe (NMC),Operational
-Not applicable,110,110,"Hong-Kong,China","Hong-Kong, China",Operational
-Not applicable,111,111,Afghanistan (NMC),Afghanistan (NMC),Operational
-Not applicable,112,112,Bahrain (NMC),Bahrain (NMC),Operational
-Not applicable,113,113,Bangladesh (NMC),Bangladesh (NMC),Operational
-Not applicable,114,114,Bhutan (NMC),Bhutan (NMC),Operational
-Not applicable,115,115,Cambodia (NMC),Cambodia (NMC),Operational
-Not applicable,116,116,Democratic People's Republic of Korea (NMC),Democratic People's Republic of Korea (NMC),Operational
-Not applicable,117,117,Islamic Republic of Iran (NMC),Islamic Republic of Iran (NMC),Operational
-Not applicable,118,118,Iraq (NMC),Iraq (NMC),Operational
-Not applicable,119,119,Kazakhstan (NMC),Kazakhstan (NMC),Operational
-Not applicable,120,120,Kuwait (NMC),Kuwait (NMC),Operational
-Not applicable,121,121,Kyrgyzstan (NMC),Kyrgyzstan (NMC),Operational
-Not applicable,122,122,Lao People's Democratic Republic (NMC),Lao People's Democratic Republic (NMC),Operational
-Not applicable,123,123,"Macao, China","Macao, China",Operational
-Not applicable,124,124,Maldives (NMC),Maldives (NMC),Operational
-Not applicable,125,125,Myanmar (NMC),Myanmar (NMC),Operational
-Not applicable,126,126,Nepal (NMC),Nepal (NMC),Operational
-Not applicable,127,127,Oman (NMC),Oman (NMC),Operational
-Not applicable,128,128,Pakistan (NMC),Pakistan (NMC),Operational
-Not applicable,129,129,Qatar (NMC),Qatar (NMC),Operational
-Not applicable,130,130,Yemen (NMC),Yemen (NMC),Operational
-Not applicable,131,131,Sri Lanka (NMC),Sri Lanka (NMC),Operational
-Not applicable,132,132,Tajikistan (NMC),Tajikistan (NMC),Operational
-Not applicable,133,133,Turkmenistan (NMC),Turkmenistan (NMC),Operational
-Not applicable,134,134,United Arab Emirates (NMC),United Arab Emirates (NMC),Operational
-Not applicable,135,135,Uzbekistan (NMC),Uzbekistan (NMC),Operational
-Not applicable,136,136,Viet Nam (NMC),Viet Nam (NMC),Operational
-Not applicable,137-139,137-139,Reserved for other centres,Reserved for other centres,Operational
-Not applicable,140,140,Bolivia (Plurinational State of) (NMC),Bolivia (Plurinational State of) (NMC),Operational
-Not applicable,141,141,Guyana (NMC),Guyana (NMC),Operational
-Not applicable,142,142,Paraguay (NMC),Paraguay (NMC),Operational
-Not applicable,143,143,Suriname (NMC),Suriname (NMC),Operational
-Not applicable,144,144,Uruguay (NMC),Uruguay (NMC),Operational
-Not applicable,145,145,French Guiana,French Guiana,Operational
-Not applicable,146,146,Brazilian Navy Hydrographic Centre,Brazilian Navy Hydrographic Centre,Operational
-Not applicable,147,147,National Commission on Space Activities (CONAE) - Argentina,National Commission on Space Activities (CONAE) - Argentina,Operational
-Not applicable,148,148,Brazilian Department of Airspace Control - DECEA,Brazilian Department of Airspace Control - DECEA,Operational
-Not applicable,149,149,Reserved for other centres,Reserved for other centres,Operational
-Not applicable,150,150,Antigua and Barbuda (NMC),Antigua and Barbuda (NMC),Operational
-Not applicable,151,151,Bahamas (NMC),Bahamas (NMC),Operational
-Not applicable,152,152,Barbados (NMC),Barbados (NMC),Operational
-Not applicable,153,153,Belize (NMC),Belize (NMC),Operational
-Not applicable,154,154,British Caribbean Territories Centre,British Caribbean Territories Centre,Operational
-Not applicable,155,155,San José,San Jose,Operational
-Not applicable,156,156,Cuba (NMC),Cuba (NMC),Operational
-Not applicable,157,157,Dominica (NMC),Dominica (NMC),Operational
-Not applicable,158,158,Dominican Republic (NMC),Dominican Republic (NMC),Operational
-Not applicable,159,159,El Salvador (NMC),El Salvador (NMC),Operational
-Not applicable,160,160,US NOAA/NESDIS,US NOAA/NESDIS,Operational
-Not applicable,161,161,US NOAA Office of Oceanic and Atmospheric Research,US NOAA Office of Oceanic and Atmospheric Research,Operational
-Not applicable,162,162,Guatemala (NMC),Guatemala (NMC),Operational
-Not applicable,163,163,Haiti (NMC),Haiti (NMC),Operational
-Not applicable,164,164,Honduras (NMC),Honduras (NMC),Operational
-Not applicable,165,165,Jamaica (NMC),Jamaica (NMC),Operational
-Not applicable,166,166,Mexico City,Mexico City,Operational
-Not applicable,167,167,Curaçao and Sint Maarten (NMC),Curacao and Sint Maarten (NMC),Operational
-Not applicable,168,168,Nicaragua (NMC),Nicaragua (NMC),Operational
-Not applicable,169,169,Panama (NMC),Panama (NMC),Operational
-Not applicable,170,170,Saint Lucia (NMC),Saint Lucia (NMC),Operational
-Not applicable,171,171,Trinidad and Tobago (NMC),Trinidad and Tobago (NMC),Operational
-Not applicable,172,172,French Departments in RA IV,French Departments in RA IV,Operational
-Not applicable,173,173,US National Aeronautics and Space Administration (NASA),US National Aeronautics and Space Administration (NASA),Operational
-Not applicable,174,174,Integrated Science Data Management/Marine Environmental Data Service (ISDM/MEDS) - Canada,Integrated Science Data Management/Marine Environmental Data Service (ISDM/MEDS) - Canada,Operational
-Not applicable,175,175,University Corporation for Atmospheric Research (UCAR) - United States,University Corporation for Atmospheric Research (UCAR) - United States,Operational
-Not applicable,176,176,Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States,Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States,Operational
-Not applicable,177,177,NOAA National Ocean Service - United States,NOAA National Ocean Service - United States,Operational
-Not applicable,178,178,"Spire Global, Inc.","Spire Global, Inc.",Operational
-Not applicable,179,179,"GeoOptics, Inc.","GeoOptics, Inc.",Operational
-Not applicable,180,180,PlanetiQ,PlanetiQ,Operational
-Not applicable,181-189,181-189,Reserved for other centres,Reserved for other centres,Operational
-Not applicable,190,190,Cook Islands (NMC),Cook Islands (NMC),Operational
-Not applicable,191,191,French Polynesia (NMC),French Polynesia (NMC),Operational
-Not applicable,192,192,Tonga (NMC),Tonga (NMC),Operational
-Not applicable,193,193,Vanuatu (NMC),Vanuatu (NMC),Operational
-Not applicable,194,194,Brunei Darussalam (NMC),Brunei Darussalam (NMC),Operational
-Not applicable,195,195,Indonesia (NMC),Indonesia (NMC),Operational
-Not applicable,196,196,Kiribati (NMC),Kiribati (NMC),Operational
-Not applicable,197,197,Federated States of Micronesia (NMC),Federated States of Micronesia (NMC),Operational
-Not applicable,198,198,New Caledonia (NMC),New Caledonia (NMC),Operational
-Not applicable,199,199,Niue,Niue,Operational
-Not applicable,200,200,Papua New Guinea (NMC),Papua New Guinea (NMC),Operational
-Not applicable,201,201,Philippines (NMC),Philippines (NMC),Operational
-Not applicable,202,202,Samoa (NMC),Samoa (NMC),Operational
-Not applicable,203,203,Solomon Islands (NMC),Solomon Islands (NMC),Operational
-Not applicable,204,204,National Institute of Water and Atmospheric Research (NIWA - New Zealand),National Institute of Water and Atmospheric Research (NIWA - New Zealand),Operational
-Not applicable,205-209,205-209,Reserved,Reserved,Operational
-Not applicable,210,210,Frascati (ESA/ESRIN),Frascati (ESA/ESRIN),Operational
-Not applicable,211,211,Lannion,Lannion,Operational
-Not applicable,212,212,Lisbon,Lisbon,Operational
-Not applicable,213,213,Reykjavik,Reykjavik,Operational
-Not applicable,214,214,Madrid,Madrid,Operational
-Not applicable,215,215,Zürich,Zuerich,Operational
-Not applicable,216,216,Service ARGOS - Toulouse,Service ARGOS - Toulouse,Operational
-Not applicable,217,217,Bratislava,Bratislava,Operational
-Not applicable,218,218,Budapest,Budapest,Operational
-Not applicable,219,219,Ljubljana,Ljubljana,Operational
-Not applicable,220,220,Warsaw,Warsaw,Operational
-Not applicable,221,221,Zagreb,Zagreb,Operational
-Not applicable,222,222,Albania (NMC),Albania (NMC),Operational
-Not applicable,223,223,Armenia (NMC),Armenia (NMC),Operational
-Not applicable,224,224,Austria (NMC),Austria (NMC),Operational
-Not applicable,225,225,Azerbaijan (NMC),Azerbaijan (NMC),Operational
-Not applicable,226,226,Belarus (NMC),Belarus (NMC),Operational
-Not applicable,227,227,Belgium (NMC),Belgium (NMC),Operational
-Not applicable,228,228,Bosnia and Herzegovina (NMC),Bosnia and Herzegovina (NMC),Operational
-Not applicable,229,229,Bulgaria (NMC),Bulgaria (NMC),Operational
-Not applicable,230,230,Cyprus (NMC),Cyprus (NMC),Operational
-Not applicable,231,231,Estonia (NMC),Estonia (NMC),Operational
-Not applicable,232,232,Georgia (NMC),Georgia (NMC),Operational
-Not applicable,233,233,Dublin,Dublin,Operational
-Not applicable,234,234,Israel (NMC),Israel (NMC),Operational
-Not applicable,235,235,Jordan (NMC),Jordan (NMC),Operational
-Not applicable,236,236,Latvia (NMC),Latvia (NMC),Operational
-Not applicable,237,237,Lebanon (NMC),Lebanon (NMC),Operational
-Not applicable,238,238,Lithuania (NMC),Lithuania (NMC),Operational
-Not applicable,239,239,Luxembourg,Luxembourg,Operational
-Not applicable,240,240,Malta (NMC),Malta (NMC),Operational
-Not applicable,241,241,Monaco,Monaco,Operational
-Not applicable,242,242,Romania (NMC),Romania (NMC),Operational
-Not applicable,243,243,Syrian Arab Republic (NMC),Syrian Arab Republic (NMC),Operational
-Not applicable,244,244,The former Yugoslav Republic of Macedonia (NMC),The former Yugoslav Republic of Macedonia (NMC),Operational
-Not applicable,245,245,Ukraine (NMC),Ukraine (NMC),Operational
-Not applicable,246,246,Republic of Moldova (NMC),Republic of Moldova (NMC),Operational
-Not applicable,247,247,Operational Programme for the Exchange of weather RAdar information (OPERA) - EUMETNET,Operational Programme for the Exchange of weather RAdar information (OPERA) - EUMETNET,Operational
-Not applicable,248,248,Montenegro (NMC),Montenegro (NMC),Operational
-Not applicable,249,249,Barcelona Dust Forecast Center,Barcelona Dust Forecast Center,Operational
-Not applicable,250,250,COnsortium for Small scale MOdelling  (COSMO),COnsortium for Small scale MOdelling  (COSMO),Operational
-Not applicable,251,251,Meteorological Cooperation on Operational NWP (MetCoOp),Meteorological Cooperation on Operational NWP (MetCoOp),Operational
-Not applicable,252,252,Max Planck Institute for Meteorology (MPI-M),Max Planck Institute for Meteorology (MPI-M),Operational
-Not applicable,253,253,Reserved for other centres,Reserved for other centres,Operational
-Not applicable,254,254,EUMETSAT Operation Centre,EUMETSAT Operation Centre,Operational
-Not applicable,255,255,Missing value,Missing value,Operational
-Not applicable,256-999,Not applicable,Not used,Not used,Operational
+CodeFigureForF1F2,CodeFigureForF3F3F3,Octet5GRIB1_Octet6BUFR3,OriginatingGeneratingCentres,Status
+00,000,0,WMO Secretariat,Operational
+,,,01-09: WMCs,Operational
+01,001,1,Melbourne,Operational
+02,002,2,Melbourne,Operational
+03,003,3,),Operational
+04,004,4,Moscow,Operational
+05,005,5,Moscow,Operational
+06,006,6,),Operational
+07,007,7,US National Weather Service - National Centres for Environmental Prediction (NCEP),Operational
+08,008,8,US National Weather Service Telecommunications Gateway (NWSTG),Operational
+09,009,9,US National Weather Service - Other,Operational
+,,,10-25: Centres in Region I,Operational
+10,010,10,Cairo (RSMC),Operational
+11,011,11,),Operational
+12,012,12,Dakar (RSMC),Operational
+13,013,13,),Operational
+14,014,14,Nairobi (RSMC),Operational
+15,015,15,),Operational
+16,016,16,Casablanca (RSMC),Operational
+17,017,17,Tunis (RSMC),Operational
+18,018,18,Tunis - Casablanca (RSMC),Operational
+19,019,19,),Operational
+20,020,20,Las Palmas,Operational
+21,021,21,Algiers (RSMC),Operational
+22,022,22,ACMAD,Operational
+23,023,23,Mozambique (NMC),Operational
+24,024,24,Pretoria (RSMC),Operational
+25,025,25,La Reunion (RSMC),Operational
+,,,26-40: Centres in Region II,Operational
+26,026,26,Khabarovsk (RSMC),Operational
+27,027,27,),Operational
+28,028,28,New Delhi (RSMC),Operational
+29,029,29,),Operational
+30,030,30,Novosibirsk (RSMC),Operational
+31,031,31,),Operational
+32,032,32,Tashkent (RSMC),Operational
+33,033,33,Jeddah (RSMC),Operational
+34,034,34,"Tokyo (RSMC), Japan Meteorological Agency",Operational
+35,035,35,),Operational
+36,036,36,Bangkok,Operational
+37,037,37,Ulaanbaatar,Operational
+38,038,38,Beijing (RSMC),Operational
+39,039,39,),Operational
+40,040,40,Seoul,Operational
+,,,41-50: Centres in Region III,Operational
+41,041,41,Buenos Aires (RSMC),Operational
+42,042,42,),Operational
+43,043,43,Brasilia (RSMC),Operational
+44,044,44,),Operational
+45,045,45,Santiago,Operational
+46,046,46,Brazilian Space Agency INPE,Operational
+47,047,47,Colombia (NMC),Operational
+48,048,48,Ecuador (NMC),Operational
+49,049,49,Peru (NMC),Operational
+50,050,50,Venezuela (Bolivarian Republic of) (NMC),Operational
+,,,51-63: Centres in Region IV,Operational
+51,051,51,Miami (RSMC),Operational
+52,052,52,"Miami (RSMC), National Hurricane Centre",Operational
+53,053,53,MSC Monitoring,Operational
+54,054,54,Montreal (RSMC),Operational
+55,055,55,San Francisco,Operational
+56,056,56,ARINC Centre,Operational
+57,057,57,US Air Force - Air Force Global Weather Central,Operational
+58,058,58,"Fleet Numerical Meteorology and Oceanography Center, Monterey, CA, United States",Operational
+59,059,59,"The NOAA Forecast Systems Laboratory, Boulder, CO, United States",Operational
+60,060,60,United States National Center for Atmospheric Research (NCAR),Operational
+61,061,61,Service ARGOS - Landover,Operational
+62,062,62,US Naval Oceanographic Office,Operational
+63,063,63,International Research Institute for Climate and Society (IRI),Operational
+,,,64-73: Centres in Region V,Operational
+64,064,64,Honolulu (RSMC),Operational
+65,065,65,Darwin (RSMC),Operational
+66,066,66,),Operational
+67,067,67,Melbourne (RSMC),Operational
+68,068,68,Reserved,Operational
+69,069,69,Wellington (RSMC),Operational
+70,070,70,),Operational
+71,071,71,Nadi (RSMC),Operational
+72,072,72,Singapore,Operational
+73,073,73,Malaysia (NMC),Operational
+,,,74-99: Centres in Region VI,Operational
+74,074,74,UK Meteorological Office Exeter (RSMC),Operational
+75,075,75,),Operational
+76,076,76,Moscow (RSMC),Operational
+77,077,77,Reserved,Operational
+78,078,78,Offenbach (RSMC),Operational
+79,079,79,),Operational
+80,080,80,Rome (RSMC),Operational
+81,081,81,),Operational
+82,082,82,Norrkoping,Operational
+83,083,83,),Operational
+84,084,84,Toulouse (RSMC),Operational
+85,085,85,Toulouse (RSMC),Operational
+86,086,86,Helsinki,Operational
+87,087,87,Belgrade,Operational
+88,088,88,Oslo,Operational
+89,089,89,Prague,Operational
+90,090,90,Episkopi,Operational
+91,091,91,Ankara,Operational
+92,092,92,Frankfurt/Main,Operational
+93,093,93,London (WAFC),Operational
+94,094,94,Copenhagen,Operational
+95,095,95,Rota,Operational
+96,096,96,Athens,Operational
+97,097,97,European Space Agency (ESA),Operational
+98,098,98,European Centre for Medium-Range Weather Forecasts (ECMWF) (RSMC),Operational
+99,099,99,De Bilt,Operational
+,,,Additional Centres,Operational
+Not applicable,100,100,Brazzaville,Operational
+Not applicable,101,101,Abidjan,Operational
+Not applicable,102,102,Libya (NMC),Operational
+Not applicable,103,103,Madagascar (NMC),Operational
+Not applicable,104,104,Mauritius (NMC),Operational
+Not applicable,105,105,Niger (NMC),Operational
+Not applicable,106,106,Seychelles (NMC),Operational
+Not applicable,107,107,Uganda (NMC),Operational
+Not applicable,108,108,United Republic of Tanzania (NMC),Operational
+Not applicable,109,109,Zimbabwe (NMC),Operational
+Not applicable,110,110,"Hong-Kong, China",Operational
+Not applicable,111,111,Afghanistan (NMC),Operational
+Not applicable,112,112,Bahrain (NMC),Operational
+Not applicable,113,113,Bangladesh (NMC),Operational
+Not applicable,114,114,Bhutan (NMC),Operational
+Not applicable,115,115,Cambodia (NMC),Operational
+Not applicable,116,116,Democratic People's Republic of Korea (NMC),Operational
+Not applicable,117,117,Islamic Republic of Iran (NMC),Operational
+Not applicable,118,118,Iraq (NMC),Operational
+Not applicable,119,119,Kazakhstan (NMC),Operational
+Not applicable,120,120,Kuwait (NMC),Operational
+Not applicable,121,121,Kyrgyzstan (NMC),Operational
+Not applicable,122,122,Lao People's Democratic Republic (NMC),Operational
+Not applicable,123,123,"Macao, China",Operational
+Not applicable,124,124,Maldives (NMC),Operational
+Not applicable,125,125,Myanmar (NMC),Operational
+Not applicable,126,126,Nepal (NMC),Operational
+Not applicable,127,127,Oman (NMC),Operational
+Not applicable,128,128,Pakistan (NMC),Operational
+Not applicable,129,129,Qatar (NMC),Operational
+Not applicable,130,130,Yemen (NMC),Operational
+Not applicable,131,131,Sri Lanka (NMC),Operational
+Not applicable,132,132,Tajikistan (NMC),Operational
+Not applicable,133,133,Turkmenistan (NMC),Operational
+Not applicable,134,134,United Arab Emirates (NMC),Operational
+Not applicable,135,135,Uzbekistan (NMC),Operational
+Not applicable,136,136,Viet Nam (NMC),Operational
+Not applicable,137-139,137-139,Reserved for other centres,Operational
+Not applicable,140,140,Bolivia (Plurinational State of) (NMC),Operational
+Not applicable,141,141,Guyana (NMC),Operational
+Not applicable,142,142,Paraguay (NMC),Operational
+Not applicable,143,143,Suriname (NMC),Operational
+Not applicable,144,144,Uruguay (NMC),Operational
+Not applicable,145,145,French Guiana,Operational
+Not applicable,146,146,Brazilian Navy Hydrographic Centre,Operational
+Not applicable,147,147,National Commission on Space Activities (CONAE) - Argentina,Operational
+Not applicable,148,148,Brazilian Department of Airspace Control - DECEA,Operational
+Not applicable,149,149,Reserved for other centres,Operational
+Not applicable,150,150,Antigua and Barbuda (NMC),Operational
+Not applicable,151,151,Bahamas (NMC),Operational
+Not applicable,152,152,Barbados (NMC),Operational
+Not applicable,153,153,Belize (NMC),Operational
+Not applicable,154,154,British Caribbean Territories Centre,Operational
+Not applicable,155,155,San Jose,Operational
+Not applicable,156,156,Cuba (NMC),Operational
+Not applicable,157,157,Dominica (NMC),Operational
+Not applicable,158,158,Dominican Republic (NMC),Operational
+Not applicable,159,159,El Salvador (NMC),Operational
+Not applicable,160,160,US NOAA/NESDIS,Operational
+Not applicable,161,161,US NOAA Office of Oceanic and Atmospheric Research,Operational
+Not applicable,162,162,Guatemala (NMC),Operational
+Not applicable,163,163,Haiti (NMC),Operational
+Not applicable,164,164,Honduras (NMC),Operational
+Not applicable,165,165,Jamaica (NMC),Operational
+Not applicable,166,166,Mexico City,Operational
+Not applicable,167,167,Curacao and Sint Maarten (NMC),Operational
+Not applicable,168,168,Nicaragua (NMC),Operational
+Not applicable,169,169,Panama (NMC),Operational
+Not applicable,170,170,Saint Lucia (NMC),Operational
+Not applicable,171,171,Trinidad and Tobago (NMC),Operational
+Not applicable,172,172,French Departments in RA IV,Operational
+Not applicable,173,173,US National Aeronautics and Space Administration (NASA),Operational
+Not applicable,174,174,Integrated Science Data Management/Marine Environmental Data Service (ISDM/MEDS) - Canada,Operational
+Not applicable,175,175,University Corporation for Atmospheric Research (UCAR) - United States,Operational
+Not applicable,176,176,Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States,Operational
+Not applicable,177,177,NOAA National Ocean Service - United States,Operational
+Not applicable,178,178,"Spire Global, Inc.",Operational
+Not applicable,179,179,"GeoOptics, Inc.",Operational
+Not applicable,180,180,PlanetiQ,Operational
+Not applicable,181-189,181-189,Reserved for other centres,Operational
+Not applicable,190,190,Cook Islands (NMC),Operational
+Not applicable,191,191,French Polynesia (NMC),Operational
+Not applicable,192,192,Tonga (NMC),Operational
+Not applicable,193,193,Vanuatu (NMC),Operational
+Not applicable,194,194,Brunei Darussalam (NMC),Operational
+Not applicable,195,195,Indonesia (NMC),Operational
+Not applicable,196,196,Kiribati (NMC),Operational
+Not applicable,197,197,Federated States of Micronesia (NMC),Operational
+Not applicable,198,198,New Caledonia (NMC),Operational
+Not applicable,199,199,Niue,Operational
+Not applicable,200,200,Papua New Guinea (NMC),Operational
+Not applicable,201,201,Philippines (NMC),Operational
+Not applicable,202,202,Samoa (NMC),Operational
+Not applicable,203,203,Solomon Islands (NMC),Operational
+Not applicable,204,204,National Institute of Water and Atmospheric Research (NIWA - New Zealand),Operational
+Not applicable,205-209,205-209,Reserved,Operational
+Not applicable,210,210,Frascati (ESA/ESRIN),Operational
+Not applicable,211,211,Lannion,Operational
+Not applicable,212,212,Lisbon,Operational
+Not applicable,213,213,Reykjavik,Operational
+Not applicable,214,214,Madrid,Operational
+Not applicable,215,215,Zuerich,Operational
+Not applicable,216,216,Service ARGOS - Toulouse,Operational
+Not applicable,217,217,Bratislava,Operational
+Not applicable,218,218,Budapest,Operational
+Not applicable,219,219,Ljubljana,Operational
+Not applicable,220,220,Warsaw,Operational
+Not applicable,221,221,Zagreb,Operational
+Not applicable,222,222,Albania (NMC),Operational
+Not applicable,223,223,Armenia (NMC),Operational
+Not applicable,224,224,Austria (NMC),Operational
+Not applicable,225,225,Azerbaijan (NMC),Operational
+Not applicable,226,226,Belarus (NMC),Operational
+Not applicable,227,227,Belgium (NMC),Operational
+Not applicable,228,228,Bosnia and Herzegovina (NMC),Operational
+Not applicable,229,229,Bulgaria (NMC),Operational
+Not applicable,230,230,Cyprus (NMC),Operational
+Not applicable,231,231,Estonia (NMC),Operational
+Not applicable,232,232,Georgia (NMC),Operational
+Not applicable,233,233,Dublin,Operational
+Not applicable,234,234,Israel (NMC),Operational
+Not applicable,235,235,Jordan (NMC),Operational
+Not applicable,236,236,Latvia (NMC),Operational
+Not applicable,237,237,Lebanon (NMC),Operational
+Not applicable,238,238,Lithuania (NMC),Operational
+Not applicable,239,239,Luxembourg,Operational
+Not applicable,240,240,Malta (NMC),Operational
+Not applicable,241,241,Monaco,Operational
+Not applicable,242,242,Romania (NMC),Operational
+Not applicable,243,243,Syrian Arab Republic (NMC),Operational
+Not applicable,244,244,The former Yugoslav Republic of Macedonia (NMC),Operational
+Not applicable,245,245,Ukraine (NMC),Operational
+Not applicable,246,246,Republic of Moldova (NMC),Operational
+Not applicable,247,247,Operational Programme for the Exchange of weather RAdar information (OPERA) - EUMETNET,Operational
+Not applicable,248,248,Montenegro (NMC),Operational
+Not applicable,249,249,Barcelona Dust Forecast Center,Operational
+Not applicable,250,250,COnsortium for Small scale MOdelling  (COSMO),Operational
+Not applicable,251,251,Meteorological Cooperation on Operational NWP (MetCoOp),Operational
+Not applicable,252,252,Max Planck Institute for Meteorology (MPI-M),Operational
+Not applicable,253,253,Reserved for other centres,Operational
+Not applicable,254,254,EUMETSAT Operation Centre,Operational
+Not applicable,255,255,Missing value,Operational
+Not applicable,256-999,Not applicable,Not used,Operational
