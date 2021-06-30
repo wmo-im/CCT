@@ -2773,7 +2773,19 @@
     <Status>Operational</Status>
   </C14>
   <C14>
-    <CodeFigure>60033-61999</CodeFigure>
+    <CodeFigure>60033</CodeFigure>
+    <Meaning_en>Anthropogenic volatile organic compounds</Meaning_en>
+    <ChemicalFormula>aVOC</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>60034</CodeFigure>
+    <Meaning_en>Biomass burning volatile organic compounds</Meaning_en>
+    <ChemicalFormula>bbVOC</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>60035-61999</CodeFigure>
     <Meaning_en>Reserved</Meaning_en>
     <ChemicalFormula/>
     <Status>Operational</Status>
