@@ -1261,6 +1261,13 @@
     <Status>Operational</Status>
   </C12>
   <C12>
+    <CodeFigure_OriginatingCentres>211</CodeFigure_OriginatingCentres>
+    <Name_OriginatingCentres_en>Lannion</Name_OriginatingCentres_en>
+    <CodeFigure_SubCentres>10</CodeFigure_SubCentres>
+    <Name_SubCentres_en>Saint-Denis (La Reunion)</Name_SubCentres_en>
+    <Status>Operational</Status>
+  </C12>
+  <C12>
     <CodeFigure_OriginatingCentres>227</CodeFigure_OriginatingCentres>
     <Name_OriginatingCentres_en>Belgium (NMC)</Name_OriginatingCentres_en>
     <CodeFigure_SubCentres>1</CodeFigure_SubCentres>
