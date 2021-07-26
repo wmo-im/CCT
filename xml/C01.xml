@@ -4,1757 +4,1757 @@
     <CodeFigureForF1F2>00</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>000</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>0</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>WMO Secretariat</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>WMO Secretariat</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2/>
     <CodeFigureForF3F3F3/>
     <Octet5GRIB1_Octet6BUFR3/>
-    <OriginatingGeneratingCentres>01-09: WMCs</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>01-09: WMCs</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>01</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>001</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>1</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Melbourne</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Melbourne</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>02</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>002</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>2</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Melbourne</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Melbourne</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>03</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>003</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>3</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>04</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>004</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>4</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Moscow</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Moscow</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>05</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>005</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>5</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Moscow</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Moscow</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>06</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>006</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>6</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>07</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>007</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>7</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>US National Weather Service - National Centres for Environmental Prediction (NCEP)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>US National Weather Service - National Centres for Environmental Prediction (NCEP)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>08</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>008</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>8</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>US National Weather Service Telecommunications Gateway (NWSTG)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>US National Weather Service Telecommunications Gateway (NWSTG)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>09</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>009</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>9</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>US National Weather Service - Other</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>US National Weather Service - Other</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2/>
     <CodeFigureForF3F3F3/>
     <Octet5GRIB1_Octet6BUFR3/>
-    <OriginatingGeneratingCentres>10-25: Centres in Region I</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>10-25: Centres in Region I</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>10</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>010</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>10</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Cairo (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Cairo (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>11</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>011</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>11</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>12</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>012</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>12</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Dakar (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Dakar (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>13</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>013</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>13</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>14</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>014</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>14</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Nairobi (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Nairobi (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>15</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>015</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>15</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>16</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>016</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>16</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Casablanca (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Casablanca (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>17</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>017</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>17</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Tunis (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Tunis (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>18</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>018</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>18</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Tunis - Casablanca (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Tunis - Casablanca (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>19</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>019</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>19</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>20</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>020</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>20</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Las Palmas</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Las Palmas</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>21</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>021</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>21</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Algiers (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Algiers (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>22</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>022</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>22</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>ACMAD</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>ACMAD</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>23</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>023</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>23</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Mozambique (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Mozambique (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>24</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>024</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>24</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Pretoria (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Pretoria (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>25</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>025</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>25</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>La Reunion (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>La Reunion (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2/>
     <CodeFigureForF3F3F3/>
     <Octet5GRIB1_Octet6BUFR3/>
-    <OriginatingGeneratingCentres>26-40: Centres in Region II</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>26-40: Centres in Region II</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>26</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>026</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>26</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Khabarovsk (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Khabarovsk (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>27</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>027</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>27</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>28</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>028</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>28</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>New Delhi (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>New Delhi (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>29</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>029</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>29</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>30</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>030</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>30</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Novosibirsk (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Novosibirsk (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>31</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>031</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>31</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>32</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>032</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>32</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Tashkent (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Tashkent (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>33</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>033</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>33</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Jeddah (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Jeddah (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>34</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>034</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>34</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Tokyo (RSMC), Japan Meteorological Agency</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Tokyo (RSMC), Japan Meteorological Agency</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>35</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>035</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>35</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>36</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>036</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>36</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Bangkok</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Bangkok</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>37</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>037</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>37</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Ulaanbaatar</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Ulaanbaatar</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>38</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>038</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>38</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Beijing (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Beijing (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>39</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>039</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>39</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>40</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>040</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>40</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Seoul</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Seoul</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2/>
     <CodeFigureForF3F3F3/>
     <Octet5GRIB1_Octet6BUFR3/>
-    <OriginatingGeneratingCentres>41-50: Centres in Region III</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>41-50: Centres in Region III</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>41</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>041</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>41</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Buenos Aires (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Buenos Aires (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>42</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>042</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>42</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>43</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>043</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>43</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Brasilia (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Brasilia (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>44</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>044</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>44</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>45</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>045</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>45</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Santiago</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Santiago</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>46</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>046</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>46</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Brazilian Space Agency INPE</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Brazilian Space Agency INPE</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>47</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>047</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>47</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Colombia (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Colombia (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>48</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>048</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>48</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Ecuador (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Ecuador (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>49</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>049</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>49</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Peru (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Peru (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>50</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>050</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>50</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Venezuela (Bolivarian Republic of) (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Venezuela (Bolivarian Republic of) (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2/>
     <CodeFigureForF3F3F3/>
     <Octet5GRIB1_Octet6BUFR3/>
-    <OriginatingGeneratingCentres>51-63: Centres in Region IV</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>51-63: Centres in Region IV</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>51</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>051</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>51</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Miami (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Miami (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>52</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>052</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>52</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Miami (RSMC), National Hurricane Centre</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Miami (RSMC), National Hurricane Centre</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>53</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>053</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>53</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>MSC Monitoring</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>MSC Monitoring</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>54</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>054</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>54</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Montreal (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Montreal (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>55</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>055</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>55</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>San Francisco</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>San Francisco</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>56</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>056</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>56</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>ARINC Centre</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>ARINC Centre</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>57</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>057</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>57</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>US Air Force - Air Force Global Weather Central</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>US Air Force - Air Force Global Weather Central</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>58</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>058</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>58</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Fleet Numerical Meteorology and Oceanography Center, Monterey, CA, United States</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Fleet Numerical Meteorology and Oceanography Center, Monterey, CA, United States</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>59</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>059</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>59</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>The NOAA Forecast Systems Laboratory, Boulder, CO, United States</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>The NOAA Forecast Systems Laboratory, Boulder, CO, United States</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>60</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>060</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>60</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>United States National Center for Atmospheric Research (NCAR)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>United States National Center for Atmospheric Research (NCAR)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>61</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>061</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>61</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Service ARGOS - Landover</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Service ARGOS - Landover</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>62</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>062</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>62</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>US Naval Oceanographic Office</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>US Naval Oceanographic Office</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>63</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>063</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>63</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>International Research Institute for Climate and Society (IRI)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>International Research Institute for Climate and Society (IRI)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2/>
     <CodeFigureForF3F3F3/>
     <Octet5GRIB1_Octet6BUFR3/>
-    <OriginatingGeneratingCentres>64-73: Centres in Region V</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>64-73: Centres in Region V</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>64</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>064</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>64</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Honolulu (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Honolulu (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>65</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>065</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>65</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Darwin (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Darwin (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>66</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>066</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>66</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>67</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>067</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>67</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Melbourne (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Melbourne (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>68</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>068</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>68</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Reserved</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Reserved</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>69</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>069</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>69</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Wellington (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Wellington (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>70</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>070</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>70</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>71</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>071</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>71</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Nadi (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Nadi (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>72</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>072</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>72</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Singapore</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Singapore</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>73</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>073</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>73</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Malaysia (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Malaysia (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2/>
     <CodeFigureForF3F3F3/>
     <Octet5GRIB1_Octet6BUFR3/>
-    <OriginatingGeneratingCentres>74-99: Centres in Region VI</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>74-99: Centres in Region VI</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>74</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>074</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>74</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>UK Meteorological Office Exeter (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>UK Meteorological Office Exeter (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>75</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>075</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>75</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>76</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>076</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>76</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Moscow (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Moscow (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>77</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>077</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>77</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Reserved</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Reserved</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>78</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>078</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>78</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Offenbach (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Offenbach (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>79</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>079</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>79</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>80</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>080</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>80</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Rome (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Rome (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>81</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>081</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>81</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>82</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>082</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>82</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Norrkoping</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Norrkoping</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>83</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>083</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>83</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>84</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>084</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>84</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Toulouse (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Toulouse (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>85</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>085</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>85</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Toulouse (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Toulouse (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>86</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>086</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>86</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Helsinki</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Helsinki</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>87</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>087</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>87</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Belgrade</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Belgrade</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>88</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>088</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>88</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Oslo</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Oslo</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>89</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>089</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>89</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Prague</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Prague</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>90</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>090</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>90</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Episkopi</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Episkopi</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>91</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>091</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>91</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Ankara</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Ankara</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>92</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>092</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>92</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Frankfurt/Main</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Frankfurt/Main</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>93</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>093</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>93</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>London (WAFC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>London (WAFC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>94</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>094</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>94</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Copenhagen</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Copenhagen</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>95</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>095</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>95</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Rota</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Rota</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>96</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>096</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>96</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Athens</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Athens</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>97</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>097</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>97</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>European Space Agency (ESA)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>European Space Agency (ESA)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>98</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>098</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>98</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>European Centre for Medium-Range Weather Forecasts (ECMWF) (RSMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>European Centre for Medium-Range Weather Forecasts (ECMWF) (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>99</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>099</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>99</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>De Bilt</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>De Bilt</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2/>
     <CodeFigureForF3F3F3/>
     <Octet5GRIB1_Octet6BUFR3/>
-    <OriginatingGeneratingCentres>Additional Centres</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Additional Centres</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>100</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>100</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Brazzaville</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Brazzaville</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>101</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>101</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Abidjan</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Abidjan</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>102</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>102</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Libya (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Libya (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>103</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>103</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Madagascar (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Madagascar (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>104</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>104</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Mauritius (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Mauritius (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>105</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>105</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Niger (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Niger (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>106</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>106</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Seychelles (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Seychelles (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>107</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>107</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Uganda (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Uganda (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>108</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>108</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>United Republic of Tanzania (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>United Republic of Tanzania (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>109</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>109</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Zimbabwe (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Zimbabwe (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>110</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>110</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Hong-Kong, China</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Hong-Kong, China</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>111</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>111</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Afghanistan (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Afghanistan (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>112</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>112</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Bahrain (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Bahrain (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>113</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>113</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Bangladesh (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Bangladesh (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>114</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>114</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Bhutan (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Bhutan (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>115</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>115</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Cambodia (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Cambodia (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>116</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>116</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Democratic People's Republic of Korea (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Democratic People's Republic of Korea (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>117</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>117</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Islamic Republic of Iran (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Islamic Republic of Iran (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>118</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>118</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Iraq (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Iraq (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>119</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>119</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Kazakhstan (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Kazakhstan (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>120</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>120</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Kuwait (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Kuwait (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>121</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>121</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Kyrgyzstan (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Kyrgyzstan (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>122</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>122</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Lao People's Democratic Republic (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Lao People's Democratic Republic (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>123</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>123</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Macao, China</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Macao, China</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>124</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>124</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Maldives (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Maldives (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>125</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>125</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Myanmar (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Myanmar (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>126</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>126</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Nepal (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Nepal (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>127</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>127</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Oman (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Oman (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>128</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>128</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Pakistan (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Pakistan (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>129</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>129</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Qatar (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Qatar (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>130</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>130</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Yemen (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Yemen (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>131</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>131</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Sri Lanka (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Sri Lanka (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>132</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>132</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Tajikistan (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Tajikistan (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>133</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>133</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Turkmenistan (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Turkmenistan (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>134</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>134</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>United Arab Emirates (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>United Arab Emirates (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>135</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>135</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Uzbekistan (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Uzbekistan (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>136</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>136</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Viet Nam (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Viet Nam (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>137-139</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>137-139</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Reserved for other centres</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Reserved for other centres</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>140</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>140</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Bolivia (Plurinational State of) (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Bolivia (Plurinational State of) (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>141</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>141</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Guyana (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Guyana (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>142</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>142</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Paraguay (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Paraguay (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>143</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>143</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Suriname (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Suriname (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>144</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>144</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Uruguay (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Uruguay (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>145</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>145</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>French Guiana</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>French Guiana</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>146</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>146</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Brazilian Navy Hydrographic Centre</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Brazilian Navy Hydrographic Centre</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>147</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>147</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>National Commission on Space Activities (CONAE) - Argentina</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>National Commission on Space Activities (CONAE) - Argentina</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>148</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>148</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Brazilian Department of Airspace Control - DECEA</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Brazilian Department of Airspace Control - DECEA</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>149</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>149</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Reserved for other centres</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Reserved for other centres</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>150</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>150</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Antigua and Barbuda (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Antigua and Barbuda (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>151</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>151</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Bahamas (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Bahamas (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>152</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>152</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Barbados (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Barbados (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>153</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>153</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Belize (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Belize (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>154</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>154</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>British Caribbean Territories Centre</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>British Caribbean Territories Centre</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>155</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>155</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>San Jose</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>San Jose</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>156</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>156</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Cuba (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Cuba (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>157</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>157</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Dominica (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Dominica (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>158</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>158</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Dominican Republic (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Dominican Republic (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>159</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>159</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>El Salvador (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>El Salvador (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>160</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>160</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>US NOAA/NESDIS</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>US NOAA/NESDIS</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>161</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>161</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>US NOAA Office of Oceanic and Atmospheric Research</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>US NOAA Office of Oceanic and Atmospheric Research</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>162</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>162</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Guatemala (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Guatemala (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>163</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>163</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Haiti (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Haiti (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>164</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>164</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Honduras (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Honduras (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>165</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>165</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Jamaica (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Jamaica (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>166</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>166</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Mexico City</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Mexico City</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>167</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>167</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Curacao and Sint Maarten (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Curacao and Sint Maarten (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>168</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>168</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Nicaragua (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Nicaragua (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>169</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>169</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Panama (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Panama (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>170</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>170</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Saint Lucia (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Saint Lucia (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>171</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>171</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Trinidad and Tobago (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Trinidad and Tobago (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>172</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>172</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>French Departments in RA IV</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>French Departments in RA IV</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>173</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>173</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>US National Aeronautics and Space Administration (NASA)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>US National Aeronautics and Space Administration (NASA)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>174</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>174</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Integrated Science Data Management/Marine Environmental Data Service (ISDM/MEDS) - Canada</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Integrated Science Data Management/Marine Environmental Data Service (ISDM/MEDS) - Canada</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>175</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>175</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>University Corporation for Atmospheric Research (UCAR) - United States</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>University Corporation for Atmospheric Research (UCAR) - United States</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>176</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>176</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Cooperative Institute for Meteorological Satellite Studies (CIMSS) - United States</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>177</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>177</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>NOAA National Ocean Service - United States</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>NOAA National Ocean Service - United States</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>178</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>178</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Spire Global, Inc.</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Spire Global, Inc.</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>179</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>179</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>GeoOptics, Inc.</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>GeoOptics, Inc.</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>180</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>180</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>PlanetiQ</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>PlanetiQ</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>181-189</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>181-189</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Reserved for other centres</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Reserved for other centres</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>190</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>190</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Cook Islands (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Cook Islands (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>191</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>191</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>French Polynesia (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>French Polynesia (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>192</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>192</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Tonga (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Tonga (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>193</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>193</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Vanuatu (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Vanuatu (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>194</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>194</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Brunei Darussalam (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Brunei Darussalam (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>195</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>195</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Indonesia (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Indonesia (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>196</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>196</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Kiribati (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Kiribati (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>197</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>197</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Federated States of Micronesia (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Federated States of Micronesia (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>198</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>198</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>New Caledonia (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>New Caledonia (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>199</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>199</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Niue</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Niue</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>200</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>200</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Papua New Guinea (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Papua New Guinea (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>201</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>201</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Philippines (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Philippines (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>202</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>202</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Samoa (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Samoa (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>203</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>203</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Solomon Islands (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Solomon Islands (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>204</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>204</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>National Institute of Water and Atmospheric Research (NIWA - New Zealand)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>National Institute of Water and Atmospheric Research (NIWA - New Zealand)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>205-209</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>205-209</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Reserved</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Reserved</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>210</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>210</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Frascati (ESA/ESRIN)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Frascati (ESA/ESRIN)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>211</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>211</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Lannion</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Lannion</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>212</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>212</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Lisbon</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Lisbon</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>213</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>213</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Reykjavik</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Reykjavik</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>214</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>214</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Madrid</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Madrid</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>215</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>215</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Zuerich</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Zuerich</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>216</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>216</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Service ARGOS - Toulouse</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Service ARGOS - Toulouse</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>217</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>217</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Bratislava</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Bratislava</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>218</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>218</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Budapest</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Budapest</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>219</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>219</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Ljubljana</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Ljubljana</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>220</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>220</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Warsaw</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Warsaw</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>221</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>221</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Zagreb</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Zagreb</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>222</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>222</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Albania (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Albania (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>223</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>223</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Armenia (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Armenia (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>224</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>224</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Austria (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Austria (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>225</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>225</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Azerbaijan (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Azerbaijan (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>226</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>226</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Belarus (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Belarus (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>227</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>227</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Belgium (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Belgium (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>228</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>228</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Bosnia and Herzegovina (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Bosnia and Herzegovina (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>229</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>229</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Bulgaria (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Bulgaria (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>230</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>230</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Cyprus (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Cyprus (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>231</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>231</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Estonia (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Estonia (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>232</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>232</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Georgia (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Georgia (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>233</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>233</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Dublin</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Dublin</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>234</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>234</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Israel (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Israel (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>235</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>235</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Jordan (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Jordan (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>236</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>236</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Latvia (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Latvia (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>237</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>237</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Lebanon (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Lebanon (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>238</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>238</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Lithuania (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Lithuania (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>239</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>239</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Luxembourg</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Luxembourg</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>240</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>240</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Malta (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Malta (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>241</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>241</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Monaco</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Monaco</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>242</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>242</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Romania (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Romania (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>243</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>243</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Syrian Arab Republic (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Syrian Arab Republic (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>244</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>244</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>The former Yugoslav Republic of Macedonia (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>The former Yugoslav Republic of Macedonia (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>245</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>245</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Ukraine (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Ukraine (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>246</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>246</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Republic of Moldova (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Republic of Moldova (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>247</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>247</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Operational Programme for the Exchange of weather RAdar information (OPERA) - EUMETNET</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Operational Programme for the Exchange of weather RAdar information (OPERA) - EUMETNET</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>248</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>248</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Montenegro (NMC)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Montenegro (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>249</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>249</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Barcelona Dust Forecast Center</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Barcelona Dust Forecast Center</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>250</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>250</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>COnsortium for Small scale MOdelling  (COSMO)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>COnsortium for Small scale MOdelling  (COSMO)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>251</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>251</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Meteorological Cooperation on Operational NWP (MetCoOp)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Meteorological Cooperation on Operational NWP (MetCoOp)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>252</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>252</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Max Planck Institute for Meteorology (MPI-M)</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Max Planck Institute for Meteorology (MPI-M)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>253</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>253</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Reserved for other centres</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Reserved for other centres</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>254</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>254</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>EUMETSAT Operation Centre</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>EUMETSAT Operation Centre</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>255</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>255</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Missing value</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Missing value</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>256-999</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>Not applicable</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres>Not used</OriginatingGeneratingCentres>
+    <OriginatingGeneratingCentres_en>Not used</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
 </dataroot>
