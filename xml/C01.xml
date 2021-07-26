@@ -193,7 +193,7 @@
     <CodeFigureForF1F2>25</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>025</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>25</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres_en>La Réunion (RSMC)</OriginatingGeneratingCentres_en>
+    <OriginatingGeneratingCentres_en>La Reunion (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
@@ -354,7 +354,7 @@
     <CodeFigureForF1F2>46</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>046</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>46</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres_en>Brazilian Space Agency ­ INPE</OriginatingGeneratingCentres_en>
+    <OriginatingGeneratingCentres_en>Brazilian Space Agency INPE</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
@@ -571,7 +571,7 @@
     <CodeFigureForF1F2>74</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>074</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>74</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres_en>UK Meteorological Office ­ Exeter (RSMC)</OriginatingGeneratingCentres_en>
+    <OriginatingGeneratingCentres_en>UK Meteorological Office Exeter (RSMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
@@ -627,7 +627,7 @@
     <CodeFigureForF1F2>82</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>082</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>82</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres_en>Norrköping</OriginatingGeneratingCentres_en>
+    <OriginatingGeneratingCentres_en>Norrkoping</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
@@ -1131,7 +1131,7 @@
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>155</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>155</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres_en>San José</OriginatingGeneratingCentres_en>
+    <OriginatingGeneratingCentres_en>San Jose</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
@@ -1215,7 +1215,7 @@
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>167</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>167</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres_en>Curaçao and Sint Maarten (NMC)</OriginatingGeneratingCentres_en>
+    <OriginatingGeneratingCentres_en>Curacao and Sint Maarten (NMC)</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>
@@ -1467,7 +1467,7 @@
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
     <CodeFigureForF3F3F3>215</CodeFigureForF3F3F3>
     <Octet5GRIB1_Octet6BUFR3>215</Octet5GRIB1_Octet6BUFR3>
-    <OriginatingGeneratingCentres_en>Zurich</OriginatingGeneratingCentres_en>
+    <OriginatingGeneratingCentres_en>Zuerich</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>
   <C01>

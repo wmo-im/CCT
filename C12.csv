@@ -13,18 +13,18 @@ CodeFigure_OriginatingCentres,Name_OriginatingCentres_en,CodeFigure_SubCentres,N
 40,Seoul,245,Jincheon,Operational
 110,"Hong-Kong, China",229,Hong-Kong,Operational
 ,REGION III,,,Operational
-46,Brazilian Space Agency ­ INPE,10,Cachoeira Paulista (INPE),Operational
-46,Brazilian Space Agency ­ INPE,11,Cuiaba (INPE),Operational
-46,Brazilian Space Agency ­ INPE,12,Brasilia (SEPIS - INMET),Operational
-46,Brazilian Space Agency ­ INPE,13,Fortaleza (FUNCEME),Operational
-46,Brazilian Space Agency ­ INPE,14,Natal (Navy Hygrog. Centre),Operational
-46,Brazilian Space Agency ­ INPE,15,Manaus (SIVAM),Operational
-46,Brazilian Space Agency ­ INPE,16,Natal (INPE),Operational
-46,Brazilian Space Agency ­ INPE,17,Boa Vista,Operational
-46,Brazilian Space Agency ­ INPE,18,SIPAM-Porto Velho-RO,Operational
-46,Brazilian Space Agency ­ INPE,19,SIPAM-Belém-PA,Operational
-46,Brazilian Space Agency ­ INPE,25,São Paulo University - USP,Operational
-147,National Commission on Space Activities (CONAE) - Argentina,10,Córdoba,Operational
+46,Brazilian Space Agency INPE,10,Cachoeira Paulista (INPE),Operational
+46,Brazilian Space Agency INPE,11,Cuiaba (INPE),Operational
+46,Brazilian Space Agency INPE,12,Brasilia (SEPIS - INMET),Operational
+46,Brazilian Space Agency INPE,13,Fortaleza (FUNCEME),Operational
+46,Brazilian Space Agency INPE,14,Natal (Navy Hygrog. Centre),Operational
+46,Brazilian Space Agency INPE,15,Manaus (SIVAM),Operational
+46,Brazilian Space Agency INPE,16,Natal (INPE),Operational
+46,Brazilian Space Agency INPE,17,Boa Vista,Operational
+46,Brazilian Space Agency INPE,18,SIPAM-Porto Velho-RO,Operational
+46,Brazilian Space Agency INPE,19,SIPAM-Belem-PA,Operational
+46,Brazilian Space Agency INPE,25,Sao Paulo University - USP,Operational
+147,National Commission on Space Activities (CONAE) - Argentina,10,Cordoba,Operational
 147,National Commission on Space Activities (CONAE) - Argentina,15,Ushuaia,Operational
 147,National Commission on Space Activities (CONAE) - Argentina,20,Marambio,Operational
 147,National Commission on Space Activities (CONAE) - Argentina,30,Santiago de Chile,Operational
@@ -140,26 +140,26 @@ CodeFigure_OriginatingCentres,Name_OriginatingCentres_en,CodeFigure_SubCentres,N
 74,"UK Met Office, Exeter (RSMC)",26,Federal Office of Topography (Switzerland),Operational
 74,"UK Met Office, Exeter (RSMC)",27,Nordic Commission of Geodesy (Norway),Operational
 74,"UK Met Office, Exeter (RSMC)",28,Nordic Commission of Geodesy (Sweden),Operational
-74,"UK Met Office, Exeter (RSMC)",29,Institute Géographique National (France) - Service de géodésie,Operational
-74,"UK Met Office, Exeter (RSMC)",30,Bundesamt für Kartographie und Geodäsie (Germany),Operational
+74,"UK Met Office, Exeter (RSMC)",29,Institute Geographique National (France) - Service de geodesie,Operational
+74,"UK Met Office, Exeter (RSMC)",30,Bundesamt fuer Kartographie und Geodaesie (Germany),Operational
 74,"UK Met Office, Exeter (RSMC)",31,Institute of Engineering Satellite Surveying and Geodesy (United Kingdom),Operational
 74,"UK Met Office, Exeter (RSMC)",32,Joint Operational Meteorology and Oceanography Centre (JOMOC),Operational
 74,"UK Met Office, Exeter (RSMC)",33,Koninklijk Nederlands Meteorologisch Institut (Netherlands),Operational
 74,"UK Met Office, Exeter (RSMC)",34,Nordic GPS Atmospheric Analysis centre (Sweden),Operational
-74,"UK Met Office, Exeter (RSMC)",35,Instituto Geografico Nacional de España (Spain),Operational
-74,"UK Met Office, Exeter (RSMC)",36,Met Éireann (Ireland),Operational
+74,"UK Met Office, Exeter (RSMC)",35,Instituto Geografico Nacional de Espana (Spain),Operational
+74,"UK Met Office, Exeter (RSMC)",36,Met Eireann (Ireland),Operational
 74,"UK Met Office, Exeter (RSMC)",37,Royal Observatory of Belgium (Belgium),Operational
 78,Offenbach (RSMC),10,POLARA (Polarimetric Radar Algorithms instance),Operational
 78,Offenbach (RSMC),64,Bundeswehr Geoinformation Office (BGIO),Operational
 78,Offenbach (RSMC),110,NowCast mobile (Lightning data),Operational
-78,Offenbach (RSMC),221,"Schleswig-Holstein, Traffic Operations Computing Centre (TOCC) Kiel/Neumünster",Operational
+78,Offenbach (RSMC),221,"Schleswig-Holstein, Traffic Operations Computing Centre (TOCC) Kiel/Neumuenster",Operational
 78,Offenbach (RSMC),222,"Hamburg, TOCC Hamburg",Operational
 78,Offenbach (RSMC),223,"Niedersachsen, TOCC Hannover",Operational
 78,Offenbach (RSMC),224,Austria (NMC),Operational
 78,Offenbach (RSMC),225,"Nordrhein-Westfalen, TOCC Kamen Leverkusen",Operational
-78,Offenbach (RSMC),226,"Hessen, TOCC Rüsselsheim",Operational
+78,Offenbach (RSMC),226,"Hessen, TOCC Ruesselsheim",Operational
 78,Offenbach (RSMC),227,"Rheinland-Pfalz, TOCC Koblenz",Operational
-78,Offenbach (RSMC),228,"Baden-Württemberg, TOCC Ludwigsburg",Operational
+78,Offenbach (RSMC),228,"Baden-Wuerttemberg, TOCC Ludwigsburg",Operational
 78,Offenbach (RSMC),229,"Bayern, TOCC Freimann",Operational
 78,Offenbach (RSMC),230,"Saarland, TOCC Rohrbach",Operational
 78,Offenbach (RSMC),231,"Bayern, Autobahn directorate Nordbayern",Operational
@@ -167,14 +167,14 @@ CodeFigure_OriginatingCentres,Name_OriginatingCentres_en,CodeFigure_SubCentres,N
 78,Offenbach (RSMC),233,"Mecklenburg-Vorpommern, TOCC Malchow",Operational
 78,Offenbach (RSMC),234,"Sachsen, TOCC Dresden",Operational
 78,Offenbach (RSMC),235,"Sachsen-Anhalt, TOCC Halle",Operational
-78,Offenbach (RSMC),236,"Thüringen, TOCC Erfurt",Operational
+78,Offenbach (RSMC),236,"Thueringen, TOCC Erfurt",Operational
 78,Offenbach (RSMC),237,EasyWay - Meteotrans,Operational
 78,Offenbach (RSMC),254,EUMETSAT,Operational
 80,Rome (RSMC),101,Albania (NMC),Operational
 80,Rome (RSMC),102,National Research Council/Institute of Atmospheric Sciences and Climate (CNR-ISAC),Operational
 85,Toulouse (RSMC),200,Institut National de l'Environnement Industriel et des Risques (France),Operational
-85,Toulouse (RSMC),201,Rheinisches Institut für Umweltforschung an der Universität zu Köln E.V. (Germany),Operational
-85,Toulouse (RSMC),202,Institut Français de Recherche pour l'Exploitation de la Mer,Operational
+85,Toulouse (RSMC),201,Rheinisches Institut fuer Umweltforschung an der Universitaet zu Koeln E.V. (Germany),Operational
+85,Toulouse (RSMC),202,Institut Francais de Recherche pour l'Exploitation de la Mer,Operational
 85,Toulouse (RSMC),203,Aarhus University (Denmark),Operational
 85,Toulouse (RSMC),204,Institute of Environmental Protection - National Research Institute (Poland),Operational
 89,Prague (RTH),1,Solar and Ozone Observatory Hradec Kralove,Operational
@@ -203,7 +203,7 @@ CodeFigure_OriginatingCentres,Name_OriginatingCentres_en,CodeFigure_SubCentres,N
 254,EUMETSAT Operation Centre,130,"Miami, Florida",Operational
 254,EUMETSAT Operation Centre,140,Lannion (France),Operational
 254,EUMETSAT Operation Centre,150,Svalbard (Norway),Operational
-254,EUMETSAT Operation Centre,170,St Denis (La Réunion),Operational
+254,EUMETSAT Operation Centre,170,St Denis (La Reunion),Operational
 254,EUMETSAT Operation Centre,180,Moscow,Operational
 254,EUMETSAT Operation Centre,190,Muscat,Operational
 254,EUMETSAT Operation Centre,200,Khabarovsk,Operational

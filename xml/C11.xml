@@ -165,7 +165,7 @@
   <C11>
     <CREX2>00025</CREX2>
     <GRIB2_BUFR4>25</GRIB2_BUFR4>
-    <OriginatingGeneratingCentre_en>La Réunion (RSMC)</OriginatingGeneratingCentre_en>
+    <OriginatingGeneratingCentre_en>La Reunion (RSMC)</OriginatingGeneratingCentre_en>
     <Status>Operational</Status>
   </C11>
   <C11>
@@ -303,7 +303,7 @@
   <C11>
     <CREX2>00046</CREX2>
     <GRIB2_BUFR4>46</GRIB2_BUFR4>
-    <OriginatingGeneratingCentre_en>Brazilian Space Agency ­ INPE</OriginatingGeneratingCentre_en>
+    <OriginatingGeneratingCentre_en>Brazilian Space Agency INPE</OriginatingGeneratingCentre_en>
     <Status>Operational</Status>
   </C11>
   <C11>
@@ -489,7 +489,7 @@
   <C11>
     <CREX2>00074</CREX2>
     <GRIB2_BUFR4>74</GRIB2_BUFR4>
-    <OriginatingGeneratingCentre_en>UK Meteorological Office ­ Exeter (RSMC)</OriginatingGeneratingCentre_en>
+    <OriginatingGeneratingCentre_en>UK Meteorological Office Exeter (RSMC)</OriginatingGeneratingCentre_en>
     <Status>Operational</Status>
   </C11>
   <C11>
@@ -537,7 +537,7 @@
   <C11>
     <CREX2>00082</CREX2>
     <GRIB2_BUFR4>82</GRIB2_BUFR4>
-    <OriginatingGeneratingCentre_en>Norrköping</OriginatingGeneratingCentre_en>
+    <OriginatingGeneratingCentre_en>Norrkoping</OriginatingGeneratingCentre_en>
     <Status>Operational</Status>
   </C11>
   <C11>
@@ -969,7 +969,7 @@
   <C11>
     <CREX2>00155</CREX2>
     <GRIB2_BUFR4>155</GRIB2_BUFR4>
-    <OriginatingGeneratingCentre_en>San José</OriginatingGeneratingCentre_en>
+    <OriginatingGeneratingCentre_en>San Jose</OriginatingGeneratingCentre_en>
     <Status>Operational</Status>
   </C11>
   <C11>
@@ -1041,7 +1041,7 @@
   <C11>
     <CREX2>00167</CREX2>
     <GRIB2_BUFR4>167</GRIB2_BUFR4>
-    <OriginatingGeneratingCentre_en>Curaçao and Sint Maarten (NMC)</OriginatingGeneratingCentre_en>
+    <OriginatingGeneratingCentre_en>Curacao and Sint Maarten (NMC)</OriginatingGeneratingCentre_en>
     <Status>Operational</Status>
   </C11>
   <C11>
@@ -1257,7 +1257,7 @@
   <C11>
     <CREX2>00215</CREX2>
     <GRIB2_BUFR4>215</GRIB2_BUFR4>
-    <OriginatingGeneratingCentre_en>Zurich</OriginatingGeneratingCentre_en>
+    <OriginatingGeneratingCentre_en>Zuerich</OriginatingGeneratingCentre_en>
     <Status>Operational</Status>
   </C11>
   <C11>
