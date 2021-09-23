@@ -155,7 +155,7 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 521,521,521,FY-3B,Operational
 522,522,522,FY-3C,Operational
 523,523,523,FY-3D,Operational
-530,530,530,	FY-4A,Operational
+530,530,530,FY-4A,Operational
 ,,,600-699: Numbers allocated to Europe,Operational
 ,,,700-799: Numbers allocated to the United States,Operational
 700,700,700,TIROS M (ITOS 1),Operational
@@ -196,6 +196,8 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 753,753,753,COSMIC-2 E4,Operational
 754,754,754,COSMIC-2 E5,Operational
 755,755,755,COSMIC-2 E6,Operational
+761,761,761,NIMBUS 1,Operational
+762,762,762,NIMBUS 2,Operational
 763,763,763,NIMBUS 3,Operational
 764,764,764,NIMBUS 4,Operational
 765,765,765,NIMBUS 5,Operational

@@ -1096,7 +1096,7 @@
     <CodeFigureForI6I6I6>530</CodeFigureForI6I6I6>
     <CodeFigureForBUFR>530</CodeFigureForBUFR>
     <CodeFigureForGRIB2>530</CodeFigureForGRIB2>
-    <SatelliteName_en>	FY-4A</SatelliteName_en>
+    <SatelliteName_en>FY-4A</SatelliteName_en>
     <Status>Operational</Status>
   </C05>
   <C05>
@@ -1377,6 +1377,20 @@
     <CodeFigureForBUFR>755</CodeFigureForBUFR>
     <CodeFigureForGRIB2>755</CodeFigureForGRIB2>
     <SatelliteName_en>COSMIC-2 E6</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>761</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>761</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>761</CodeFigureForGRIB2>
+    <SatelliteName_en>NIMBUS 1</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>762</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>762</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>762</CodeFigureForGRIB2>
+    <SatelliteName_en>NIMBUS 2</SatelliteName_en>
     <Status>Operational</Status>
   </C05>
   <C05>

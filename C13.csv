@@ -22,6 +22,7 @@ CodeFigure_DataCategories,Name_DataCategories_en,CodeFigure_InternationalDataSub
 1,Surface data - sea,0,Synoptic observations (SHIP),Operational
 1,Surface data - sea,6,One-hour observations from automated stations,Operational
 1,Surface data - sea,7,n-minute observations from AWS stations,Operational
+1,Surface data - sea,15,Uncrewed surface vehicle,Operational
 1,Surface data - sea,20,Climatological observations (CLIMAT SHIP),Operational
 1,Surface data - sea,25,Buoy observation (BUOY),Operational
 1,Surface data - sea,30,Tide gauge,Operational
@@ -116,6 +117,7 @@ CodeFigure_DataCategories,Name_DataCategories_en,CodeFigure_InternationalDataSub
 31,Oceanographic data,5,XBT/XCTD profiles (TESAC),Operational
 31,Oceanographic data,6,Waves reports,Operational
 31,Oceanographic data,7,Tsunameter data,Operational
+32,Lidar (ground-based),0,"Wind, cloud, aerosol",Operational
 101,Image data (satellite),0,Multi-purpose VIS/IR imagery,Operational
 101,Image data (satellite),1,Conical scanning MW imagery (intermediate frequencies),Operational
 101,Image data (satellite),2,Low frequency MW imagery,Operational

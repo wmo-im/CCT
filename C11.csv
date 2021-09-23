@@ -26,7 +26,7 @@ CREX2,GRIB2_BUFR4,OriginatingGeneratingCentre_en,Status
 00022,22,ACMAD,Operational
 00023,23,Mozambique (NMC),Operational
 00024,24,Pretoria (RSMC),Operational
-00025,25,La Réunion (RSMC),Operational
+00025,25,La Reunion (RSMC),Operational
 ,,00026-00040: Centres in Region II,Operational
 00026,26,Khabarovsk (RSMC),Operational
 00027,27,),Operational
@@ -49,7 +49,7 @@ CREX2,GRIB2_BUFR4,OriginatingGeneratingCentre_en,Status
 00043,43,Brasilia (RSMC),Operational
 00044,44,),Operational
 00045,45,Santiago,Operational
-00046,46,Brazilian Space Agency ­ INPE,Operational
+00046,46,Brazilian Space Agency INPE,Operational
 00047,47,Colombia (NMC),Operational
 00048,48,Ecuador (NMC),Operational
 00049,49,Peru (NMC),Operational
@@ -80,7 +80,7 @@ CREX2,GRIB2_BUFR4,OriginatingGeneratingCentre_en,Status
 00072,72,Singapore,Operational
 00073,73,Malaysia (NMC),Operational
 ,,00074-00099: Centres in Region VI,Operational
-00074,74,UK Meteorological Office ­ Exeter (RSMC),Operational
+00074,74,UK Meteorological Office Exeter (RSMC),Operational
 00075,75,),Operational
 00076,76,Moscow (RSMC),Operational
 00077,77,Reserved,Operational
@@ -88,7 +88,7 @@ CREX2,GRIB2_BUFR4,OriginatingGeneratingCentre_en,Status
 00079,79,),Operational
 00080,80,Rome (RSMC),Operational
 00081,81,),Operational
-00082,82,Norrköping,Operational
+00082,82,Norrkoping,Operational
 00083,83,),Operational
 00084,84,Toulouse (RSMC),Operational
 00085,85,Toulouse (RSMC),Operational
@@ -160,7 +160,7 @@ CREX2,GRIB2_BUFR4,OriginatingGeneratingCentre_en,Status
 00152,152,Barbados (NMC),Operational
 00153,153,Belize (NMC),Operational
 00154,154,British Caribbean Territories Centre,Operational
-00155,155,San José,Operational
+00155,155,San Jose,Operational
 00156,156,Cuba (NMC),Operational
 00157,157,Dominica (NMC),Operational
 00158,158,Dominican Republic (NMC),Operational
@@ -172,7 +172,7 @@ CREX2,GRIB2_BUFR4,OriginatingGeneratingCentre_en,Status
 00164,164,Honduras (NMC),Operational
 00165,165,Jamaica (NMC),Operational
 00166,166,Mexico,Operational
-00167,167,Curaçao and Sint Maarten (NMC),Operational
+00167,167,Curacao and Sint Maarten (NMC),Operational
 00168,168,Nicaragua (NMC),Operational
 00169,169,Panama (NMC),Operational
 00170,170,Saint Lucia (NMC),Operational
@@ -208,7 +208,7 @@ CREX2,GRIB2_BUFR4,OriginatingGeneratingCentre_en,Status
 00212,212,Lisboa,Operational
 00213,213,Reykjavik,Operational
 00214,214,Madrid,Operational
-00215,215,Zurich,Operational
+00215,215,Zuerich,Operational
 00216,216,Service ARGOS Toulouse,Operational
 00217,217,Bratislava,Operational
 00218,218,Budapest,Operational
