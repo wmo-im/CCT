@@ -22,6 +22,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 60,CNES,Spectrometer,VEGETATION,VEGETATION,Operational
 61,CNES,Spectrometer,WINDII,WINDII,Operational
 62,CNES,Altimeter,AltiKa,Ka band Radar Altimeter,Operational
+63,CNES,Rotating multi-beam altimeter,SWIM,Surface Waves Investigation and Monitoring,Operational
 80,CSA,Communications,RADARSAT DTT,,Operational
 81,CSA,Communications,RADARSAT TTC,,Operational
 85,CSA,Radar,SAR (CSA),Synthetic aperture radar (CSA),Operational
