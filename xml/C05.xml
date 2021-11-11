@@ -1009,6 +1009,13 @@
     <Status>Operational</Status>
   </C05>
   <C05>
+    <CodeFigureForI6I6I6>505</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>505</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>505</CodeFigureForGRIB2>
+    <SatelliteName_en>Hai Yang 2D (HY-2D, SOA/NSOAS China)</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
     <CodeFigureForI6I6I6>510</CodeFigureForI6I6I6>
     <CodeFigureForBUFR>510</CodeFigureForBUFR>
     <CodeFigureForGRIB2>510</CodeFigureForGRIB2>
@@ -1093,10 +1100,24 @@
     <Status>Operational</Status>
   </C05>
   <C05>
+    <CodeFigureForI6I6I6>524</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>524</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>524</CodeFigureForGRIB2>
+    <SatelliteName_en>FY-3E</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
     <CodeFigureForI6I6I6>530</CodeFigureForI6I6I6>
     <CodeFigureForBUFR>530</CodeFigureForBUFR>
     <CodeFigureForGRIB2>530</CodeFigureForGRIB2>
     <SatelliteName_en>FY-4A</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>531</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>531</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>531</CodeFigureForGRIB2>
+    <SatelliteName_en>FY-4B</SatelliteName_en>
     <Status>Operational</Status>
   </C05>
   <C05>
