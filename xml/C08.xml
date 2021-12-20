@@ -185,6 +185,14 @@
     <Status>Operational</Status>
   </C08>
   <C08>
+    <Code>63</Code>
+    <Agency_en>CNES</Agency_en>
+    <Type_en>Rotating multi-beam altimeter</Type_en>
+    <InstrumentShortName_en>SWIM</InstrumentShortName_en>
+    <InstrumentLongName_en>Surface Waves Investigation and Monitoring</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
     <Code>80</Code>
     <Agency_en>CSA</Agency_en>
     <Type_en>Communications</Type_en>
