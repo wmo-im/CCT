@@ -78,6 +78,48 @@
     <Status>Operational</Status>
   </C05>
   <C05>
+    <CodeFigureForI6I6I6>024</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>24</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>24</CodeFigureForGRIB2>
+    <SatelliteName_en>Metop-D</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>025</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>25</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>25</CodeFigureForGRIB2>
+    <SatelliteName_en>Metop-E</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>026</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>26</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>26</CodeFigureForGRIB2>
+    <SatelliteName_en>Metop-F</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>027</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>27</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>27</CodeFigureForGRIB2>
+    <SatelliteName_en>Metop-G</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>028</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>28</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>28</CodeFigureForGRIB2>
+    <SatelliteName_en>Metop-H</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>029</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>29</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>29</CodeFigureForGRIB2>
+    <SatelliteName_en>Metop-I</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
     <CodeFigureForI6I6I6>040</CodeFigureForI6I6I6>
     <CodeFigureForBUFR>40</CodeFigureForBUFR>
     <CodeFigureForGRIB2>40</CodeFigureForGRIB2>
@@ -264,6 +306,48 @@
     <CodeFigureForBUFR>70</CodeFigureForBUFR>
     <CodeFigureForGRIB2>70</CodeFigureForGRIB2>
     <SatelliteName_en>METEOSAT 11</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>071</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>71</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>71</CodeFigureForGRIB2>
+    <SatelliteName_en>METEOSAT 12</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>072</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>72</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>72</CodeFigureForGRIB2>
+    <SatelliteName_en>METEOSAT 13</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>073</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>73</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>73</CodeFigureForGRIB2>
+    <SatelliteName_en>METEOSAT 14</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>074</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>74</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>74</CodeFigureForGRIB2>
+    <SatelliteName_en>METEOSAT 15</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>075</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>75</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>75</CodeFigureForGRIB2>
+    <SatelliteName_en>METEOSAT 16</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>076</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>76</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>76</CodeFigureForGRIB2>
+    <SatelliteName_en>METEOSAT 17</SatelliteName_en>
     <Status>Operational</Status>
   </C05>
   <C05>

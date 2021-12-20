@@ -10,6 +10,12 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 021,21,21,SPOT2,Operational
 022,22,22,SPOT3,Operational
 023,23,23,SPOT4,Operational
+024,24,24,Metop-D,Operational
+025,25,25,Metop-E,Operational
+026,26,26,Metop-F,Operational
+027,27,27,Metop-G,Operational
+028,28,28,Metop-H,Operational
+029,29,29,Metop-I,Operational
 040,40,40,OERSTED,Operational
 041,41,41,CHAMP,Operational
 042,42,42,TerraSAR-X,Operational
@@ -37,6 +43,12 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 066,66,66,Sentinel-6A,Operational
 067,67,67,Sentinel-6B,Operational
 070,70,70,METEOSAT 11,Operational
+071,71,71,METEOSAT 12,Operational
+072,72,72,METEOSAT 13,Operational
+073,73,73,METEOSAT 14,Operational
+074,74,74,METEOSAT 15,Operational
+075,75,75,METEOSAT 16,Operational
+076,76,76,METEOSAT 17,Operational
 ,,,100-199: Numbers allocated to Japan,Operational
 120,120,120,ADEOS,Operational
 121,121,121,ADEOS II,Operational
