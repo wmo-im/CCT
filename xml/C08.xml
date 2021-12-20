@@ -593,6 +593,38 @@
     <Status>Operational</Status>
   </C08>
   <C08>
+    <Code>210</Code>
+    <Agency_en>EUMETSAT - ESA - Thales Alenia Space</Agency_en>
+    <Type_en>Imager</Type_en>
+    <InstrumentShortName_en>FCI</InstrumentShortName_en>
+    <InstrumentLongName_en>Flexible Combined Imager</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>211</Code>
+    <Agency_en>EUMETSAT - ESA - Leonardo</Agency_en>
+    <Type_en>Imager</Type_en>
+    <InstrumentShortName_en>LI</InstrumentShortName_en>
+    <InstrumentLongName_en>Lightning imager</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>212</Code>
+    <Agency_en>EUMETSAT - ESA - OHB</Agency_en>
+    <Type_en>Interferometer</Type_en>
+    <InstrumentShortName_en>IRS</InstrumentShortName_en>
+    <InstrumentLongName_en>Infrared sounder</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>213</Code>
+    <Agency_en>EUMETSAT - ESA/Copernicus - Airbus</Agency_en>
+    <Type_en>Spectrometer</Type_en>
+    <InstrumentShortName_en>S4</InstrumentShortName_en>
+    <InstrumentLongName_en>Ultraviolet and Near-Infrared Multispectral Spectrometer (S4 UVN)</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
     <Code>220</Code>
     <Agency_en>ESA/EUMETSAT</Agency_en>
     <Type_en>Spectrometer</Type_en>
