@@ -1717,7 +1717,13 @@
     <Status>Operational</Status>
   </C11>
   <C11>
-    <CREX2>00292-65534</CREX2>
+    <CREX2>00292</CREX2>
+    <GRIB2_BUFR4>292</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>Helmholtz Centre for Environmental Research (UFZ)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00293-65534</CREX2>
     <GRIB2_BUFR4>292-65534</GRIB2_BUFR4>
     <OriginatingGeneratingCentre_en>Reserved for other centres</OriginatingGeneratingCentre_en>
     <Status>Operational</Status>
