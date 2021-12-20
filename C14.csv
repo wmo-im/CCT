@@ -422,7 +422,9 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 30294,Cs-137 Equivalent,EquCs137,Operational
 30295,Carbon-13,C-13,Operational
 30296,Lead,Pb,Operational
-30297-39999,Reserved,,Operational
+30297,Tellurium 131,Te-131,Operational
+30298,Neodymium 137,Nd-137,Operational
+30299-39999,Reserved,,Operational
 40000,Singlet sigma oxygen (dioxygen (sigma singlet)),O2(1&Sigma;+g),Operational
 40001,Singlet delta oxygen (dioxygen (delta singlet)),O2(1&Delta;g),Operational
 40002,Singlet excited oxygen atom,O(1D),Operational
