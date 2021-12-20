@@ -73,21 +73,21 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 205,EUMETSAT,Radiometer,MVIRI,METEOSAT visible and infrared imager,Operational
 207,EUMETSAT,Radiometer,SEVIRI,Spinning enhanced visible and infrared imager,Operational
 208,EUMETSAT,Imaging multi-spectral radiometer (vis/IR),VIRI,VIRI,Operational
-210,EUMETSAT - ESA - Thales Alenia Space,Imager,FCI,Flexible Combined Imager,Operational
-211,EUMETSAT - ESA - Leonardo,Imager,LI,Lightning imager,Operational
-212,EUMETSAT - ESA - OHB,Interferometer,IRS,Infrared sounder,Operational
-213,EUMETSAT - ESA/Copernicus - Airbus,Spectrometer,S4,Ultraviolet and Near-Infrared Multispectral Spectrometer (S4 UVN),Operational
+210,ESA/EUMETSAT/Thales Alenia Space,Imager,FCI,Flexible Combined Imager,Operational
+211,ESA/EUMETSAT/Leonardo,Imager,LI,Lightning imager,Operational
+212,EUMETSAT/OHB,Interferometer,IRS,Infrared sounder,Operational
+213,ESA/EUMETSAT/Copernicus - Airbus,Spectrometer,S4,Ultraviolet and Near-Infrared Multispectral Spectrometer (S4 UVN),Operational
 220,ESA/EUMETSAT,Spectrometer,GOME-2,Global ozone monitoring experiment-2,Operational
 221,CNES/EUMETSAT,Atmospheric temperature and humidity sounder,IASI,Infrared atmospheric sounding interferometer,Operational
-230,EUMETSAT - ESA,Radiometer,3MI,Multi-viewing Multi-channel Multi-polarisation Imaging,Operational
-231,EUMETSAT - CNES,Sounder - interferometer,IASI-NG,Infrared Atmospheric Sounding Interferometer - New Generation,Operational
-232,EUMETSAT - DLR,Radiometer,METimage,Meteorological Imager,Operational
-233,EUMETSAT - ESA,Radiometer,MWS,Microwave Sounder,Operational
-234,EUMETSAT - ESA,Radio Occultation,RO,Radio Occultation,Operational
-235,EUMETSAT - ESA - EU,Spectrometer,S5/UVNS,Copernicus Sentinel-5 Ultraviolet Visible Near-infrared and Shortwave-infrared Spectrometer,Operational
-236,EUMETSAT - ESA,Radiometer,ICI,Ice Cloud Imager,Operational
-237,EUMETSAT - ESA,Radiometer,MWI,Microwave Imager,Operational
-238,EUMETSAT - ESA,Radar,SCA,Scatterometer,Operational
+230,ESA/EUMETSAT,Radiometer,3MI,Multi-viewing Multi-channel Multi-polarisation Imaging,Operational
+231,CNES/EUMETSAT,Sounder - interferometer,IASI-NG,Infrared Atmospheric Sounding Interferometer - New Generation,Operational
+232,DLR/EUMETSAT,Radiometer,METimage,Meteorological Imager,Operational
+233,ESA/EUMETSAT,Radiometer,MWS,Microwave Sounder,Operational
+234,ESA/EUMETSAT,Radio Occultation,RO,Radio Occultation,Operational
+235,ESA/EUMETSAT/EU,Spectrometer,S5/UVNS,Copernicus Sentinel-5 Ultraviolet Visible Near-infrared and Shortwave-infrared Spectrometer,Operational
+236,ESA/EUMETSAT,Radiometer,ICI,Ice Cloud Imager,Operational
+237,ESA/EUMETSAT,Radiometer,MWI,Microwave Imager,Operational
+238,ESA/EUMETSAT,Radar,SCA,Scatterometer,Operational
 240,CAST,Communications,DCP,Data-collection platform transponder,Operational
 245,CAST,Radiometer,CCD,High-resolution CCD camera,Operational
 246,INPE,Atmospheric temperature and humidity sounder,HSB,Humidity sounder/Brazil,Operational
