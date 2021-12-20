@@ -1219,9 +1219,16 @@
     <Status>Operational</Status>
   </C02>
   <C02>
+    <DateOfAssignment_en>15/05/2022</DateOfAssignment_en>
+    <CodeFigureForrara>Not available</CodeFigureForrara>
+    <CodeFigureForBUFR>203</CodeFigureForBUFR>
+    <RadiosondeSoundingSystemUsed_en>Shanghai GTS14 (China)</RadiosondeSoundingSystemUsed_en>
+    <Status>Operational</Status>
+  </C02>
+  <C02>
     <DateOfAssignment_en/>
     <CodeFigureForrara>Not available</CodeFigureForrara>
-    <CodeFigureForBUFR>203-254</CodeFigureForBUFR>
+    <CodeFigureForBUFR>204-254</CodeFigureForBUFR>
     <RadiosondeSoundingSystemUsed_en>Reserved for BUFR only</RadiosondeSoundingSystemUsed_en>
     <Status>Operational</Status>
   </C02>
