@@ -1325,7 +1325,7 @@
     <Agency_en>NASA</Agency_en>
     <Type_en>Radiometer</Type_en>
     <InstrumentShortName_en>MRIR</InstrumentShortName_en>
-    <InstrumentLongName_en>Single channel IR radiometer</InstrumentLongName_en>
+    <InstrumentLongName_en>Medium resolution infrared radiometer</InstrumentLongName_en>
     <Status>Operational</Status>
   </C08>
   <C08>
