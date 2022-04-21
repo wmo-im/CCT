@@ -1079,9 +1079,16 @@
     <Status>Operational</Status>
   </C02>
   <C02>
+    <DateOfAssignment_en>15/05/2022</DateOfAssignment_en>
+    <CodeFigureForrara>65</CodeFigureForrara>
+    <CodeFigureForBUFR>165</CodeFigureForBUFR>
+    <RadiosondeSoundingSystemUsed_en>Meteosis MTS-01 (Turkey)</RadiosondeSoundingSystemUsed_en>
+    <Status>Operational</Status>
+  </C02>
+  <C02>
     <DateOfAssignment_en>Needed</DateOfAssignment_en>
-    <CodeFigureForrara>65-66</CodeFigureForrara>
-    <CodeFigureForBUFR>165-166</CodeFigureForBUFR>
+    <CodeFigureForrara>66</CodeFigureForrara>
+    <CodeFigureForBUFR>166</CodeFigureForBUFR>
     <RadiosondeSoundingSystemUsed_en>Vacant</RadiosondeSoundingSystemUsed_en>
     <Status>Operational</Status>
   </C02>
@@ -1212,9 +1219,16 @@
     <Status>Operational</Status>
   </C02>
   <C02>
+    <DateOfAssignment_en>15/05/2022</DateOfAssignment_en>
+    <CodeFigureForrara>Not available</CodeFigureForrara>
+    <CodeFigureForBUFR>203</CodeFigureForBUFR>
+    <RadiosondeSoundingSystemUsed_en>Shanghai GTS14 (China)</RadiosondeSoundingSystemUsed_en>
+    <Status>Operational</Status>
+  </C02>
+  <C02>
     <DateOfAssignment_en/>
     <CodeFigureForrara>Not available</CodeFigureForrara>
-    <CodeFigureForBUFR>203-254</CodeFigureForBUFR>
+    <CodeFigureForBUFR>204-254</CodeFigureForBUFR>
     <RadiosondeSoundingSystemUsed_en>Reserved for BUFR only</RadiosondeSoundingSystemUsed_en>
     <Status>Operational</Status>
   </C02>

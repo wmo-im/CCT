@@ -267,6 +267,20 @@
     <Status> Operational</Status>
   </C00>
   <C00>
+    <GRIB-version-number>29</GRIB-version-number>
+    <BUFR-version-number>38</BUFR-version-number>
+    <CREX-version-number>38</CREX-version-number>
+    <Effective-date>15 May 2022</Effective-date>
+    <Status> Operational</Status>
+  </C00>
+  <C00>
+    <GRIB-version-number>30-254</GRIB-version-number>
+    <BUFR-version-number>39-254</BUFR-version-number>
+    <CREX-version-number>39-254</CREX-version-number>
+    <Effective-date>Future versions</Effective-date>
+    <Status>Operational</Status>
+  </C00>
+  <C00>
     <GRIB-version-number>29-254</GRIB-version-number>
     <BUFR-version-number>38-254</BUFR-version-number>
     <CREX-version-number>38-254</CREX-version-number>

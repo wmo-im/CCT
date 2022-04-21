@@ -153,7 +153,8 @@ Needed,38-40,138-140,Vacant,Operational
 06/05/2015,62,162,MARL-A or Vektor-M - MRZ-3MK (Russian Federation),Operational
 07/11/2018,63,163,"Modem M20 radiosonde w/thermistor sensor, capacitance relative humidity sensor, and derived pressure from GPS height (France)",Operational
 07/11/2018,64,164,Modem PilotSonde GPS radiosonde (France),Operational
-Needed,65-66,165-166,Vacant,Operational
+15/05/2022,65,165,Meteosis MTS-01 (Turkey),Operational
+Needed,66,166,Vacant,Operational
 ,67-72,167-172,Not vacant,Operational
 02/11/2016,73,173,МАRL-A (Russian Federation) - ASPAN-15 (Kazakhstan),Operational
 ,74-76,174-176,Not vacant,Operational
@@ -172,5 +173,6 @@ Needed,65-66,165-166,Vacant,Operational
 16/11/2020,Not available,200,Nanjing GTS11 (China),Operational
 16/11/2020,Not available,201,Shanghai GTS12 (China),Operational
 16/11/2020,Not available,202,Taiyuan GTS13 (China),Operational
-,Not available,203-254,Reserved for BUFR only,Operational
+15/05/2022,Not available,203,Shanghai GTS14 (China),Operational
+,Not available,204-254,Reserved for BUFR only,Operational
 ,,255,Missing value,Operational

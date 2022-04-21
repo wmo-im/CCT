@@ -185,6 +185,14 @@
     <Status>Operational</Status>
   </C08>
   <C08>
+    <Code>63</Code>
+    <Agency_en>CNES</Agency_en>
+    <Type_en>Rotating multi-beam altimeter</Type_en>
+    <InstrumentShortName_en>SWIM</InstrumentShortName_en>
+    <InstrumentLongName_en>Surface Waves Investigation and Monitoring</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
     <Code>80</Code>
     <Agency_en>CSA</Agency_en>
     <Type_en>Communications</Type_en>
@@ -437,7 +445,7 @@
     <Agency_en>ESA</Agency_en>
     <Type_en>Atmospheric chemistry instrument</Type_en>
     <InstrumentShortName_en>SOPRANO</InstrumentShortName_en>
-    <InstrumentLongName_en>Sub-milimetre observation of processes in the absorption noteworthy for ozone</InstrumentLongName_en>
+    <InstrumentLongName_en>Sub-millimetre observation of processes in the absorption noteworthy for ozone</InstrumentLongName_en>
     <Status>Operational</Status>
   </C08>
   <C08>
@@ -585,6 +593,38 @@
     <Status>Operational</Status>
   </C08>
   <C08>
+    <Code>210</Code>
+    <Agency_en>ESA/EUMETSAT/Thales Alenia Space</Agency_en>
+    <Type_en>Imager</Type_en>
+    <InstrumentShortName_en>FCI</InstrumentShortName_en>
+    <InstrumentLongName_en>Flexible Combined Imager</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>211</Code>
+    <Agency_en>ESA/EUMETSAT/Leonardo</Agency_en>
+    <Type_en>Imager</Type_en>
+    <InstrumentShortName_en>LI</InstrumentShortName_en>
+    <InstrumentLongName_en>Lightning imager</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>212</Code>
+    <Agency_en>EUMETSAT/OHB</Agency_en>
+    <Type_en>Interferometer</Type_en>
+    <InstrumentShortName_en>IRS</InstrumentShortName_en>
+    <InstrumentLongName_en>Infrared sounder</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>213</Code>
+    <Agency_en>ESA/EUMETSAT/Copernicus - Airbus</Agency_en>
+    <Type_en>Spectrometer</Type_en>
+    <InstrumentShortName_en>S4</InstrumentShortName_en>
+    <InstrumentLongName_en>Ultraviolet and Near-Infrared Multispectral Spectrometer (S4 UVN)</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
     <Code>220</Code>
     <Agency_en>ESA/EUMETSAT</Agency_en>
     <Type_en>Spectrometer</Type_en>
@@ -598,6 +638,78 @@
     <Type_en>Atmospheric temperature and humidity sounder</Type_en>
     <InstrumentShortName_en>IASI</InstrumentShortName_en>
     <InstrumentLongName_en>Infrared atmospheric sounding interferometer</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>230</Code>
+    <Agency_en>ESA/EUMETSAT</Agency_en>
+    <Type_en>Radiometer</Type_en>
+    <InstrumentShortName_en>3MI</InstrumentShortName_en>
+    <InstrumentLongName_en>Multi-viewing Multi-channel Multi-polarisation Imaging</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>231</Code>
+    <Agency_en>CNES/EUMETSAT</Agency_en>
+    <Type_en>Sounder - interferometer</Type_en>
+    <InstrumentShortName_en>IASI-NG</InstrumentShortName_en>
+    <InstrumentLongName_en>Infrared Atmospheric Sounding Interferometer - New Generation</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>232</Code>
+    <Agency_en>DLR/EUMETSAT</Agency_en>
+    <Type_en>Radiometer</Type_en>
+    <InstrumentShortName_en>METimage</InstrumentShortName_en>
+    <InstrumentLongName_en>Meteorological Imager</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>233</Code>
+    <Agency_en>ESA/EUMETSAT</Agency_en>
+    <Type_en>Radiometer</Type_en>
+    <InstrumentShortName_en>MWS</InstrumentShortName_en>
+    <InstrumentLongName_en>Microwave Sounder</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>234</Code>
+    <Agency_en>ESA/EUMETSAT</Agency_en>
+    <Type_en>Radio Occultation</Type_en>
+    <InstrumentShortName_en>RO</InstrumentShortName_en>
+    <InstrumentLongName_en>Radio Occultation</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>235</Code>
+    <Agency_en>ESA/EUMETSAT/EU</Agency_en>
+    <Type_en>Spectrometer</Type_en>
+    <InstrumentShortName_en>S5/UVNS</InstrumentShortName_en>
+    <InstrumentLongName_en>Copernicus Sentinel-5 Ultraviolet Visible Near-infrared and Shortwave-infrared Spectrometer</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>236</Code>
+    <Agency_en>ESA/EUMETSAT</Agency_en>
+    <Type_en>Radiometer</Type_en>
+    <InstrumentShortName_en>ICI</InstrumentShortName_en>
+    <InstrumentLongName_en>Ice Cloud Imager</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>237</Code>
+    <Agency_en>ESA/EUMETSAT</Agency_en>
+    <Type_en>Radiometer</Type_en>
+    <InstrumentShortName_en>MWI</InstrumentShortName_en>
+    <InstrumentLongName_en>Microwave Imager</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>238</Code>
+    <Agency_en>ESA/EUMETSAT</Agency_en>
+    <Type_en>Radar</Type_en>
+    <InstrumentShortName_en>SCA</InstrumentShortName_en>
+    <InstrumentLongName_en>Scatterometer</InstrumentLongName_en>
     <Status>Operational</Status>
   </C08>
   <C08>
@@ -1213,7 +1325,7 @@
     <Agency_en>NASA</Agency_en>
     <Type_en>Radiometer</Type_en>
     <InstrumentShortName_en>MRIR</InstrumentShortName_en>
-    <InstrumentLongName_en>Single channel IR radiometer</InstrumentLongName_en>
+    <InstrumentLongName_en>Medium resolution infrared radiometer</InstrumentLongName_en>
     <Status>Operational</Status>
   </C08>
   <C08>

@@ -22,6 +22,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 60,CNES,Spectrometer,VEGETATION,VEGETATION,Operational
 61,CNES,Spectrometer,WINDII,WINDII,Operational
 62,CNES,Altimeter,AltiKa,Ka band Radar Altimeter,Operational
+63,CNES,Rotating multi-beam altimeter,SWIM,Surface Waves Investigation and Monitoring,Operational
 80,CSA,Communications,RADARSAT DTT,,Operational
 81,CSA,Communications,RADARSAT TTC,,Operational
 85,CSA,Radar,SAR (CSA),Synthetic aperture radar (CSA),Operational
@@ -53,7 +54,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 152,ESA,Cross-nadir scanning,SW,Sounder TROPOMI Tropospheric Monitoring Instrument,Operational
 161,ESA,Radiometer,MIPAS,Michelson interferometric passive atmosphere sounder,Operational
 162,ESA,Imaging multi-spectral radiometer (passive microwave),MWR-2,Microwave radiometer-2,Operational
-163,ESA,Atmospheric chemistry instrument,SOPRANO,Sub-milimetre observation of processes in the absorption noteworthy for ozone,Operational
+163,ESA,Atmospheric chemistry instrument,SOPRANO,Sub-millimetre observation of processes in the absorption noteworthy for ozone,Operational
 170,ESA,Atmospheric chemistry instrument,GOME,Global ozone monitoring experiment,Operational
 172,ESA,Spectrometer,GOMOS,Global ozone monitoring by occultation of stars,Operational
 174,ESA,Spectrometer,MERIS,Medium resolution imaging spectrometer,Operational
@@ -72,8 +73,21 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 205,EUMETSAT,Radiometer,MVIRI,METEOSAT visible and infrared imager,Operational
 207,EUMETSAT,Radiometer,SEVIRI,Spinning enhanced visible and infrared imager,Operational
 208,EUMETSAT,Imaging multi-spectral radiometer (vis/IR),VIRI,VIRI,Operational
+210,ESA/EUMETSAT/Thales Alenia Space,Imager,FCI,Flexible Combined Imager,Operational
+211,ESA/EUMETSAT/Leonardo,Imager,LI,Lightning imager,Operational
+212,EUMETSAT/OHB,Interferometer,IRS,Infrared sounder,Operational
+213,ESA/EUMETSAT/Copernicus - Airbus,Spectrometer,S4,Ultraviolet and Near-Infrared Multispectral Spectrometer (S4 UVN),Operational
 220,ESA/EUMETSAT,Spectrometer,GOME-2,Global ozone monitoring experiment-2,Operational
 221,CNES/EUMETSAT,Atmospheric temperature and humidity sounder,IASI,Infrared atmospheric sounding interferometer,Operational
+230,ESA/EUMETSAT,Radiometer,3MI,Multi-viewing Multi-channel Multi-polarisation Imaging,Operational
+231,CNES/EUMETSAT,Sounder - interferometer,IASI-NG,Infrared Atmospheric Sounding Interferometer - New Generation,Operational
+232,DLR/EUMETSAT,Radiometer,METimage,Meteorological Imager,Operational
+233,ESA/EUMETSAT,Radiometer,MWS,Microwave Sounder,Operational
+234,ESA/EUMETSAT,Radio Occultation,RO,Radio Occultation,Operational
+235,ESA/EUMETSAT/EU,Spectrometer,S5/UVNS,Copernicus Sentinel-5 Ultraviolet Visible Near-infrared and Shortwave-infrared Spectrometer,Operational
+236,ESA/EUMETSAT,Radiometer,ICI,Ice Cloud Imager,Operational
+237,ESA/EUMETSAT,Radiometer,MWI,Microwave Imager,Operational
+238,ESA/EUMETSAT,Radar,SCA,Scatterometer,Operational
 240,CAST,Communications,DCP,Data-collection platform transponder,Operational
 245,CAST,Radiometer,CCD,High-resolution CCD camera,Operational
 246,INPE,Atmospheric temperature and humidity sounder,HSB,Humidity sounder/Brazil,Operational
@@ -150,7 +164,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 395,NASA,Radiometer,Atmospheric corrector,Atmospheric corrector,Operational
 396,NASA,Radiometer,Hyperion,Hyperspectral imager,Operational
 397,NASA,Radiometer,HRIR,High-resolution infrared radiometer,Operational
-398,NASA,Radiometer,MRIR,Single channel IR radiometer,Operational
+398,NASA,Radiometer,MRIR,Medium resolution infrared radiometer,Operational
 399,NASA,Spectro-radiometer,SAGE I,Stratospheric aerosol and gas experiment-I,Operational
 400,NASA,Spectro-radiometer,SAGE II,Stratospheric aerosol and gas experiment-II,Operational
 401,NASA,Spectro-radiometer,SAGE III,Stratospheric aerosol and gas experiment-III,Operational

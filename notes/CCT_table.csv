@@ -1,0 +1,33 @@
+tableNo,tableName,noteID,notation
+00,"GRIB, BUFR and CREX master table version number",3,2
+00,"GRIB, BUFR and CREX master table version number",6,3
+00,"GRIB, BUFR and CREX master table version number",7,1
+01,Identification of originating/generating centre,16,1
+01,Identification of originating/generating centre,23,2
+01,Identification of originating/generating centre,5,3
+02,Radiosonde/sounding system used,1,4
+02,Radiosonde/sounding system used,11,1
+02,Radiosonde/sounding system used,12,2
+02,Radiosonde/sounding system used,14,3
+03,Instrument make and type for water temperature profile measurement with fall rate equation coefficients,18,1
+03,Instrument make and type for water temperature profile measurement with fall rate equation coefficients,20,3
+03,Instrument make and type for water temperature profile measurement with fall rate equation coefficients,2,2
+04,Water temperature profile recorder types,2,0
+05,Satellite identifier,25,0
+06,List of units for TDCFs,4,9
+06,List of units for TDCFs,8,5
+06,List of units for TDCFs,9,3
+06,List of units for TDCFs,10,4
+06,List of units for TDCFs,13,8
+06,List of units for TDCFs,17,6
+06,List of units for TDCFs,19,1
+06,List of units for TDCFs,21,7
+06,List of units for TDCFs,22,2
+07,Tracking technique/status of system used,,
+08,Satellite Instruments,,
+11,Originating/generating centres,15,1
+11,Originating/generating centres,24,2
+11,Originating/generating centres,5,3
+12,Sub-centres of originating centres defined by entries in Common Code tables C-1 or C-11,,
+13,Data sub-categories of categories defined by entries in BUFR Table A,,
+14,Atmospheric chemical or physical constituent type,,
