@@ -303,7 +303,7 @@
   <C14>
     <CodeFigure>10002</CodeFigure>
     <Meaning_en>Methyl hydroperoxide</Meaning_en>
-    <ChemicalFormula>CH3O2H</ChemicalFormula>
+    <ChemicalFormula>CH3OOH</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
@@ -315,7 +315,7 @@
   <C14>
     <CodeFigure>10005</CodeFigure>
     <Meaning_en>Formic acid</Meaning_en>
-    <ChemicalFormula>CH3OOH</ChemicalFormula>
+    <ChemicalFormula>HCOOH</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
