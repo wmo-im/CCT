@@ -49,9 +49,9 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 47-9999,Reserved,,Operational
 10000,Hydroxyl radical,HO*,Operational
 10001,Methyl peroxy radical,CH3OO*,Operational
-10002,Methyl hydroperoxide,CH3O2H,Operational
+10002,Methyl hydroperoxide,CH3OOH,Operational
 10004,Methanol,CH3OH,Operational
-10005,Formic acid,CH3OOH,Operational
+10005,Formic acid,HCOOH,Operational
 10006,Hydrogen cyanide,HCN,Operational
 10007,Aceto nitrile,CH3CN,Operational
 10008,Ethane,C2H6,Operational
