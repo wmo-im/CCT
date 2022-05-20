@@ -3007,7 +3007,13 @@
     <Status>Operational</Status>
   </C14>
   <C14>
-    <CodeFigure>62034-62099</CodeFigure>
+    <CodeFigure>62034</CodeFigure>
+    <Meaning_en>Brown carbon dry</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62035-62099</CodeFigure>
     <Meaning_en>Reserved</Meaning_en>
     <ChemicalFormula/>
     <Status>Operational</Status>
