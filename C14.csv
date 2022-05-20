@@ -500,7 +500,8 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 62031,Secondary particulate inorganic matter dry,,Operational
 62032,Biogenic secondary organic aerosol,,Operational
 62033,Anthropogenic secondary organic aerosol,,Operational
-62034-62099,Reserved,,Operational
+62034,Brown carbon dry,,Operational
+62035-62099,Reserved,,Operational
 62100,Alnus (alder) pollen,,Operational
 62101,Betula (birch) pollen,,Operational
 62102,Castanea (chestnut) pollen,,Operational
