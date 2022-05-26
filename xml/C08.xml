@@ -1,6 +1,22 @@
 <?xml version="1.0" ?>
 <dataroot>
   <C08>
+    <Code>8</Code>
+    <Agency_en>DoD</Agency_en>
+    <Type_en>Radiometer</Type_en>
+    <InstrumentShortName_en>SSM/T</InstrumentShortName_en>
+    <InstrumentLongName_en>Special Sensor Microwave-Temperature</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>9</Code>
+    <Agency_en>DoD</Agency_en>
+    <Type_en>Radiometer</Type_en>
+    <InstrumentShortName_en>SSM/T2</InstrumentShortName_en>
+    <InstrumentLongName_en>Special Sensor Microwave-Humidity</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
     <Code>10</Code>
     <Agency_en>BNSC</Agency_en>
     <Type_en>Radiometer</Type_en>
@@ -38,6 +54,14 @@
     <Type_en>Radiometer</Type_en>
     <InstrumentShortName_en>PMR</InstrumentShortName_en>
     <InstrumentLongName_en>Pressure modulator radiometer</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>15</Code>
+    <Agency_en>UKSA</Agency_en>
+    <Type_en>Radiometer</Type_en>
+    <InstrumentShortName_en>SCR</InstrumentShortName_en>
+    <InstrumentLongName_en>Selective Chopper Radiometer</InstrumentLongName_en>
     <Status>Operational</Status>
   </C08>
   <C08>
@@ -462,6 +486,14 @@
     <Type_en>Spectrometer</Type_en>
     <InstrumentShortName_en>GOMOS</InstrumentShortName_en>
     <InstrumentLongName_en>Global ozone monitoring by occultation of stars</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>173</Code>
+    <Agency_en>ESA</Agency_en>
+    <Type_en>Spectrometer</Type_en>
+    <InstrumentShortName_en>ALTIUS</InstrumentShortName_en>
+    <InstrumentLongName_en>Atmospheric Limb Tracker for Investigation of the Upcoming Stratosphere</InstrumentLongName_en>
     <Status>Operational</Status>
   </C08>
   <C08>
@@ -1441,6 +1473,14 @@
     <Status>Operational</Status>
   </C08>
   <C08>
+    <Code>433</Code>
+    <Agency_en>NASA</Agency_en>
+    <Type_en>Spectrometer</Type_en>
+    <InstrumentShortName_en>TMS</InstrumentShortName_en>
+    <InstrumentLongName_en>TROPICS Millimeter-wave Sounder</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
     <Code>450</Code>
     <Agency_en>JAXA</Agency_en>
     <Type_en>Communications</Type_en>
@@ -1678,6 +1718,14 @@
     <Type_en>MW imaging/sounding radiometer, conical scanning</Type_en>
     <InstrumentShortName_en>GMI</InstrumentShortName_en>
     <InstrumentLongName_en>GPM microwave imager</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>520</Code>
+    <Agency_en>NASA</Agency_en>
+    <Type_en>Imaging radiometer</Type_en>
+    <InstrumentShortName_en>SMMR</InstrumentShortName_en>
+    <InstrumentLongName_en>Scanning Multichannel Microwave Radiometer</InstrumentLongName_en>
     <Status>Operational</Status>
   </C08>
   <C08>
@@ -3049,7 +3097,31 @@
     <Status>Operational</Status>
   </C08>
   <C08>
-    <Code>992-999</Code>
+    <Code>992</Code>
+    <Agency_en>NASA</Agency_en>
+    <Type_en>Radiometer</Type_en>
+    <InstrumentShortName_en>NEMS</InstrumentShortName_en>
+    <InstrumentLongName_en>Nimbus-E Microwave Sounder</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>993</Code>
+    <Agency_en>NASA</Agency_en>
+    <Type_en>Radiometer</Type_en>
+    <InstrumentShortName_en>SCAMS</InstrumentShortName_en>
+    <InstrumentLongName_en>Scanning Microwave Spectrometer</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>994</Code>
+    <Agency_en>NASA</Agency_en>
+    <Type_en>Radiometer</Type_en>
+    <InstrumentShortName_en>ESMR</InstrumentShortName_en>
+    <InstrumentLongName_en>Electrically Scanning Microwave Radiometer</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>995-999</Code>
     <Agency_en>Reserved</Agency_en>
     <Type_en/>
     <InstrumentShortName_en/>
