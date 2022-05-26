@@ -1,9 +1,12 @@
 Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
+8,DoD,Radiometer,SSM/T,"Special Sensor Microwave-Temperature",Operational
+9,DoD,Radiometer,SSM/T2,"Special Sensor Microwave-Humidity",Operational
 10,BNSC,Radiometer,AATSR,Advanced along track scanning radiometer,Operational
 11,BNSC,Radiometer,ATSR,Along track scanning radiometer,Operational
 12,BNSC,Radiometer,ATSR-2,Along track scanning radiometer-2,Operational
 13,BNSC,Radiometer,MWR,Microwave radiometer,Operational
 14,UKSA,Radiometer,PMR,Pressure modulator radiometer,Operational
+15,UKSA,Radiometer,SCR,Selective Chopper Radiometer,Operational
 30,CNES,Communications,ARGOS,,Operational
 40,CNES,Lidar,Laser reflectors,,Operational
 41,CNES,Lidar,DORIS,Doppler orbitography and radio-positioning integrated by satellite,Operational
@@ -57,6 +60,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 163,ESA,Atmospheric chemistry instrument,SOPRANO,Sub-millimetre observation of processes in the absorption noteworthy for ozone,Operational
 170,ESA,Atmospheric chemistry instrument,GOME,Global ozone monitoring experiment,Operational
 172,ESA,Spectrometer,GOMOS,Global ozone monitoring by occultation of stars,Operational
+173,ESA,Spectrometer,ALTIUS,Atmospheric Limb Tracker for Investigation of the Upcoming Stratosphere,Operational
 174,ESA,Spectrometer,MERIS,Medium resolution imaging spectrometer,Operational
 175,ESA,Spectrometer,SCIAMACHY,Scanning imaging absorption spectrometer for atmospheric cartography,Operational
 176,ESA,Radiometer,MIRAS,Microwave imaging radiometer using aperture synthesis,Operational
@@ -179,6 +183,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 430,NASA,Spectrometer,TES,Tropospheric emission spectrometer,Operational
 431,NASA,Spectrometer,TOMS,Total ozone mapping spectrometer,Operational
 432,NASA,Spectrometer,OCO,Orbiting carbon observatory,Operational
+433,NASA,Spectrometer,TMS,TROPICS Millimeter-wave Sounder,Operational
 450,JAXA,Communications,ADEOS Comms,Communications package for ADEOS,Operational
 451,JAXA,Communications,DCS (JAXA),Data-collection system (JAXA),Operational
 453,NASDA,Communications,GMS Comms,Communications package on GMS,Operational
@@ -209,6 +214,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 517,JAXA,Imager,TANSO-CAI,Thermal and Near infrared Sensor for carbon Observations (TANSO) Cloud and Aerosol Imager (CAI),Operational
 518,JAXA,Cloud and precipitation radar,DPR,Dual-frequency precipitation radar,Operational
 519,NASA,"MW imaging/sounding radiometer, conical scanning",GMI,GPM microwave imager,Operational
+520,NASA,Imaging radiometer,SMMR,Scanning Multichannel Microwave Radiometer,Operational
 526,GeoOptics,GNSS occultation sounder,Cion-A,GeoOptics Cion GNSS occultation receiver A,Operational
 527,GeoOptics,GNSS occultation sounder,Cion-B,GeoOptics Cion GNSS occultation receiver B,Operational
 528,GeoOptics,GNSS occultation sounder,Cion-C,GeoOptics Cion GNSS occultation receiver C,Operational
@@ -380,6 +386,9 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 983-989,Reserved,,,,Operational
 990,NASA,Radiometer,SMMR,Scanning multichannel microwave radiometer,Operational
 991,NASA,Radiometer,THIR,Temperature-humidity infrared radiometer,Operational
-992-999,Reserved,,,,Operational
+992,NASA,Radiometer,NEMS,"Nimbus-E Microwave Sounder",Operational
+993,NASA,Radiometer,SCAMS,Scanning Microwave Spectrometer,Operational
+994,NASA,Radiometer,ESMR,Electrically Scanning Microwave Radiometer,Operational
+995-999,Reserved,,,,Operational
 1000-2046,Reserved for long-term future use,,,,Operational
 2047,Missing value,,,,Operational
