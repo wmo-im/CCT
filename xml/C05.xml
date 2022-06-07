@@ -1597,6 +1597,13 @@
     <Status>Operational</Status>
   </C05>
   <C05>
+    <CodeFigureForI6I6I6>789</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>789</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>789</CodeFigureForGRIB2>
+    <SatelliteName_en>SMAP</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
     <CodeFigureForI6I6I6/>
     <CodeFigureForBUFR/>
     <CodeFigureForGRIB2/>
