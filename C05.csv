@@ -21,9 +21,11 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 042,42,42,TerraSAR-X,Operational
 043,43,43,TanDEM-X,Operational
 044,44,44,PAZ,Operational
+045,45,45,ALTIUS,Operational
 046,46,46,SMOS,Operational
 047,47,47,CryoSat-2,Operational
 048,48,48,AEOLUS,Operational
+049,49,49,EarthCARE,Operational
 050,50,50,METEOSAT 3,Operational
 051,51,51,METEOSAT 4,Operational
 052,52,52,METEOSAT 5,Operational
@@ -81,6 +83,9 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 224,224,224,NPP,Operational
 225,225,225,NOAA 20,Operational
 226,226,226,NOAA 21,Operational
+227,227,227,TROPICS-02,Operational
+228,228,228,TROPICS-03,Operational
+229,229,229,TROPICS-04,Operational
 240,240,240,DMSP 7,Operational
 241,241,241,DMSP 8,Operational
 242,242,242,DMSP 9,Operational
@@ -104,6 +109,8 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 260,260,260,JASON 1,Operational
 261,261,261,JASON 2,Operational
 262,262,262,JASON 3,Operational
+263,263,263,TROPICS-05,Operational
+264,264,264,TROPICS-06,Operational
 265,265,265,GeoOptics CICERO OP1,Operational
 266,266,266,GeoOptics CICERO OP2,Operational
 267,267,267,PlanetiQ GNOMES-A,Operational
@@ -116,6 +123,7 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 281,281,281,QUIKSCAT,Operational
 282,282,282,TRMM,Operational
 283,283,283,CORIOLIS,Operational
+284,284,284,TROPICS-07,Operational
 285,285,285,DMSP 17,Operational
 286,286,286,DMSP 18,Operational
 287,287,287,DMSP 19,Operational
@@ -182,6 +190,7 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 706,706,706,NOAA 6,Operational
 707,707,707,NOAA 7,Operational
 708,708,708,TIROS-N,Operational
+709,709,709,TROPICS-01 (Pathfinder),Operational
 710,710,710,GOES (SMS 1),Operational
 711,711,711,GOES (SMS 2),Operational
 720,720,720,TOPEX,Operational
