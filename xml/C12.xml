@@ -176,6 +176,13 @@
     <Status>Operational</Status>
   </C12>
   <C12>
+    <CodeFigure_OriginatingCentres>145</CodeFigure_OriginatingCentres>
+    <Name_OriginatingCentres_en>French Guiana</Name_OriginatingCentres_en>
+    <CodeFigure_SubCentres>1</CodeFigure_SubCentres>
+    <Name_SubCentres_en>DBNet station of Cayenne (French Guiana)</Name_SubCentres_en>
+    <Status>Operational</Status>
+  </C12>
+  <C12>
     <CodeFigure_OriginatingCentres>147</CodeFigure_OriginatingCentres>
     <Name_OriginatingCentres_en>National Commission on Space Activities (CONAE) - Argentina</Name_OriginatingCentres_en>
     <CodeFigure_SubCentres>10</CodeFigure_SubCentres>
