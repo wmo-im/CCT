@@ -155,6 +155,13 @@
     <Status>Operational</Status>
   </C05>
   <C05>
+    <CodeFigureForI6I6I6>045</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>45</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>45</CodeFigureForGRIB2>
+    <SatelliteName_en>ALTIUS</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
     <CodeFigureForI6I6I6>046</CodeFigureForI6I6I6>
     <CodeFigureForBUFR>46</CodeFigureForBUFR>
     <CodeFigureForGRIB2>46</CodeFigureForGRIB2>
@@ -173,6 +180,13 @@
     <CodeFigureForBUFR>48</CodeFigureForBUFR>
     <CodeFigureForGRIB2>48</CodeFigureForGRIB2>
     <SatelliteName_en>AEOLUS</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>049</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>49</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>49</CodeFigureForGRIB2>
+    <SatelliteName_en>EarthCARE</SatelliteName_en>
     <Status>Operational</Status>
   </C05>
   <C05>
@@ -575,6 +589,27 @@
     <Status>Operational</Status>
   </C05>
   <C05>
+    <CodeFigureForI6I6I6>227</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>227</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>227</CodeFigureForGRIB2>
+    <SatelliteName_en>TROPICS-02</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>228</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>228</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>228</CodeFigureForGRIB2>
+    <SatelliteName_en>TROPICS-03</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>229</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>229</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>229</CodeFigureForGRIB2>
+    <SatelliteName_en>TROPICS-04</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
     <CodeFigureForI6I6I6>240</CodeFigureForI6I6I6>
     <CodeFigureForBUFR>240</CodeFigureForBUFR>
     <CodeFigureForGRIB2>240</CodeFigureForGRIB2>
@@ -736,6 +771,20 @@
     <Status>Operational</Status>
   </C05>
   <C05>
+    <CodeFigureForI6I6I6>263</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>263</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>263</CodeFigureForGRIB2>
+    <SatelliteName_en>TROPICS-05</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>264</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>264</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>264</CodeFigureForGRIB2>
+    <SatelliteName_en>TROPICS-06</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
     <CodeFigureForI6I6I6>265</CodeFigureForI6I6I6>
     <CodeFigureForBUFR>265</CodeFigureForBUFR>
     <CodeFigureForGRIB2>265</CodeFigureForGRIB2>
@@ -817,6 +866,13 @@
     <CodeFigureForBUFR>283</CodeFigureForBUFR>
     <CodeFigureForGRIB2>283</CodeFigureForGRIB2>
     <SatelliteName_en>CORIOLIS</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>284</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>284</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>284</CodeFigureForGRIB2>
+    <SatelliteName_en>TROPICS-07</SatelliteName_en>
     <Status>Operational</Status>
   </C05>
   <C05>
@@ -1279,6 +1335,13 @@
     <CodeFigureForBUFR>708</CodeFigureForBUFR>
     <CodeFigureForGRIB2>708</CodeFigureForGRIB2>
     <SatelliteName_en>TIROS-N</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>709</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>709</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>709</CodeFigureForGRIB2>
+    <SatelliteName_en>TROPICS-01 (Pathfinder)</SatelliteName_en>
     <Status>Operational</Status>
   </C05>
   <C05>
