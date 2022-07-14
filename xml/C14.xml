@@ -3008,6 +3008,24 @@
   </C14>
   <C14>
     <CodeFigure>62034</CodeFigure>
+    <Meaning_en>Rain water</Meaning_en>
+    <ChemicalFormula>H2Orain</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62035</CodeFigure>
+    <Meaning_en>Cloud water</Meaning_en>
+    <ChemicalFormula>H2Ocloud</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62036</CodeFigure>
+    <Meaning_en>Brown carbon dry</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62037-62099</CodeFigure>
     <Meaning_en>Reserved</Meaning_en>
     <ChemicalFormula/>
     <Status>Operational</Status>
