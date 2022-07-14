@@ -179,6 +179,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 430,NASA,Spectrometer,TES,Tropospheric emission spectrometer,Operational
 431,NASA,Spectrometer,TOMS,Total ozone mapping spectrometer,Operational
 432,NASA,Spectrometer,OCO,Orbiting carbon observatory,Operational
+433,NASA,MW radiometer,SMAP,Soil Moisture Active-Passive,Operational
 450,JAXA,Communications,ADEOS Comms,Communications package for ADEOS,Operational
 451,JAXA,Communications,DCS (JAXA),Data-collection system (JAXA),Operational
 453,NASDA,Communications,GMS Comms,Communications package on GMS,Operational
