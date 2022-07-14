@@ -932,9 +932,16 @@
     <Status>Operational</Status>
   </C02>
   <C02>
+    <DateOfAssignment_en>21/03/2022</DateOfAssignment_en>
+    <CodeFigureForrara>38</CodeFigureForrara>
+    <CodeFigureForBUFR>138</CodeFigureForBUFR>
+    <RadiosondeSoundingSystemUsed_en>WEATHEX WxR-301D with derived pressure from GPS (Republic of Korea)</RadiosondeSoundingSystemUsed_en>
+    <Status>Operational</Status>
+  </C02>
+  <C02>
     <DateOfAssignment_en>Needed</DateOfAssignment_en>
-    <CodeFigureForrara>38-40</CodeFigureForrara>
-    <CodeFigureForBUFR>138-140</CodeFigureForBUFR>
+    <CodeFigureForrara>39-40</CodeFigureForrara>
+    <CodeFigureForBUFR>139-140</CodeFigureForBUFR>
     <RadiosondeSoundingSystemUsed_en>Vacant</RadiosondeSoundingSystemUsed_en>
     <Status>Operational</Status>
   </C02>
