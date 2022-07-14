@@ -502,7 +502,8 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 62033,Anthropogenic secondary organic aerosol,,Operational
 62034,Rain water,H2Orain,Operational
 62035,Cloud water,H2Ocloud,Operational
-62036-62099,Reserved,,Operational
+62036,Brown carbon dry,,Operational
+62037-62099,Reserved,,Operational
 62100,Alnus (alder) pollen,,Operational
 62101,Betula (birch) pollen,,Operational
 62102,Castanea (chestnut) pollen,,Operational
