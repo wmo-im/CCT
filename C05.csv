@@ -236,6 +236,7 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 786,786,786,C/NOFS,Operational
 787,787,787,CALIPSO,Operational
 788,788,788,CloudSat,Operational
+789,789,789,SMAP,Operational
 ,,,800-849 Numbers allocated to other satellite operators,Operational
 800,800,800,SUNSAT,Operational
 801,801,801,International Space Station (ISS),Operational
