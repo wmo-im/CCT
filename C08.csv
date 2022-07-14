@@ -184,6 +184,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 431,NASA,Spectrometer,TOMS,Total ozone mapping spectrometer,Operational
 432,NASA,Spectrometer,OCO,Orbiting carbon observatory,Operational
 433,NASA,Spectrometer,TMS,TROPICS Millimeter-wave Sounder,Operational
+434,NASA,MW radiometer,SMAP,Soil Moisture Active-Passive,Operational
 450,JAXA,Communications,ADEOS Comms,Communications package for ADEOS,Operational
 451,JAXA,Communications,DCS (JAXA),Data-collection system (JAXA),Operational
 453,NASDA,Communications,GMS Comms,Communications package on GMS,Operational
@@ -379,7 +380,9 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 962,CMA,Atmospheric temperature and humidity sounder,GIIRS,Geostationary Interferometric Infrared Sounder,Operational
 963,CMA,High-resolution optical imager,LMI,Lightning Mapping Imager,Operational
 964,CMA,Space environment,SEP,Space Environment Package,Operational
-965-979,Reserved,,,,Operational
+965,CMA,GNSS occultation,GNOS-2,GNSS radio occultation sounder-2,Operational
+966,CMA,"Microwave sounding radiometer,cross-track scanning",MWTS-3,Microwave temperature sounder-3,Operational
+967-979,Reserved,,,,Operational
 980,KMA,Imager,AMI,Advanced Meteorological Imager,Operational
 981,KMA,Imager,MI,Meteorological Imager,Operational
 982,KMA,Space environment,KSEM,Korea Space wEather Monitor,Operational
