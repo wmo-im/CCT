@@ -3001,7 +3001,23 @@
     <Status>Operational</Status>
   </C08>
   <C08>
-    <Code>965-979</Code>
+    <Code>965</Code>
+    <Agency_en>CMA</Agency_en>
+    <Type_en>GNSS occultation</Type_en>
+    <InstrumentShortName_en>GNOS-2</InstrumentShortName_en>
+    <InstrumentLongName_en>GNSS radio occultation sounder-2</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>966</Code>
+    <Agency_en>CMA</Agency_en>
+    <Type_en>Microwave sounding radiometer,cross-track scanning</Type_en>
+    <InstrumentShortName_en>MWTS-3</InstrumentShortName_en>
+    <InstrumentLongName_en>Microwave temperature sounder-3</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>967-979</Code>
     <Agency_en>Reserved</Agency_en>
     <Type_en/>
     <InstrumentShortName_en/>
