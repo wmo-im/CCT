@@ -132,7 +132,8 @@ Before,99,99,iMet-2/iMet-3200 GPS radiosonde with derived pressure from GPS heig
 07/05/2014,35,135,"Meisei iMS-100 GPS radiosonde w/thermistor sensor, capacitance relative humidity sensor, and derived pressure from GPS height (Japan)",Operational
 02/05/2018,36,136,"Meisei iMDS-17 GPS dropsonde w/thermistor sensor, capacitance relative humidity sensor, and capacitance pressure sensor (Japan)",Operational
 ,37,137,Not vacant,Operational
-Needed,38-40,138-140,Vacant,Operational
+21/03/2022,38,138,"WEATHEX WxR-301D with derived pressure from GPS (Republic of Korea)",Operational
+Needed,39-40,139-140,Vacant,Operational
 03/11/2011,41,141,Vaisala RS41 with pressure derived from GPS height/DigiCORA MW41 (Finland),Operational
 03/11/2011,42,142,Vaisala RS41 with pressure derived from GPS height/AUTOSONDE (Finland),Operational
 07/05/2014,43,143,NanJing Daqiao XGP-3G (China)*,Operational
