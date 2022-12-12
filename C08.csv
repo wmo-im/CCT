@@ -280,6 +280,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 686,SOA,Scatterometer,SCAT,Scatterometer,Operational
 687,SOA,Radar altimeter,ALT,Radar altimeter,Operational
 688,SOA,Microwave radiometer,MWI,Microwave radiometer,Operational
+689,ME(NIER),Spectrometer,GEMS,Geostationary Environmental Monitoring Spectrometer,Operational
 700,ROSCOSMOS,Communications,KONDOR-2,Data-collection and transmission system,Operational
 701,ROSCOSMOS,Communications,BRK,,Operational
 710,ROSCOSMOS,Lidar,ALISSA,Backscatter lidar,Operational
@@ -362,7 +363,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 944,NOAA,Radar altimeter,ALT,Altimeter,Operational
 945,NOAA,Earth radiation budget radiometer,TSIS,Total solar irradiance sensor,Operational
 946,NOAA,Imaging multi-spectral radiometer (passive microwave),CMIS,Conical-scanning microwave imager/sounder,Operational
-947,NOAA,Total and profile ozone,OMPS,Ozone mapping and profiler suite,Operational
+947,NOAA,Total and profile ozone,OMPS-nadir,Ozone mapping and profiler suite,Operational
 948,NOAA,Space environment atmospheric temperature and humidity sounder,GPSOS,Global positioning system occultation sensor,Operational
 949,NOAA,"Magnetic field, auroal imagery scintillation boundary",SESS,Space environmental sensor suite,Operational
 950,NRSCC,Imaging multi-spectral radiometer (vis/IR),VIRR,Multispectral visible and infrared scan radiometer (10 channels),Operational
@@ -375,7 +376,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 957,CMA,Spectrometer,TOU,Total ozone unit,Operational
 958,CMA,GNSS occultation sounder,GNOS,Global navigation satellite system occultation sounder,Operational
 959,SNSB,Limb-scanning sounder,SMR,Sub-millimetre radiometer,Operational
-960,Reserved,,,,Operational
+960,NASA,Total and profile ozone,OMPS-limb,Ozone Mapping and Profiler Suite
 961,CMA,Imaging multi-spectral radiometer,AGRI,Advanced Geostationary Radiation Imager,Operational
 962,CMA,Atmospheric temperature and humidity sounder,GIIRS,Geostationary Interferometric Infrared Sounder,Operational
 963,CMA,High-resolution optical imager,LMI,Lightning Mapping Imager,Operational
