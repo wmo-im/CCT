@@ -72,6 +72,7 @@ CodeFigure_DataCategories,Name_DataCategories_en,CodeFigure_InternationalDataSub
 8,Physical/chemical constituents,1,Ozone vertical sounding,Operational
 8,Physical/chemical constituents,2,Total ozone,Operational
 8,Physical/chemical constituents,3,Acid rain,Operational
+8,Physical/chemical constituents,4,Aerosol,Operational
 9,Dispersal and transport,0,"Trajectories, analysis or forecast",Operational
 10,Radiological data,1,Observation (RADREP),Operational
 10,Radiological data,2,Forecast (RADOF),Operational
