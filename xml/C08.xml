@@ -3022,6 +3022,7 @@
     <Type_en>Total and profile ozone</Type_en>
     <InstrumentShortName_en>OMPS-limb</InstrumentShortName_en>
     <InstrumentLongName_en>Ozone Mapping and Profiler Suite</InstrumentLongName_en>
+    <Status>Operational</Status>
   </C08>
   <C08>
     <Code>961</Code>
