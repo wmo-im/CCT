@@ -2249,6 +2249,14 @@
     <Status>Operational</Status>
   </C08>
   <C08>
+    <Code>689</Code>
+    <Agency_en>ME(NIER)</Agency_en>
+    <Type_en>Spectrometer</Type_en>
+    <InstrumentShortName_en>GEMS</InstrumentShortName_en>
+    <InstrumentLongName_en>Geostationary Environmental Monitoring Spectrometer</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
     <Code>700</Code>
     <Agency_en>ROSCOSMOS</Agency_en>
     <Type_en>Communications</Type_en>
@@ -2908,7 +2916,7 @@
     <Code>947</Code>
     <Agency_en>NOAA</Agency_en>
     <Type_en>Total and profile ozone</Type_en>
-    <InstrumentShortName_en>OMPS</InstrumentShortName_en>
+    <InstrumentShortName_en>OMPS-nadir</InstrumentShortName_en>
     <InstrumentLongName_en>Ozone mapping and profiler suite</InstrumentLongName_en>
     <Status>Operational</Status>
   </C08>
@@ -3010,10 +3018,10 @@
   </C08>
   <C08>
     <Code>960</Code>
-    <Agency_en>Reserved</Agency_en>
-    <Type_en/>
-    <InstrumentShortName_en/>
-    <InstrumentLongName_en/>
+    <Agency_en>NASA</Agency_en>
+    <Type_en>Total and profile ozone</Type_en>
+    <InstrumentShortName_en>OMPS-limb</InstrumentShortName_en>
+    <InstrumentLongName_en>Ozone Mapping and Profiler Suite</InstrumentLongName_en>
     <Status>Operational</Status>
   </C08>
   <C08>
