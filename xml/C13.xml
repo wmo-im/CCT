@@ -834,6 +834,13 @@
     <Status>Operational</Status>
   </C13>
   <C13>
+    <CodeFigure_DataCategories>31</CodeFigure_DataCategories>
+    <Name_DataCategories_en>Oceanographic data</Name_DataCategories_en>
+    <CodeFigure_InternationalDataSubcategories>8</CodeFigure_InternationalDataSubcategories>
+    <Name_InternationalDataSubcategories_en>Glider data</Name_InternationalDataSubcategories_en>
+    <Status>Operational</Status>
+  </C13>
+  <C13>
     <CodeFigure_DataCategories>32</CodeFigure_DataCategories>
     <Name_DataCategories_en>Lidar (ground-based)</Name_DataCategories_en>
     <CodeFigure_InternationalDataSubcategories>0</CodeFigure_InternationalDataSubcategories>
