@@ -376,7 +376,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 957,CMA,Spectrometer,TOU,Total ozone unit,Operational
 958,CMA,GNSS occultation sounder,GNOS,Global navigation satellite system occultation sounder,Operational
 959,SNSB,Limb-scanning sounder,SMR,Sub-millimetre radiometer,Operational
-960,NASA,Total and profile ozone,OMPS-limb,Ozone Mapping and Profiler Suite
+960,NASA,Total and profile ozone,OMPS-limb,Ozone Mapping and Profiler Suite,Operational
 961,CMA,Imaging multi-spectral radiometer,AGRI,Advanced Geostationary Radiation Imager,Operational
 962,CMA,Atmospheric temperature and humidity sounder,GIIRS,Geostationary Interferometric Infrared Sounder,Operational
 963,CMA,High-resolution optical imager,LMI,Lightning Mapping Imager,Operational
