@@ -1470,4 +1470,11 @@
     <Name_SubCentres_en>Novosibirsk</Name_SubCentres_en>
     <Status>Operational</Status>
   </C12>
+  <C12>
+    <CodeFigure_OriginatingCentres>254</CodeFigure_OriginatingCentres>
+    <Name_OriginatingCentres_en>EUMETSAT Operation Centre</Name_OriginatingCentres_en>
+    <CodeFigure_SubCentres>220</CodeFigure_SubCentres>
+    <Name_SubCentres_en>NOAA Satellite Operations Facility (NSOF)</Name_SubCentres_en>
+    <Status>Operational</Status>
+  </C12>
 </dataroot>
