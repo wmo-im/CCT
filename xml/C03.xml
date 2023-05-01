@@ -817,8 +817,24 @@
     <Status>Operational</Status>
   </C03>
   <C03>
-    <CodeFigureForIXIIXIX>881-899</CodeFigureForIXIIXIX>
-    <CodeFigureForBUFR>881-899</CodeFigureForBUFR>
+    <CodeFigureForIXIIXIX>881</CodeFigureForIXIIXIX>
+    <CodeFigureForBUFR>881</CodeFigureForBUFR>
+    <InstrumentMakeAndType_en>HM4000 SBE</InstrumentMakeAndType_en>
+    <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
+    <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
+    <Status>Operational</Status>
+  </C03>
+  <C03>
+    <CodeFigureForIXIIXIX>882</CodeFigureForIXIIXIX>
+    <CodeFigureForBUFR>882</CodeFigureForBUFR>
+    <InstrumentMakeAndType_en>HM6000 SBE</InstrumentMakeAndType_en>
+    <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
+    <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
+    <Status>Operational</Status>
+  </C03>
+  <C03>
+    <CodeFigureForIXIIXIX>883-899</CodeFigureForIXIIXIX>
+    <CodeFigureForBUFR>883-899</CodeFigureForBUFR>
     <InstrumentMakeAndType_en>Reserved</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>

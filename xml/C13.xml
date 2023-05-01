@@ -512,6 +512,13 @@
     <Status>Operational</Status>
   </C13>
   <C13>
+    <CodeFigure_DataCategories>8</CodeFigure_DataCategories>
+    <Name_DataCategories_en>Physical/chemical constituents</Name_DataCategories_en>
+    <CodeFigure_InternationalDataSubcategories>4</CodeFigure_InternationalDataSubcategories>
+    <Name_InternationalDataSubcategories_en>Aerosol</Name_InternationalDataSubcategories_en>
+    <Status>Operational</Status>
+  </C13>
+  <C13>
     <CodeFigure_DataCategories>9</CodeFigure_DataCategories>
     <Name_DataCategories_en>Dispersal and transport</Name_DataCategories_en>
     <CodeFigure_InternationalDataSubcategories>0</CodeFigure_InternationalDataSubcategories>
@@ -824,6 +831,13 @@
     <Name_DataCategories_en>Oceanographic data</Name_DataCategories_en>
     <CodeFigure_InternationalDataSubcategories>7</CodeFigure_InternationalDataSubcategories>
     <Name_InternationalDataSubcategories_en>Tsunameter data</Name_InternationalDataSubcategories_en>
+    <Status>Operational</Status>
+  </C13>
+  <C13>
+    <CodeFigure_DataCategories>31</CodeFigure_DataCategories>
+    <Name_DataCategories_en>Oceanographic data</Name_DataCategories_en>
+    <CodeFigure_InternationalDataSubcategories>8</CodeFigure_InternationalDataSubcategories>
+    <Name_InternationalDataSubcategories_en>Glider data</Name_InternationalDataSubcategories_en>
     <Status>Operational</Status>
   </C13>
   <C13>

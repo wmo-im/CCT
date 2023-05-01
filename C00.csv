@@ -39,5 +39,6 @@ GRIB version number,BUFR version number,CREX version number,Effective date,Statu
 28,37,37,15 November 2021,Operational
 29,38,38,15 May 2022,Operational
 30,39,39,15 Nov 2022,Operational
-31-254,40-254,40-254,Future versions,Operational
+31,40,40,15 May 2023,Operational
+32-254,41-254,41-254,Future versions,Operational
 255,255,255,Missing,Operational
