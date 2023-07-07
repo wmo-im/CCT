@@ -89,7 +89,7 @@ CodeFigureForIXIIXIX,CodeFigureForBUFR,InstrumentMakeAndType_en,EquationCoeffici
 866,866,"ALAMO, no conductivity sensor",,,Operational
 867,867,"ALAMO, RBR conductivity sensor",,,Operational
 868,868,"ALAMO, SBE conductivity sensor",,,Operational
-869,869,Reserved,,,Operational
+869,869,"NAVIS_EBR, SBE conductivity sensor",,,Operational
 870,870,HM2000,Not applicable,Not applicable,Operational
 871,871,COPEX,Not applicable,Not applicable,Operational
 872,872,S2X,Not applicable,Not applicable,Operational
