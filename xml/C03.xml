@@ -833,6 +833,14 @@
     <Status>Operational</Status>
   </C03>
   <C03>
+    <CodeFigureForIXIIXIX>883</CodeFigureForIXIIXIX>
+    <CodeFigureForBUFR>883</CodeFigureForBUFR>
+    <InstrumentMakeAndType_en>APEX_D RBR</InstrumentMakeAndType_en>
+    <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
+    <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
+    <Status>Operational</Status>
+  </C03>
+  <C03>
     <CodeFigureForIXIIXIX>883-899</CodeFigureForIXIIXIX>
     <CodeFigureForBUFR>883-899</CodeFigureForBUFR>
     <InstrumentMakeAndType_en>Reserved</InstrumentMakeAndType_en>
