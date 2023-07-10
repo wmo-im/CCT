@@ -316,6 +316,20 @@
     <Status>Operational</Status>
   </C05>
   <C05>
+    <CodeFigureForI6I6I6>068</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>68</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>68</CodeFigureForGRIB2>
+    <SatelliteName_en>Sentinel-1C</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>069</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>69</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>69</CodeFigureForGRIB2>
+    <SatelliteName_en>Sentinel-1D</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
     <CodeFigureForI6I6I6>070</CodeFigureForI6I6I6>
     <CodeFigureForBUFR>70</CodeFigureForBUFR>
     <CodeFigureForGRIB2>70</CodeFigureForGRIB2>
