@@ -40,11 +40,13 @@ CodeFigureForIXIIXIX,CodeFigureForBUFR,InstrumentMakeAndType_en,EquationCoeffici
 710,710,Sippican XCTD Deep,,,Operational
 720,720,Sippican AXCTD,,,Operational
 730,730,Sippican SXCTD,,,Operational
-741,741,TSK XCTD/XCTD-1/XCTD-1N,3.42543,-0.47,Operational
-742,742,TSK XCTD-2/XCTD-2N,3.43898,-0.31,Operational
+741,741,TSK XCTD/XCTD-1/XCTD-1N/XCTD-1A,3.42543,-0.47,Operational
+742,742,TSK XCTD-2/XCTD-2N/XCTD-4A,3.43898,-0.31,Operational
 743,743,TSK XCTD-2F,3.43898,-0.31,Operational
 744,744,TSK XCTD-3/XCTD-3N,5.07598,-0.72,Operational
 745,745,TSK XCTD-4/XCTD-4N,3.68081,-0.47,Operational
+746,746,TSK XCTP-1,,,Operational
+747,747,TSK XCTP-4,,,Operational
 751,751,TSK AXCTD,,,Operational
 780,780,Sea-Bird SBE21 SEACAT Thermosalinograph,Not applicable,Not applicable,Operational
 781,781,Sea-Bird SBE45 MicroTSG Thermosalinograph,Not applicable,Not applicable,Operational
