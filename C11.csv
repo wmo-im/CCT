@@ -286,6 +286,13 @@ CREX2,GRIB2_BUFR4,OriginatingGeneratingCentre_en,Status
 00290,290,EUMETNET E-Profile,Operational
 00291,291,Institute of Atmospheric Physics (IAP) of the Chinese Academy of Sciences (CAS),Operational
 00292,292,Helmholtz Centre for Environmental Research (UFZ),Operational
-00293-65534,292-65534,Reserved for other centres,Operational
+00293,293,University of Bremen,Operational
+00294,294,Netherlands Institute for Space Research (SRON),Operational
+00295,295,The Royal Belgian Institute for Space Aeronomy (BIRA-IASB),Operational
+00296,296,The French National Centre for Scientific Research (CNRS),Operational
+00297,297,The Nanjing Institute of Environmental Sciences (NIES),Operational
+00298,298,Dynamic Meteorology Laboratory (LMD),Operational
+00299,299,The Rutherford Appleton Laboratory (RAL),Operational
+00300-65534,300-65534,Reserved for other centres,Operational
 65535,65535,Missing value,Operational
 65536-99999,Not applicable,Not used,Operational
