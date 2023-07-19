@@ -218,6 +218,10 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 743,743,743,COSMIC-4,Operational
 744,744,744,COSMIC-5,Operational
 745,745,745,COSMIC-6,Operational
+746,746,746,DMSP 1,Operational
+747,747,747,DMSP 2,Operational
+748,748,748,DMSP 3,Operational
+749,749,749,DMSP 4,Operational
 750,750,750,COSMIC-2 E1,Operational
 751,751,751,COSMIC-2 E2,Operational
 752,752,752,COSMIC-2 E3,Operational
@@ -251,6 +255,7 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 811,811,811,GEO-KOMPSAT-2A,Operational
 812,812,812,SCISAT-1,Operational
 813,813,813,ODIN,Operational
+814,814,814,GEO-KOMPSAT-2B,Operational
 820,820,820,SAC-C,Operational
 821,821,821,SAC-D,Operational
 825,825,825,KOMPSAT-5,Operational

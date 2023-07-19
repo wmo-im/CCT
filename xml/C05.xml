@@ -1534,6 +1534,34 @@
     <Status>Operational</Status>
   </C05>
   <C05>
+    <CodeFigureForI6I6I6>746</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>746</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>746</CodeFigureForGRIB2>
+    <SatelliteName_en>DMSP 1</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>747</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>747</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>747</CodeFigureForGRIB2>
+    <SatelliteName_en>DMSP 2</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>748</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>748</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>748</CodeFigureForGRIB2>
+    <SatelliteName_en>DMSP 3</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>749</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>749</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>749</CodeFigureForGRIB2>
+    <SatelliteName_en>DMSP 4</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
     <CodeFigureForI6I6I6>750</CodeFigureForI6I6I6>
     <CodeFigureForBUFR>750</CodeFigureForBUFR>
     <CodeFigureForGRIB2>750</CodeFigureForGRIB2>
@@ -1762,6 +1790,13 @@
     <CodeFigureForBUFR>813</CodeFigureForBUFR>
     <CodeFigureForGRIB2>813</CodeFigureForGRIB2>
     <SatelliteName_en>ODIN</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>814</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>814</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>814</CodeFigureForGRIB2>
+    <SatelliteName_en>GEO-KOMPSAT-2B</SatelliteName_en>
     <Status>Operational</Status>
   </C05>
   <C05>
