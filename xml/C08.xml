@@ -1,6 +1,14 @@
 <?xml version="1.0" ?>
 <dataroot>
   <C08>
+    <Code>7</Code>
+    <Agency_en>DoD</Agency_en>
+    <Type_en>Infrared radiometer</Type_en>
+    <InstrumentShortName_en>SSH</InstrumentShortName_en>
+    <InstrumentLongName_en>Special Sensor H</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
     <Code>8</Code>
     <Agency_en>DoD</Agency_en>
     <Type_en>Radiometer</Type_en>

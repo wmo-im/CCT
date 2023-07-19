@@ -1,4 +1,5 @@
 Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
+7,DoD,Infrared radiometer,SSH,Special Sensor H,Operational
 8,DoD,Radiometer,SSM/T,"Special Sensor Microwave-Temperature",Operational
 9,DoD,Radiometer,SSM/T2,"Special Sensor Microwave-Humidity",Operational
 10,BNSC,Radiometer,AATSR,Advanced along track scanning radiometer,Operational
