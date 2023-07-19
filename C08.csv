@@ -378,17 +378,33 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 958,CMA,GNSS occultation sounder,GNOS,Global navigation satellite system occultation sounder,Operational
 959,SNSB,Limb-scanning sounder,SMR,Sub-millimetre radiometer,Operational
 960,NASA,Total and profile ozone,OMPS-limb,Ozone Mapping and Profiler Suite,Operational
-961,CMA,Imaging multi-spectral radiometer,AGRI,Advanced Geostationary Radiation Imager,Operational
-962,CMA,Atmospheric temperature and humidity sounder,GIIRS,Geostationary Interferometric Infrared Sounder,Operational
+961,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",AGRI-1,Advanced Geostationary Radiation Imager-1,Operational
+962,CMA,"Hyperspectral Infrared sounding radiometer, step-stare scanning",GIIRS-1,Geostationary Interferometric Infrared Sounder-1,Operational
 963,CMA,High-resolution optical imager,LMI,Lightning Mapping Imager,Operational
 964,CMA,Space environment,SEP,Space Environment Package,Operational
 965,CMA,GNSS occultation,GNOS-2,GNSS radio occultation sounder-2,Operational
 966,CMA,"Microwave sounding radiometer,cross-track scanning",MWTS-3,Microwave temperature sounder-3,Operational
-967-979,Reserved,,,,Operational
+967,CMA,"Hyperspectral Infrared sounding radiometer, step-stare scanning",GIIRS-2,Geostationary Interferometric Infrared Sounder-2,Operational
+968,CMA,"Hyperspectral Infrared sounding radiometer, step-stare scanning",GIIRS-3,Geostationary Interferometric Infrared Sounder-3,Operational
+969,CMA,"Hyperspectral Infrared sounding radiometer, step-stare scanning",GIIRS-4,Geostationary Interferometric Infrared Sounder-4,Operational
+970,CMA,"Hyperspectral Infrared sounding radiometer, step-stare scanning",GIIRS-5,Geostationary Interferometric Infrared Sounder-5,Operational
+971,CMA,"Hyperspectral Infrared sounding radiometer, step-stare scanning",GIIRS-6,Geostationary Interferometric Infrared Sounder-6,Operational
+972,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",AGRI-2,Advanced Geostationary Radiation Imager-2,Operational
+973,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",AGRI-3,Advanced Geostationary Radiation Imager-3,Operational
+974,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",AGRI-4,Advanced Geostationary Radiation Imager-4,Operational
+975,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",AGRI-5,Advanced Geostationary Radiation Imager-5,Operational
+976,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",AGRI-6,Advanced Geostationary Radiation Imager-6,Operational
+977,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",GHI,Geostationary High-speed Imager,Operational
+978-979,Reserved,,,,Operational
 980,KMA,Imager,AMI,Advanced Meteorological Imager,Operational
 981,KMA,Imager,MI,Meteorological Imager,Operational
 982,KMA,Space environment,KSEM,Korea Space wEather Monitor,Operational
-983-989,Reserved,,,,Operational
+983,CMA,"Cross-track scanning, IR Hyperspectral sounder",HIRAS-2,Hyperspectral Infrared Atmospheric Sounder-2,Operational
+984,CMA,"Cross-track scanning, IR Hyperspectral sounder",HIRAS-3,Hyperspectral Infrared Atmospheric Sounder-3,Operational
+985,CMA,Conical scanning microwave imager,MWRI-1,Microwave radiation imager-1,Operational
+986,CMA,Conical scanning microwave imager,MWRI-2,Microwave radiation imager-2,Operational
+987,CMA,Conical scanning microwave imager,MWRI-RM,Microwave radiation imager-Rain Mission,Operational
+988-989,Reserved,,,,Operational
 990,NASA,Radiometer,SMMR,Scanning multichannel microwave radiometer,Operational
 991,NASA,Radiometer,THIR,Temperature-humidity infrared radiometer,Operational
 992,NASA,Radiometer,NEMS,"Nimbus-E Microwave Sounder",Operational

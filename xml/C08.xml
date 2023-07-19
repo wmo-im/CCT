@@ -3035,17 +3035,17 @@
   <C08>
     <Code>961</Code>
     <Agency_en>CMA</Agency_en>
-    <Type_en>Imaging multi-spectral radiometer</Type_en>
-    <InstrumentShortName_en>AGRI</InstrumentShortName_en>
-    <InstrumentLongName_en>Advanced Geostationary Radiation Imager</InstrumentLongName_en>
+    <Type_en>Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning</Type_en>
+    <InstrumentShortName_en>AGRI-1</InstrumentShortName_en>
+    <InstrumentLongName_en>Advanced Geostationary Radiation Imager-1</InstrumentLongName_en>
     <Status>Operational</Status>
   </C08>
   <C08>
     <Code>962</Code>
     <Agency_en>CMA</Agency_en>
-    <Type_en>Atmospheric temperature and humidity sounder</Type_en>
-    <InstrumentShortName_en>GIIRS</InstrumentShortName_en>
-    <InstrumentLongName_en>Geostationary Interferometric Infrared Sounder</InstrumentLongName_en>
+    <Type_en>Hyperspectral Infrared sounding radiometer, step-stare scanning</Type_en>
+    <InstrumentShortName_en>GIIRS-1</InstrumentShortName_en>
+    <InstrumentLongName_en>Geostationary Interferometric Infrared Sounder-1</InstrumentLongName_en>
     <Status>Operational</Status>
   </C08>
   <C08>
@@ -3081,7 +3081,95 @@
     <Status>Operational</Status>
   </C08>
   <C08>
-    <Code>967-979</Code>
+    <Code>967</Code>
+    <Agency_en>CMA</Agency_en>
+    <Type_en>Hyperspectral Infrared sounding radiometer, step-stare scanning</Type_en>
+    <InstrumentShortName_en>GIIRS-2</InstrumentShortName_en>
+    <InstrumentLongName_en>Geostationary Interferometric Infrared Sounder-2</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>968</Code>
+    <Agency_en>CMA</Agency_en>
+    <Type_en>Hyperspectral Infrared sounding radiometer, step-stare scanning</Type_en>
+    <InstrumentShortName_en>GIIRS-3</InstrumentShortName_en>
+    <InstrumentLongName_en>Geostationary Interferometric Infrared Sounder-3</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>969</Code>
+    <Agency_en>CMA</Agency_en>
+    <Type_en>Hyperspectral Infrared sounding radiometer, step-stare scanning</Type_en>
+    <InstrumentShortName_en>GIIRS-4</InstrumentShortName_en>
+    <InstrumentLongName_en>Geostationary Interferometric Infrared Sounder-4</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>970</Code>
+    <Agency_en>CMA</Agency_en>
+    <Type_en>Hyperspectral Infrared sounding radiometer, step-stare scanning</Type_en>
+    <InstrumentShortName_en>GIIRS-5</InstrumentShortName_en>
+    <InstrumentLongName_en>Geostationary Interferometric Infrared Sounder-5</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>971</Code>
+    <Agency_en>CMA</Agency_en>
+    <Type_en>Hyperspectral Infrared sounding radiometer, step-stare scanning</Type_en>
+    <InstrumentShortName_en>GIIRS-6</InstrumentShortName_en>
+    <InstrumentLongName_en>Geostationary Interferometric Infrared Sounder-6</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>972</Code>
+    <Agency_en>CMA</Agency_en>
+    <Type_en>Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning</Type_en>
+    <InstrumentShortName_en>AGRI-2</InstrumentShortName_en>
+    <InstrumentLongName_en>Advanced Geostationary Radiation Imager-2</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>973</Code>
+    <Agency_en>CMA</Agency_en>
+    <Type_en>Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning</Type_en>
+    <InstrumentShortName_en>AGRI-3</InstrumentShortName_en>
+    <InstrumentLongName_en>Advanced Geostationary Radiation Imager-3</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>974</Code>
+    <Agency_en>CMA</Agency_en>
+    <Type_en>Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning</Type_en>
+    <InstrumentShortName_en>AGRI-4</InstrumentShortName_en>
+    <InstrumentLongName_en>Advanced Geostationary Radiation Imager-4</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>975</Code>
+    <Agency_en>CMA</Agency_en>
+    <Type_en>Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning</Type_en>
+    <InstrumentShortName_en>AGRI-5</InstrumentShortName_en>
+    <InstrumentLongName_en>Advanced Geostationary Radiation Imager-5</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>976</Code>
+    <Agency_en>CMA</Agency_en>
+    <Type_en>Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning</Type_en>
+    <InstrumentShortName_en>AGRI-6</InstrumentShortName_en>
+    <InstrumentLongName_en>Advanced Geostationary Radiation Imager-6</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>977</Code>
+    <Agency_en>CMA</Agency_en>
+    <Type_en>Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning</Type_en>
+    <InstrumentShortName_en>GHI</InstrumentShortName_en>
+    <InstrumentLongName_en>Geostationary High-speed Imager</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>978-979</Code>
     <Agency_en>Reserved</Agency_en>
     <Type_en/>
     <InstrumentShortName_en/>
@@ -3113,7 +3201,47 @@
     <Status>Operational</Status>
   </C08>
   <C08>
-    <Code>983-989</Code>
+    <Code>983</Code>
+    <Agency_en>CMA</Agency_en>
+    <Type_en>Cross-track scanning, IR Hyperspectral sounder</Type_en>
+    <InstrumentShortName_en>HIRAS-2</InstrumentShortName_en>
+    <InstrumentLongName_en>Hyperspectral Infrared Atmospheric Sounder-2</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>984</Code>
+    <Agency_en>CMA</Agency_en>
+    <Type_en>Cross-track scanning, IR Hyperspectral sounder</Type_en>
+    <InstrumentShortName_en>HIRAS-3</InstrumentShortName_en>
+    <InstrumentLongName_en>Hyperspectral Infrared Atmospheric Sounder-3</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>985</Code>
+    <Agency_en>CMA</Agency_en>
+    <Type_en>Conical scanning microwave imager</Type_en>
+    <InstrumentShortName_en>MWRI-1</InstrumentShortName_en>
+    <InstrumentLongName_en>Microwave radiation imager-1</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>986</Code>
+    <Agency_en>CMA</Agency_en>
+    <Type_en>Conical scanning microwave imager</Type_en>
+    <InstrumentShortName_en>MWRI-2</InstrumentShortName_en>
+    <InstrumentLongName_en>Microwave radiation imager-2</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>987</Code>
+    <Agency_en>CMA</Agency_en>
+    <Type_en>Conical scanning microwave imager</Type_en>
+    <InstrumentShortName_en>MWRI-RM</InstrumentShortName_en>
+    <InstrumentLongName_en>Microwave radiation imager-Rain Mission</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>988-989</Code>
     <Agency_en>Reserved</Agency_en>
     <Type_en/>
     <InstrumentShortName_en/>
