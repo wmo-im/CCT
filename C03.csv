@@ -103,7 +103,8 @@ CodeFigureForIXIIXIX,CodeFigureForBUFR,InstrumentMakeAndType_en,EquationCoeffici
 880,880,S2A RBR,Not applicable,Not applicable,Operational
 881,881,HM4000 SBE,Not applicable,Not applicable,Operational
 882,882,HM6000 SBE,Not applicable,Not applicable,Operational
-883-899,883-899,Reserved,,,Operational
+883,883,APEX_D RBR,Not applicable,Not applicable,Operational
+884-899,883-899,Reserved,,,Operational
 900,900,Sippican LMP-5 XBT,9.727,-0.0473,Operational
 901,901,"Ice-tethered Profiler (ITP), SBE CTD",,,Operational
 902,902,Brooke Ocean Moving Vessel Profiler (MVP),,,Operational
