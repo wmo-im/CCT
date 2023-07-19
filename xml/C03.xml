@@ -723,7 +723,7 @@
   <C03>
     <CodeFigureForIXIIXIX>869</CodeFigureForIXIIXIX>
     <CodeFigureForBUFR>869</CodeFigureForBUFR>
-    <InstrumentMakeAndType_en>Reserved</InstrumentMakeAndType_en>
+    <InstrumentMakeAndType_en>NAVIS_EBR, SBE conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
     <Status>Operational</Status>
