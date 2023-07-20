@@ -379,16 +379,16 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 959,SNSB,Limb-scanning sounder,SMR,Sub-millimetre radiometer,Operational
 960,NASA,Total and profile ozone,OMPS-limb,Ozone Mapping and Profiler Suite,Operational
 961,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",AGRI-1,Advanced Geostationary Radiation Imager-1,Operational
-962,CMA,"Hyperspectral Infrared sounding radiometer, step-stare scanning",GIIRS-1,Geostationary Interferometric Infrared Sounder-1,Operational
+962,CMA,"Hyperspectral infrared sounding radiometer, step-stare scanning",GIIRS-1,Geostationary Interferometric Infrared Sounder-1,Operational
 963,CMA,High-resolution optical imager,LMI,Lightning Mapping Imager,Operational
 964,CMA,Space environment,SEP,Space Environment Package,Operational
 965,CMA,GNSS occultation,GNOS-2,GNSS radio occultation sounder-2,Operational
 966,CMA,"Microwave sounding radiometer,cross-track scanning",MWTS-3,Microwave temperature sounder-3,Operational
-967,CMA,"Hyperspectral Infrared sounding radiometer, step-stare scanning",GIIRS-2,Geostationary Interferometric Infrared Sounder-2,Operational
-968,CMA,"Hyperspectral Infrared sounding radiometer, step-stare scanning",GIIRS-3,Geostationary Interferometric Infrared Sounder-3,Operational
-969,CMA,"Hyperspectral Infrared sounding radiometer, step-stare scanning",GIIRS-4,Geostationary Interferometric Infrared Sounder-4,Operational
-970,CMA,"Hyperspectral Infrared sounding radiometer, step-stare scanning",GIIRS-5,Geostationary Interferometric Infrared Sounder-5,Operational
-971,CMA,"Hyperspectral Infrared sounding radiometer, step-stare scanning",GIIRS-6,Geostationary Interferometric Infrared Sounder-6,Operational
+967,CMA,"Hyperspectral infrared sounding radiometer, step-stare scanning",GIIRS-2,Geostationary Interferometric Infrared Sounder-2,Operational
+968,CMA,"Hyperspectral infrared sounding radiometer, step-stare scanning",GIIRS-3,Geostationary Interferometric Infrared Sounder-3,Operational
+969,CMA,"Hyperspectral infrared sounding radiometer, step-stare scanning",GIIRS-4,Geostationary Interferometric Infrared Sounder-4,Operational
+970,CMA,"Hyperspectral infrared sounding radiometer, step-stare scanning",GIIRS-5,Geostationary Interferometric Infrared Sounder-5,Operational
+971,CMA,"Hyperspectral infrared sounding radiometer, step-stare scanning",GIIRS-6,Geostationary Interferometric Infrared Sounder-6,Operational
 972,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",AGRI-2,Advanced Geostationary Radiation Imager-2,Operational
 973,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",AGRI-3,Advanced Geostationary Radiation Imager-3,Operational
 974,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",AGRI-4,Advanced Geostationary Radiation Imager-4,Operational
