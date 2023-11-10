@@ -1123,8 +1123,14 @@
     <Status>Operational</Status>
   </C11>
   <C11>
-    <CREX2>00181-00189</CREX2>
-    <GRIB2_BUFR4>181-189</GRIB2_BUFR4>
+    <CREX2>00181</CREX2>
+    <GRIB2_BUFR4>181</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>Atmospheric and Environmental Research (AER)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00182-00189</CREX2>
+    <GRIB2_BUFR4>182-189</GRIB2_BUFR4>
     <OriginatingGeneratingCentre_en>Reserved for other centres</OriginatingGeneratingCentre_en>
     <Status>Operational</Status>
   </C11>
@@ -1723,8 +1729,50 @@
     <Status>Operational</Status>
   </C11>
   <C11>
-    <CREX2>00293-65534</CREX2>
-    <GRIB2_BUFR4>292-65534</GRIB2_BUFR4>
+    <CREX2>00293</CREX2>
+    <GRIB2_BUFR4>293</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>University of Bremen</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00294</CREX2>
+    <GRIB2_BUFR4>294</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>Netherlands Institute for Space Research (SRON)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00295</CREX2>
+    <GRIB2_BUFR4>295</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>The Royal Belgian Institute for Space Aeronomy (BIRA-IASB)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00296</CREX2>
+    <GRIB2_BUFR4>296</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>The French National Centre for Scientific Research (CNRS)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00297</CREX2>
+    <GRIB2_BUFR4>297</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>The Nanjing Institute of Environmental Sciences (NIES)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00298</CREX2>
+    <GRIB2_BUFR4>298</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>Dynamic Meteorology Laboratory (LMD)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00299</CREX2>
+    <GRIB2_BUFR4>299</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>The Rutherford Appleton Laboratory (RAL)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00300-65534</CREX2>
+    <GRIB2_BUFR4>300-65534</GRIB2_BUFR4>
     <OriginatingGeneratingCentre_en>Reserved for other centres</OriginatingGeneratingCentre_en>
     <Status>Operational</Status>
   </C11>

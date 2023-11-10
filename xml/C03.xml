@@ -331,7 +331,7 @@
   <C03>
     <CodeFigureForIXIIXIX>741</CodeFigureForIXIIXIX>
     <CodeFigureForBUFR>741</CodeFigureForBUFR>
-    <InstrumentMakeAndType_en>TSK XCTD/XCTD-1/XCTD-1N</InstrumentMakeAndType_en>
+    <InstrumentMakeAndType_en>TSK XCTD/XCTD-1/XCTD-1N/XCTD-1A</InstrumentMakeAndType_en>
     <EquationCoefficients_a>3.42543</EquationCoefficients_a>
     <EquationCoefficients_b>-0.47</EquationCoefficients_b>
     <Status>Operational</Status>
@@ -339,7 +339,7 @@
   <C03>
     <CodeFigureForIXIIXIX>742</CodeFigureForIXIIXIX>
     <CodeFigureForBUFR>742</CodeFigureForBUFR>
-    <InstrumentMakeAndType_en>TSK XCTD-2/XCTD-2N</InstrumentMakeAndType_en>
+    <InstrumentMakeAndType_en>TSK XCTD-2/XCTD-2N/XCTD-4A</InstrumentMakeAndType_en>
     <EquationCoefficients_a>3.43898</EquationCoefficients_a>
     <EquationCoefficients_b>-0.31</EquationCoefficients_b>
     <Status>Operational</Status>
@@ -366,6 +366,22 @@
     <InstrumentMakeAndType_en>TSK XCTD-4/XCTD-4N</InstrumentMakeAndType_en>
     <EquationCoefficients_a>3.68081</EquationCoefficients_a>
     <EquationCoefficients_b>-0.47</EquationCoefficients_b>
+    <Status>Operational</Status>
+  </C03>
+  <C03>
+    <CodeFigureForIXIIXIX>746</CodeFigureForIXIIXIX>
+    <CodeFigureForBUFR>746</CodeFigureForBUFR>
+    <InstrumentMakeAndType_en>TSK XCTP-1</InstrumentMakeAndType_en>
+    <EquationCoefficients_a/>
+    <EquationCoefficients_b/>
+    <Status>Operational</Status>
+  </C03>
+  <C03>
+    <CodeFigureForIXIIXIX>747</CodeFigureForIXIIXIX>
+    <CodeFigureForBUFR>747</CodeFigureForBUFR>
+    <InstrumentMakeAndType_en>TSK XCTP-4</InstrumentMakeAndType_en>
+    <EquationCoefficients_a/>
+    <EquationCoefficients_b/>
     <Status>Operational</Status>
   </C03>
   <C03>
@@ -723,7 +739,7 @@
   <C03>
     <CodeFigureForIXIIXIX>869</CodeFigureForIXIIXIX>
     <CodeFigureForBUFR>869</CodeFigureForBUFR>
-    <InstrumentMakeAndType_en>Reserved</InstrumentMakeAndType_en>
+    <InstrumentMakeAndType_en>NAVIS_EBR, SBE conductivity sensor</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>
     <Status>Operational</Status>
@@ -833,8 +849,80 @@
     <Status>Operational</Status>
   </C03>
   <C03>
-    <CodeFigureForIXIIXIX>883-899</CodeFigureForIXIIXIX>
-    <CodeFigureForBUFR>883-899</CodeFigureForBUFR>
+    <CodeFigureForIXIIXIX>883</CodeFigureForIXIIXIX>
+    <CodeFigureForBUFR>883</CodeFigureForBUFR>
+    <InstrumentMakeAndType_en>APEX_D RBR</InstrumentMakeAndType_en>
+    <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
+    <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
+    <Status>Operational</Status>
+  </C03>
+  <C03>
+    <CodeFigureForIXIIXIX>884</CodeFigureForIXIIXIX>
+    <CodeFigureForBUFR>884</CodeFigureForBUFR>
+    <InstrumentMakeAndType_en>SOLO_BGC, SBE</InstrumentMakeAndType_en>
+    <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
+    <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
+    <Status>Operational</Status>
+  </C03>
+  <C03>
+    <CodeFigureForIXIIXIX>885</CodeFigureForIXIIXIX>
+    <CodeFigureForBUFR>885</CodeFigureForBUFR>
+    <InstrumentMakeAndType_en>SOLO_BGC, RBR</InstrumentMakeAndType_en>
+    <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
+    <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
+    <Status>Operational</Status>
+  </C03>
+  <C03>
+    <CodeFigureForIXIIXIX>886</CodeFigureForIXIIXIX>
+    <CodeFigureForBUFR>886</CodeFigureForBUFR>
+    <InstrumentMakeAndType_en>SOLO_BGC_MRV, SBE</InstrumentMakeAndType_en>
+    <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
+    <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
+    <Status>Operational</Status>
+  </C03>
+  <C03>
+    <CodeFigureForIXIIXIX>887</CodeFigureForIXIIXIX>
+    <CodeFigureForBUFR>887</CodeFigureForBUFR>
+    <InstrumentMakeAndType_en>SOLO_BGC_MRV, RBR</InstrumentMakeAndType_en>
+    <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
+    <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
+    <Status>Operational</Status>
+  </C03>
+  <C03>
+    <CodeFigureForIXIIXIX>888</CodeFigureForIXIIXIX>
+    <CodeFigureForBUFR>888</CodeFigureForBUFR>
+    <InstrumentMakeAndType_en>PROVOR_V - Jumbo, SBE</InstrumentMakeAndType_en>
+    <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
+    <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
+    <Status>Operational</Status>
+  </C03>
+  <C03>
+    <CodeFigureForIXIIXIX>889</CodeFigureForIXIIXIX>
+    <CodeFigureForBUFR>889</CodeFigureForBUFR>
+    <InstrumentMakeAndType_en>PROVOR_V - Jumbo, RBR</InstrumentMakeAndType_en>
+    <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
+    <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
+    <Status>Operational</Status>
+  </C03>
+  <C03>
+    <CodeFigureForIXIIXIX>890</CodeFigureForIXIIXIX>
+    <CodeFigureForBUFR>890</CodeFigureForBUFR>
+    <InstrumentMakeAndType_en>PROVOR_III - Jumbo, SBE</InstrumentMakeAndType_en>
+    <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
+    <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
+    <Status>Operational</Status>
+  </C03>
+  <C03>
+    <CodeFigureForIXIIXIX>891</CodeFigureForIXIIXIX>
+    <CodeFigureForBUFR>891</CodeFigureForBUFR>
+    <InstrumentMakeAndType_en>PROVOR_III - Jumbo, RBR</InstrumentMakeAndType_en>
+    <EquationCoefficients_a>Not applicable</EquationCoefficients_a>
+    <EquationCoefficients_b>Not applicable</EquationCoefficients_b>
+    <Status>Operational</Status>
+  </C03>
+  <C03>
+    <CodeFigureForIXIIXIX>892-899</CodeFigureForIXIIXIX>
+    <CodeFigureForBUFR>892-899</CodeFigureForBUFR>
     <InstrumentMakeAndType_en>Reserved</InstrumentMakeAndType_en>
     <EquationCoefficients_a/>
     <EquationCoefficients_b/>

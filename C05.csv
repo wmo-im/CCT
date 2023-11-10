@@ -44,6 +44,8 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 065,65,65,Sentinel 3B,Operational
 066,66,66,Sentinel-6A,Operational
 067,67,67,Sentinel-6B,Operational
+068,68,68,Sentinel-1C,Operational
+069,69,69,Sentinel-1D,Operational
 070,70,70,METEOSAT 11,Operational
 071,71,71,METEOSAT 12,Operational
 072,72,72,METEOSAT 13,Operational
@@ -177,6 +179,8 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 522,522,522,FY-3C,Operational
 523,523,523,FY-3D,Operational
 524,524,524,FY-3E,Operational
+525,525,525,FY-3F,Operational
+526,526,526,FY-3G,Operational
 530,530,530,FY-4A,Operational
 531,531,531,FY-4B,Operational
 ,,,600-699: Numbers allocated to Europe,Operational
@@ -214,6 +218,10 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 743,743,743,COSMIC-4,Operational
 744,744,744,COSMIC-5,Operational
 745,745,745,COSMIC-6,Operational
+746,746,746,DMSP 1,Operational
+747,747,747,DMSP 2,Operational
+748,748,748,DMSP 3,Operational
+749,749,749,DMSP 4,Operational
 750,750,750,COSMIC-2 E1,Operational
 751,751,751,COSMIC-2 E2,Operational
 752,752,752,COSMIC-2 E3,Operational
@@ -247,6 +255,7 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 811,811,811,GEO-KOMPSAT-2A,Operational
 812,812,812,SCISAT-1,Operational
 813,813,813,ODIN,Operational
+814,814,814,GEO-KOMPSAT-2B,Operational
 820,820,820,SAC-C,Operational
 821,821,821,SAC-D,Operational
 825,825,825,KOMPSAT-5,Operational
