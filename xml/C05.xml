@@ -1723,6 +1723,13 @@
     <Status>Operational</Status>
   </C05>
   <C05>
+    <CodeFigureForI6I6I6>790</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>790</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>790</CodeFigureForGRIB2>
+    <SatelliteName_en>TEMPO</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
     <CodeFigureForI6I6I6/>
     <CodeFigureForBUFR/>
     <CodeFigureForGRIB2/>
