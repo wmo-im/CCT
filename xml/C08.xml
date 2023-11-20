@@ -1497,6 +1497,14 @@
     <Status>Operational</Status>
   </C08>
   <C08>
+    <Code>435</Code>
+    <Agency_en>NASA</Agency_en>
+    <Type_en>Spectrometer</Type_en>
+    <InstrumentShortName_en>TEMPO</InstrumentShortName_en>
+    <InstrumentLongName_en>Tropospheric Emissions: Monitoring of Pollution</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
     <Code>450</Code>
     <Agency_en>JAXA</Agency_en>
     <Type_en>Communications</Type_en>
