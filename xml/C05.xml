@@ -414,6 +414,13 @@
     <Status>Operational</Status>
   </C05>
   <C05>
+    <CodeFigureForI6I6I6>141</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>141</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>141</CodeFigureForGRIB2>
+    <SatelliteName_en>GOSAT-2</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
     <CodeFigureForI6I6I6>150</CodeFigureForI6I6I6>
     <CodeFigureForBUFR>150</CodeFigureForBUFR>
     <CodeFigureForGRIB2>150</CodeFigureForGRIB2>
