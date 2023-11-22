@@ -1745,6 +1745,14 @@
     <Status>Operational</Status>
   </C08>
   <C08>
+    <Code>521</Code>
+    <Agency_en>JAXA</Agency_en>
+    <Type_en>Spectrometer</Type_en>
+    <InstrumentShortName_en>TANSO-FTS2</InstrumentShortName_en>
+    <InstrumentLongName_en>Thermal and Near infrared Sensor for carbon Observations (TANSO) - Fourier Transform Spectrometer / 2</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
     <Code>526</Code>
     <Agency_en>GeoOptics</Agency_en>
     <Type_en>GNSS occultation sounder</Type_en>
