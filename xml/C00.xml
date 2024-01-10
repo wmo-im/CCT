@@ -295,6 +295,13 @@
     <Status>Operational</Status>
   </C00>
   <C00>
+    <GRIB-version-number>66</GRIB-version-number>
+    <BUFR-version-number>66</BUFR-version-number>
+    <CREX-version-number>66</CREX-version-number>
+    <Effective-date>10 January 2024</Effective-date>
+    <Status>testXML</Status>
+  </C00>
+  <C00>
     <GRIB-version-number>33-254</GRIB-version-number>
     <BUFR-version-number>42-254</BUFR-version-number>
     <CREX-version-number>42-254</CREX-version-number>
