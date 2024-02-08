@@ -188,6 +188,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 432,NASA,Spectrometer,OCO,Orbiting carbon observatory,Operational
 433,NASA,Spectrometer,TMS,TROPICS Millimeter-wave Sounder,Operational
 434,NASA,MW radiometer,SMAP,Soil Moisture Active-Passive,Operational
+435,NASA,Spectrometer,TEMPO,Tropospheric Emissions: Monitoring of Pollution,Operational
 450,JAXA,Communications,ADEOS Comms,Communications package for ADEOS,Operational
 451,JAXA,Communications,DCS (JAXA),Data-collection system (JAXA),Operational
 453,NASDA,Communications,GMS Comms,Communications package on GMS,Operational
