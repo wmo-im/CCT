@@ -78,6 +78,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 205,EUMETSAT,Radiometer,MVIRI,METEOSAT visible and infrared imager,Operational
 207,EUMETSAT,Radiometer,SEVIRI,Spinning enhanced visible and infrared imager,Operational
 208,EUMETSAT,Imaging multi-spectral radiometer (vis/IR),VIRI,VIRI,Operational
+209,ESA,Radiometer,MWR,EPS Sterna Radiometer,Operational
 210,ESA/EUMETSAT/Thales Alenia Space,Imager,FCI,Flexible Combined Imager,Operational
 211,ESA/EUMETSAT/Leonardo,Imager,LI,Lightning imager,Operational
 212,ESA/EUMETSAT/OHB,Interferometer,IRS,Infrared sounder,Operational
