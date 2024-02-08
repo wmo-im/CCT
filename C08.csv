@@ -220,6 +220,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 518,JAXA,Cloud and precipitation radar,DPR,Dual-frequency precipitation radar,Operational
 519,NASA,"MW imaging/sounding radiometer, conical scanning",GMI,GPM microwave imager,Operational
 520,NASA,Imaging radiometer,SMMR,Scanning Multichannel Microwave Radiometer,Operational
+521,JAXA,Spectrometer,TANSO-FTS2,Thermal and Near infrared Sensor for carbon Observations (TANSO) - Fourier Transform Spectrometer / 2,Operational
 526,GeoOptics,GNSS occultation sounder,Cion-A,GeoOptics Cion GNSS occultation receiver A,Operational
 527,GeoOptics,GNSS occultation sounder,Cion-B,GeoOptics Cion GNSS occultation receiver B,Operational
 528,GeoOptics,GNSS occultation sounder,Cion-C,GeoOptics Cion GNSS occultation receiver C,Operational
