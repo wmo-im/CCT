@@ -1185,6 +1185,14 @@
     <Status>Operational</Status>
   </C08>
   <C08>
+    <Code>368</Code>
+    <Agency_en>NASA</Agency_en>
+    <Type_en>Radiometer</Type_en>
+    <InstrumentShortName_en>MW radiometer</InstrumentShortName_en>
+    <InstrumentLongName_en>Microwave radiometer</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
     <Code>369</Code>
     <Agency_en>NASA</Agency_en>
     <Type_en>Total and profile ozone</Type_en>
