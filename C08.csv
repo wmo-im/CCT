@@ -78,6 +78,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 205,EUMETSAT,Radiometer,MVIRI,METEOSAT visible and infrared imager,Operational
 207,EUMETSAT,Radiometer,SEVIRI,Spinning enhanced visible and infrared imager,Operational
 208,EUMETSAT,Imaging multi-spectral radiometer (vis/IR),VIRI,VIRI,Operational
+209,ESA,Radiometer,MWR,EPS Sterna Radiometer,Operational
 210,ESA/EUMETSAT/Thales Alenia Space,Imager,FCI,Flexible Combined Imager,Operational
 211,ESA/EUMETSAT/Leonardo,Imager,LI,Lightning imager,Operational
 212,ESA/EUMETSAT/OHB,Interferometer,IRS,Infrared sounder,Operational
@@ -147,6 +148,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 365,NASA,Imaging multi-spectral radiometer (passive microwave),TMI,TRMM microwave imager,Operational
 366,NASA,Imaging multi-spectral radiometer (passive microwave),JMR,JASON-1 microwave radiometer,Operational
 367,NASA,Imaging multi-spectral radiometer,AMR,Advanced microwave radiometer,Operational
+368,NASA,Radiometer,MW radiometer,Microwave radiometer,Operational
 369,NASA,Total and profile ozone,LIMS,Limb infrared monitor of the stratosphere,Operational
 370,NASA,Total and profile ozone,LRIR,Limb radiance inversion radiometer instrument,Operational
 371,NASA,Total and profile ozone,EPIC,Earth polychromatic imaging camera,Operational
@@ -186,6 +188,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 432,NASA,Spectrometer,OCO,Orbiting carbon observatory,Operational
 433,NASA,Spectrometer,TMS,TROPICS Millimeter-wave Sounder,Operational
 434,NASA,MW radiometer,SMAP,Soil Moisture Active-Passive,Operational
+435,NASA,Spectrometer,TEMPO,Tropospheric Emissions: Monitoring of Pollution,Operational
 450,JAXA,Communications,ADEOS Comms,Communications package for ADEOS,Operational
 451,JAXA,Communications,DCS (JAXA),Data-collection system (JAXA),Operational
 453,NASDA,Communications,GMS Comms,Communications package on GMS,Operational
@@ -217,6 +220,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 518,JAXA,Cloud and precipitation radar,DPR,Dual-frequency precipitation radar,Operational
 519,NASA,"MW imaging/sounding radiometer, conical scanning",GMI,GPM microwave imager,Operational
 520,NASA,Imaging radiometer,SMMR,Scanning Multichannel Microwave Radiometer,Operational
+521,JAXA,Spectrometer,TANSO-FTS2,Thermal and Near infrared Sensor for carbon Observations (TANSO) - Fourier Transform Spectrometer / 2,Operational
 526,GeoOptics,GNSS occultation sounder,Cion-A,GeoOptics Cion GNSS occultation receiver A,Operational
 527,GeoOptics,GNSS occultation sounder,Cion-B,GeoOptics Cion GNSS occultation receiver B,Operational
 528,GeoOptics,GNSS occultation sounder,Cion-C,GeoOptics Cion GNSS occultation receiver C,Operational

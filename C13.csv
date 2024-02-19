@@ -44,6 +44,7 @@ CodeFigure_DataCategories,Name_DataCategories_en,CodeFigure_InternationalDataSub
 2,Vertical soundings (other than satellite),25,Climatological observations from fixed-land stations (CLIMAT TEMP),Operational
 2,Vertical soundings (other than satellite),26,Climatological observations from ships (CLIMAT TEMP SHIP),Operational
 2,Vertical soundings (other than satellite),40,MW temperature/humidity sounding,Operational
+2,Vertical soundings (other than satellite),50,Radio occultation sounding,Operational
 2,Vertical soundings (other than satellite),104,Upper-level temperature/humidity/wind reports from fixed-land stations (TEMP) with re-used radiosondes,Operational
 2,Vertical soundings (other than satellite),105,Upper-level temperature/humidity/wind reports from ships (TEMP SHIP) with re-used radiosondes,Operational
 2,Vertical soundings (other than satellite),106,Upper-level temperature/humidity/wind report from mobile land stations (TEMP MOBIL) with re-used radiosondes,Operational
