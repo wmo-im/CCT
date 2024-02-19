@@ -45,6 +45,12 @@ CodeFigure_DataCategories,Name_DataCategories_en,CodeFigure_InternationalDataSub
 2,Vertical soundings (other than satellite),26,Climatological observations from ships (CLIMAT TEMP SHIP),Operational
 2,Vertical soundings (other than satellite),40,MW temperature/humidity sounding,Operational
 2,Vertical soundings (other than satellite),50,Radio occultation sounding,Operational
+2,Vertical soundings (other than satellite),104,Upper-level temperature/humidity/wind reports from fixed-land stations (TEMP) with re-used radiosondes,Operational
+2,Vertical soundings (other than satellite),105,Upper-level temperature/humidity/wind reports from ships (TEMP SHIP) with re-used radiosondes,Operational
+2,Vertical soundings (other than satellite),106,Upper-level temperature/humidity/wind report from mobile land stations (TEMP MOBIL) with re-used radiosondes,Operational
+2,Vertical soundings (other than satellite),114,Upper-level temperature/humidity/wind reports from descent radiosondes originally launched from fixed-land stations with re-used radiosondes,Operational
+2,Vertical soundings (other than satellite),115,Upper-level temperature/humidity/wind reports from descent radiosondes originally launched from ships with re-used radiosondes,Operational
+2,Vertical soundings (other than satellite),116,Upper-level temperature/humidity/wind reports from descent radiosondes originally launched from mobile land stations with re-used radiosondes,Operational
 3,Vertical soundings (satellite),0,Temperature (SATEM),Operational
 3,Vertical soundings (satellite),1,TIROS (TOVS),Operational
 3,Vertical soundings (satellite),2,ATOVS,Operational
