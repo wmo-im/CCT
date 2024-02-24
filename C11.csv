@@ -294,6 +294,29 @@ CREX2,GRIB2_BUFR4,OriginatingGeneratingCentre_en,Status
 00297,297,The Nanjing Institute of Environmental Sciences (NIES),Operational
 00298,298,Dynamic Meteorology Laboratory (LMD),Operational
 00299,299,The Rutherford Appleton Laboratory (RAL),Operational
-00300-65534,300-65534,Reserved for other centres,Operational
+00300,300,Greek Atomic Energy Commission (Greece),Operational
+00301,301,United Stated Envirnmental Agency (USA),Operational
+00302,302,Autralian radiation Protection and Nuclear Safety (Australia),Operational
+00303,303,Authority for Nuclear Safety and Radiation Protection (The Netherlands),Operational
+00304,304,Autorite de Surete Nucleaire (France),Operational
+00305,305,Bundesamt für Strahlenschutz (Germany),Operational
+00306,306,National Commission for Nuclear Activities Control (Romania),Operational
+00307,307,Consejo de Seguridad Nuclear (Spain),Operational
+00308,308,Danish Emergency Management Agency (Denmark),Operational
+00309,309,Norwegian radiation protection agency (Norway),Operational
+00310,310,Federal Agency for Nuclear Control (Belgium),Operational
+00311,311,Institute of Radiation Protection and Dosimetry (Barzilia),Operational
+00312,312,National Inspectorate for Nuclear Safety and Radiation Protection (Italy),Operational
+00313,313,Nuclear Regolatory Authority (Turkey),Operational
+00314,314,Nuclear Regulation Authority (Japan),Operational
+00315,315,Nuclear Regulatory Agency (Bulgaria),Operational
+00316,316,Ukrainien Radiation Protection Institute (Ukriane),Operational
+00317,317,Health Canada Radioprotection Bureau (Canada),Operational
+00318,318,Portuguese Society for Radiation Protection (Portugal),Operational
+00319,319,Swedish radiation safety authority (Sweden),Operational
+00320,320,Finnish radiation protection agency (Finland),Operational
+00321,321,State Office for Nuclear Safety (Czechia),Operational
+00322,322,Nuclear Regulation Authority (Slovakia),Operational
+00323-65534,323-65534,Reserved for other centres,Operational
 65535,65535,Missing value,Operational
 65536-99999,Not applicable,Not used,Operational
