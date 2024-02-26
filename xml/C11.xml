@@ -1779,7 +1779,7 @@
   <C11>
     <CREX2>00301</CREX2>
     <GRIB2_BUFR4>301</GRIB2_BUFR4>
-    <OriginatingGeneratingCentre_en>United Stated Envirnmental Agency (USA)</OriginatingGeneratingCentre_en>
+    <OriginatingGeneratingCentre_en>United Stated Environmental Protection Agency (USA)</OriginatingGeneratingCentre_en>
     <Status>Operational</Status>
   </C11>
   <C11>
@@ -1893,7 +1893,7 @@
   <C11>
     <CREX2>00320</CREX2>
     <GRIB2_BUFR4>320</GRIB2_BUFR4>
-    <OriginatingGeneratingCentre_en>Finnish radiation protection agency (Finland)</OriginatingGeneratingCentre_en>
+    <OriginatingGeneratingCentre_en>Radiation and Nuclear Safety Authority (Finland)</OriginatingGeneratingCentre_en>
     <Status>Operational</Status>
   </C11>
   <C11>
