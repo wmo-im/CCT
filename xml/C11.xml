@@ -1785,7 +1785,7 @@
   <C11>
     <CREX2>00302</CREX2>
     <GRIB2_BUFR4>302</GRIB2_BUFR4>
-    <OriginatingGeneratingCentre_en>Autralian radiation Protection and Nuclear Safety (Australia)</OriginatingGeneratingCentre_en>
+    <OriginatingGeneratingCentre_en>Autralian Radiation Protection and Nuclear Safety (Australia)</OriginatingGeneratingCentre_en>
     <Status>Operational</Status>
   </C11>
   <C11>
@@ -1827,7 +1827,7 @@
   <C11>
     <CREX2>00309</CREX2>
     <GRIB2_BUFR4>309</GRIB2_BUFR4>
-    <OriginatingGeneratingCentre_en>Norwegian radiation protection agency (Norway)</OriginatingGeneratingCentre_en>
+    <OriginatingGeneratingCentre_en>Norwegian Radiation Protection Agency (Norway)</OriginatingGeneratingCentre_en>
     <Status>Operational</Status>
   </C11>
   <C11>
@@ -1839,7 +1839,7 @@
   <C11>
     <CREX2>00311</CREX2>
     <GRIB2_BUFR4>311</GRIB2_BUFR4>
-    <OriginatingGeneratingCentre_en>Institute of Radiation Protection and Dosimetry (Barzilia)</OriginatingGeneratingCentre_en>
+    <OriginatingGeneratingCentre_en>Institute of Radiation Protection and Dosimetry (Brazil)</OriginatingGeneratingCentre_en>
     <Status>Operational</Status>
   </C11>
   <C11>
@@ -1851,7 +1851,7 @@
   <C11>
     <CREX2>00313</CREX2>
     <GRIB2_BUFR4>313</GRIB2_BUFR4>
-    <OriginatingGeneratingCentre_en>Nuclear Regolatory Authority (Turkey)</OriginatingGeneratingCentre_en>
+    <OriginatingGeneratingCentre_en>Nuclear Regulatory Authority (Turkiye)</OriginatingGeneratingCentre_en>
     <Status>Operational</Status>
   </C11>
   <C11>
@@ -1869,13 +1869,13 @@
   <C11>
     <CREX2>00316</CREX2>
     <GRIB2_BUFR4>316</GRIB2_BUFR4>
-    <OriginatingGeneratingCentre_en>Ukrainien Radiation Protection Institute (Ukriane)</OriginatingGeneratingCentre_en>
+    <OriginatingGeneratingCentre_en>Ukrainian Radiation Protection Institute (Ukriane)</OriginatingGeneratingCentre_en>
     <Status>Operational</Status>
   </C11>
   <C11>
     <CREX2>00317</CREX2>
     <GRIB2_BUFR4>317</GRIB2_BUFR4>
-    <OriginatingGeneratingCentre_en>Health Canada Radioprotection Bureau (Canada)</OriginatingGeneratingCentre_en>
+    <OriginatingGeneratingCentre_en>Health Canada Radio Protection Bureau (Canada)</OriginatingGeneratingCentre_en>
     <Status>Operational</Status>
   </C11>
   <C11>
@@ -1887,7 +1887,7 @@
   <C11>
     <CREX2>00319</CREX2>
     <GRIB2_BUFR4>319</GRIB2_BUFR4>
-    <OriginatingGeneratingCentre_en>Swedish radiation safety authority (Sweden)</OriginatingGeneratingCentre_en>
+    <OriginatingGeneratingCentre_en>Swedish Radiation Safety Authority (Sweden)</OriginatingGeneratingCentre_en>
     <Status>Operational</Status>
   </C11>
   <C11>
