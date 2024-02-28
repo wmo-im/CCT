@@ -1771,8 +1771,146 @@
     <Status>Operational</Status>
   </C11>
   <C11>
-    <CREX2>00300-65534</CREX2>
-    <GRIB2_BUFR4>300-65534</GRIB2_BUFR4>
+    <CREX2>00300</CREX2>
+    <GRIB2_BUFR4>300</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>Greek Atomic Energy Commission (Greece)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00301</CREX2>
+    <GRIB2_BUFR4>301</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>United Stated Environmental Protection Agency (USA)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00302</CREX2>
+    <GRIB2_BUFR4>302</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>Autralian Radiation Protection and Nuclear Safety (Australia)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00303</CREX2>
+    <GRIB2_BUFR4>303</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>Authority for Nuclear Safety and Radiation Protection (The Netherlands)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00304</CREX2>
+    <GRIB2_BUFR4>304</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>Autorite de Surete Nucleaire (France)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00305</CREX2>
+    <GRIB2_BUFR4>305</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>Bundesamt für Strahlenschutz (Germany)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00306</CREX2>
+    <GRIB2_BUFR4>306</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>National Commission for Nuclear Activities Control (Romania)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00307</CREX2>
+    <GRIB2_BUFR4>307</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>Consejo de Seguridad Nuclear (Spain)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00308</CREX2>
+    <GRIB2_BUFR4>308</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>Danish Emergency Management Agency (Denmark)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00309</CREX2>
+    <GRIB2_BUFR4>309</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>Norwegian Radiation Protection Agency (Norway)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00310</CREX2>
+    <GRIB2_BUFR4>310</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>Federal Agency for Nuclear Control (Belgium)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00311</CREX2>
+    <GRIB2_BUFR4>311</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>Institute of Radiation Protection and Dosimetry (Brazil)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00312</CREX2>
+    <GRIB2_BUFR4>312</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>National Inspectorate for Nuclear Safety and Radiation Protection (Italy)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00313</CREX2>
+    <GRIB2_BUFR4>313</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>Nuclear Regulatory Authority (Turkiye)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00314</CREX2>
+    <GRIB2_BUFR4>314</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>Nuclear Regulation Authority (Japan)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00315</CREX2>
+    <GRIB2_BUFR4>315</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>Nuclear Regulatory Agency (Bulgaria)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00316</CREX2>
+    <GRIB2_BUFR4>316</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>Ukrainian Radiation Protection Institute (Ukriane)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00317</CREX2>
+    <GRIB2_BUFR4>317</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>Health Canada Radio Protection Bureau (Canada)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00318</CREX2>
+    <GRIB2_BUFR4>318</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>Portuguese Society for Radiation Protection (Portugal)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00319</CREX2>
+    <GRIB2_BUFR4>319</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>Swedish Radiation Safety Authority (Sweden)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00320</CREX2>
+    <GRIB2_BUFR4>320</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>Radiation and Nuclear Safety Authority (Finland)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00321</CREX2>
+    <GRIB2_BUFR4>321</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>State Office for Nuclear Safety (Czechia)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00322</CREX2>
+    <GRIB2_BUFR4>322</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>Nuclear Regulation Authority (Slovakia)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00323-65534</CREX2>
+    <GRIB2_BUFR4>323-65534</GRIB2_BUFR4>
     <OriginatingGeneratingCentre_en>Reserved for other centres</OriginatingGeneratingCentre_en>
     <Status>Operational</Status>
   </C11>

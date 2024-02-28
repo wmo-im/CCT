@@ -2551,7 +2551,408 @@
     <Status>Operational</Status>
   </C14>
   <C14>
-    <CodeFigure>30299-39999</CodeFigure>
+    <CodeFigure>30299</CodeFigure>
+    <Meaning_en>Pseudo radionuclide</Meaning_en>
+    <ChemicalFormula>Operational</ChemicalFormula>
+  </C14>
+  <C14>
+    <CodeFigure>30300</CodeFigure>
+    <Meaning_en>Silver 112</Meaning_en>
+    <ChemicalFormula>Ag-112</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30301</CodeFigure>
+    <Meaning_en>Silver 115</Meaning_en>
+    <ChemicalFormula>Ag-115</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30302</CodeFigure>
+    <Meaning_en>Barium 139</Meaning_en>
+    <ChemicalFormula>Ba-139</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30303</CodeFigure>
+    <Meaning_en>Barium 141</Meaning_en>
+    <ChemicalFormula>Ba-141</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30304</CodeFigure>
+    <Meaning_en>Barium 142</Meaning_en>
+    <ChemicalFormula>Ba-142</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30305</CodeFigure>
+    <Meaning_en>Bromine 84</Meaning_en>
+    <ChemicalFormula>Br-84</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30306</CodeFigure>
+    <Meaning_en>Cadminum 115</Meaning_en>
+    <ChemicalFormula>Cd-115</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30307</CodeFigure>
+    <Meaning_en>Cadminum 117</Meaning_en>
+    <ChemicalFormula>Cd-117</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30308</CodeFigure>
+    <Meaning_en>Cadminum 117 metastable</Meaning_en>
+    <ChemicalFormula>Cd-117m</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30309</CodeFigure>
+    <Meaning_en>Cerium 145</Meaning_en>
+    <ChemicalFormula>Ce-145</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30310</CodeFigure>
+    <Meaning_en>Cerium 146</Meaning_en>
+    <ChemicalFormula>Ce-146</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30311</CodeFigure>
+    <Meaning_en>Cobalt 58 metastable</Meaning_en>
+    <ChemicalFormula>Co-58m</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30312</CodeFigure>
+    <Meaning_en>Ceasium 138</Meaning_en>
+    <ChemicalFormula>Cs-138</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30313</CodeFigure>
+    <Meaning_en>Ceasium 139</Meaning_en>
+    <ChemicalFormula>Cs-139</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30314</CodeFigure>
+    <Meaning_en>Iodine 130 aerosol</Meaning_en>
+    <ChemicalFormula>I-130a</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30315</CodeFigure>
+    <Meaning_en>Iodine 130 elementary gaseous</Meaning_en>
+    <ChemicalFormula>I-130e</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30316</CodeFigure>
+    <Meaning_en>Iodine 130 organic bounded</Meaning_en>
+    <ChemicalFormula>I-130o</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30317</CodeFigure>
+    <Meaning_en>Iodine 132 metastable</Meaning_en>
+    <ChemicalFormula>I-132m</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30318</CodeFigure>
+    <Meaning_en>Iodine 134 metastable</Meaning_en>
+    <ChemicalFormula>I-134m</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30319</CodeFigure>
+    <Meaning_en>Indium 115 metastable</Meaning_en>
+    <ChemicalFormula>In-115m</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30320</CodeFigure>
+    <Meaning_en>Indium 117 metastable</Meaning_en>
+    <ChemicalFormula>In-117m</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30321</CodeFigure>
+    <Meaning_en>Krypton 83 metastable</Meaning_en>
+    <ChemicalFormula>Kr-83m</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30322</CodeFigure>
+    <Meaning_en>Lanthanum 142</Meaning_en>
+    <ChemicalFormula>La-142</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30323</CodeFigure>
+    <Meaning_en>Lanthanum 143</Meaning_en>
+    <ChemicalFormula>La-143</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30324</CodeFigure>
+    <Meaning_en>Manganese 56</Meaning_en>
+    <ChemicalFormula>Mn-56</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30325</CodeFigure>
+    <Meaning_en>Molybdenum 101</Meaning_en>
+    <ChemicalFormula>Mo-101</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30326</CodeFigure>
+    <Meaning_en>Molybdenum 102</Meaning_en>
+    <ChemicalFormula>Mo-102</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30327</CodeFigure>
+    <Meaning_en>Neodymium 149</Meaning_en>
+    <ChemicalFormula>Nd-149</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30328</CodeFigure>
+    <Meaning_en>Neodymium 151</Meaning_en>
+    <ChemicalFormula>Nd-151</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30329</CodeFigure>
+    <Meaning_en>Palladium 109</Meaning_en>
+    <ChemicalFormula>Pd-109</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30330</CodeFigure>
+    <Meaning_en>Palladium 112</Meaning_en>
+    <ChemicalFormula>Pd-112</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30331</CodeFigure>
+    <Meaning_en>Praseodymium 145</Meaning_en>
+    <ChemicalFormula>Pr-145</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30332</CodeFigure>
+    <Meaning_en>Praseodymium 146</Meaning_en>
+    <ChemicalFormula>Pr-146</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30333</CodeFigure>
+    <Meaning_en>Praseodymium 147</Meaning_en>
+    <ChemicalFormula>Pr-147</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30334</CodeFigure>
+    <Meaning_en>Rubidium 89</Meaning_en>
+    <ChemicalFormula>Rb-89</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30335</CodeFigure>
+    <Meaning_en>Rubidium 90</Meaning_en>
+    <ChemicalFormula>Rb-90</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30336</CodeFigure>
+    <Meaning_en>Rubidium 90 metastable</Meaning_en>
+    <ChemicalFormula>Rb-90m</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30337</CodeFigure>
+    <Meaning_en>Rhodium 105 metastable</Meaning_en>
+    <ChemicalFormula>Rh-105m</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30338</CodeFigure>
+    <Meaning_en>Rhodium 107</Meaning_en>
+    <ChemicalFormula>Rh-107</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30339</CodeFigure>
+    <Meaning_en>Antimony 128</Meaning_en>
+    <ChemicalFormula>Sb-128</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30340</CodeFigure>
+    <Meaning_en>Antimony 128 metastable</Meaning_en>
+    <ChemicalFormula>Sb-128m</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30341</CodeFigure>
+    <Meaning_en>Antimony 129 metastable</Meaning_en>
+    <ChemicalFormula>Sb-129m</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30342</CodeFigure>
+    <Meaning_en>Antimony 130</Meaning_en>
+    <ChemicalFormula>Sb-130</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30343</CodeFigure>
+    <Meaning_en>Antimony 130 metastable</Meaning_en>
+    <ChemicalFormula>Sb-130m</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30344</CodeFigure>
+    <Meaning_en>Antimony 131</Meaning_en>
+    <ChemicalFormula>Sb-131</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30345</CodeFigure>
+    <Meaning_en>Antimony 132</Meaning_en>
+    <ChemicalFormula>Sb-132</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30346</CodeFigure>
+    <Meaning_en>Antimony 132 metastable</Meaning_en>
+    <ChemicalFormula>Sb-132m</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30347</CodeFigure>
+    <Meaning_en>Antimony 133</Meaning_en>
+    <ChemicalFormula>Sb-133</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30348</CodeFigure>
+    <Meaning_en>Selenium 83</Meaning_en>
+    <ChemicalFormula>Se-83</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30349</CodeFigure>
+    <Meaning_en>Tin 127</Meaning_en>
+    <ChemicalFormula>Sn-127</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30350</CodeFigure>
+    <Meaning_en>Tin 127 metastable</Meaning_en>
+    <ChemicalFormula>Sn-127m</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30351</CodeFigure>
+    <Meaning_en>Tin 128</Meaning_en>
+    <ChemicalFormula>Sn-128</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30352</CodeFigure>
+    <Meaning_en>Tin 129 metastable</Meaning_en>
+    <ChemicalFormula>Sn-129m</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30353</CodeFigure>
+    <Meaning_en>Tin 130</Meaning_en>
+    <ChemicalFormula>Sn-130</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30354</CodeFigure>
+    <Meaning_en>Strontium 93</Meaning_en>
+    <ChemicalFormula>Sr-93</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30355</CodeFigure>
+    <Meaning_en>Technetium 101</Meaning_en>
+    <ChemicalFormula>Tc-101</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30356</CodeFigure>
+    <Meaning_en>Technetium 102</Meaning_en>
+    <ChemicalFormula>Tc-102</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30357</CodeFigure>
+    <Meaning_en>Technetium 104</Meaning_en>
+    <ChemicalFormula>Tc-104</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30358</CodeFigure>
+    <Meaning_en>Technetium 105</Meaning_en>
+    <ChemicalFormula>Tc-105</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30359</CodeFigure>
+    <Meaning_en>Tellurium 133</Meaning_en>
+    <ChemicalFormula>Te-133</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30360</CodeFigure>
+    <Meaning_en>Tellurium 133 metastable</Meaning_en>
+    <ChemicalFormula>Te-133m</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30361</CodeFigure>
+    <Meaning_en>Tellurium 134</Meaning_en>
+    <ChemicalFormula>Te-134</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30362</CodeFigure>
+    <Meaning_en>Yttrium 93 metastable</Meaning_en>
+    <ChemicalFormula>Y-93m</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30363</CodeFigure>
+    <Meaning_en>Yttrium 94</Meaning_en>
+    <ChemicalFormula>Y-94</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30364</CodeFigure>
+    <Meaning_en>Yttrium 95</Meaning_en>
+    <ChemicalFormula>Y-95</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30365</CodeFigure>
+    <Meaning_en>Zirconium 96</Meaning_en>
+    <ChemicalFormula>Zr-96</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30366-39999</CodeFigure>
     <Meaning_en>Reserved</Meaning_en>
     <ChemicalFormula/>
     <Status>Operational</Status>
