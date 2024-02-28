@@ -53,11 +53,13 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 074,74,74,METEOSAT 15,Operational
 075,75,75,METEOSAT 16,Operational
 076,76,76,METEOSAT 17,Operational
+080,80,80,AWS1,Operational
 ,,,100-199: Numbers allocated to Japan,Operational
 120,120,120,ADEOS,Operational
 121,121,121,ADEOS II,Operational
 122,122,122,GCOM-W1,Operational
 140,140,140,GOSAT,Operational
+141,141,141,GOSAT-2,Operational
 150,150,150,GMS 3,Operational
 151,151,151,GMS 4,Operational
 152,152,152,GMS 5,Operational
@@ -122,6 +124,7 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 271,271,271,GOES 17,Operational
 272,272,272,GOES 18,Operational
 273,273,273,GOES 19,Operational
+280,280,280,SWOT,Operational
 281,281,281,QUIKSCAT,Operational
 282,282,282,TRMM,Operational
 283,283,283,CORIOLIS,Operational
@@ -245,6 +248,7 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 787,787,787,CALIPSO,Operational
 788,788,788,CloudSat,Operational
 789,789,789,SMAP,Operational
+790,790,790,TEMPO,Operational
 ,,,800-849 Numbers allocated to other satellite operators,Operational
 800,800,800,SUNSAT,Operational
 801,801,801,International Space Station (ISS),Operational

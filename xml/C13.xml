@@ -316,6 +316,55 @@
     <Status>Operational</Status>
   </C13>
   <C13>
+    <CodeFigure_DataCategories>2</CodeFigure_DataCategories>
+    <Name_DataCategories_en>Vertical soundings (other than satellite)</Name_DataCategories_en>
+    <CodeFigure_InternationalDataSubcategories>50</CodeFigure_InternationalDataSubcategories>
+    <Name_InternationalDataSubcategories_en>Radio occultation sounding</Name_InternationalDataSubcategories_en>
+    <Status>Operational</Status>
+  </C13>
+  <C13>
+    <CodeFigure_DataCategories>2</CodeFigure_DataCategories>
+    <Name_DataCategories_en>Vertical soundings (other than satellite)</Name_DataCategories_en>
+    <CodeFigure_InternationalDataSubcategories>104</CodeFigure_InternationalDataSubcategories>
+    <Name_InternationalDataSubcategories_en>Upper-level temperature/humidity/wind reports from fixed-land stations (TEMP) with re-used radiosondes</Name_InternationalDataSubcategories_en>
+    <Status>Operational</Status>
+  </C13>
+  <C13>
+    <CodeFigure_DataCategories>2</CodeFigure_DataCategories>
+    <Name_DataCategories_en>Vertical soundings (other than satellite)</Name_DataCategories_en>
+    <CodeFigure_InternationalDataSubcategories>105</CodeFigure_InternationalDataSubcategories>
+    <Name_InternationalDataSubcategories_en>Upper-level temperature/humidity/wind reports from ships (TEMP SHIP) with re-used radiosondes</Name_InternationalDataSubcategories_en>
+    <Status>Operational</Status>
+  </C13>
+  <C13>
+    <CodeFigure_DataCategories>2</CodeFigure_DataCategories>
+    <Name_DataCategories_en>Vertical soundings (other than satellite)</Name_DataCategories_en>
+    <CodeFigure_InternationalDataSubcategories>106</CodeFigure_InternationalDataSubcategories>
+    <Name_InternationalDataSubcategories_en>Upper-level temperature/humidity/wind report from mobile land stations (TEMP MOBIL) with re-used radiosondes</Name_InternationalDataSubcategories_en>
+    <Status>Operational</Status>
+  </C13>
+  <C13>
+    <CodeFigure_DataCategories>2</CodeFigure_DataCategories>
+    <Name_DataCategories_en>Vertical soundings (other than satellite)</Name_DataCategories_en>
+    <CodeFigure_InternationalDataSubcategories>114</CodeFigure_InternationalDataSubcategories>
+    <Name_InternationalDataSubcategories_en>Upper-level temperature/humidity/wind reports from descent radiosondes originally launched from fixed-land stations with re-used radiosondes</Name_InternationalDataSubcategories_en>
+    <Status>Operational</Status>
+  </C13>
+  <C13>
+    <CodeFigure_DataCategories>2</CodeFigure_DataCategories>
+    <Name_DataCategories_en>Vertical soundings (other than satellite)</Name_DataCategories_en>
+    <CodeFigure_InternationalDataSubcategories>115</CodeFigure_InternationalDataSubcategories>
+    <Name_InternationalDataSubcategories_en>Upper-level temperature/humidity/wind reports from descent radiosondes originally launched from ships with re-used radiosondes</Name_InternationalDataSubcategories_en>
+    <Status>Operational</Status>
+  </C13>
+  <C13>
+    <CodeFigure_DataCategories>2</CodeFigure_DataCategories>
+    <Name_DataCategories_en>Vertical soundings (other than satellite)</Name_DataCategories_en>
+    <CodeFigure_InternationalDataSubcategories>116</CodeFigure_InternationalDataSubcategories>
+    <Name_InternationalDataSubcategories_en>Upper-level temperature/humidity/wind reports from descent radiosondes originally launched from mobile land stations with re-used radiosondes</Name_InternationalDataSubcategories_en>
+    <Status>Operational</Status>
+  </C13>
+  <C13>
     <CodeFigure_DataCategories>3</CodeFigure_DataCategories>
     <Name_DataCategories_en>Vertical soundings (satellite)</Name_DataCategories_en>
     <CodeFigure_InternationalDataSubcategories>0</CodeFigure_InternationalDataSubcategories>

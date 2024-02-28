@@ -379,6 +379,13 @@
     <Status>Operational</Status>
   </C05>
   <C05>
+    <CodeFigureForI6I6I6>080</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>80</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>80</CodeFigureForGRIB2>
+    <SatelliteName_en>AWS1</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
     <CodeFigureForI6I6I6/>
     <CodeFigureForBUFR/>
     <CodeFigureForGRIB2/>
@@ -411,6 +418,13 @@
     <CodeFigureForBUFR>140</CodeFigureForBUFR>
     <CodeFigureForGRIB2>140</CodeFigureForGRIB2>
     <SatelliteName_en>GOSAT</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>141</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>141</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>141</CodeFigureForGRIB2>
+    <SatelliteName_en>GOSAT-2</SatelliteName_en>
     <Status>Operational</Status>
   </C05>
   <C05>
@@ -859,6 +873,13 @@
     <CodeFigureForBUFR>273</CodeFigureForBUFR>
     <CodeFigureForGRIB2>273</CodeFigureForGRIB2>
     <SatelliteName_en>GOES 19</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>280</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>280</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>280</CodeFigureForGRIB2>
+    <SatelliteName_en>SWOT</SatelliteName_en>
     <Status>Operational</Status>
   </C05>
   <C05>
@@ -1720,6 +1741,13 @@
     <CodeFigureForBUFR>789</CodeFigureForBUFR>
     <CodeFigureForGRIB2>789</CodeFigureForGRIB2>
     <SatelliteName_en>SMAP</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>790</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>790</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>790</CodeFigureForGRIB2>
+    <SatelliteName_en>TEMPO</SatelliteName_en>
     <Status>Operational</Status>
   </C05>
   <C05>
