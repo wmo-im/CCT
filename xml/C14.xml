@@ -2553,7 +2553,8 @@
   <C14>
     <CodeFigure>30299</CodeFigure>
     <Meaning_en>Pseudo radionuclide</Meaning_en>
-    <ChemicalFormula>Operational</ChemicalFormula>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
   </C14>
   <C14>
     <CodeFigure>30300</CodeFigure>
