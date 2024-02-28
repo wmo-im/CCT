@@ -424,7 +424,7 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 30296,Lead,Pb,Operational
 30297,Tellurium 131,Te-131,Operational
 30298,Neodymium 137,Nd-137,Operational
-30299,Pseudo radionuclide,Operational
+30299,Pseudo radionuclide,,Operational
 30300,Silver 112,Ag-112,Operational
 30301,Silver 115,Ag-115,Operational
 30302,Barium 139,Ba-139,Operational
