@@ -2552,9 +2552,8 @@
   </C14>
   <C14>
     <CodeFigure>30299</CodeFigure>
-    <Meaning_en>Activity relative to one hour after release</Meaning_en>
-    <ChemicalFormula> A(H+1)</ChemicalFormula>
-    <Status>Operational</Status>
+    <Meaning_en>Pseudo radionuclide</Meaning_en>
+    <ChemicalFormula>Operational</ChemicalFormula>
   </C14>
   <C14>
     <CodeFigure>30300</CodeFigure>
