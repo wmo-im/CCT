@@ -1089,7 +1089,7 @@
     <DateOfAssignment_en>15/05/2022</DateOfAssignment_en>
     <CodeFigureForrara>65</CodeFigureForrara>
     <CodeFigureForBUFR>165</CodeFigureForBUFR>
-    <RadiosondeSoundingSystemUsed_en>Meteosis MTS-01 (Republic of Turkiye)</RadiosondeSoundingSystemUsed_en>
+    <RadiosondeSoundingSystemUsed_en>Meteosis MTS-01 (Turkiye)</RadiosondeSoundingSystemUsed_en>
     <Status>Operational</Status>
   </C02>
   <C02>
@@ -1233,9 +1233,51 @@
     <Status>Operational</Status>
   </C02>
   <C02>
+    <DateOfAssignment_en>14/11/2023</DateOfAssignment_en>
+    <CodeFigureForrara>Not available</CodeFigureForrara>
+    <CodeFigureForBUFR>204</CodeFigureForBUFR>
+    <RadiosondeSoundingSystemUsed_en>Beijing GTH1 (China)</RadiosondeSoundingSystemUsed_en>
+    <Status>Operational</Status>
+  </C02>
+  <C02>
+    <DateOfAssignment_en>14/11/2023</DateOfAssignment_en>
+    <CodeFigureForrara>Not available</CodeFigureForrara>
+    <CodeFigureForBUFR>205</CodeFigureForBUFR>
+    <RadiosondeSoundingSystemUsed_en>Nanjing GTH2 (China)</RadiosondeSoundingSystemUsed_en>
+    <Status>Operational</Status>
+  </C02>
+  <C02>
+    <DateOfAssignment_en>14/11/2023</DateOfAssignment_en>
+    <CodeFigureForrara>Not available</CodeFigureForrara>
+    <CodeFigureForBUFR>206</CodeFigureForBUFR>
+    <RadiosondeSoundingSystemUsed_en>Tianjin GTH3 (China)</RadiosondeSoundingSystemUsed_en>
+    <Status>Operational</Status>
+  </C02>
+  <C02>
+    <DateOfAssignment_en>14/11/2023</DateOfAssignment_en>
+    <CodeFigureForrara>Not available</CodeFigureForrara>
+    <CodeFigureForBUFR>207</CodeFigureForBUFR>
+    <RadiosondeSoundingSystemUsed_en>Aerospace Newsky Technology GTH4 (China)</RadiosondeSoundingSystemUsed_en>
+    <Status>Operational </Status>
+  </C02>
+  <C02>
+    <DateOfAssignment_en>14/11/2023</DateOfAssignment_en>
+    <CodeFigureForrara>Not available</CodeFigureForrara>
+    <CodeFigureForBUFR>208</CodeFigureForBUFR>
+    <RadiosondeSoundingSystemUsed_en>Taiyuan GTH5 (China)</RadiosondeSoundingSystemUsed_en>
+    <Status>Operational</Status>
+  </C02>
+  <C02>
+    <DateOfAssignment_en>14/11/2023</DateOfAssignment_en>
+    <CodeFigureForrara>Not available</CodeFigureForrara>
+    <CodeFigureForBUFR>209</CodeFigureForBUFR>
+    <RadiosondeSoundingSystemUsed_en>Shanghai GTH6 (China)</RadiosondeSoundingSystemUsed_en>
+    <Status>Operational</Status>
+  </C02>
+  <C02>
     <DateOfAssignment_en/>
     <CodeFigureForrara>Not available</CodeFigureForrara>
-    <CodeFigureForBUFR>204-254</CodeFigureForBUFR>
+    <CodeFigureForBUFR>210-254</CodeFigureForBUFR>
     <RadiosondeSoundingSystemUsed_en>Reserved for BUFR only</RadiosondeSoundingSystemUsed_en>
     <Status>Operational</Status>
   </C02>
