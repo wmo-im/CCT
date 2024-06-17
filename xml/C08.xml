@@ -1857,6 +1857,22 @@
     <Status>Operational</Status>
   </C08>
   <C08>
+    <Code>536</Code>
+    <Agency_en>tomorrow.io</Agency_en>
+    <Type_en>Radiometer</Type_en>
+    <InstrumentShortName_en>MWS</InstrumentShortName_en>
+    <InstrumentLongName_en>Microwave sounder</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>537</Code>
+    <Agency_en>tomorrow.io</Agency_en>
+    <Type_en>Radar</Type_en>
+    <InstrumentShortName_en>KAPR</InstrumentShortName_en>
+    <InstrumentLongName_en>Ka band precipitation radar</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
     <Code>540</Code>
     <Agency_en>NOAA</Agency_en>
     <Type_en>Communications</Type_en>
