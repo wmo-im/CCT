@@ -522,7 +522,7 @@
     <CodeFigure_DataCategories>7</CodeFigure_DataCategories>
     <Name_DataCategories_en>Synoptic features</Name_DataCategories_en>
     <CodeFigure_InternationalDataSubcategories>0</CodeFigure_InternationalDataSubcategories>
-    <Name_InternationalDataSubcategories_en>Forecast tropical cyclone tracks from EPS</Name_InternationalDataSubcategories_en>
+    <Name_InternationalDataSubcategories_en>Forecast tropical cyclone tracks from ensemble prediction system</Name_InternationalDataSubcategories_en>
     <Status>Operational</Status>
   </C13>
   <C13>
@@ -537,6 +537,20 @@
     <Name_DataCategories_en>Synoptic features</Name_DataCategories_en>
     <CodeFigure_InternationalDataSubcategories>2</CodeFigure_InternationalDataSubcategories>
     <Name_InternationalDataSubcategories_en>Forecast tropical cyclone from deterministic system</Name_InternationalDataSubcategories_en>
+    <Status>Operational</Status>
+  </C13>
+  <C13>
+    <CodeFigure_DataCategories>7</CodeFigure_DataCategories>
+    <Name_DataCategories_en>Synoptic features</Name_DataCategories_en>
+    <CodeFigure_InternationalDataSubcategories>3</CodeFigure_InternationalDataSubcategories>
+    <Name_InternationalDataSubcategories_en>Forecast tropical cyclone from machine learning deterministic system</Name_InternationalDataSubcategories_en>
+    <Status>Operational</Status>
+  </C13>
+  <C13>
+    <CodeFigure_DataCategories>7</CodeFigure_DataCategories>
+    <Name_DataCategories_en>Synoptic features</Name_DataCategories_en>
+    <CodeFigure_InternationalDataSubcategories>4</CodeFigure_InternationalDataSubcategories>
+    <Name_InternationalDataSubcategories_en>Forecast tropical cyclone from machine learning ensemble prediction system</Name_InternationalDataSubcategories_en>
     <Status>Operational</Status>
   </C13>
   <C13>
