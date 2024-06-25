@@ -2084,7 +2084,7 @@
     <Code>620</Code>
     <Agency_en>NOAA</Agency_en>
     <Type_en>Atmospheric temperature and humidity sounder</Type_en>
-    <InstrumentShortName_en>CrIRS/NP</InstrumentShortName_en>
+    <InstrumentShortName_en>CrIS/NP</InstrumentShortName_en>
     <InstrumentLongName_en>Cross-track infrared sounder/NPOESS</InstrumentLongName_en>
     <Status>Operational</Status>
   </C08>
