@@ -259,7 +259,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 616,NOAA,Imaging multi-spectral radiometer (vis/IR),VIIRS,Visible/infrared imager radiometer suite,Operational
 617,NOAA,Imaging multi-spectral radiometer,ABI,Advanced baseline imager,Operational
 618,NOAA,High-resolution optical imager,GLM,Geostationary lightning mapper,Operational
-620,NOAA,Atmospheric temperature and humidity sounder,CrIRS/NP,Cross-track infrared sounder/NPOESS,Operational
+620,NOAA,Atmospheric temperature and humidity sounder,CrIS/NP,Cross-track infrared sounder/NPOESS,Operational
 621,NOAA,Atmospheric temperature and humidity sounder,ATMS,Advanced technology microwave sounder,Operational
 622,NOAA,Radiometer,MSS,Multispectral scanning system,Operational
 623,NOAA,Radiometer,MSU,Microwave sounding unit,Operational
