@@ -57,14 +57,14 @@
     <Status>Operational</Status>
   </C05>
   <C05>
-    <CodeFigureForI6I6I6>006</CodeFigureForI6I6I6>
+    <CodeFigureForI6I6I6>007</CodeFigureForI6I6I6>
     <CodeFigureForBUFR>7</CodeFigureForBUFR>
     <CodeFigureForGRIB2>7</CodeFigureForGRIB2>
     <SatelliteName_en>CO2M-B</SatelliteName_en>
     <Status>Operational</Status>
   </C05>
   <C05>
-    <CodeFigureForI6I6I6>006</CodeFigureForI6I6I6>
+    <CodeFigureForI6I6I6>008</CodeFigureForI6I6I6>
     <CodeFigureForBUFR>8</CodeFigureForBUFR>
     <CodeFigureForGRIB2>8</CodeFigureForGRIB2>
     <SatelliteName_en>CO2M-C</SatelliteName_en>
