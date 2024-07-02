@@ -7,8 +7,8 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 004,4,4,METOP-2 (Metop-A),Operational
 005,5,5,METOP-3 (Metop-C),Operational
 006,6,6,CO2M-A,Operational
-006,7,7,CO2M-B,Operational
-006,8,8,CO2M-C,Operational
+007,7,7,CO2M-B,Operational
+008,8,8,CO2M-C,Operational
 020,20,20,SPOT1,Operational
 021,21,21,SPOT2,Operational
 022,22,22,SPOT3,Operational
