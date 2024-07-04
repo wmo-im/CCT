@@ -1,161 +1,161 @@
-CodeFigiure,UnitType,Meaning,Notation,WMOAbbreviation,IA5,ITA2,SIDefinition,Note,NoteID,Status
-'000',,Dimensionless,1,'1','1','1',,,,
-'001',Base SI units,metre,m,m,m,M,,(see Note 1),19,Operational
-'002',Base SI units,kilogram,kg,kg,kg,KG,,,,Operational
-'003',Base SI units,second,s,s,s,S,,,,Operational
-'004',Base SI units,ampere,A,A,A,A,,,,Operational
-'005',Base SI units,kelvin,K,K,K,K,,,,Operational
-'006',Base SI units,mole,mol,mol,mol,MOL,,,,Operational
-'007',Base SI units,candela,cd,cd,cd,CD,,,,Operational
-'021',Supplementary SI units,radian,rad,rad,rad,RAD,,(see Note 1),19,Operational
-'022',Supplementary SI units,steradian,sr,sr,sr,SR,,,,Operational
-'030',Derived SI units with special names,hertz,Hz,Hz,Hz,HZ,s-^1,(see Note 1),19,Operational
-'031',Derived SI units with special names,newton,N,N,N,N,kg m s^-2,,,Operational
-'032',Derived SI units with special names,pascal,Pa,Pa,Pa,PAL,kg m^-1 s^-2,,,Operational
-'033',Derived SI units with special names,joule,J,J,J,J,kg m^2 s^-2,,,Operational
-'034',Derived SI units with special names,watt,W,W,W,W,kg m^2 s^-3,,,Operational
-'035',Derived SI units with special names,coulomb,C,C,C,C,A s,,,Operational
-'036',Derived SI units with special names,volt,V,V,V,V,kg m^2 s^-3 A^-1,,,Operational
-'037',Derived SI units with special names,farad,F,F,F,F,kg^-1 m^-2 s^4 A^2,,,Operational
-'038',Derived SI units with special names,ohm,Ohm,Ω,Ohm,OHM,kg m^2 s^-3 A^-2,,,Operational
-'039',Derived SI units with special names,siemens,S,S,S,SIE,kg^-1 m^-2 s^3 A^2,,,Operational
-'040',Derived SI units with special names,weber,Wb,Wb,Wb,WB,kg m^2 s^-2 A^-1,,,Operational
-'041',Derived SI units with special names,tesla,T,T,T,T,kg s^-2 A^-1,,,Operational
-'042',Derived SI units with special names,henry,H,H,H,H,kg m^2 s^-2 A^-2,,,Operational
-'060',Derived SI units with special names,degree Celsius,Cel,˚C,Cel,CEL,K+273.15,,,Operational
-'070',Derived SI units with special names,lumen,lm,lm,lm,LM,cd sr,,,Operational
-'071',Derived SI units with special names,lux,lx,lx,lx,LX,cd sr m^-2,,,Operational
-'080',Derived SI units with special names,becquerel,Bq,Bq,Bq,BQ,s^-1,,,Operational
-'081',Derived SI units with special names,gray,Gy,Gy,Gy,GY,m^2 s^-2,,,Operational
-'082',Derived SI units with special names,sievert,Sv,Sv,Sv,SV,m^2 s^-2,,,Operational
-'110',"Other, non-SI, units recognized by CGPM",degree (angle),degree_(angle),˚,deg,DEG,,(see Note 4),10,Operational
-'111',"Other, non-SI, units recognized by CGPM",minute (angle),',',',MNT,,,,Operational
-'112',"Other, non-SI, units recognized by CGPM",second (angle),'','','',SEC,,,,Operational
-'120',"Other, non-SI, units recognized by CGPM",litre,l,l,l,L,,,,Operational
-'130',"Other, non-SI, units recognized by CGPM",minute (time),min,min,min,MIN,,,,Operational
-'131',"Other, non-SI, units recognized by CGPM",hour,h,h,h,HR,,,,Operational
-'132',"Other, non-SI, units recognized by CGPM",day,d,d,d,D,,,,Operational
-'150',"Other, non-SI, units recognized by CGPM",tonne,t,t,t,TNE,,,,Operational
-'160',"Other, non-SI, units recognized by CGPM",electron volt,eV,eV,eV,EV,,,,Operational
-'161',"Other, non-SI, units recognized by CGPM",atomic mass unit,u,u,u,U,,,,Operational
-'170',"Other, non-SI, units recognized by CGPM",astronomic unit,AU,AU,AU,ASU,,,,Operational
-'171',"Other, non-SI, units recognized by CGPM",parsec,pc,pc,pc,PRS,,,,Operational
-'200',Non-SI Units tolerated because of widespread use,nautical mile,nautical_mile, ,,,,(see Note 7),21,Operational
-'201',Non-SI Units tolerated because of widespread use,knot,kt,kt,kt,KT,,,,Operational
-'210',Non-SI Units tolerated because of widespread use,decibel,dB,dB,dB,DB,,(see Note 6),17,Operational
-'220',Non-SI Units tolerated because of widespread use,hectare,ha,ha,ha,HAR,,,,Operational
-'230',Non-SI Units tolerated because of widespread use,week,week, ,,,,,,Operational
-'231',Non-SI Units tolerated because of widespread use,year,a,a,a,A,,,,Operational
-'300',Non-SI Units tolerated because of widespread use,per cent,percent,%,%,PERCENT,,,,Operational
-'301',Non-SI Units tolerated because of widespread use,parts per thousand,0.001,‰,0/00,PERTHOU,,,,Operational
-'310',Non-SI Units tolerated because of widespread use,eighths of cloud,okta,okta,okta,OKTA,,,,Operational
-'320',Non-SI Units tolerated because of widespread use,degrees true,degrees_true,˚,deg,DEG,,,,Operational
-'321',Non-SI Units tolerated because of widespread use,degrees per second,deg_s-1,degree/s,deg/s,DEG/S,,,,Operational
-'350',Non-SI Units tolerated because of widespread use,degrees Celsius,degC,˚ C,C,C,,(see Note 8),13,Operational
-'351',Non-SI Units tolerated because of widespread use,degrees Celsius per metre,C_m-1,˚ C/m,C/m,C/M,,,,Operational
-'352',Non-SI Units tolerated because of widespread use,degrees Celsius per 100 metres,C_-1,˚ C/100 m,C/100 m,C/100 M,,,,Operational
-'360',Non-SI Units tolerated because of widespread use,Dobson Unit,DU,DU,DU,DU,,(see Note 9),4,Operational
-'430',Non-SI Units tolerated because of widespread use,month,mon,mon,mon,MON,,,,Operational
-'441',Non-SI Units tolerated because of widespread use,per second (same as hertz),s-1,s^-1,/s,/S,,,,Operational
-'442',Non-SI Units tolerated because of widespread use,per second squared,s-2,s^-2,s-2,,,,,Operational
-'501',Non-SI Units tolerated because of widespread use,knots per 1000 metres,kt_km-1,kt/1000 m,kt/km,KT/KM,,,,Operational
-'510',Non-SI Units tolerated because of widespread use,foot,ft,ft,ft,FT,,,,Operational
-'520',Non-SI Units tolerated because of widespread use,decipascals per second (microbar per second),dPa_s-1,dPa s^-1,dPa/s,DPAL/S,,,,Operational
-'521',Non-SI Units tolerated because of widespread use,centibars per second,cb_s-1,cb s^-1,cb/s,CB/S,,,,Operational
-'522',Non-SI Units tolerated because of widespread use,centibars per 12 hours,cb_-1,cb/12 h,cb/12 h,CB/12 HR,,,,Operational
-'523',Non-SI Units tolerated because of widespread use,dekapascal,daPa,daPa,daPa,DAPAL,,,,Operational
-'530',Non-SI Units tolerated because of widespread use,hectopascal,hPa,hPa,hPa,HPAL,,,,Operational
-'531',Non-SI Units tolerated because of widespread use,hectopascals per second,hPa_s-1,hPa s^-1,hPa/s,HPAL/S,,,,Operational
-'532',Non-SI Units tolerated because of widespread use,hectopascals per hour,hPa_h-1,hPa h^-1,hPa/h,HPAL/HR,,,,Operational
-'533',Non-SI Units tolerated because of widespread use,hectopascals per 3 hours,hPa_-1,hPa/3 h,hPa/3 h,HPAL/3 HR,,,,Operational
-'535',Non-SI Units tolerated because of widespread use,nanobar = hPa 10^-6,nbar,nbar,nbar,NBAR,,,,Operational
-'620',Non-SI Units tolerated because of widespread use,grams per kilogram,g_kg-1,g kg^-1,g/kg,G/KG,,,,Operational
-'621',Non-SI Units tolerated because of widespread use,grams per kilogram per second,g_kg-1_s-1,g kg^-1 s^-1,g kg-1 s-1,,,,,Operational
-'622',Non-SI Units tolerated because of widespread use,kilograms per kilogram,kg_kg-1,kg kg^-1,kg/kg,,,,,Operational
-'623',Non-SI Units tolerated because of widespread use,kilograms per kilogram per second,kg_kg-1_s-1,kg kg^-1 s^-1,kg kg-1 s-1,,,,,Operational
-'624',Non-SI Units tolerated because of widespread use,kilograms per square metre,kg_m-2,kg m^-2,kg m-2,,,,,Operational
-'630',Non-SI Units tolerated because of widespread use,acceleration due to gravity,g,g,g,,,,,Operational
-'631',Non-SI Units tolerated because of widespread use,geopotential metre,gpm,gpm,gpm,,,,,Operational
-'710',Non-SI Units tolerated because of widespread use,millimetre,mm,mm,mm,MM,,,,Operational
-'711',Non-SI Units tolerated because of widespread use,millimetres per seconds,mm_s-1,mm s^-1,mm/s,MM/S,,,,Operational
-'712',Non-SI Units tolerated because of widespread use,millimetres per hour,mm_h-1,mm h^-1,mm/h,MM/HR,,,,Operational
-'713',Non-SI Units tolerated because of widespread use,millimetres per the sixth power per cubic metre,mm6_m-3,mm^6 m^-3,mm6 m-3,,,,,Operational
-'715',Non-SI Units tolerated because of widespread use,centimetre,cm,cm,cm,CM,,,,Operational
-'716',Non-SI Units tolerated because of widespread use,centimetres per second,cm_s-1,cm s^-1,cm/s,CM/S,,,,Operational
-'717',Non-SI Units tolerated because of widespread use,centimetres per hour,cm_h-1,cm h^-1,cm/h,CM/HR,,,,Operational
-'720',Non-SI Units tolerated because of widespread use,decimetre,dm,dm,dm,DM,,,,Operational
-'731',Non-SI Units tolerated because of widespread use,metres per second,m_s-1,m s^-1,m/s,M/S,,,,Operational
-'732',Non-SI Units tolerated because of widespread use,metres per second per metre,m_s-1_m-1,m s^-1/m,m s-1/m,,,,,Operational
-'733',Non-SI Units tolerated because of widespread use,metres per second per 1000 metres,m_s-1_km-1,m s^-1/1000 m,m s-1/km,,,,,Operational
-'734',Non-SI Units tolerated because of widespread use,square metres,m2,m^2,m2,M2,,,,Operational
-'735',Non-SI Units tolerated because of widespread use,square metres per second,m2_s-1,m^2 s^-1,m2/s,M2/S,,,,Operational
-'740',Non-SI Units tolerated because of widespread use,kilometre,km,km,km,KM,,,,Operational
-'741',Non-SI Units tolerated because of widespread use,kilometres per hour,km_h-1,km h^-1,km/h,KM/HR,,,,Operational
-'742',Non-SI Units tolerated because of widespread use,kilometres per day,km_d-1,km/d,km/d,KM/D,,,,Operational
-'743',Non-SI Units tolerated because of widespread use,per metre,m-1,m^-1,m-1,/M,,,,Operational
-'750',Non-SI Units tolerated because of widespread use,becquerels per litre,Bq_l-1,Bq l^-1,Bq/l,BQ/L,,,,Operational
-'751',Non-SI Units tolerated because of widespread use,becquerels per square metre,Bq_m-2,Bq m^-2,Bq m-2,BQ/M2,,,,Operational
-'752',Non-SI Units tolerated because of widespread use,becquerels per cubic metre,Bq_m-3,Bq m^-3,Bq m-3,BQ/M3,,,,Operational
-'753',Non-SI Units tolerated because of widespread use,millisievert,mSv,mSv,mSv,MSV,,,,Operational
-'760',Non-SI Units tolerated because of widespread use,metres per second squared,m_s-2,m s^-2,m s-2,,,,,Operational
-'761',Non-SI Units tolerated because of widespread use,square metres second,m2_s,m^2 s,m2 s,,,,,Operational
-'762',Non-SI Units tolerated because of widespread use,square metres per second squared,m2_s-2,m^2 s^-2,m2 s-2,,,,,Operational
-'763',Non-SI Units tolerated because of widespread use,square metres per radian squared,m2_rad-1_s,m^2 rad^-1 s,m2 rad-1 s,,,,,Operational
-'764',Non-SI Units tolerated because of widespread use,square metres per hertz,m2_Hz-1,m^2 Hz^-1,m2/Hz,,,,,Operational
-'765',Non-SI Units tolerated because of widespread use,cubic metres,m3,m^3,m3,,,,,Operational
-'766',Non-SI Units tolerated because of widespread use,cubic metres per second,m3_s-1,m^3 s^-1,m3/s,,,,,Operational
-'767',Non-SI Units tolerated because of widespread use,cubic metres per cubic metre,m3_m-3,m^3 m^-3,m3 m-3,,,,,Operational
-'768',Non-SI Units tolerated because of widespread use,metres to the fourth power,m4,m^4,m4,,,,,Operational
-'769',Non-SI Units tolerated because of widespread use,metres to the two thirds power per second,m2_-1,m^2/3 s^-1,m2/3 s-1,,,,,Operational
-'772',Non-SI Units tolerated because of widespread use,logarithm per metre,log_(m-1),log (m^-1),log (m-1),,,,,Operational
-'773',Non-SI Units tolerated because of widespread use,logarithm per square metre,log_(m-2),log (m^-2),log (m-2),,,,,Operational
-'775',Non-SI Units tolerated because of widespread use,kilograms per metre,kg_m-1,km m^-1,kg/m,,,,,Operational
-'776',Non-SI Units tolerated because of widespread use,kilograms per square metre per second,kg_m-2_s-1,kg m^-2 s^-1,kg m-2 s-1,,,,,Operational
-'777',Non-SI Units tolerated because of widespread use,kilograms per cubic metre,kg_m-3,kg m^-3,kg m-3,,,,,Operational
-'778',Non-SI Units tolerated because of widespread use,per square kilogram per second,kg-2_s-1,kg^-2 s^-1,kg-2 s-1,,,,,Operational
-'779',Non-SI Units tolerated because of widespread use,seconds per metre,s_m-1,s m^-1,s/m,,,,,Operational
-'785',Non-SI Units tolerated because of widespread use,kelvin metres per second,K_m_s-1,K m s^-1,K m s-1,,,,,Operational
-'786',Non-SI Units tolerated because of widespread use,kelvins per metre,K_m-1,K m^-1,K/m,,,,,Operational
-'787',Non-SI Units tolerated because of widespread use,kelvin square metres per kilogram per second,K_m2_kg-1_s-1,K m^2 kg^-1 s^-1,K m2 kg-1 s-1,,,,,Operational
-'788',Non-SI Units tolerated because of widespread use,moles per mole,mol_mol-1, mol mol^-1,mol/mol,,,,,Operational
-'790',Non-SI Units tolerated because of widespread use,radians per metre,rad_m-1,rad m^-1,rad/m,,,,,Operational
-'795',Non-SI Units tolerated because of widespread use,newtons per square metre,N_m-2,N m^-2,N m-2,,,,,Operational
-'800',Non-SI Units tolerated because of widespread use,pascals per second,Pa_s-1,Pa s^-1,Pa/s,,,,,Operational
-'801',Non-SI Units tolerated because of widespread use,kilopascal,kPa,kPa,kPa,,,,,Operational
-'805',Non-SI Units tolerated because of widespread use,joules per square metre,J_m-2,J m^-2,J m-2,,,,,Operational
-'806',Non-SI Units tolerated because of widespread use,joules per kilogram,J_kg-1,J kg^-1,J/kg,,,,,Operational
-'810',Non-SI Units tolerated because of widespread use,watts per metre per steradian,W_m-1_sr-1,W m^-1 sr^-1,W m-1 sr-1,,,,,Operational
-'811',Non-SI Units tolerated because of widespread use,watts per square metre,W_m-2,W m^-2,W m-2,,,,,Operational
-'812',Non-SI Units tolerated because of widespread use,watts per square metre per steradian,W_m-2_sr-1,W m^-2 sr^-1,W m-2 sr-1,,,,,Operational
-'813',Non-SI Units tolerated because of widespread use,watts per square metre per steradian centimetre,W_m-2_sr-1_cm,W m^-2 sr^-1 cm,W m-2 sr-1 cm,,,,,Operational
-'814',Non-SI Units tolerated because of widespread use,watts per square metre per steradian metre,W_m-2_sr-1_m,W m^-2 sr^-1 m,W m-2 sr-1 m,,,,,Operational
-'815',Non-SI Units tolerated because of widespread use,watts per cubic metre per steradian,W_m-3_sr-1,W m^-3 sr^-1,W m-3 sr-1,,,,,Operational
-'820',Non-SI Units tolerated because of widespread use,siemens per metre,S_m-1,S m^-1,S/m,,,,,Operational
-'825',Non-SI Units tolerated because of widespread use,square degrees,deg2,degrees^2,deg^2,,,,,Operational
-'830',Non-SI Units tolerated because of widespread use,becquerel seconds per cubic metre,Bq_s_m-3,Bq s m^-3,Bq s m-3,,,,,Operational
-'835',Non-SI Units tolerated because of widespread use,decibels per metre,dB_m-1,dB m^-1,dB/m,,,,,Operational
-'836',Non-SI Units tolerated because of widespread use,decibels per degree,dB_deg-1,dB degree^-1,dB/deg,,,,,Operational
-'841',Non-SI Units tolerated because of widespread use,pH unit,pH_unit,pH unit,pH unit,,,,,Operational
-'842',Non-SI Units tolerated because of widespread use,N units,N_units,N units,N units,,,,,Operational
-'843',Non-SI Units tolerated because of widespread use,Nephelometric turbidity units,NTU,NTU,,,,,,Operational
-'844',Non-SI Units tolerated because of widespread use,Total electron content unit,TECU,TECU,,,10^16 Electrons m^�2,,,
-na1,SI Unit prefixes,(yotta),(Y)_pref,(Y),(Y),(Y),,"(see Notes 1, 3 and 4)","19,9,10",
-na2,SI Unit prefixes,(zetta),(Z)_pref,(Z),(Z),(Z),,,,
-na3,SI Unit prefixes,exa,E_pref,E,E,E,,,,
-na4,SI Unit prefixes,peta,P_pref,P,P,PE,,,,
-na5,SI Unit prefixes,tera,T_pref,T,T,T,,,,
-na6,SI Unit prefixes,giga,G_pref,G,G,G,,,,
-na7,SI Unit prefixes,mega,M_pref,M,M,MA,,,,
-na8,SI Unit prefixes,kilo,k_pref,k,k,K,,,,
-na9,SI Unit prefixes,hecto,h_pref,h,h,H,,,,
-na10,SI Unit prefixes,deca,da_pref,da,da,D,,,,
-na11,SI Unit prefixes,deci,d_pref,d,d,D,,,,
-na12,SI Unit prefixes,centi,c_pref,c,c,C,,,,
-na13,SI Unit prefixes,milli,m_pref,m,m,M,,,,
-na14,SI Unit prefixes,micro,u_pref,µ,u,U,,,,
-na15,SI Unit prefixes,nano,n_pref,n,n,N,,,,
-na16,SI Unit prefixes,pico,p_pref,p,p,P,,,,
-na17,SI Unit prefixes,femto,f_pref,f,f,F,,,,
-na18,SI Unit prefixes,atto,a_pref,a,a,A,,,,
-na19,SI Unit prefixes,(zepto),(z)_pref,(z),(z),,,,,
-na20,SI Unit prefixes,(yocto),(y)_pref,(y),(y),,,,,
+CodeFigure,UnitType,Meaning,conventional,IA5-ASCII,ITA2,SIDefinition,Note,NoteID,Status
+001,Base SI units,metre,m,m,M,,(see Note 1),19,Operational
+002,Base SI units,kilogram,kg,kg,KG,,,,Operational
+003,Base SI units,second,s,s,S,,,,Operational
+004,Base SI units,ampere,A,A,A,,,,Operational
+005,Base SI units,kelvin,K,K,K,,,,Operational
+006,Base SI units,mole,mol,mol,MOL,,,,Operational
+007,Base SI units,candela,cd,cd,CD,,,,Operational
+021,Supplementary SI units,radian,rad,rad,RAD,,(see Note 1),19,Operational
+022,Supplementary SI units,steradian,sr,sr,SR,,,,Operational
+030,Derived SI units with special names,hertz,Hz,Hz,HZ,s-^1,(see Note 1),19,Operational
+031,Derived SI units with special names,newton,N,N,N,kg m s^-2,,,Operational
+032,Derived SI units with special names,pascal,Pa,Pa,PAL,kg m^-1 s^-2,,,Operational
+033,Derived SI units with special names,joule,J,J,J,kg m^2 s^-2,,,Operational
+034,Derived SI units with special names,watt,W,W,W,kg m^2 s^-3,,,Operational
+035,Derived SI units with special names,coulomb,C,C,C,A s,,,Operational
+036,Derived SI units with special names,volt,V,V,V,kg m^2 s^-3 A^-1,,,Operational
+037,Derived SI units with special names,farad,F,F,F,kg^-1 m^-2 s^4 A^2,,,Operational
+038,Derived SI units with special names,ohm,Ω,Ohm,OHM,kg m^2 s^-3 A^-2,,,Operational
+039,Derived SI units with special names,siemens,S,S,SIE,kg^-1 m^-2 s^3 A^2,,,Operational
+040,Derived SI units with special names,weber,Wb,Wb,WB,kg m^2 s^-2 A^-1,,,Operational
+041,Derived SI units with special names,tesla,T,T,T,kg s^-2 A^-1,,,Operational
+042,Derived SI units with special names,henry,H,H,H,kg m^2 s^-2 A^-2,,,Operational
+060,Derived SI units with special names,degree Celsius,˚C,Cel,CEL,K+273.15,,,Operational
+070,Derived SI units with special names,lumen,lm,lm,LM,cd sr,,,Operational
+071,Derived SI units with special names,lux,lx,lx,LX,cd sr m^-2,,,Operational
+080,Derived SI units with special names,becquerel,Bq,Bq,BQ,s^-1,,,Operational
+081,Derived SI units with special names,grey,Gy,Gy,GY,m^2 s^-2,,,Operational
+082,Derived SI units with special names,sievert,Sv,Sv,SV,m^2 s^-2,,,Operational
+110,"Other, non-SI, units recognized by CGPM",degree (angle),˚,deg,DEG,,(see Note 4),10,Operational
+111,"Other, non-SI, units recognized by CGPM",minute (angle),',',MNT,,,,Operational
+112,"Other, non-SI, units recognized by CGPM",second (angle),'','',SEC,,,,Operational
+120,"Other, non-SI, units recognized by CGPM",litre,l or L,l or L,L,,,,Operational
+130,"Other, non-SI, units recognized by CGPM",minute (time),min,min,MIN,,,,Operational
+131,"Other, non-SI, units recognized by CGPM",hour,h,h,HR,,,,Operational
+132,"Other, non-SI, units recognized by CGPM",day,d,d,D,,,,Operational
+150,"Other, non-SI, units recognized by CGPM",tonne,t,t,TNE,,,,Operational
+160,"Other, non-SI, units recognized by CGPM",electron volt,eV,eV,EV,,,,Operational
+161,"Other, non-SI, units recognized by CGPM",atomic mass unit,u,u,U,,,,Operational
+170,"Other, non-SI, units recognized by CGPM",astronomic unit,AU,AU,ASU,,,,Operational
+171,"Other, non-SI, units recognized by CGPM",parsec,pc,pc,PRS,,,,Operational
+200,Non-SI Units tolerated because of widespread use,nautical mile, ,,,,(see Note 7),21,Operational
+201,Non-SI Units tolerated because of widespread use,knot,kt,kt,KT,,,,Operational
+210,Non-SI Units tolerated because of widespread use,decibel,dB,dB,DB,,(see Note 6),17,Operational
+220,Non-SI Units tolerated because of widespread use,hectare,ha,ha,HAR,,,,Operational
+230,Non-SI Units tolerated because of widespread use,week, ,,,,,,Operational
+231,Non-SI Units tolerated because of widespread use,year,a,a,A,,,,Operational
+300,Non-SI Units tolerated because of widespread use,per cent,%,%,PERCENT,,,,Operational
+301,Non-SI Units tolerated because of widespread use,parts per thousand,‰,0/00,PERTHOU,,,,Operational
+310,Non-SI Units tolerated because of widespread use,eighths of cloud,okta,okta,OKTA,,,,Operational
+320,Non-SI Units tolerated because of widespread use,degrees true,˚,deg,DEG,,,,Operational
+321,Non-SI Units tolerated because of widespread use,degrees per second,degree/s,deg/s,DEG/S,,,,Operational
+350,Non-SI Units tolerated because of widespread use,degrees Celsius,˚ C,C,C,,(see Note 8),13,Operational
+351,Non-SI Units tolerated because of widespread use,degrees Celsius per metre,˚ C/m,C/m,C/M,,,,Operational
+352,Non-SI Units tolerated because of widespread use,degrees Celsius per 100 metres,˚ C/100 m,C/100 m,C/100 M,,,,Operational
+360,Non-SI Units tolerated because of widespread use,Dobson Unit,DU,DU,DU,,(see Note 9),4,Operational
+430,Non-SI Units tolerated because of widespread use,month,mon,mon,MON,,,,Operational
+441,Non-SI Units tolerated because of widespread use,per second (same as hertz),s^-1,/s,/S,,,,Operational
+442,Non-SI Units tolerated because of widespread use,per second squared,s^-2,s-2,,,,,Operational
+501,Non-SI Units tolerated because of widespread use,knots per 1000 metres,kt/1000 m,kt/km,KT/KM,,,,Operational
+510,Non-SI Units tolerated because of widespread use,foot,ft,ft,FT,,,,Operational
+511,Non-SI Units tolerated because of widespread use,inch,in,in,IN,,,,
+520,Non-SI Units tolerated because of widespread use,decipascals per second (microbar per second),dPa s^-1,dPa/s,DPAL/S,,,,Operational
+521,Non-SI Units tolerated because of widespread use,centibars per second,cb s^-1,cb/s,CB/S,,,,Operational
+522,Non-SI Units tolerated because of widespread use,centibars per 12 hours,cb/12 h,cb/12 h,CB/12 HR,,,,Operational
+523,Non-SI Units tolerated because of widespread use,dekapascal,daPa,daPa,DAPAL,,,,Operational
+530,Non-SI Units tolerated because of widespread use,hectopascal,hPa,hPa,HPAL,,,,Operational
+531,Non-SI Units tolerated because of widespread use,hectopascals per second,hPa s^-1,hPa/s,HPAL/S,,,,Operational
+532,Non-SI Units tolerated because of widespread use,hectopascals per hour,hPa h^-1,hPa/h,HPAL/HR,,,,Operational
+533,Non-SI Units tolerated because of widespread use,hectopascals per 3 hours,hPa/3 h,hPa/3 h,HPAL/3 HR,,,,Operational
+535,Non-SI Units tolerated because of widespread use,nanobar = hPa 10^-6,nbar,nbar,NBAR,,,,Operational
+620,Non-SI Units tolerated because of widespread use,grams per kilogram,g kg^-1,g/kg,G/KG,,,,Operational
+621,Non-SI Units tolerated because of widespread use,grams per kilogram per second,g kg^-1 s^-1,g kg-1 s-1,,,,,Operational
+622,Non-SI Units tolerated because of widespread use,kilograms per kilogram,kg kg^-1,kg/kg,,,,,Operational
+623,Non-SI Units tolerated because of widespread use,kilograms per kilogram per second,kg kg^-1 s^-1,kg kg-1 s-1,,,,,Operational
+624,Non-SI Units tolerated because of widespread use,kilograms per square metre,kg m^-2,kg m-2,,,,,Operational
+630,Non-SI Units tolerated because of widespread use,acceleration due to gravity,g,g,,,,,Operational
+631,Non-SI Units tolerated because of widespread use,geopotential metre,gpm,gpm,,,,,Operational
+710,Non-SI Units tolerated because of widespread use,millimetre,mm,mm,MM,,,,Operational
+711,Non-SI Units tolerated because of widespread use,millimetres per seconds,mm s^-1,mm/s,MM/S,,,,Operational
+712,Non-SI Units tolerated because of widespread use,millimetres per hour,mm h^-1,mm/h,MM/HR,,,,Operational
+713,Non-SI Units tolerated because of widespread use,millimetres per the sixth power per cubic metre,mm^6 m^-3,mm6 m-3,,,,,Operational
+715,Non-SI Units tolerated because of widespread use,centimetre,cm,cm,CM,,,,Operational
+716,Non-SI Units tolerated because of widespread use,centimetres per second,cm s^-1,cm/s,CM/S,,,,Operational
+717,Non-SI Units tolerated because of widespread use,centimetres per hour,cm h^-1,cm/h,CM/HR,,,,Operational
+720,Non-SI Units tolerated because of widespread use,decimetre,dm,dm,DM,,,,Operational
+731,Non-SI Units tolerated because of widespread use,metres per second,m s^-1,m/s,M/S,,,,Operational
+732,Non-SI Units tolerated because of widespread use,metres per second per metre,m s^-1/m,m s-1/m,,,,,Operational
+733,Non-SI Units tolerated because of widespread use,metres per second per 1000 metres,m s^-1/1000 m,m s-1/km,,,,,Operational
+734,Non-SI Units tolerated because of widespread use,square metres,m^2,m2,M2,,,,Operational
+735,Non-SI Units tolerated because of widespread use,square metres per second,m^2 s^-1,m2/s,M2/S,,,,Operational
+740,Non-SI Units tolerated because of widespread use,kilometre,km,km,KM,,,,Operational
+741,Non-SI Units tolerated because of widespread use,kilometres per hour,km h^-1,km/h,KM/HR,,,,Operational
+742,Non-SI Units tolerated because of widespread use,kilometres per day,km/d,km/d,KM/D,,,,Operational
+743,Non-SI Units tolerated because of widespread use,per metre,m^-1,m-1,/M,,,,Operational
+750,Non-SI Units tolerated because of widespread use,becquerels per litre,Bq l^-1,Bq/l,BQ/L,,,,Operational
+751,Non-SI Units tolerated because of widespread use,becquerels per square metre,Bq m^-2,Bq m-2,BQ/M2,,,,Operational
+752,Non-SI Units tolerated because of widespread use,becquerels per cubic metre,Bq m^-3,Bq m-3,BQ/M3,,,,Operational
+753,Non-SI Units tolerated because of widespread use,millisievert,mSv,mSv,MSV,,,,Operational
+760,Non-SI Units tolerated because of widespread use,metres per second squared,m s^-2,m s-2,,,,,Operational
+761,Non-SI Units tolerated because of widespread use,square metres second,m^2 s,m2 s,,,,,Operational
+762,Non-SI Units tolerated because of widespread use,square metres per second squared,m^2 s^-2,m2 s-2,,,,,Operational
+763,Non-SI Units tolerated because of widespread use,square metres per radian squared,m^2 rad^-1 s,m2 rad-1 s,,,,,Operational
+764,Non-SI Units tolerated because of widespread use,square metres per hertz,m^2 Hz^-1,m2/Hz,,,,,Operational
+765,Non-SI Units tolerated because of widespread use,cubic metres,m^3,m3,,,,,Operational
+766,Non-SI Units tolerated because of widespread use,cubic metres per second,m^3 s^-1,m3/s,,,,,Operational
+767,Non-SI Units tolerated because of widespread use,cubic metres per cubic metre,m^3 m^-3,m3 m-3,,,,,Operational
+768,Non-SI Units tolerated because of widespread use,metres to the fourth power,m^4,m4,,,,,Operational
+769,Non-SI Units tolerated because of widespread use,metres to the two thirds power per second,m^2/3 s^-1,m2/3 s-1,,,,,Operational
+772,Non-SI Units tolerated because of widespread use,logarithm per metre,log (m^-1),log (m-1),,,,,Operational
+773,Non-SI Units tolerated because of widespread use,logarithm per square metre,log (m^-2),log (m-2),,,,,Operational
+775,Non-SI Units tolerated because of widespread use,kilograms per metre,km m^-1,kg/m,,,,,Operational
+776,Non-SI Units tolerated because of widespread use,kilograms per square metre per second,kg m^-2 s^-1,kg m-2 s-1,,,,,Operational
+777,Non-SI Units tolerated because of widespread use,kilograms per cubic metre,kg m^-3,kg m-3,,,,,Operational
+778,Non-SI Units tolerated because of widespread use,per square kilogram per second,kg^-2 s^-1,kg-2 s-1,,,,,Operational
+779,Non-SI Units tolerated because of widespread use,seconds per metre,s m^-1,s/m,,,,,Operational
+785,Non-SI Units tolerated because of widespread use,kelvin metres per second,K m s^-1,K m s-1,,,,,Operational
+786,Non-SI Units tolerated because of widespread use,kelvins per metre,K m^-1,K/m,,,,,Operational
+787,Non-SI Units tolerated because of widespread use,kelvin square metres per kilogram per second,K m^2 kg^-1 s^-1,K m2 kg-1 s-1,,,,,Operational
+788,Non-SI Units tolerated because of widespread use,moles per mole, mol mol^-1,mol/mol,,,,,Operational
+790,Non-SI Units tolerated because of widespread use,radians per metre,rad m^-1,rad/m,,,,,Operational
+795,Non-SI Units tolerated because of widespread use,newtons per square metre,N m^-2,N m-2,,,,,Operational
+800,Non-SI Units tolerated because of widespread use,pascals per second,Pa s^-1,Pa/s,,,,,Operational
+801,Non-SI Units tolerated because of widespread use,kilopascal,kPa,kPa,,,,,Operational
+805,Non-SI Units tolerated because of widespread use,joules per square metre,J m^-2,J m-2,,,,,Operational
+806,Non-SI Units tolerated because of widespread use,joules per kilogram,J kg^-1,J/kg,,,,,Operational
+810,Non-SI Units tolerated because of widespread use,watts per metre per steradian,W m^-1 sr^-1,W m-1 sr-1,,,,,Operational
+811,Non-SI Units tolerated because of widespread use,watts per square metre,W m^-2,W m-2,,,,,Operational
+812,Non-SI Units tolerated because of widespread use,watts per square metre per steradian,W m^-2 sr^-1,W m-2 sr-1,,,,,Operational
+813,Non-SI Units tolerated because of widespread use,watts per square metre per steradian centimetre,W m^-2 sr^-1 cm,W m-2 sr-1 cm,,,,,Operational
+814,Non-SI Units tolerated because of widespread use,watts per square metre per steradian metre,W m^-2 sr^-1 m,W m-2 sr-1 m,,,,,Operational
+815,Non-SI Units tolerated because of widespread use,watts per cubic metre per steradian,W m^-3 sr^-1,W m-3 sr-1,,,,,Operational
+820,Non-SI Units tolerated because of widespread use,siemens per metre,S m^-1,S/m,,,,,Operational
+825,Non-SI Units tolerated because of widespread use,square degrees,degrees^2,deg^2,,,,,Operational
+830,Non-SI Units tolerated because of widespread use,becquerel seconds per cubic metre,Bq s m^-3,Bq s m-3,,,,,Operational
+835,Non-SI Units tolerated because of widespread use,decibels per metre,dB m^-1,dB/m,,,,,Operational
+836,Non-SI Units tolerated because of widespread use,decibels per degree,dB degree^-1,dB/deg,,,,,Operational
+841,Non-SI Units tolerated because of widespread use,pH unit,pH unit,pH unit,,,,,Operational
+842,Non-SI Units tolerated because of widespread use,N units,N units,N units,,,,,Operational
+843,Non-SI Units tolerated because of widespread use,Nephelometric turbidity units,NTU,,,,,,Operational
+844,Non-SI Units tolerated because of widespread use,Total electron content unit,TECU,,,10^16 Electrons m^�2,,,
+na1,SI Unit prefixes,(yotta),(Y),(Y),(Y),,"(see Notes 1, 3 and 4)","19,9,10",
+na2,SI Unit prefixes,(zetta),(Z),(Z),(Z),,,,
+na3,SI Unit prefixes,exa,E,E,E,,,,
+na4,SI Unit prefixes,peta,P,P,PE,,,,
+na5,SI Unit prefixes,tera,T,T,T,,,,
+na6,SI Unit prefixes,giga,G,G,G,,,,
+na7,SI Unit prefixes,mega,M,M,MA,,,,
+na8,SI Unit prefixes,kilo,k,k,K,,,,
+na9,SI Unit prefixes,hecto,h,h,H,,,,
+na10,SI Unit prefixes,deca,da,da,D,,,,
+na11,SI Unit prefixes,deci,d,d,D,,,,
+na12,SI Unit prefixes,centi,c,c,C,,,,
+na13,SI Unit prefixes,milli,m,m,M,,,,
+na14,SI Unit prefixes,micro,µ,u,U,,,,
+na15,SI Unit prefixes,nano,n,n,N,,,,
+na16,SI Unit prefixes,pico,p,p,P,,,,
+na17,SI Unit prefixes,femto,f,f,F,,,,
+na18,SI Unit prefixes,atto,a,a,A,,,,
+na19,SI Unit prefixes,(zepto),(z),(z),,,,,
+na20,SI Unit prefixes,(yocto),(y),(y),,,,,
