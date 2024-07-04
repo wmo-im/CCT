@@ -1,0 +1,1923 @@
+<?xml version="1.0" ?>
+<dataroot>
+  <C06>
+    <CodeFigure>001</CodeFigure>
+    <UnitType>Base SI units</UnitType>
+    <Meaning>metre</Meaning>
+    <conventional>m</conventional>
+    <IA5-ASCII>m</IA5-ASCII>
+    <ITA2>M</ITA2>
+    <SIDefinition/>
+    <Note>(see Note 1)</Note>
+    <NoteID>19</NoteID>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>002</CodeFigure>
+    <UnitType>Base SI units</UnitType>
+    <Meaning>kilogram</Meaning>
+    <conventional>kg</conventional>
+    <IA5-ASCII>kg</IA5-ASCII>
+    <ITA2>KG</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>003</CodeFigure>
+    <UnitType>Base SI units</UnitType>
+    <Meaning>second</Meaning>
+    <conventional>s</conventional>
+    <IA5-ASCII>s</IA5-ASCII>
+    <ITA2>S</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>004</CodeFigure>
+    <UnitType>Base SI units</UnitType>
+    <Meaning>ampere</Meaning>
+    <conventional>A</conventional>
+    <IA5-ASCII>A</IA5-ASCII>
+    <ITA2>A</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>005</CodeFigure>
+    <UnitType>Base SI units</UnitType>
+    <Meaning>kelvin</Meaning>
+    <conventional>K</conventional>
+    <IA5-ASCII>K</IA5-ASCII>
+    <ITA2>K</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>006</CodeFigure>
+    <UnitType>Base SI units</UnitType>
+    <Meaning>mole</Meaning>
+    <conventional>mol</conventional>
+    <IA5-ASCII>mol</IA5-ASCII>
+    <ITA2>MOL</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>007</CodeFigure>
+    <UnitType>Base SI units</UnitType>
+    <Meaning>candela</Meaning>
+    <conventional>cd</conventional>
+    <IA5-ASCII>cd</IA5-ASCII>
+    <ITA2>CD</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>021</CodeFigure>
+    <UnitType>Supplementary SI units</UnitType>
+    <Meaning>radian</Meaning>
+    <conventional>rad</conventional>
+    <IA5-ASCII>rad</IA5-ASCII>
+    <ITA2>RAD</ITA2>
+    <SIDefinition/>
+    <Note>(see Note 1)</Note>
+    <NoteID>19</NoteID>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>022</CodeFigure>
+    <UnitType>Supplementary SI units</UnitType>
+    <Meaning>steradian</Meaning>
+    <conventional>sr</conventional>
+    <IA5-ASCII>sr</IA5-ASCII>
+    <ITA2>SR</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>030</CodeFigure>
+    <UnitType>Derived SI units with special names</UnitType>
+    <Meaning>hertz</Meaning>
+    <conventional>Hz</conventional>
+    <IA5-ASCII>Hz</IA5-ASCII>
+    <ITA2>HZ</ITA2>
+    <SIDefinition>s-^1</SIDefinition>
+    <Note>(see Note 1)</Note>
+    <NoteID>19</NoteID>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>031</CodeFigure>
+    <UnitType>Derived SI units with special names</UnitType>
+    <Meaning>newton</Meaning>
+    <conventional>N</conventional>
+    <IA5-ASCII>N</IA5-ASCII>
+    <ITA2>N</ITA2>
+    <SIDefinition>kg m s^-2</SIDefinition>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>032</CodeFigure>
+    <UnitType>Derived SI units with special names</UnitType>
+    <Meaning>pascal</Meaning>
+    <conventional>Pa</conventional>
+    <IA5-ASCII>Pa</IA5-ASCII>
+    <ITA2>PAL</ITA2>
+    <SIDefinition>kg m^-1 s^-2</SIDefinition>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>033</CodeFigure>
+    <UnitType>Derived SI units with special names</UnitType>
+    <Meaning>joule</Meaning>
+    <conventional>J</conventional>
+    <IA5-ASCII>J</IA5-ASCII>
+    <ITA2>J</ITA2>
+    <SIDefinition>kg m^2 s^-2</SIDefinition>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>034</CodeFigure>
+    <UnitType>Derived SI units with special names</UnitType>
+    <Meaning>watt</Meaning>
+    <conventional>W</conventional>
+    <IA5-ASCII>W</IA5-ASCII>
+    <ITA2>W</ITA2>
+    <SIDefinition>kg m^2 s^-3</SIDefinition>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>035</CodeFigure>
+    <UnitType>Derived SI units with special names</UnitType>
+    <Meaning>coulomb</Meaning>
+    <conventional>C</conventional>
+    <IA5-ASCII>C</IA5-ASCII>
+    <ITA2>C</ITA2>
+    <SIDefinition>A s</SIDefinition>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>036</CodeFigure>
+    <UnitType>Derived SI units with special names</UnitType>
+    <Meaning>volt</Meaning>
+    <conventional>V</conventional>
+    <IA5-ASCII>V</IA5-ASCII>
+    <ITA2>V</ITA2>
+    <SIDefinition>kg m^2 s^-3 A^-1</SIDefinition>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>037</CodeFigure>
+    <UnitType>Derived SI units with special names</UnitType>
+    <Meaning>farad</Meaning>
+    <conventional>F</conventional>
+    <IA5-ASCII>F</IA5-ASCII>
+    <ITA2>F</ITA2>
+    <SIDefinition>kg^-1 m^-2 s^4 A^2</SIDefinition>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>038</CodeFigure>
+    <UnitType>Derived SI units with special names</UnitType>
+    <Meaning>ohm</Meaning>
+    <conventional>Ω</conventional>
+    <IA5-ASCII>Ohm</IA5-ASCII>
+    <ITA2>OHM</ITA2>
+    <SIDefinition>kg m^2 s^-3 A^-2</SIDefinition>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>039</CodeFigure>
+    <UnitType>Derived SI units with special names</UnitType>
+    <Meaning>siemens</Meaning>
+    <conventional>S</conventional>
+    <IA5-ASCII>S</IA5-ASCII>
+    <ITA2>SIE</ITA2>
+    <SIDefinition>kg^-1 m^-2 s^3 A^2</SIDefinition>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>040</CodeFigure>
+    <UnitType>Derived SI units with special names</UnitType>
+    <Meaning>weber</Meaning>
+    <conventional>Wb</conventional>
+    <IA5-ASCII>Wb</IA5-ASCII>
+    <ITA2>WB</ITA2>
+    <SIDefinition>kg m^2 s^-2 A^-1</SIDefinition>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>041</CodeFigure>
+    <UnitType>Derived SI units with special names</UnitType>
+    <Meaning>tesla</Meaning>
+    <conventional>T</conventional>
+    <IA5-ASCII>T</IA5-ASCII>
+    <ITA2>T</ITA2>
+    <SIDefinition>kg s^-2 A^-1</SIDefinition>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>042</CodeFigure>
+    <UnitType>Derived SI units with special names</UnitType>
+    <Meaning>henry</Meaning>
+    <conventional>H</conventional>
+    <IA5-ASCII>H</IA5-ASCII>
+    <ITA2>H</ITA2>
+    <SIDefinition>kg m^2 s^-2 A^-2</SIDefinition>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>060</CodeFigure>
+    <UnitType>Derived SI units with special names</UnitType>
+    <Meaning>degree Celsius</Meaning>
+    <conventional>˚C</conventional>
+    <IA5-ASCII>Cel</IA5-ASCII>
+    <ITA2>CEL</ITA2>
+    <SIDefinition>K+273.15</SIDefinition>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>070</CodeFigure>
+    <UnitType>Derived SI units with special names</UnitType>
+    <Meaning>lumen</Meaning>
+    <conventional>lm</conventional>
+    <IA5-ASCII>lm</IA5-ASCII>
+    <ITA2>LM</ITA2>
+    <SIDefinition>cd sr</SIDefinition>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>071</CodeFigure>
+    <UnitType>Derived SI units with special names</UnitType>
+    <Meaning>lux</Meaning>
+    <conventional>lx</conventional>
+    <IA5-ASCII>lx</IA5-ASCII>
+    <ITA2>LX</ITA2>
+    <SIDefinition>cd sr m^-2</SIDefinition>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>080</CodeFigure>
+    <UnitType>Derived SI units with special names</UnitType>
+    <Meaning>becquerel</Meaning>
+    <conventional>Bq</conventional>
+    <IA5-ASCII>Bq</IA5-ASCII>
+    <ITA2>BQ</ITA2>
+    <SIDefinition>s^-1</SIDefinition>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>081</CodeFigure>
+    <UnitType>Derived SI units with special names</UnitType>
+    <Meaning>grey</Meaning>
+    <conventional>Gy</conventional>
+    <IA5-ASCII>Gy</IA5-ASCII>
+    <ITA2>GY</ITA2>
+    <SIDefinition>m^2 s^-2</SIDefinition>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>082</CodeFigure>
+    <UnitType>Derived SI units with special names</UnitType>
+    <Meaning>sievert</Meaning>
+    <conventional>Sv</conventional>
+    <IA5-ASCII>Sv</IA5-ASCII>
+    <ITA2>SV</ITA2>
+    <SIDefinition>m^2 s^-2</SIDefinition>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>110</CodeFigure>
+    <UnitType>Other, non-SI, units recognized by CGPM</UnitType>
+    <Meaning>degree (angle)</Meaning>
+    <conventional>˚</conventional>
+    <IA5-ASCII>deg</IA5-ASCII>
+    <ITA2>DEG</ITA2>
+    <SIDefinition/>
+    <Note>(see Note 4)</Note>
+    <NoteID>10</NoteID>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>111</CodeFigure>
+    <UnitType>Other, non-SI, units recognized by CGPM</UnitType>
+    <Meaning>minute (angle)</Meaning>
+    <conventional>'</conventional>
+    <IA5-ASCII>'</IA5-ASCII>
+    <ITA2>MNT</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>112</CodeFigure>
+    <UnitType>Other, non-SI, units recognized by CGPM</UnitType>
+    <Meaning>second (angle)</Meaning>
+    <conventional>''</conventional>
+    <IA5-ASCII>''</IA5-ASCII>
+    <ITA2>SEC</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>120</CodeFigure>
+    <UnitType>Other, non-SI, units recognized by CGPM</UnitType>
+    <Meaning>litre</Meaning>
+    <conventional>l or L</conventional>
+    <IA5-ASCII>l or L</IA5-ASCII>
+    <ITA2>L</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>130</CodeFigure>
+    <UnitType>Other, non-SI, units recognized by CGPM</UnitType>
+    <Meaning>minute (time)</Meaning>
+    <conventional>min</conventional>
+    <IA5-ASCII>min</IA5-ASCII>
+    <ITA2>MIN</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>131</CodeFigure>
+    <UnitType>Other, non-SI, units recognized by CGPM</UnitType>
+    <Meaning>hour</Meaning>
+    <conventional>h</conventional>
+    <IA5-ASCII>h</IA5-ASCII>
+    <ITA2>HR</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>132</CodeFigure>
+    <UnitType>Other, non-SI, units recognized by CGPM</UnitType>
+    <Meaning>day</Meaning>
+    <conventional>d</conventional>
+    <IA5-ASCII>d</IA5-ASCII>
+    <ITA2>D</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>150</CodeFigure>
+    <UnitType>Other, non-SI, units recognized by CGPM</UnitType>
+    <Meaning>tonne</Meaning>
+    <conventional>t</conventional>
+    <IA5-ASCII>t</IA5-ASCII>
+    <ITA2>TNE</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>160</CodeFigure>
+    <UnitType>Other, non-SI, units recognized by CGPM</UnitType>
+    <Meaning>electron volt</Meaning>
+    <conventional>eV</conventional>
+    <IA5-ASCII>eV</IA5-ASCII>
+    <ITA2>EV</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>161</CodeFigure>
+    <UnitType>Other, non-SI, units recognized by CGPM</UnitType>
+    <Meaning>atomic mass unit</Meaning>
+    <conventional>u</conventional>
+    <IA5-ASCII>u</IA5-ASCII>
+    <ITA2>U</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>170</CodeFigure>
+    <UnitType>Other, non-SI, units recognized by CGPM</UnitType>
+    <Meaning>astronomic unit</Meaning>
+    <conventional>AU</conventional>
+    <IA5-ASCII>AU</IA5-ASCII>
+    <ITA2>ASU</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>171</CodeFigure>
+    <UnitType>Other, non-SI, units recognized by CGPM</UnitType>
+    <Meaning>parsec</Meaning>
+    <conventional>pc</conventional>
+    <IA5-ASCII>pc</IA5-ASCII>
+    <ITA2>PRS</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>200</CodeFigure>
+    <UnitType>Non-SI Units tolerated because of widespread use</UnitType>
+    <Meaning>nautical mile</Meaning>
+    <conventional> </conventional>
+    <IA5-ASCII/>
+    <ITA2/>
+    <SIDefinition/>
+    <Note>(see Note 7)</Note>
+    <NoteID>21</NoteID>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>201</CodeFigure>
+    <UnitType>Non-SI Units tolerated because of widespread use</UnitType>
+    <Meaning>knot</Meaning>
+    <conventional>kt</conventional>
+    <IA5-ASCII>kt</IA5-ASCII>
+    <ITA2>KT</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>210</CodeFigure>
+    <UnitType>Non-SI Units tolerated because of widespread use</UnitType>
+    <Meaning>decibel</Meaning>
+    <conventional>dB</conventional>
+    <IA5-ASCII>dB</IA5-ASCII>
+    <ITA2>DB</ITA2>
+    <SIDefinition/>
+    <Note>(see Note 6)</Note>
+    <NoteID>17</NoteID>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>220</CodeFigure>
+    <UnitType>Non-SI Units tolerated because of widespread use</UnitType>
+    <Meaning>hectare</Meaning>
+    <conventional>ha</conventional>
+    <IA5-ASCII>ha</IA5-ASCII>
+    <ITA2>HAR</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>230</CodeFigure>
+    <UnitType>Non-SI Units tolerated because of widespread use</UnitType>
+    <Meaning>week</Meaning>
+    <conventional> </conventional>
+    <IA5-ASCII/>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>231</CodeFigure>
+    <UnitType>Non-SI Units tolerated because of widespread use</UnitType>
+    <Meaning>year</Meaning>
+    <conventional>a</conventional>
+    <IA5-ASCII>a</IA5-ASCII>
+    <ITA2>A</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>300</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>per cent</Meaning>
+    <conventional>%</conventional>
+    <IA5-ASCII>%</IA5-ASCII>
+    <ITA2>PERCENT</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>301</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>parts per thousand</Meaning>
+    <conventional>‰</conventional>
+    <IA5-ASCII>0/00</IA5-ASCII>
+    <ITA2>PERTHOU</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>310</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>eighths of cloud</Meaning>
+    <conventional>okta</conventional>
+    <IA5-ASCII>okta</IA5-ASCII>
+    <ITA2>OKTA</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>320</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>degrees true</Meaning>
+    <conventional>˚</conventional>
+    <IA5-ASCII>deg</IA5-ASCII>
+    <ITA2>DEG</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>321</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>degrees per second</Meaning>
+    <conventional>degree/s</conventional>
+    <IA5-ASCII>deg/s</IA5-ASCII>
+    <ITA2>DEG/S</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>350</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>degrees Celsius</Meaning>
+    <conventional>˚ C</conventional>
+    <IA5-ASCII>C</IA5-ASCII>
+    <ITA2>C</ITA2>
+    <SIDefinition/>
+    <Note>(see Note 8)</Note>
+    <NoteID>13</NoteID>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>351</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>degrees Celsius per metre</Meaning>
+    <conventional>˚ C/m</conventional>
+    <IA5-ASCII>C/m</IA5-ASCII>
+    <ITA2>C/M</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>352</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>degrees Celsius per 100 metres</Meaning>
+    <conventional>˚ C/100 m</conventional>
+    <IA5-ASCII>C/100 m</IA5-ASCII>
+    <ITA2>C/100 M</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>360</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>Dobson Unit</Meaning>
+    <conventional>DU</conventional>
+    <IA5-ASCII>DU</IA5-ASCII>
+    <ITA2>DU</ITA2>
+    <SIDefinition/>
+    <Note>(see Note 9)</Note>
+    <NoteID>4</NoteID>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>430</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>month</Meaning>
+    <conventional>mon</conventional>
+    <IA5-ASCII>mon</IA5-ASCII>
+    <ITA2>MON</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>441</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>per second (same as hertz)</Meaning>
+    <conventional>s^-1</conventional>
+    <IA5-ASCII>/s</IA5-ASCII>
+    <ITA2>/S</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>442</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>per second squared</Meaning>
+    <conventional>s^-2</conventional>
+    <IA5-ASCII>s-2</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>501</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>knots per 1000 metres</Meaning>
+    <conventional>kt/1000 m</conventional>
+    <IA5-ASCII>kt/km</IA5-ASCII>
+    <ITA2>KT/KM</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>510</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>foot</Meaning>
+    <conventional>ft</conventional>
+    <IA5-ASCII>ft</IA5-ASCII>
+    <ITA2>FT</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>511</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>inch</Meaning>
+    <conventional>in</conventional>
+    <IA5-ASCII>in</IA5-ASCII>
+    <ITA2>IN</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>520</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>decipascals per second (microbar per second)</Meaning>
+    <conventional>dPa s^-1</conventional>
+    <IA5-ASCII>dPa/s</IA5-ASCII>
+    <ITA2>DPAL/S</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>521</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>centibars per second</Meaning>
+    <conventional>cb s^-1</conventional>
+    <IA5-ASCII>cb/s</IA5-ASCII>
+    <ITA2>CB/S</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>522</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>centibars per 12 hours</Meaning>
+    <conventional>cb/12 h</conventional>
+    <IA5-ASCII>cb/12 h</IA5-ASCII>
+    <ITA2>CB/12 HR</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>523</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>dekapascal</Meaning>
+    <conventional>daPa</conventional>
+    <IA5-ASCII>daPa</IA5-ASCII>
+    <ITA2>DAPAL</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>530</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>hectopascal</Meaning>
+    <conventional>hPa</conventional>
+    <IA5-ASCII>hPa</IA5-ASCII>
+    <ITA2>HPAL</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>531</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>hectopascals per second</Meaning>
+    <conventional>hPa s^-1</conventional>
+    <IA5-ASCII>hPa/s</IA5-ASCII>
+    <ITA2>HPAL/S</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>532</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>hectopascals per hour</Meaning>
+    <conventional>hPa h^-1</conventional>
+    <IA5-ASCII>hPa/h</IA5-ASCII>
+    <ITA2>HPAL/HR</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>533</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>hectopascals per 3 hours</Meaning>
+    <conventional>hPa/3 h</conventional>
+    <IA5-ASCII>hPa/3 h</IA5-ASCII>
+    <ITA2>HPAL/3 HR</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>535</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>nanobar = hPa 10^-6</Meaning>
+    <conventional>nbar</conventional>
+    <IA5-ASCII>nbar</IA5-ASCII>
+    <ITA2>NBAR</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>620</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>grams per kilogram</Meaning>
+    <conventional>g kg^-1</conventional>
+    <IA5-ASCII>g/kg</IA5-ASCII>
+    <ITA2>G/KG</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>621</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>grams per kilogram per second</Meaning>
+    <conventional>g kg^-1 s^-1</conventional>
+    <IA5-ASCII>g kg-1 s-1</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>622</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>kilograms per kilogram</Meaning>
+    <conventional>kg kg^-1</conventional>
+    <IA5-ASCII>kg/kg</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>623</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>kilograms per kilogram per second</Meaning>
+    <conventional>kg kg^-1 s^-1</conventional>
+    <IA5-ASCII>kg kg-1 s-1</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>624</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>kilograms per square metre</Meaning>
+    <conventional>kg m^-2</conventional>
+    <IA5-ASCII>kg m-2</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>630</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>acceleration due to gravity</Meaning>
+    <conventional>g</conventional>
+    <IA5-ASCII>g</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>631</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>geopotential metre</Meaning>
+    <conventional>gpm</conventional>
+    <IA5-ASCII>gpm</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>710</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>millimetre</Meaning>
+    <conventional>mm</conventional>
+    <IA5-ASCII>mm</IA5-ASCII>
+    <ITA2>MM</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>711</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>millimetres per seconds</Meaning>
+    <conventional>mm s^-1</conventional>
+    <IA5-ASCII>mm/s</IA5-ASCII>
+    <ITA2>MM/S</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>712</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>millimetres per hour</Meaning>
+    <conventional>mm h^-1</conventional>
+    <IA5-ASCII>mm/h</IA5-ASCII>
+    <ITA2>MM/HR</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>713</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>millimetres per the sixth power per cubic metre</Meaning>
+    <conventional>mm^6 m^-3</conventional>
+    <IA5-ASCII>mm6 m-3</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>715</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>centimetre</Meaning>
+    <conventional>cm</conventional>
+    <IA5-ASCII>cm</IA5-ASCII>
+    <ITA2>CM</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>716</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>centimetres per second</Meaning>
+    <conventional>cm s^-1</conventional>
+    <IA5-ASCII>cm/s</IA5-ASCII>
+    <ITA2>CM/S</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>717</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>centimetres per hour</Meaning>
+    <conventional>cm h^-1</conventional>
+    <IA5-ASCII>cm/h</IA5-ASCII>
+    <ITA2>CM/HR</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>720</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>decimetre</Meaning>
+    <conventional>dm</conventional>
+    <IA5-ASCII>dm</IA5-ASCII>
+    <ITA2>DM</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>731</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>metres per second</Meaning>
+    <conventional>m s^-1</conventional>
+    <IA5-ASCII>m/s</IA5-ASCII>
+    <ITA2>M/S</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>732</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>metres per second per metre</Meaning>
+    <conventional>m s^-1/m</conventional>
+    <IA5-ASCII>m s-1/m</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>733</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>metres per second per 1000 metres</Meaning>
+    <conventional>m s^-1/1000 m</conventional>
+    <IA5-ASCII>m s-1/km</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>734</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>square metres</Meaning>
+    <conventional>m^2</conventional>
+    <IA5-ASCII>m2</IA5-ASCII>
+    <ITA2>M2</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>735</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>square metres per second</Meaning>
+    <conventional>m^2 s^-1</conventional>
+    <IA5-ASCII>m2/s</IA5-ASCII>
+    <ITA2>M2/S</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>740</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>kilometre</Meaning>
+    <conventional>km</conventional>
+    <IA5-ASCII>km</IA5-ASCII>
+    <ITA2>KM</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>741</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>kilometres per hour</Meaning>
+    <conventional>km h^-1</conventional>
+    <IA5-ASCII>km/h</IA5-ASCII>
+    <ITA2>KM/HR</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>742</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>kilometres per day</Meaning>
+    <conventional>km/d</conventional>
+    <IA5-ASCII>km/d</IA5-ASCII>
+    <ITA2>KM/D</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>743</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>per metre</Meaning>
+    <conventional>m^-1</conventional>
+    <IA5-ASCII>m-1</IA5-ASCII>
+    <ITA2>/M</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>750</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>becquerels per litre</Meaning>
+    <conventional>Bq l^-1</conventional>
+    <IA5-ASCII>Bq/l</IA5-ASCII>
+    <ITA2>BQ/L</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>751</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>becquerels per square metre</Meaning>
+    <conventional>Bq m^-2</conventional>
+    <IA5-ASCII>Bq m-2</IA5-ASCII>
+    <ITA2>BQ/M2</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>752</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>becquerels per cubic metre</Meaning>
+    <conventional>Bq m^-3</conventional>
+    <IA5-ASCII>Bq m-3</IA5-ASCII>
+    <ITA2>BQ/M3</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>753</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>millisievert</Meaning>
+    <conventional>mSv</conventional>
+    <IA5-ASCII>mSv</IA5-ASCII>
+    <ITA2>MSV</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>760</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>metres per second squared</Meaning>
+    <conventional>m s^-2</conventional>
+    <IA5-ASCII>m s-2</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>761</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>square metres second</Meaning>
+    <conventional>m^2 s</conventional>
+    <IA5-ASCII>m2 s</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>762</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>square metres per second squared</Meaning>
+    <conventional>m^2 s^-2</conventional>
+    <IA5-ASCII>m2 s-2</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>763</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>square metres per radian squared</Meaning>
+    <conventional>m^2 rad^-1 s</conventional>
+    <IA5-ASCII>m2 rad-1 s</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>764</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>square metres per hertz</Meaning>
+    <conventional>m^2 Hz^-1</conventional>
+    <IA5-ASCII>m2/Hz</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>765</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>cubic metres</Meaning>
+    <conventional>m^3</conventional>
+    <IA5-ASCII>m3</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>766</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>cubic metres per second</Meaning>
+    <conventional>m^3 s^-1</conventional>
+    <IA5-ASCII>m3/s</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>767</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>cubic metres per cubic metre</Meaning>
+    <conventional>m^3 m^-3</conventional>
+    <IA5-ASCII>m3 m-3</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>768</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>metres to the fourth power</Meaning>
+    <conventional>m^4</conventional>
+    <IA5-ASCII>m4</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>769</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>metres to the two thirds power per second</Meaning>
+    <conventional>m^2/3 s^-1</conventional>
+    <IA5-ASCII>m2/3 s-1</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>772</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>logarithm per metre</Meaning>
+    <conventional>log (m^-1)</conventional>
+    <IA5-ASCII>log (m-1)</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>773</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>logarithm per square metre</Meaning>
+    <conventional>log (m^-2)</conventional>
+    <IA5-ASCII>log (m-2)</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>775</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>kilograms per metre</Meaning>
+    <conventional>km m^-1</conventional>
+    <IA5-ASCII>kg/m</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>776</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>kilograms per square metre per second</Meaning>
+    <conventional>kg m^-2 s^-1</conventional>
+    <IA5-ASCII>kg m-2 s-1</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>777</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>kilograms per cubic metre</Meaning>
+    <conventional>kg m^-3</conventional>
+    <IA5-ASCII>kg m-3</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>778</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>per square kilogram per second</Meaning>
+    <conventional>kg^-2 s^-1</conventional>
+    <IA5-ASCII>kg-2 s-1</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>779</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>seconds per metre</Meaning>
+    <conventional>s m^-1</conventional>
+    <IA5-ASCII>s/m</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>785</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>kelvin metres per second</Meaning>
+    <conventional>K m s^-1</conventional>
+    <IA5-ASCII>K m s-1</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>786</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>kelvins per metre</Meaning>
+    <conventional>K m^-1</conventional>
+    <IA5-ASCII>K/m</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>787</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>kelvin square metres per kilogram per second</Meaning>
+    <conventional>K m^2 kg^-1 s^-1</conventional>
+    <IA5-ASCII>K m2 kg-1 s-1</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>788</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>moles per mole</Meaning>
+    <conventional> mol mol^-1</conventional>
+    <IA5-ASCII>mol/mol</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>790</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>radians per metre</Meaning>
+    <conventional>rad m^-1</conventional>
+    <IA5-ASCII>rad/m</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>795</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>newtons per square metre</Meaning>
+    <conventional>N m^-2</conventional>
+    <IA5-ASCII>N m-2</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>800</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>pascals per second</Meaning>
+    <conventional>Pa s^-1</conventional>
+    <IA5-ASCII>Pa/s</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>801</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>kilopascal</Meaning>
+    <conventional>kPa</conventional>
+    <IA5-ASCII>kPa</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>805</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>joules per square metre</Meaning>
+    <conventional>J m^-2</conventional>
+    <IA5-ASCII>J m-2</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>806</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>joules per kilogram</Meaning>
+    <conventional>J kg^-1</conventional>
+    <IA5-ASCII>J/kg</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>810</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>watts per metre per steradian</Meaning>
+    <conventional>W m^-1 sr^-1</conventional>
+    <IA5-ASCII>W m-1 sr-1</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>811</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>watts per square metre</Meaning>
+    <conventional>W m^-2</conventional>
+    <IA5-ASCII>W m-2</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>812</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>watts per square metre per steradian</Meaning>
+    <conventional>W m^-2 sr^-1</conventional>
+    <IA5-ASCII>W m-2 sr-1</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>813</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>watts per square metre per steradian centimetre</Meaning>
+    <conventional>W m^-2 sr^-1 cm</conventional>
+    <IA5-ASCII>W m-2 sr-1 cm</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>814</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>watts per square metre per steradian metre</Meaning>
+    <conventional>W m^-2 sr^-1 m</conventional>
+    <IA5-ASCII>W m-2 sr-1 m</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>815</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>watts per cubic metre per steradian</Meaning>
+    <conventional>W m^-3 sr^-1</conventional>
+    <IA5-ASCII>W m-3 sr-1</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>820</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>siemens per metre</Meaning>
+    <conventional>S m^-1</conventional>
+    <IA5-ASCII>S/m</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>825</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>square degrees</Meaning>
+    <conventional>degrees^2</conventional>
+    <IA5-ASCII>deg^2</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>830</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>becquerel seconds per cubic metre</Meaning>
+    <conventional>Bq s m^-3</conventional>
+    <IA5-ASCII>Bq s m-3</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>835</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>decibels per metre</Meaning>
+    <conventional>dB m^-1</conventional>
+    <IA5-ASCII>dB/m</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>836</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>decibels per degree</Meaning>
+    <conventional>dB degree^-1</conventional>
+    <IA5-ASCII>dB/deg</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>841</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>pH unit</Meaning>
+    <conventional>pH unit</conventional>
+    <IA5-ASCII>pH unit</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>842</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>N units</Meaning>
+    <conventional>N units</conventional>
+    <IA5-ASCII>N units</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>843</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>Nephelometric turbidity units</Meaning>
+    <conventional>NTU</conventional>
+    <IA5-ASCII/>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status>Operational</Status>
+  </C06>
+  <C06>
+    <CodeFigure>844</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>Total electron content unit</Meaning>
+    <conventional>TECU</conventional>
+    <IA5-ASCII/>
+    <ITA2/>
+    <SIDefinition>10^16 Electrons m^�2</SIDefinition>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na1</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>(yotta)</Meaning>
+    <conventional>(Y)</conventional>
+    <IA5-ASCII>(Y)</IA5-ASCII>
+    <ITA2>(Y)</ITA2>
+    <SIDefinition/>
+    <Note>(see Notes 1, 3 and 4)</Note>
+    <NoteID>19,9,10</NoteID>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na2</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>(zetta)</Meaning>
+    <conventional>(Z)</conventional>
+    <IA5-ASCII>(Z)</IA5-ASCII>
+    <ITA2>(Z)</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na3</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>exa</Meaning>
+    <conventional>E</conventional>
+    <IA5-ASCII>E</IA5-ASCII>
+    <ITA2>E</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na4</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>peta</Meaning>
+    <conventional>P</conventional>
+    <IA5-ASCII>P</IA5-ASCII>
+    <ITA2>PE</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na5</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>tera</Meaning>
+    <conventional>T</conventional>
+    <IA5-ASCII>T</IA5-ASCII>
+    <ITA2>T</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na6</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>giga</Meaning>
+    <conventional>G</conventional>
+    <IA5-ASCII>G</IA5-ASCII>
+    <ITA2>G</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na7</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>mega</Meaning>
+    <conventional>M</conventional>
+    <IA5-ASCII>M</IA5-ASCII>
+    <ITA2>MA</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na8</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>kilo</Meaning>
+    <conventional>k</conventional>
+    <IA5-ASCII>k</IA5-ASCII>
+    <ITA2>K</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na9</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>hecto</Meaning>
+    <conventional>h</conventional>
+    <IA5-ASCII>h</IA5-ASCII>
+    <ITA2>H</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na10</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>deca</Meaning>
+    <conventional>da</conventional>
+    <IA5-ASCII>da</IA5-ASCII>
+    <ITA2>D</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na11</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>deci</Meaning>
+    <conventional>d</conventional>
+    <IA5-ASCII>d</IA5-ASCII>
+    <ITA2>D</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na12</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>centi</Meaning>
+    <conventional>c</conventional>
+    <IA5-ASCII>c</IA5-ASCII>
+    <ITA2>C</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na13</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>milli</Meaning>
+    <conventional>m</conventional>
+    <IA5-ASCII>m</IA5-ASCII>
+    <ITA2>M</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na14</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>micro</Meaning>
+    <conventional>µ</conventional>
+    <IA5-ASCII>u</IA5-ASCII>
+    <ITA2>U</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na15</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>nano</Meaning>
+    <conventional>n</conventional>
+    <IA5-ASCII>n</IA5-ASCII>
+    <ITA2>N</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na16</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>pico</Meaning>
+    <conventional>p</conventional>
+    <IA5-ASCII>p</IA5-ASCII>
+    <ITA2>P</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na17</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>femto</Meaning>
+    <conventional>f</conventional>
+    <IA5-ASCII>f</IA5-ASCII>
+    <ITA2>F</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na18</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>atto</Meaning>
+    <conventional>a</conventional>
+    <IA5-ASCII>a</IA5-ASCII>
+    <ITA2>A</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na19</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>(zepto)</Meaning>
+    <conventional>(z)</conventional>
+    <IA5-ASCII>(z)</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na20</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>(yocto)</Meaning>
+    <conventional>(y)</conventional>
+    <IA5-ASCII>(y)</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+</dataroot>
