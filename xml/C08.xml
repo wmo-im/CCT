@@ -3273,7 +3273,15 @@
     <Status>Operational</Status>
   </C08>
   <C08>
-    <Code>988-989</Code>
+    <Code>988</Code>
+    <Agency_en>CMA</Agency_en>
+    <Type_en>Conical scanning dual-frequency scatterometer</Type_en>
+    <InstrumentShortName_en>WindRAD</InstrumentShortName_en>
+    <InstrumentLongName_en>Wind Radar</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>989</Code>
     <Agency_en>Reserved</Agency_en>
     <Type_en/>
     <InstrumentShortName_en/>
