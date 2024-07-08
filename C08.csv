@@ -231,6 +231,8 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 533,Spire,GNSS occultation sounder,SGNOS-D,Spire global navigation satellite system occultation sounder D,Operational
 534,PlanetiQ,GNSS occultation sounder,Pyxis-A,PlanetiQ Pyxis GNSS occultation receiver A,Operational
 535,PlanetiQ,GNSS occultation sounder,Pyxis-B,PlanetiQ Pyxis GNSS occultation receiver B,Operational
+536,tomorrow.io,Radiometer,MWS,Microwave sounder,Operational
+537,tomorrow.io,Radar,KAPR,Ka band precipitation radar,Operational
 540,NOAA,Communications,DCS (NOAA),Data-collection system (NOAA),Operational
 541,NOAA,Communications,GOES Comms,Communications package on GOES,Operational
 542,NOAA,Communications,LANDSAT Comms,Communications package for LANDSAT,Operational
