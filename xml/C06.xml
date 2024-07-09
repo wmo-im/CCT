@@ -364,8 +364,8 @@
     <CodeFigure>112</CodeFigure>
     <UnitType>Other, non-SI, units recognized by CGPM</UnitType>
     <Meaning>second (angle)</Meaning>
-    <conventional>''</conventional>
-    <IA5-ASCII>''</IA5-ASCII>
+    <conventional>&quot;</conventional>
+    <IA5-ASCII>&quot;</IA5-ASCII>
     <ITA2>SEC</ITA2>
     <SIDefinition/>
     <Note/>
@@ -560,8 +560,8 @@
     <IA5-ASCII>%</IA5-ASCII>
     <ITA2>PERCENT</ITA2>
     <SIDefinition/>
-    <Note/>
-    <NoteID/>
+    <Note>(see Note 7)</Note>
+    <NoteID>21</NoteID>
     <Status>Operational</Status>
   </C06>
   <C06>
@@ -616,7 +616,7 @@
     <CodeFigure>350</CodeFigure>
     <UnitType>Other Units as used by WMO</UnitType>
     <Meaning>degrees Celsius</Meaning>
-    <conventional>˚ C</conventional>
+    <conventional>˚C</conventional>
     <IA5-ASCII>C</IA5-ASCII>
     <ITA2>C</ITA2>
     <SIDefinition/>
@@ -628,7 +628,7 @@
     <CodeFigure>351</CodeFigure>
     <UnitType>Other Units as used by WMO</UnitType>
     <Meaning>degrees Celsius per metre</Meaning>
-    <conventional>˚ C/m</conventional>
+    <conventional>˚C/m</conventional>
     <IA5-ASCII>C/m</IA5-ASCII>
     <ITA2>C/M</ITA2>
     <SIDefinition/>
@@ -640,7 +640,7 @@
     <CodeFigure>352</CodeFigure>
     <UnitType>Other Units as used by WMO</UnitType>
     <Meaning>degrees Celsius per 100 metres</Meaning>
-    <conventional>˚ C/100 m</conventional>
+    <conventional>˚C/100 m</conventional>
     <IA5-ASCII>C/100 m</IA5-ASCII>
     <ITA2>C/100 M</ITA2>
     <SIDefinition/>
@@ -870,7 +870,7 @@
     <Meaning>kilograms per kilogram</Meaning>
     <conventional>kg kg^-1</conventional>
     <IA5-ASCII>kg/kg</IA5-ASCII>
-    <ITA2/>
+    <ITA2>KG/KG</ITA2>
     <SIDefinition/>
     <Note/>
     <NoteID/>
@@ -963,7 +963,7 @@
   <C06>
     <CodeFigure>713</CodeFigure>
     <UnitType>Other Units as used by WMO</UnitType>
-    <Meaning>millimetres per the sixth power per cubic metre</Meaning>
+    <Meaning>millimetres to the sixth power per cubic metre</Meaning>
     <conventional>mm^6 m^-3</conventional>
     <IA5-ASCII>mm6 m-3</IA5-ASCII>
     <ITA2/>
@@ -1215,7 +1215,7 @@
   <C06>
     <CodeFigure>763</CodeFigure>
     <UnitType>Other Units as used by WMO</UnitType>
-    <Meaning>square metres per radian squared</Meaning>
+    <Meaning>square metres per radian second</Meaning>
     <conventional>m^2 rad^-1 s</conventional>
     <IA5-ASCII>m2 rad-1 s</IA5-ASCII>
     <ITA2/>
@@ -1675,7 +1675,7 @@
     <conventional>TECU</conventional>
     <IA5-ASCII/>
     <ITA2/>
-    <SIDefinition>10^16 Electrons m^�2</SIDefinition>
+    <SIDefinition>10^16 Electrons m^-2</SIDefinition>
     <Note/>
     <NoteID/>
     <Status/>
