@@ -29,7 +29,7 @@ CodeFigure,UnitType,Meaning,conventional,IA5-ASCII,ITA2,SIDefinition,Note,NoteID
 082,Derived SI units with special names,sievert,Sv,Sv,SV,m^2 s^-2,,,Operational
 110,"Other, non-SI, units recognized by CGPM",degree (angle),˚,deg,DEG,,(see Note 4),10,Operational
 111,"Other, non-SI, units recognized by CGPM",minute (angle),',',MNT,,,,Operational
-112,"Other, non-SI, units recognized by CGPM",second (angle),'','',SEC,,,,Operational
+112,"Other, non-SI, units recognized by CGPM",second (angle),"""","""",SEC,,,,Operational
 120,"Other, non-SI, units recognized by CGPM",litre,l or L,l or L,L,,,,Operational
 130,"Other, non-SI, units recognized by CGPM",minute (time),min,min,MIN,,,,Operational
 131,"Other, non-SI, units recognized by CGPM",hour,h,h,HR,,,,Operational
@@ -45,14 +45,14 @@ CodeFigure,UnitType,Meaning,conventional,IA5-ASCII,ITA2,SIDefinition,Note,NoteID
 220,Non-SI Units tolerated because of widespread use,hectare,ha,ha,HAR,,,,Operational
 230,Non-SI Units tolerated because of widespread use,week, ,,,,,,Operational
 231,Non-SI Units tolerated because of widespread use,year,a,a,A,,,,Operational
-300,Other Units as used by WMO,per cent,%,%,PERCENT,,,,Operational
+300,Other Units as used by WMO,per cent,%,%,PERCENT,,(see Note 7),21,Operational
 301,Other Units as used by WMO,parts per thousand,‰,0/00,PERTHOU,,,,Operational
 310,Other Units as used by WMO,eighths of cloud,okta,okta,OKTA,,,,Operational
 320,Other Units as used by WMO,degrees true,˚,deg,DEG,,,,Operational
 321,Other Units as used by WMO,degrees per second,degree/s,deg/s,DEG/S,,,,Operational
-350,Other Units as used by WMO,degrees Celsius,˚ C,C,C,,(see Note 8),13,Operational
-351,Other Units as used by WMO,degrees Celsius per metre,˚ C/m,C/m,C/M,,,,Operational
-352,Other Units as used by WMO,degrees Celsius per 100 metres,˚ C/100 m,C/100 m,C/100 M,,,,Operational
+350,Other Units as used by WMO,degrees Celsius,˚C,C,C,,(see Note 8),13,Operational
+351,Other Units as used by WMO,degrees Celsius per metre,˚C/m,C/m,C/M,,,,Operational
+352,Other Units as used by WMO,degrees Celsius per 100 metres,˚C/100 m,C/100 m,C/100 M,,,,Operational
 360,Other Units as used by WMO,Dobson Unit,DU,DU,DU,,(see Note 9),4,Operational
 430,Other Units as used by WMO,month,mon,mon,MON,,,,Operational
 441,Other Units as used by WMO,per second (same as hertz),s^-1,/s,/S,,,,Operational
@@ -71,7 +71,7 @@ CodeFigure,UnitType,Meaning,conventional,IA5-ASCII,ITA2,SIDefinition,Note,NoteID
 535,Other Units as used by WMO,nanobar = hPa 10^-6,nbar,nbar,NBAR,,,,Operational
 620,Other Units as used by WMO,grams per kilogram,g kg^-1,g/kg,G/KG,,,,Operational
 621,Other Units as used by WMO,grams per kilogram per second,g kg^-1 s^-1,g kg-1 s-1,,,,,Operational
-622,Other Units as used by WMO,kilograms per kilogram,kg kg^-1,kg/kg,,,,,Operational
+622,Other Units as used by WMO,kilograms per kilogram,kg kg^-1,kg/kg,KG/KG,,,,Operational
 623,Other Units as used by WMO,kilograms per kilogram per second,kg kg^-1 s^-1,kg kg-1 s-1,,,,,Operational
 624,Other Units as used by WMO,kilograms per square metre,kg m^-2,kg m-2,,,,,Operational
 630,Other Units as used by WMO,acceleration due to gravity,g,g,,,,,Operational
@@ -79,7 +79,7 @@ CodeFigure,UnitType,Meaning,conventional,IA5-ASCII,ITA2,SIDefinition,Note,NoteID
 710,Other Units as used by WMO,millimetre,mm,mm,MM,,,,Operational
 711,Other Units as used by WMO,millimetres per seconds,mm s^-1,mm/s,MM/S,,,,Operational
 712,Other Units as used by WMO,millimetres per hour,mm h^-1,mm/h,MM/HR,,,,Operational
-713,Other Units as used by WMO,millimetres per the sixth power per cubic metre,mm^6 m^-3,mm6 m-3,,,,,Operational
+713,Other Units as used by WMO,millimetres to the sixth power per cubic metre,mm^6 m^-3,mm6 m-3,,,,,Operational
 715,Other Units as used by WMO,centimetre,cm,cm,CM,,,,Operational
 716,Other Units as used by WMO,centimetres per second,cm s^-1,cm/s,CM/S,,,,Operational
 717,Other Units as used by WMO,centimetres per hour,cm h^-1,cm/h,CM/HR,,,,Operational
@@ -100,7 +100,7 @@ CodeFigure,UnitType,Meaning,conventional,IA5-ASCII,ITA2,SIDefinition,Note,NoteID
 760,Other Units as used by WMO,metres per second squared,m s^-2,m s-2,,,,,Operational
 761,Other Units as used by WMO,square metres second,m^2 s,m2 s,,,,,Operational
 762,Other Units as used by WMO,square metres per second squared,m^2 s^-2,m2 s-2,,,,,Operational
-763,Other Units as used by WMO,square metres per radian squared,m^2 rad^-1 s,m2 rad-1 s,,,,,Operational
+763,Other Units as used by WMO,square metres per radian second,m^2 rad^-1 s,m2 rad-1 s,,,,,Operational
 764,Other Units as used by WMO,square metres per hertz,m^2 Hz^-1,m2/Hz,,,,,Operational
 765,Other Units as used by WMO,cubic metres,m^3,m3,,,,,Operational
 766,Other Units as used by WMO,cubic metres per second,m^3 s^-1,m3/s,,,,,Operational
@@ -138,7 +138,7 @@ CodeFigure,UnitType,Meaning,conventional,IA5-ASCII,ITA2,SIDefinition,Note,NoteID
 841,Other Units as used by WMO,pH unit,pH unit,pH unit,,,,,Operational
 842,Other Units as used by WMO,N units,N units,N units,,,,,Operational
 843,Other Units as used by WMO,Nephelometric turbidity units,NTU,,,,,,Operational
-844,Other Units as used by WMO,Total electron content unit,TECU,,,10^16 Electrons m^�2,,,
+844,Other Units as used by WMO,Total electron content unit,TECU,,,10^16 Electrons m^-2,,,
 na1,SI Unit prefixes,(yotta),(Y),(Y),(Y),,"(see Notes 1, 3 and 4)","19,9,10",
 na2,SI Unit prefixes,(zetta),(Z),(Z),(Z),,,,
 na3,SI Unit prefixes,exa,E,E,E,,,,
