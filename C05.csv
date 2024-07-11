@@ -58,8 +58,10 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 120,120,120,ADEOS,Operational
 121,121,121,ADEOS II,Operational
 122,122,122,GCOM-W1,Operational
+123,123,123,GCOM-C,Operational
 140,140,140,GOSAT,Operational
 141,141,141,GOSAT-2,Operational
+142,142,142,GOSAT-GW,Operational
 150,150,150,GMS 3,Operational
 151,151,151,GMS 4,Operational
 152,152,152,GMS 5,Operational
