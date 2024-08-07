@@ -197,6 +197,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 461,NASDA,Radar,PR,Precipitation radar,Operational
 462,NASDA,Imaging microwave radar,SAR,Synthetic aperture radar,Operational
 470,JAXA,Imaging microwave radar,PALSAR,Phased array type L-band synthetic aperture radar,Operational
+477,JAXA,Imaging multi spectral radiometer (passive microwave),AMSR3,Advanced Microwave Scanning Radiometer 3,Operational
 478,JAXA,Imaging multi-spectral radiometer (passive microwave),AMSR2,Advanced Microwave Scanning Radiometer 2,Operational
 479,JAXA,Imaging multi-spectral radiometer (passive microwave),AMSR-E,Advanced microwave scanning radiometer - EOS,Operational
 480,JAXA,High-resolution optical imager,PRISM (ALOS),Panchromatic remote-sensing instrument for stereo mapping,Operational

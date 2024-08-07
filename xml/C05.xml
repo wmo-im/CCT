@@ -435,6 +435,13 @@
     <Status>Operational</Status>
   </C05>
   <C05>
+    <CodeFigureForI6I6I6>123</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>123</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>123</CodeFigureForGRIB2>
+    <SatelliteName_en>GCOM-C</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
     <CodeFigureForI6I6I6>140</CodeFigureForI6I6I6>
     <CodeFigureForBUFR>140</CodeFigureForBUFR>
     <CodeFigureForGRIB2>140</CodeFigureForGRIB2>
@@ -446,6 +453,13 @@
     <CodeFigureForBUFR>141</CodeFigureForBUFR>
     <CodeFigureForGRIB2>141</CodeFigureForGRIB2>
     <SatelliteName_en>GOSAT-2</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>142</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>142</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>142</CodeFigureForGRIB2>
+    <SatelliteName_en>GOSAT-GW</SatelliteName_en>
     <Status>Operational</Status>
   </C05>
   <C05>
