@@ -1804,8 +1804,8 @@
     <CodeFigure>855</CodeFigure>
     <UnitType>Other Units as used by WMO</UnitType>
     <Meaning>per metre per steradian</Meaning>
-    <conventional>m^-2 sr^-1</conventional>
-    <IA5-ASCII>m-2 sr-1</IA5-ASCII>
+    <conventional>m^-1 sr^-1</conventional>
+    <IA5-ASCII>m-1 sr-1</IA5-ASCII>
     <ITA2/>
     <SIDefinition/>
     <Note/>
