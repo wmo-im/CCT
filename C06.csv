@@ -149,7 +149,7 @@ CodeFigure,UnitType,Meaning,conventional,IA5-ASCII,ITA2,SIDefinition,Note,NoteID
 852,Other Units as used by WMO,Candela per square metre,Cd m^-2,Cd m-2,,,,,
 853,Other Units as used by WMO,logarithm per cubic metre,log(m^-3),log(m-3),,,,,
 854,Other Units as used by WMO,per square metre,m^-2,m-2,,,,,
-855,Other Units as used by WMO,per metre per steradian,m^-2 sr^-1,m-2 sr-1,,,,,
+855,Other Units as used by WMO,per metre per steradian,m^-1 sr^-1,m-1 sr-1,,,,,
 856,Other Units as used by WMO,volts per metre,V m^-1,V m-1,,,,,
 857,Other Units as used by WMO,per hour,h^-1,h-1,,,,,
 858,Other Units as used by WMO,square metre seconds per radian,m^2 s rad^-1,m2 s rad-1,,,,,
