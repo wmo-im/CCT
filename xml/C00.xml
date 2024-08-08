@@ -304,7 +304,7 @@
   <C00>
     <GRIB-version-number>34</GRIB-version-number>
     <BUFR-version-number>43</BUFR-version-number>
-    <CREX-version-number>43</CREX-version-number>
+    <CREX-version-number/>
     <Effective-date>XX November 2024</Effective-date>
     <Status>Operational</Status>
   </C00>
