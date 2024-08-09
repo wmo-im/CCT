@@ -1585,6 +1585,14 @@
     <Status>Operational</Status>
   </C08>
   <C08>
+    <Code>477</Code>
+    <Agency_en>JAXA</Agency_en>
+    <Type_en>Imaging multi spectral radiometer (passive microwave)</Type_en>
+    <InstrumentShortName_en>AMSR3</InstrumentShortName_en>
+    <InstrumentLongName_en>Advanced Microwave Scanning Radiometer 3</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
     <Code>478</Code>
     <Agency_en>JAXA</Agency_en>
     <Type_en>Imaging multi-spectral radiometer (passive microwave)</Type_en>
@@ -1857,6 +1865,22 @@
     <Status>Operational</Status>
   </C08>
   <C08>
+    <Code>536</Code>
+    <Agency_en>tomorrow.io</Agency_en>
+    <Type_en>Radiometer</Type_en>
+    <InstrumentShortName_en>MWS</InstrumentShortName_en>
+    <InstrumentLongName_en>Microwave sounder</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>537</Code>
+    <Agency_en>tomorrow.io</Agency_en>
+    <Type_en>Radar</Type_en>
+    <InstrumentShortName_en>KAPR</InstrumentShortName_en>
+    <InstrumentLongName_en>Ka band precipitation radar</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
     <Code>540</Code>
     <Agency_en>NOAA</Agency_en>
     <Type_en>Communications</Type_en>
@@ -2084,7 +2108,7 @@
     <Code>620</Code>
     <Agency_en>NOAA</Agency_en>
     <Type_en>Atmospheric temperature and humidity sounder</Type_en>
-    <InstrumentShortName_en>CrIRS/NP</InstrumentShortName_en>
+    <InstrumentShortName_en>CrIS/NP</InstrumentShortName_en>
     <InstrumentLongName_en>Cross-track infrared sounder/NPOESS</InstrumentLongName_en>
     <Status>Operational</Status>
   </C08>
@@ -3273,7 +3297,15 @@
     <Status>Operational</Status>
   </C08>
   <C08>
-    <Code>988-989</Code>
+    <Code>988</Code>
+    <Agency_en>CMA</Agency_en>
+    <Type_en>Conical scanning dual-frequency scatterometer</Type_en>
+    <InstrumentShortName_en>WindRAD</InstrumentShortName_en>
+    <InstrumentLongName_en>Wind Radar</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>989</Code>
     <Agency_en>Reserved</Agency_en>
     <Type_en/>
     <InstrumentShortName_en/>
