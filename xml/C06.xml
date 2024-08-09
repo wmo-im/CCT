@@ -1589,7 +1589,7 @@
     <UnitType>Other Units as used by WMO</UnitType>
     <Meaning>square degrees</Meaning>
     <conventional>degrees^2</conventional>
-    <IA5-ASCII>deg^2</IA5-ASCII>
+    <IA5-ASCII>deg2</IA5-ASCII>
     <ITA2/>
     <SIDefinition/>
     <Note/>
