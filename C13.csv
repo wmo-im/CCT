@@ -67,15 +67,18 @@ CodeFigure_DataCategories,Name_DataCategories_en,CodeFigure_InternationalDataSub
 4,Single level upper-air data (other than satellite),0,ASDAR/ACARS (AMDAR),Operational
 4,Single level upper-air data (other than satellite),1,"Manual (AIREP, PIREP)",Operational
 4,Single level upper-air data (other than satellite),2,Mode-S,Operational
+4,Single level upper-air data (other than satellite),3,Long-duration balloon,Operational
 5,Single level upper-air data (satellite),0,Cloud wind data (SATOB),Operational
 5,Single level upper-air data (satellite),1,Cloud properties,Operational
 6,Radar data,0,Reflectivity data,Operational
 6,Radar data,1,Doppler wind profiles,Operational
 6,Radar data,2,Derived products,Operational
 6,Radar data,3,Ground radar weather (RADOB),Operational
-7,Synoptic features,0,Forecast tropical cyclone tracks from EPS,Operational
+7,Synoptic features,0,Forecast tropical cyclone tracks from ensemble prediction system,Operational
 7,Synoptic features,1,Squall line,Operational
 7,Synoptic features,2,Forecast tropical cyclone from deterministic system,Operational
+7,Synoptic features,3,Forecast tropical cyclone from machine learning deterministic system,Operational
+7,Synoptic features,4,Forecast tropical cyclone from machine learning ensemble prediction system,Operational
 8,Physical/chemical constituents,0,Surface ozone,Operational
 8,Physical/chemical constituents,1,Ozone vertical sounding,Operational
 8,Physical/chemical constituents,2,Total ozone,Operational

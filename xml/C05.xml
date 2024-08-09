@@ -50,6 +50,27 @@
     <Status>Operational</Status>
   </C05>
   <C05>
+    <CodeFigureForI6I6I6>006</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>6</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>6</CodeFigureForGRIB2>
+    <SatelliteName_en>CO2M-A</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>007</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>7</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>7</CodeFigureForGRIB2>
+    <SatelliteName_en>CO2M-B</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>008</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>8</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>8</CodeFigureForGRIB2>
+    <SatelliteName_en>CO2M-C</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
     <CodeFigureForI6I6I6>020</CodeFigureForI6I6I6>
     <CodeFigureForBUFR>20</CodeFigureForBUFR>
     <CodeFigureForGRIB2>20</CodeFigureForGRIB2>
@@ -414,6 +435,13 @@
     <Status>Operational</Status>
   </C05>
   <C05>
+    <CodeFigureForI6I6I6>123</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>123</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>123</CodeFigureForGRIB2>
+    <SatelliteName_en>GCOM-C</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
     <CodeFigureForI6I6I6>140</CodeFigureForI6I6I6>
     <CodeFigureForBUFR>140</CodeFigureForBUFR>
     <CodeFigureForGRIB2>140</CodeFigureForGRIB2>
@@ -425,6 +453,13 @@
     <CodeFigureForBUFR>141</CodeFigureForBUFR>
     <CodeFigureForGRIB2>141</CodeFigureForGRIB2>
     <SatelliteName_en>GOSAT-2</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>142</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>142</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>142</CodeFigureForGRIB2>
+    <SatelliteName_en>GOSAT-GW</SatelliteName_en>
     <Status>Operational</Status>
   </C05>
   <C05>
@@ -1671,6 +1706,20 @@
     <CodeFigureForBUFR>767</CodeFigureForBUFR>
     <CodeFigureForGRIB2>767</CodeFigureForGRIB2>
     <SatelliteName_en>NIMBUS 7</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>768</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>768</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>768</CodeFigureForGRIB2>
+    <SatelliteName_en>Loft Orbital YAM Longbow</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>769</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>769</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>769</CodeFigureForGRIB2>
+    <SatelliteName_en>tomorrow.io 6U CubeSat</SatelliteName_en>
     <Status>Operational</Status>
   </C05>
   <C05>
