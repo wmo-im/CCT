@@ -1589,6 +1589,7 @@
     <UnitType>Other Units as used by WMO</UnitType>
     <Meaning>square degrees</Meaning>
     <conventional>degrees^2</conventional>
+    <IA5-ASCII>deg2</IA5-ASCII>
     <ITA2/>
     <SIDefinition/>
     <Note/>
@@ -1680,7 +1681,395 @@
     <Status/>
   </C06>
   <C06>
-
+    <CodeFigure>845</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>per Kelvin</Meaning>
+    <conventional>K^-1</conventional>
+    <IA5-ASCII>K-1</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>846</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>square Kelvin</Meaning>
+    <conventional>K^2</conventional>
+    <IA5-ASCII>K2</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>847</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>logarithm square metre per square metre</Meaning>
+    <conventional>log(m^2 m^-2)</conventional>
+    <IA5-ASCII>log(m2 m-2)</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>848</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>logarithm cubic metre per square metre</Meaning>
+    <conventional>log(m^3 m^-2)</conventional>
+    <IA5-ASCII>log(m3 m-2)</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>849</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>kilograms per square metre per hour</Meaning>
+    <conventional>kg m^-2 h^-1</conventional>
+    <IA5-ASCII>kg m-2 h-1</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>850</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>Kelvin per Kelvin</Meaning>
+    <conventional>K K^-1</conventional>
+    <IA5-ASCII>K K-1</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>851</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>Watts per square metre per steradian per micro-metre</Meaning>
+    <conventional>W m^-2 sr^-1 um^-1</conventional>
+    <IA5-ASCII>W m-2 sr-1 um-1</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>852</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>Candela per square metre</Meaning>
+    <conventional>Cd m^-2</conventional>
+    <IA5-ASCII>Cd m-2</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>853</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>logarithm per cubic metre</Meaning>
+    <conventional>log(m^-3)</conventional>
+    <IA5-ASCII>log(m-3)</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>854</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>per square metre</Meaning>
+    <conventional>m^-2</conventional>
+    <IA5-ASCII>m-2</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>855</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>per metre per steradian</Meaning>
+    <conventional>m^-1 sr^-1</conventional>
+    <IA5-ASCII>m-1 sr-1</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>856</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>volts per metre</Meaning>
+    <conventional>V m^-1</conventional>
+    <IA5-ASCII>V m-1</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>857</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>per hour</Meaning>
+    <conventional>h^-1</conventional>
+    <IA5-ASCII>h-1</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>858</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>square metre seconds per radian</Meaning>
+    <conventional>m^2 s rad^-1</conventional>
+    <IA5-ASCII>m2 s rad-1</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>859</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>micro-moles per kilogram</Meaning>
+    <conventional>umol kg^-1</conventional>
+    <IA5-ASCII>umol kg-1</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>860</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>nano sieverts per hour</Meaning>
+    <conventional>nSv h^-1</conventional>
+    <IA5-ASCII>nSv h-1</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>861</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>metres per second per pascal</Meaning>
+    <conventional>m s^-1 Pa^-1</conventional>
+    <IA5-ASCII>m s-1 Pa-1</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>862</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>metres per second per Kelvin</Meaning>
+    <conventional>m s^-1 K^-1</conventional>
+    <IA5-ASCII>m s-1 K-1</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>863</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>moles per square centimetre</Meaning>
+    <conventional>mol cm^-2</conventional>
+    <IA5-ASCII>mol cm-2</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>864</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>kilograms per litre</Meaning>
+    <conventional>kg l^-1</conventional>
+    <IA5-ASCII>kg l-1</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>865</CodeFigure>
+    <UnitType>Other Units as used by WMO</UnitType>
+    <Meaning>milligrams per cubic metre</Meaning>
+    <conventional>mg m^-3</conventional>
+    <IA5-ASCII>mg m-3</IA5-ASCII>
+    <ITA2/>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na1</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>(yotta)</Meaning>
+    <conventional>(Y)</conventional>
+    <IA5-ASCII>(Y)</IA5-ASCII>
+    <ITA2>(Y)</ITA2>
+    <SIDefinition/>
+    <Note>(see Notes 1, 3 and 4)</Note>
+    <NoteID>19,9,10</NoteID>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na2</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>(zetta)</Meaning>
+    <conventional>(Z)</conventional>
+    <IA5-ASCII>(Z)</IA5-ASCII>
+    <ITA2>(Z)</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na3</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>exa</Meaning>
+    <conventional>E</conventional>
+    <IA5-ASCII>E</IA5-ASCII>
+    <ITA2>E</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na4</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>peta</Meaning>
+    <conventional>P</conventional>
+    <IA5-ASCII>P</IA5-ASCII>
+    <ITA2>PE</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na5</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>tera</Meaning>
+    <conventional>T</conventional>
+    <IA5-ASCII>T</IA5-ASCII>
+    <ITA2>T</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na6</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>giga</Meaning>
+    <conventional>G</conventional>
+    <IA5-ASCII>G</IA5-ASCII>
+    <ITA2>G</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na7</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>mega</Meaning>
+    <conventional>M</conventional>
+    <IA5-ASCII>M</IA5-ASCII>
+    <ITA2>MA</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na8</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>kilo</Meaning>
+    <conventional>k</conventional>
+    <IA5-ASCII>k</IA5-ASCII>
+    <ITA2>K</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na9</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>hecto</Meaning>
+    <conventional>h</conventional>
+    <IA5-ASCII>h</IA5-ASCII>
+    <ITA2>H</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na10</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>deca</Meaning>
+    <conventional>da</conventional>
+    <IA5-ASCII>da</IA5-ASCII>
+    <ITA2>D</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na11</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>deci</Meaning>
+    <conventional>d</conventional>
+    <IA5-ASCII>d</IA5-ASCII>
+    <ITA2>D</ITA2>
+    <SIDefinition/>
+    <Note/>
+    <NoteID/>
+    <Status/>
+  </C06>
+  <C06>
+    <CodeFigure>na12</CodeFigure>
+    <UnitType>SI Unit prefixes</UnitType>
+    <Meaning>centi</Meaning>
+    <conventional>c</conventional>
+    <IA5-ASCII>c</IA5-ASCII>
     <ITA2>C</ITA2>
     <SIDefinition/>
     <Note/>
