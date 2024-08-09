@@ -131,7 +131,7 @@ CodeFigure,UnitType,Meaning,conventional,IA5-ASCII,ITA2,SIDefinition,Note,NoteID
 814,Other Units as used by WMO,watts per square metre per steradian metre,W m^-2 sr^-1 m,W m-2 sr-1 m,,,,,Operational
 815,Other Units as used by WMO,watts per cubic metre per steradian,W m^-3 sr^-1,W m-3 sr-1,,,,,Operational
 820,Other Units as used by WMO,siemens per metre,S m^-1,S/m,,,,,Operational
-825,Other Units as used by WMO,square degrees,degrees^2,deg^2,,,,,Operational
+825,Other Units as used by WMO,square degrees,degrees^2,deg2,,,,,Operational
 830,Other Units as used by WMO,becquerel seconds per cubic metre,Bq s m^-3,Bq s m-3,,,,,Operational
 835,Other Units as used by WMO,decibels per metre,dB m^-1,dB/m,,,,,Operational
 836,Other Units as used by WMO,decibels per degree,dB degree^-1,dB/deg,,,,,Operational
