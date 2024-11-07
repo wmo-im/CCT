@@ -197,6 +197,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 461,NASDA,Radar,PR,Precipitation radar,Operational
 462,NASDA,Imaging microwave radar,SAR,Synthetic aperture radar,Operational
 470,JAXA,Imaging microwave radar,PALSAR,Phased array type L-band synthetic aperture radar,Operational
+477,JAXA,Imaging multi spectral radiometer (passive microwave),AMSR3,Advanced Microwave Scanning Radiometer 3,Operational
 478,JAXA,Imaging multi-spectral radiometer (passive microwave),AMSR2,Advanced Microwave Scanning Radiometer 2,Operational
 479,JAXA,Imaging multi-spectral radiometer (passive microwave),AMSR-E,Advanced microwave scanning radiometer - EOS,Operational
 480,JAXA,High-resolution optical imager,PRISM (ALOS),Panchromatic remote-sensing instrument for stereo mapping,Operational
@@ -231,6 +232,8 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 533,Spire,GNSS occultation sounder,SGNOS-D,Spire global navigation satellite system occultation sounder D,Operational
 534,PlanetiQ,GNSS occultation sounder,Pyxis-A,PlanetiQ Pyxis GNSS occultation receiver A,Operational
 535,PlanetiQ,GNSS occultation sounder,Pyxis-B,PlanetiQ Pyxis GNSS occultation receiver B,Operational
+536,tomorrow.io,Radiometer,MWS,Microwave sounder,Operational
+537,tomorrow.io,Radar,KAPR,Ka band precipitation radar,Operational
 540,NOAA,Communications,DCS (NOAA),Data-collection system (NOAA),Operational
 541,NOAA,Communications,GOES Comms,Communications package on GOES,Operational
 542,NOAA,Communications,LANDSAT Comms,Communications package for LANDSAT,Operational
@@ -259,7 +262,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 616,NOAA,Imaging multi-spectral radiometer (vis/IR),VIIRS,Visible/infrared imager radiometer suite,Operational
 617,NOAA,Imaging multi-spectral radiometer,ABI,Advanced baseline imager,Operational
 618,NOAA,High-resolution optical imager,GLM,Geostationary lightning mapper,Operational
-620,NOAA,Atmospheric temperature and humidity sounder,CrIRS/NP,Cross-track infrared sounder/NPOESS,Operational
+620,NOAA,Atmospheric temperature and humidity sounder,CrIS/NP,Cross-track infrared sounder/NPOESS,Operational
 621,NOAA,Atmospheric temperature and humidity sounder,ATMS,Advanced technology microwave sounder,Operational
 622,NOAA,Radiometer,MSS,Multispectral scanning system,Operational
 623,NOAA,Radiometer,MSU,Microwave sounding unit,Operational
@@ -408,7 +411,8 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 985,CMA,Conical scanning microwave imager,MWRI-1,Microwave radiation imager-1,Operational
 986,CMA,Conical scanning microwave imager,MWRI-2,Microwave radiation imager-2,Operational
 987,CMA,Conical scanning microwave imager,MWRI-RM,Microwave radiation imager-Rain Mission,Operational
-988-989,Reserved,,,,Operational
+988,CMA,Conical scanning dual-frequency scatterometer,WindRAD,Wind Radar,Operational
+989,Reserved,,,,Operational
 990,NASA,Radiometer,SMMR,Scanning multichannel microwave radiometer,Operational
 991,NASA,Radiometer,THIR,Temperature-humidity infrared radiometer,Operational
 992,NASA,Radiometer,NEMS,"Nimbus-E Microwave Sounder",Operational
