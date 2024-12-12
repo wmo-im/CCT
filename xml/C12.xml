@@ -687,6 +687,20 @@
     <Status>Operational</Status>
   </C12>
   <C12>
+    <CodeFigure_OriginatingCentres>183</CodeFigure_OriginatingCentres>
+    <Name_OriginatingCentres_en>Scripps Institute of Oceanography (UC San Diego - United States)</Name_OriginatingCentres_en>
+    <CodeFigure_SubCentres>1</CodeFigure_SubCentres>
+    <Name_SubCentres_en>Center for Western Weather and Water Extremes</Name_SubCentres_en>
+    <Status>Operational</Status>
+  </C12>
+  <C12>
+    <CodeFigure_OriginatingCentres>183</CodeFigure_OriginatingCentres>
+    <Name_OriginatingCentres_en>Scripps Institute of Oceanography (UC San Diego - United States)</Name_OriginatingCentres_en>
+    <CodeFigure_SubCentres>2</CodeFigure_SubCentres>
+    <Name_SubCentres_en>Global Drifter Program</Name_SubCentres_en>
+    <Status>Operational</Status>
+  </C12>
+  <C12>
     <CodeFigure_OriginatingCentres/>
     <Name_OriginatingCentres_en>REGION V</Name_OriginatingCentres_en>
     <CodeFigure_SubCentres/>
