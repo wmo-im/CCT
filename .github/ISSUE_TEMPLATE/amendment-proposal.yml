@@ -1,11 +1,11 @@
-name: "Proposal for an Amendment"
+name: Proposal for an Amendment
 description: Proposal for amendments to WMO publications that may be submitted for WMO approval with the standard or fast-track procedure.
 title: "[Enter table name, number and a very brief description of change]"
 body:
   - type: markdown
     attributes:
       value: The content in this issue, excluding the initial request, will be kept up to date during the drafting of the proposal. Please pay attention to accuracy, spelling and grammar as it may be referenced in an official document for WMO adoption. 
- - type: textarea
+  - type: textarea
     id: introduction
     attributes:
       label: Introduction
