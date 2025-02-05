@@ -83,6 +83,9 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 211,ESA/EUMETSAT/Leonardo,Imager,LI,Lightning imager,Operational
 212,ESA/EUMETSAT/OHB,Interferometer,IRS,Infrared sounder,Operational
 213,ESA/EUMETSAT/Copernicus - Airbus,Spectrometer,S4,Ultraviolet and Near-Infrared Multispectral Spectrometer (S4 UVN),Operational
+214,ESA,Spectrometer,CO2I,Integrated CO2 and NO2 Imaging Spectrometer
+215,ESA,Multiple direction/polarization radiometer,MAP,Multi-Angle Polarimeter
+216,ESA,Imaging multi-spectral radiometer (vis/IR),CLIM,Cloud Imager
 220,ESA/EUMETSAT,Spectrometer,GOME-2,Global ozone monitoring experiment-2,Operational
 221,CNES/EUMETSAT,Atmospheric temperature and humidity sounder,IASI,Infrared atmospheric sounding interferometer,Operational
 230,ESA/EUMETSAT,Radiometer,3MI,Multi-viewing Multi-channel Multi-polarisation Imaging,Operational
