@@ -500,7 +500,12 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 30363,Yttrium 94,Y-94,Operational
 30364,Yttrium 95,Y-95,Operational
 30365,Zirconium 96,Zr-96,Operational
-30366-39999,Reserved,,Operational
+30366,Indium 117,In-117,Extension
+30367,Lead 203,Pb-203,Extension
+30368,Sodium 24,Na-24,Extension
+30369,Ruthenium 107,Ru-107,Extension
+30370,Uranium 239,U-239,Extension
+30371-39999,Reserved,,Operational
 40000,Singlet sigma oxygen (dioxygen (sigma singlet)),O2(1&Sigma;+g),Operational
 40001,Singlet delta oxygen (dioxygen (delta singlet)),O2(1&Delta;g),Operational
 40002,Singlet excited oxygen atom,O(1D),Operational
