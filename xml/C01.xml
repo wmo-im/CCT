@@ -1325,8 +1325,15 @@
   </C01>
   <C01>
     <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
-    <CodeFigureForF3F3F3>183-189</CodeFigureForF3F3F3>
-    <Octet5GRIB1_Octet6BUFR3>183-189</Octet5GRIB1_Octet6BUFR3>
+    <CodeFigureForF3F3F3>183</CodeFigureForF3F3F3>
+    <Octet5GRIB1_Octet6BUFR3>183</Octet5GRIB1_Octet6BUFR3>
+    <OriginatingGeneratingCentres_en>Scripps Institute of Oceanography (UC San Diego - United States)</OriginatingGeneratingCentres_en>
+    <Status>Operational</Status>
+  </C01>
+  <C01>
+    <CodeFigureForF1F2>Not applicable</CodeFigureForF1F2>
+    <CodeFigureForF3F3F3>184-189</CodeFigureForF3F3F3>
+    <Octet5GRIB1_Octet6BUFR3>184-189</Octet5GRIB1_Octet6BUFR3>
     <OriginatingGeneratingCentres_en>Reserved for other centres</OriginatingGeneratingCentres_en>
     <Status>Operational</Status>
   </C01>

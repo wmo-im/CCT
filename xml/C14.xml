@@ -643,7 +643,61 @@
     <Status>Operational</Status>
   </C14>
   <C14>
-    <CodeFigure>10060-10499</CodeFigure>
+    <CodeFigure>10060</CodeFigure>
+    <Meaning_en>Butene</Meaning_en>
+    <ChemicalFormula>C4H8</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>10061</CodeFigure>
+    <Meaning_en>Pentene</Meaning_en>
+    <ChemicalFormula>C5H10</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>10062</CodeFigure>
+    <Meaning_en>Hexene</Meaning_en>
+    <ChemicalFormula>C6H12</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>10063</CodeFigure>
+    <Meaning_en>Heptene</Meaning_en>
+    <ChemicalFormula>C7H14</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>10064</CodeFigure>
+    <Meaning_en>Octene</Meaning_en>
+    <ChemicalFormula>C8H16</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>10065</CodeFigure>
+    <Meaning_en>Pentane</Meaning_en>
+    <ChemicalFormula>C5H12</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>10066</CodeFigure>
+    <Meaning_en>Hexane</Meaning_en>
+    <ChemicalFormula>C6H14</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>10067</CodeFigure>
+    <Meaning_en>Heptane</Meaning_en>
+    <ChemicalFormula>C7H16</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>10068</CodeFigure>
+    <Meaning_en>Octane</Meaning_en>
+    <ChemicalFormula>C8H18</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>10069-10499</CodeFigure>
     <Meaning_en>Reserved for other simple organic molecules (e.g. higher aldehydes, alcohols, peroxides, etc.)</Meaning_en>
     <ChemicalFormula/>
     <Status>Operational</Status>
@@ -2953,7 +3007,37 @@
     <Status>Operational</Status>
   </C14>
   <C14>
-    <CodeFigure>30366-39999</CodeFigure>
+    <CodeFigure>30366</CodeFigure>
+    <Meaning_en>Indium 117</Meaning_en>
+    <ChemicalFormula>In-117</ChemicalFormula>
+    <Status>Extension</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30367</CodeFigure>
+    <Meaning_en>Lead 203</Meaning_en>
+    <ChemicalFormula>Pb-203</ChemicalFormula>
+    <Status>Extension</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30368</CodeFigure>
+    <Meaning_en>Sodium 24</Meaning_en>
+    <ChemicalFormula>Na-24</ChemicalFormula>
+    <Status>Extension</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30369</CodeFigure>
+    <Meaning_en>Ruthenium 107</Meaning_en>
+    <ChemicalFormula>Ru-107</ChemicalFormula>
+    <Status>Extension</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30370</CodeFigure>
+    <Meaning_en>Uranium 239</Meaning_en>
+    <ChemicalFormula>U-239</ChemicalFormula>
+    <Status>Extension</Status>
+  </C14>
+  <C14>
+    <CodeFigure>30371-39999</CodeFigure>
     <Meaning_en>Reserved</Meaning_en>
     <ChemicalFormula/>
     <Status>Operational</Status>
@@ -3427,7 +3511,13 @@
     <Status>Operational</Status>
   </C14>
   <C14>
-    <CodeFigure>62037-62099</CodeFigure>
+    <CodeFigure>62037</CodeFigure>
+    <Meaning_en>Sea salt wet at 80% relative humidity</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62038-62099</CodeFigure>
     <Meaning_en>Reserved</Meaning_en>
     <ChemicalFormula/>
     <Status>Operational</Status>

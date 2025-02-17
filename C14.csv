@@ -106,7 +106,16 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 10057,2-lambda^1-oxidanyloxy-3-methylbut-3-en-1-ol (2-hydroxy-1-isopropenylethylperoxy radical),HOCH2CH(OO*)C(CH3)CH2,Operational
 10058,(Z)-4-hydroperoxy-2-methyl-2-butenal,CH2(OOH)CHC(CH3)CHO,Operational
 10059,(Z)-4-hydroperoxy-3-methyl-2-butenal,CH2(OOH)C(CH3)CHCHO,Operational
-10060-10499,"Reserved for other simple organic molecules (e.g. higher aldehydes, alcohols, peroxides, etc.)",,Operational
+10060,Butene,C4H8,Operational
+10061,Pentene,C5H10,Operational
+10062,Hexene,C6H12,Operational
+10063,Heptene,C7H14,Operational
+10064,Octene,C8H16,Operational
+10065,Pentane,C5H12,Operational
+10066,Hexane,C6H14,Operational
+10067,Heptane,C7H16,Operational
+10068,Octane,C8H18,Operational
+10069-10499,"Reserved for other simple organic molecules (e.g. higher aldehydes, alcohols, peroxides, etc.)",,Operational
 10500,Dimethyl sulphide,CH3SCH3 (DMS),Operational
 10501,DMSO (dimethyl sulfoxide),(CH3)2SO,Operational
 10502-20000,Reserved,,Operational
@@ -491,7 +500,12 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 30363,Yttrium 94,Y-94,Operational
 30364,Yttrium 95,Y-95,Operational
 30365,Zirconium 96,Zr-96,Operational
-30366-39999,Reserved,,Operational
+30366,Indium 117,In-117,Extension
+30367,Lead 203,Pb-203,Extension
+30368,Sodium 24,Na-24,Extension
+30369,Ruthenium 107,Ru-107,Extension
+30370,Uranium 239,U-239,Extension
+30371-39999,Reserved,,Operational
 40000,Singlet sigma oxygen (dioxygen (sigma singlet)),O2(1&Sigma;+g),Operational
 40001,Singlet delta oxygen (dioxygen (delta singlet)),O2(1&Delta;g),Operational
 40002,Singlet excited oxygen atom,O(1D),Operational
@@ -570,7 +584,8 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 62034,Rain water,H2Orain,Operational
 62035,Cloud water,H2Ocloud,Operational
 62036,Brown carbon dry,,Operational
-62037-62099,Reserved,,Operational
+62037,Sea salt wet at 80% relative humidity,,Operational
+62038-62099,Reserved,,Operational
 62100,Alnus (alder) pollen,,Operational
 62101,Betula (birch) pollen,,Operational
 62102,Castanea (chestnut) pollen,,Operational
