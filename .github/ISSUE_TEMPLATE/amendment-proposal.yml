@@ -44,11 +44,11 @@ body:
     id: consultations
     attributes:
       label: Consultations
-      description: Individuals, groups,or organizations that are consulted. Also cite publications or other documents as references.
+      description: Individuals, groups,or organizations that are consulted. Also cite publications or other documents as references. Include relevant affiliations, GitHub user names, and URLS as applicable.
   - type: textarea
     attributes:
       label: Data exchange plans
-      description: Describe plans for data exchange associated with the proposal. For example, identify relevant datasets, WMO systems (WIGOS, WIS2, WIPPS), etc. 
+      description: Describe plans for data exchange associated with the proposal. For example, identify relevant datasets, WMO systems (WIGOS, WIS2, WIPPS), timelines, etc. 
   - type: textarea
     attributes:
       label: Comments
