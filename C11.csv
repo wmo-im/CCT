@@ -290,17 +290,17 @@ CREX2,GRIB2_BUFR4,OriginatingGeneratingCentre_en,Status
 00292,292,Helmholtz Centre for Environmental Research (UFZ),Operational
 00293,293,University of Bremen,Operational
 00294,294,Netherlands Institute for Space Research (SRON),Operational
-00295,295,The Royal Belgian Institute for Space Aeronomy (BIRA-IASB),Operational
-00296,296,The French National Centre for Scientific Research (CNRS),Operational
-00297,297,The Nanjing Institute of Environmental Sciences (NIES),Operational
+00295,295,Royal Belgian Institute for Space Aeronomy (BIRA-IASB),Operational
+00296,296,French National Centre for Scientific Research (CNRS),Operational
+00297,297,Nanjing Institute of Environmental Sciences (NIES),Operational
 00298,298,Dynamic Meteorology Laboratory (LMD),Operational
 00299,299,The Rutherford Appleton Laboratory (RAL),Operational
 00300,300,Greek Atomic Energy Commission (Greece),Operational
-00301,301,United Stated Environmental Protection Agency (USA),Operational
-00302,302,Autralian Radiation Protection and Nuclear Safety (Australia),Operational
-00303,303,Authority for Nuclear Safety and Radiation Protection (The Netherlands),Operational
-00304,304,Autorite de Surete Nucleaire (France),Operational
-00305,305,Bundesamt für Strahlenschutz (Germany),Operational
+00301,301,United States Environmental Protection Agency (USA),Operational
+00302,302,Australian Radiation Protection and Nuclear Safety (Australia),Operational
+00303,303,Authority for Nuclear Safety and Radiation Protection (Kingdom of the Netherlands),Operational
+00304,304,Autorite de surete nucleaire (France),Operational
+00305,305,Bundesamt füs Strahnenschutz (Germany),Operational
 00306,306,National Commission for Nuclear Activities Control (Romania),Operational
 00307,307,Consejo de Seguridad Nuclear (Spain),Operational
 00308,308,Danish Emergency Management Agency (Denmark),Operational
@@ -311,7 +311,7 @@ CREX2,GRIB2_BUFR4,OriginatingGeneratingCentre_en,Status
 00313,313,Nuclear Regulatory Authority (Turkiye),Operational
 00314,314,Nuclear Regulation Authority (Japan),Operational
 00315,315,Nuclear Regulatory Agency (Bulgaria),Operational
-00316,316,Ukrainian Radiation Protection Institute (Ukriane),Operational
+00316,316,Ukrainian Radiation Protection Institute (Ukraine),Operational
 00317,317,Health Canada Radio Protection Bureau (Canada),Operational
 00318,318,Portuguese Society for Radiation Protection (Portugal),Operational
 00319,319,Swedish Radiation Safety Authority (Sweden),Operational
