@@ -1767,7 +1767,7 @@
   <C06>
     <CodeFigure>852</CodeFigure>
     <UnitType>Other Units as used by WMO</UnitType>
-    <Meaning>Candela per square metre</Meaning>
+    <Meaning>Candelas per square metre</Meaning>
     <conventional>cd m^-2</conventional>
     <IA5-ASCII>cd m-2</IA5-ASCII>
     <ITA2/>
