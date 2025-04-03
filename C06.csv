@@ -146,7 +146,7 @@ CodeFigure,UnitType,Meaning,conventional,IA5-ASCII,ITA2,SIDefinition,Note,NoteID
 849,Other Units as used by WMO,kilograms per square metre per hour,kg m^-2 h^-1,kg m-2 h-1,,,,,
 850,Other Units as used by WMO,kelvin per kelvin,K K^-1,K K-1,,,,,
 851,Other Units as used by WMO,watts per square metre per steradian per micrometre,W m^-2 sr^-1 um^-1,W m-2 sr-1 um-1,,,,,
-852,Other Units as used by WMO,candela per square metre,cd m^-2,cd m-2,,,,,
+852,Other Units as used by WMO,candelas per square metre,cd m^-2,cd m-2,,,,,
 853,Other Units as used by WMO,logarithm per cubic metre,log(m^-3),log(m-3),,,,,
 854,Other Units as used by WMO,per square metre,m^-2,m-2,,,,,
 855,Other Units as used by WMO,per metre per steradian,m^-1 sr^-1,m-1 sr-1,,,,,
