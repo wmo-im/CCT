@@ -1805,7 +1805,7 @@
     <Agency_en>JAXA</Agency_en>
     <Type_en>Spectrometer</Type_en>
     <InstrumentShortName_en>TANSO-FTS2</InstrumentShortName_en>
-    <InstrumentLongName_en>Thermal and Near infrared Sensor for carbon Observations (TANSO) - Fourier Transform Spectrometer / 2</InstrumentLongName_en>
+    <InstrumentLongName_en>Thermal and Near infrared Sensor for carbon Observations (TANSO) - Fourier Transform Spectrometer/2</InstrumentLongName_en>
     <Status>Operational</Status>
   </C08>
   <C08>
@@ -3285,7 +3285,7 @@
     <Agency_en>CMA</Agency_en>
     <Type_en>Cross-track scanning, IR Hyperspectral sounder</Type_en>
     <InstrumentShortName_en>HIRAS-2</InstrumentShortName_en>
-    <InstrumentLongName_en>Hyperspectral Infrared Atmospheric Sounder-2</InstrumentLongName_en>
+    <InstrumentLongName_en>Hyperspectral infrared atmospheric sounder-2</InstrumentLongName_en>
     <Status>Operational</Status>
   </C08>
   <C08>
@@ -3293,7 +3293,7 @@
     <Agency_en>CMA</Agency_en>
     <Type_en>Cross-track scanning, IR Hyperspectral sounder</Type_en>
     <InstrumentShortName_en>HIRAS-3</InstrumentShortName_en>
-    <InstrumentLongName_en>Hyperspectral Infrared Atmospheric Sounder-3</InstrumentLongName_en>
+    <InstrumentLongName_en>Hyperspectral infrared atmospheric sounder-3</InstrumentLongName_en>
     <Status>Operational</Status>
   </C08>
   <C08>

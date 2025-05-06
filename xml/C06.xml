@@ -1683,7 +1683,7 @@
   <C06>
     <CodeFigure>845</CodeFigure>
     <UnitType>Other Units as used by WMO</UnitType>
-    <Meaning>per Kelvin</Meaning>
+    <Meaning>per kelvin</Meaning>
     <conventional>K^-1</conventional>
     <IA5-ASCII>K-1</IA5-ASCII>
     <ITA2/>
@@ -1695,7 +1695,7 @@
   <C06>
     <CodeFigure>846</CodeFigure>
     <UnitType>Other Units as used by WMO</UnitType>
-    <Meaning>square Kelvin</Meaning>
+    <Meaning>square kelvin</Meaning>
     <conventional>K^2</conventional>
     <IA5-ASCII>K2</IA5-ASCII>
     <ITA2/>
@@ -1743,7 +1743,7 @@
   <C06>
     <CodeFigure>850</CodeFigure>
     <UnitType>Other Units as used by WMO</UnitType>
-    <Meaning>Kelvin per Kelvin</Meaning>
+    <Meaning>kelvin per kelvin</Meaning>
     <conventional>K K^-1</conventional>
     <IA5-ASCII>K K-1</IA5-ASCII>
     <ITA2/>
@@ -1755,7 +1755,7 @@
   <C06>
     <CodeFigure>851</CodeFigure>
     <UnitType>Other Units as used by WMO</UnitType>
-    <Meaning>Watts per square metre per steradian per micro-metre</Meaning>
+    <Meaning>watts per square metre per steradian per micrometre</Meaning>
     <conventional>W m^-2 sr^-1 um^-1</conventional>
     <IA5-ASCII>W m-2 sr-1 um-1</IA5-ASCII>
     <ITA2/>
@@ -1767,7 +1767,7 @@
   <C06>
     <CodeFigure>852</CodeFigure>
     <UnitType>Other Units as used by WMO</UnitType>
-    <Meaning>Candela per square metre</Meaning>
+    <Meaning>candelas per square metre</Meaning>
     <conventional>cd m^-2</conventional>
     <IA5-ASCII>cd m-2</IA5-ASCII>
     <ITA2/>
@@ -1851,7 +1851,7 @@
   <C06>
     <CodeFigure>859</CodeFigure>
     <UnitType>Other Units as used by WMO</UnitType>
-    <Meaning>micro-moles per kilogram</Meaning>
+    <Meaning>micromoles per kilogram</Meaning>
     <conventional>umol kg^-1</conventional>
     <IA5-ASCII>umol kg-1</IA5-ASCII>
     <ITA2/>
@@ -1863,7 +1863,7 @@
   <C06>
     <CodeFigure>860</CodeFigure>
     <UnitType>Other Units as used by WMO</UnitType>
-    <Meaning>nano sieverts per hour</Meaning>
+    <Meaning>nanosieverts per hour</Meaning>
     <conventional>nSv h^-1</conventional>
     <IA5-ASCII>nSv h-1</IA5-ASCII>
     <ITA2/>
@@ -1887,7 +1887,7 @@
   <C06>
     <CodeFigure>862</CodeFigure>
     <UnitType>Other Units as used by WMO</UnitType>
-    <Meaning>metres per second per Kelvin</Meaning>
+    <Meaning>metres per second per kelvin</Meaning>
     <conventional>m s^-1 K^-1</conventional>
     <IA5-ASCII>m s-1 K-1</IA5-ASCII>
     <ITA2/>

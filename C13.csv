@@ -1,10 +1,10 @@
 CodeFigure_DataCategories,Name_DataCategories_en,CodeFigure_InternationalDataSubcategories,Name_InternationalDataSubcategories_en,Status
-0,Surface data - land,0,Hourly synoptic observations from fixed-land stations (SYNOP),Operational
-0,Surface data - land,1,Intermediate synoptic observations from fixed-land stations (SYNOP),Operational
-0,Surface data - land,2,Main synoptic observations from fixed-land stations (SYNOP),Operational
-0,Surface data - land,3,Hourly synoptic observations from mobile-land stations (SYNOP MOBIL),Operational
-0,Surface data - land,4,Intermediate synoptic observations from mobile-land stations (SYNOP MOBIL),Operational
-0,Surface data - land,5,Main synoptic observations from mobile-land stations (SYNOP MOBIL),Operational
+0,Surface data - land,0,Hourly synoptic observations from fixed land stations (SYNOP),Operational
+0,Surface data - land,1,Intermediate synoptic observations from fixed land stations (SYNOP),Operational
+0,Surface data - land,2,Main synoptic observations from fixed land stations (SYNOP),Operational
+0,Surface data - land,3,Hourly synoptic observations from mobile land stations (SYNOP MOBIL),Operational
+0,Surface data - land,4,Intermediate synoptic observations from mobile land stations (SYNOP MOBIL),Operational
+0,Surface data - land,5,Main synoptic observations from mobile land stations (SYNOP MOBIL),Operational
 0,Surface data - land,6,One-hour observations from automated stations,Operational
 0,Surface data - land,7,n-minute observations from AWS stations,Operational
 0,Surface data - land,8,Radiation observations from one-hour period,Operational
@@ -27,28 +27,28 @@ CodeFigure_DataCategories,Name_DataCategories_en,CodeFigure_InternationalDataSub
 1,Surface data - sea,25,Buoy observation (BUOY),Operational
 1,Surface data - sea,30,Tide gauge,Operational
 1,Surface data - sea,31,Observed water level time series,Operational
-2,Vertical soundings (other than satellite),1,Upper-wind reports from fixed-land stations (PILOT),Operational
+2,Vertical soundings (other than satellite),1,Upper-wind reports from fixed land stations (PILOT),Operational
 2,Vertical soundings (other than satellite),2,Upper-wind reports from ships (PILOT SHIP),Operational
 2,Vertical soundings (other than satellite),3,Upper-wind reports from mobile land stations (PILOT MOBIL),Operational
-2,Vertical soundings (other than satellite),4,Upper-level temperature/humidity/wind reports from fixed-land stations (TEMP),Operational
+2,Vertical soundings (other than satellite),4,Upper-level temperature/humidity/wind reports from fixed land stations (TEMP),Operational
 2,Vertical soundings (other than satellite),5,Upper-level temperature/humidity/wind reports from ships (TEMP SHIP),Operational
 2,Vertical soundings (other than satellite),6,Upper-level temperature/humidity/wind report from mobile land stations (TEMP MOBIL),Operational
 2,Vertical soundings (other than satellite),7,Upper-level temperature/humidity/wind reports from dropwinsondes (TEMP DROP),Operational
 2,Vertical soundings (other than satellite),10,Wind profiler reports,Operational
 2,Vertical soundings (other than satellite),11,RASS temperature profiles,Operational
-2,Vertical soundings (other than satellite),14,Upper-level temperature/humidity/wind reports from descent radiosondes originally launched from fixed-land stations,Operational
+2,Vertical soundings (other than satellite),14,Upper-level temperature/humidity/wind reports from descent radiosondes originally launched from fixed land stations,Operational
 2,Vertical soundings (other than satellite),15,Upper-level temperature/humidity/wind reports from descent radiosondes originally launched from ships,Operational
 2,Vertical soundings (other than satellite),16,Upper-level temperature/humidity/wind reports from descent radiosondes originally launched from mobile land stations,Operational
 2,Vertical soundings (other than satellite),20,ASDAR/ACARS profiles (AMDAR),Operational
 2,Vertical soundings (other than satellite),21,Profiles of atmospheric constituents concentrations,Operational
-2,Vertical soundings (other than satellite),25,Climatological observations from fixed-land stations (CLIMAT TEMP),Operational
+2,Vertical soundings (other than satellite),25,Climatological observations from fixed land stations (CLIMAT TEMP),Operational
 2,Vertical soundings (other than satellite),26,Climatological observations from ships (CLIMAT TEMP SHIP),Operational
 2,Vertical soundings (other than satellite),40,MW temperature/humidity sounding,Operational
 2,Vertical soundings (other than satellite),50,Radio occultation sounding,Operational
-2,Vertical soundings (other than satellite),104,Upper-level temperature/humidity/wind reports from fixed-land stations (TEMP) with re-used radiosondes,Operational
+2,Vertical soundings (other than satellite),104,Upper-level temperature/humidity/wind reports from fixed land stations (TEMP) with re-used radiosondes,Operational
 2,Vertical soundings (other than satellite),105,Upper-level temperature/humidity/wind reports from ships (TEMP SHIP) with re-used radiosondes,Operational
 2,Vertical soundings (other than satellite),106,Upper-level temperature/humidity/wind report from mobile land stations (TEMP MOBIL) with re-used radiosondes,Operational
-2,Vertical soundings (other than satellite),114,Upper-level temperature/humidity/wind reports from descent radiosondes originally launched from fixed-land stations with re-used radiosondes,Operational
+2,Vertical soundings (other than satellite),114,Upper-level temperature/humidity/wind reports from descent radiosondes originally launched from fixed land stations with re-used radiosondes,Operational
 2,Vertical soundings (other than satellite),115,Upper-level temperature/humidity/wind reports from descent radiosondes originally launched from ships with re-used radiosondes,Operational
 2,Vertical soundings (other than satellite),116,Upper-level temperature/humidity/wind reports from descent radiosondes originally launched from mobile land stations with re-used radiosondes,Operational
 3,Vertical soundings (satellite),0,Temperature (SATEM),Operational
