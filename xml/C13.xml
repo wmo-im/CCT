@@ -4,42 +4,42 @@
     <CodeFigure_DataCategories>0</CodeFigure_DataCategories>
     <Name_DataCategories_en>Surface data - land</Name_DataCategories_en>
     <CodeFigure_InternationalDataSubcategories>0</CodeFigure_InternationalDataSubcategories>
-    <Name_InternationalDataSubcategories_en>Hourly synoptic observations from fixed-land stations (SYNOP)</Name_InternationalDataSubcategories_en>
+    <Name_InternationalDataSubcategories_en>Hourly synoptic observations from fixed land stations (SYNOP)</Name_InternationalDataSubcategories_en>
     <Status>Operational</Status>
   </C13>
   <C13>
     <CodeFigure_DataCategories>0</CodeFigure_DataCategories>
     <Name_DataCategories_en>Surface data - land</Name_DataCategories_en>
     <CodeFigure_InternationalDataSubcategories>1</CodeFigure_InternationalDataSubcategories>
-    <Name_InternationalDataSubcategories_en>Intermediate synoptic observations from fixed-land stations (SYNOP)</Name_InternationalDataSubcategories_en>
+    <Name_InternationalDataSubcategories_en>Intermediate synoptic observations from fixed land stations (SYNOP)</Name_InternationalDataSubcategories_en>
     <Status>Operational</Status>
   </C13>
   <C13>
     <CodeFigure_DataCategories>0</CodeFigure_DataCategories>
     <Name_DataCategories_en>Surface data - land</Name_DataCategories_en>
     <CodeFigure_InternationalDataSubcategories>2</CodeFigure_InternationalDataSubcategories>
-    <Name_InternationalDataSubcategories_en>Main synoptic observations from fixed-land stations (SYNOP)</Name_InternationalDataSubcategories_en>
+    <Name_InternationalDataSubcategories_en>Main synoptic observations from fixed land stations (SYNOP)</Name_InternationalDataSubcategories_en>
     <Status>Operational</Status>
   </C13>
   <C13>
     <CodeFigure_DataCategories>0</CodeFigure_DataCategories>
     <Name_DataCategories_en>Surface data - land</Name_DataCategories_en>
     <CodeFigure_InternationalDataSubcategories>3</CodeFigure_InternationalDataSubcategories>
-    <Name_InternationalDataSubcategories_en>Hourly synoptic observations from mobile-land stations (SYNOP MOBIL)</Name_InternationalDataSubcategories_en>
+    <Name_InternationalDataSubcategories_en>Hourly synoptic observations from mobile land stations (SYNOP MOBIL)</Name_InternationalDataSubcategories_en>
     <Status>Operational</Status>
   </C13>
   <C13>
     <CodeFigure_DataCategories>0</CodeFigure_DataCategories>
     <Name_DataCategories_en>Surface data - land</Name_DataCategories_en>
     <CodeFigure_InternationalDataSubcategories>4</CodeFigure_InternationalDataSubcategories>
-    <Name_InternationalDataSubcategories_en>Intermediate synoptic observations from mobile-land stations (SYNOP MOBIL)</Name_InternationalDataSubcategories_en>
+    <Name_InternationalDataSubcategories_en>Intermediate synoptic observations from mobile land stations (SYNOP MOBIL)</Name_InternationalDataSubcategories_en>
     <Status>Operational</Status>
   </C13>
   <C13>
     <CodeFigure_DataCategories>0</CodeFigure_DataCategories>
     <Name_DataCategories_en>Surface data - land</Name_DataCategories_en>
     <CodeFigure_InternationalDataSubcategories>5</CodeFigure_InternationalDataSubcategories>
-    <Name_InternationalDataSubcategories_en>Main synoptic observations from mobile-land stations (SYNOP MOBIL)</Name_InternationalDataSubcategories_en>
+    <Name_InternationalDataSubcategories_en>Main synoptic observations from mobile land stations (SYNOP MOBIL)</Name_InternationalDataSubcategories_en>
     <Status>Operational</Status>
   </C13>
   <C13>
@@ -200,7 +200,7 @@
     <CodeFigure_DataCategories>2</CodeFigure_DataCategories>
     <Name_DataCategories_en>Vertical soundings (other than satellite)</Name_DataCategories_en>
     <CodeFigure_InternationalDataSubcategories>1</CodeFigure_InternationalDataSubcategories>
-    <Name_InternationalDataSubcategories_en>Upper-wind reports from fixed-land stations (PILOT)</Name_InternationalDataSubcategories_en>
+    <Name_InternationalDataSubcategories_en>Upper-wind reports from fixed land stations (PILOT)</Name_InternationalDataSubcategories_en>
     <Status>Operational</Status>
   </C13>
   <C13>
@@ -221,7 +221,7 @@
     <CodeFigure_DataCategories>2</CodeFigure_DataCategories>
     <Name_DataCategories_en>Vertical soundings (other than satellite)</Name_DataCategories_en>
     <CodeFigure_InternationalDataSubcategories>4</CodeFigure_InternationalDataSubcategories>
-    <Name_InternationalDataSubcategories_en>Upper-level temperature/humidity/wind reports from fixed-land stations (TEMP)</Name_InternationalDataSubcategories_en>
+    <Name_InternationalDataSubcategories_en>Upper-level temperature/humidity/wind reports from fixed land stations (TEMP)</Name_InternationalDataSubcategories_en>
     <Status>Operational</Status>
   </C13>
   <C13>
@@ -263,7 +263,7 @@
     <CodeFigure_DataCategories>2</CodeFigure_DataCategories>
     <Name_DataCategories_en>Vertical soundings (other than satellite)</Name_DataCategories_en>
     <CodeFigure_InternationalDataSubcategories>14</CodeFigure_InternationalDataSubcategories>
-    <Name_InternationalDataSubcategories_en>Upper-level temperature/humidity/wind reports from descent radiosondes originally launched from fixed-land stations</Name_InternationalDataSubcategories_en>
+    <Name_InternationalDataSubcategories_en>Upper-level temperature/humidity/wind reports from descent radiosondes originally launched from fixed land stations</Name_InternationalDataSubcategories_en>
     <Status>Operational</Status>
   </C13>
   <C13>
@@ -298,7 +298,7 @@
     <CodeFigure_DataCategories>2</CodeFigure_DataCategories>
     <Name_DataCategories_en>Vertical soundings (other than satellite)</Name_DataCategories_en>
     <CodeFigure_InternationalDataSubcategories>25</CodeFigure_InternationalDataSubcategories>
-    <Name_InternationalDataSubcategories_en>Climatological observations from fixed-land stations (CLIMAT TEMP)</Name_InternationalDataSubcategories_en>
+    <Name_InternationalDataSubcategories_en>Climatological observations from fixed land stations (CLIMAT TEMP)</Name_InternationalDataSubcategories_en>
     <Status>Operational</Status>
   </C13>
   <C13>
@@ -326,7 +326,7 @@
     <CodeFigure_DataCategories>2</CodeFigure_DataCategories>
     <Name_DataCategories_en>Vertical soundings (other than satellite)</Name_DataCategories_en>
     <CodeFigure_InternationalDataSubcategories>104</CodeFigure_InternationalDataSubcategories>
-    <Name_InternationalDataSubcategories_en>Upper-level temperature/humidity/wind reports from fixed-land stations (TEMP) with re-used radiosondes</Name_InternationalDataSubcategories_en>
+    <Name_InternationalDataSubcategories_en>Upper-level temperature/humidity/wind reports from fixed land stations (TEMP) with re-used radiosondes</Name_InternationalDataSubcategories_en>
     <Status>Operational</Status>
   </C13>
   <C13>
@@ -347,7 +347,7 @@
     <CodeFigure_DataCategories>2</CodeFigure_DataCategories>
     <Name_DataCategories_en>Vertical soundings (other than satellite)</Name_DataCategories_en>
     <CodeFigure_InternationalDataSubcategories>114</CodeFigure_InternationalDataSubcategories>
-    <Name_InternationalDataSubcategories_en>Upper-level temperature/humidity/wind reports from descent radiosondes originally launched from fixed-land stations with re-used radiosondes</Name_InternationalDataSubcategories_en>
+    <Name_InternationalDataSubcategories_en>Upper-level temperature/humidity/wind reports from descent radiosondes originally launched from fixed land stations with re-used radiosondes</Name_InternationalDataSubcategories_en>
     <Status>Operational</Status>
   </C13>
   <C13>

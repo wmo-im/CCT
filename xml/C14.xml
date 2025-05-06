@@ -2594,19 +2594,19 @@
   </C14>
   <C14>
     <CodeFigure>30306</CodeFigure>
-    <Meaning_en>Cadminum 115</Meaning_en>
+    <Meaning_en>Cadmium 115</Meaning_en>
     <ChemicalFormula>Cd-115</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
     <CodeFigure>30307</CodeFigure>
-    <Meaning_en>Cadminum 117</Meaning_en>
+    <Meaning_en>Cadmium 117</Meaning_en>
     <ChemicalFormula>Cd-117</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
     <CodeFigure>30308</CodeFigure>
-    <Meaning_en>Cadminum 117 metastable</Meaning_en>
+    <Meaning_en>Cadmium 117 metastable</Meaning_en>
     <ChemicalFormula>Cd-117m</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
@@ -2630,13 +2630,13 @@
   </C14>
   <C14>
     <CodeFigure>30312</CodeFigure>
-    <Meaning_en>Ceasium 138</Meaning_en>
+    <Meaning_en>Caesium 138</Meaning_en>
     <ChemicalFormula>Cs-138</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
     <CodeFigure>30313</CodeFigure>
-    <Meaning_en>Ceasium 139</Meaning_en>
+    <Meaning_en>Caesium 139</Meaning_en>
     <ChemicalFormula>Cs-139</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
@@ -2648,7 +2648,7 @@
   </C14>
   <C14>
     <CodeFigure>30315</CodeFigure>
-    <Meaning_en>Iodine 130 elementary gaseous</Meaning_en>
+    <Meaning_en>Iodine 130 elementary gaseous</Meaning_en>
     <ChemicalFormula>I-130e</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
