@@ -1135,8 +1135,14 @@
     <Status>Operational</Status>
   </C11>
   <C11>
-    <CREX2>00183-00189</CREX2>
-    <GRIB2_BUFR4>183-189</GRIB2_BUFR4>
+    <CREX2>00183</CREX2>
+    <GRIB2_BUFR4>183</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>Scripps Institute of Oceanography (UC San Diego - United States)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00184-00189</CREX2>
+    <GRIB2_BUFR4>184-189</GRIB2_BUFR4>
     <OriginatingGeneratingCentre_en>Reserved for other centres</OriginatingGeneratingCentre_en>
     <Status>Operational</Status>
   </C11>

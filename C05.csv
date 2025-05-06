@@ -191,6 +191,7 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 526,526,526,FY-3G,Operational
 530,530,530,FY-4A,Operational
 531,531,531,FY-4B,Operational
+540,540,540,Tianmu-1,Operational
 ,,,600-699: Numbers allocated to Europe,Operational
 ,,,700-799: Numbers allocated to the United States,Operational
 700,700,700,TIROS M (ITOS 1),Operational
@@ -262,6 +263,8 @@ CodeFigureForI6I6I6,CodeFigureForBUFR,CodeFigureForGRIB2,SatelliteName_en,Status
 802,802,802,CFOSAT,Operational
 803,803,803,GRACE C (GRACE-FO),Operational
 804,804,804,GRACE D (GRACE-FO),Operational
+805,805,805,NOAA 22,Operational
+806,806,806,NOAA 23,Operational
 810,810,810,COMS,Operational
 811,811,811,GEO-KOMPSAT-2A,Operational
 812,812,812,SCISAT-1,Operational

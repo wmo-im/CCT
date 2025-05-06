@@ -673,6 +673,30 @@
     <Status>Operational</Status>
   </C08>
   <C08>
+    <Code>214</Code>
+    <Agency_en>ESA</Agency_en>
+    <Type_en>Spectrometer</Type_en>
+    <InstrumentShortName_en>CO2I</InstrumentShortName_en>
+    <InstrumentLongName_en>Integrated CO2 and NO2 Imaging Spectrometer</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>215</Code>
+    <Agency_en>ESA</Agency_en>
+    <Type_en>Multiple direction/polarization radiometer</Type_en>
+    <InstrumentShortName_en>MAP</InstrumentShortName_en>
+    <InstrumentLongName_en>Multi-Angle Polarimeter</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>216</Code>
+    <Agency_en>ESA</Agency_en>
+    <Type_en>Imaging multi-spectral radiometer (vis/IR)</Type_en>
+    <InstrumentShortName_en>CLIM</InstrumentShortName_en>
+    <InstrumentLongName_en>Cloud Imager</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
     <Code>220</Code>
     <Agency_en>ESA/EUMETSAT</Agency_en>
     <Type_en>Spectrometer</Type_en>
