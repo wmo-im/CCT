@@ -8,7 +8,7 @@ CodeFigure,UnitType,Meaning,conventional,IA5-ASCII,ITA2,SIDefinition,Note,NoteID
 007,Base SI units,candela,cd,cd,CD,,,,Operational
 021,Derived SI units with special names,radian,rad,rad,RAD,,(see Note 1),19,Operational
 022,Derived SI units with special names,steradian,sr,sr,SR,,,,Operational
-030,Derived SI units with special names,hertz,Hz,Hz,HZ,s-^1,(see Note 1),19,Operational
+030,Derived SI units with special names,hertz,Hz,Hz,HZ,s-^1,,,Operational
 031,Derived SI units with special names,newton,N,N,N,kg m s^-2,,,Operational
 032,Derived SI units with special names,pascal,Pa,Pa,PAL,kg m^-1 s^-2,,,Operational
 033,Derived SI units with special names,joule,J,J,J,kg m^2 s^-2,,,Operational
