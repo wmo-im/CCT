@@ -7,7 +7,7 @@ noteID,note
 6,"In the case of BUFR and CREX, these version numbers apply to the master table 0."
 7,Introduction of Common Code table C-0 is a legal initiative. WMO Members and other TDCF users could practically deal with the version numbers the same as before until their software becomes capable of referring to the common code table.
 8,Non-WMO abbreviations with limited character sets taken from ISO 2955-1983. Other abbreviations try to be consistent with this.
-9,"Prefixes beyond exa and atto have been proposed but not yet adopted. Use of the prefixes hecto, deca, deci and centi is discouraged"
+9,"SI prefixes now also includes quetta (10^30), ronna (10^27), ronto (10^-27), and quecto (10^-30). Use of the prefixes hecto, deca, deci and centi is discouraged"
 10,"Prefixes generally should not be used with units having non-decimal multiples and sub-multiples, such as units of time and angle, or with knots and nautical miles."
 11,References to countries in brackets indicate the manufacturing location rather than the country using the instrument.
 12,Some of the radiosondes listed are no longer in use but are retained for archiving purposes.
