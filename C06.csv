@@ -38,13 +38,13 @@ CodeFigure,UnitType,Meaning,conventional,IA5-ASCII,ITA2,SIDefinition,Note,NoteID
 160,"Other, non-SI, units recognized by CGPM",electron volt,eV,eV,EV,,,,Operational
 161,"Other, non-SI, units recognized by CGPM",atomic mass unit,u,u,U,,(see Note X2),28,Operational
 170,"Other, non-SI, units recognized by CGPM",astronomic unit,AU,AU,ASU,,,,Operational
-171,Non-SI Units tolerated because of widespread use,parsec,pc,pc,PRS,,,,Operational
-200,Non-SI Units tolerated because of widespread use,nautical mile, ,,,,(see Note 7),21,Operational
-201,Non-SI Units tolerated because of widespread use,knot,kt,kt,KT,,,,Operational
-210,"Other, non-SI, units recognized by CGPM",decibel,dB,dB,DB,,(see Note 6),17,Operational
-220,"Other, non-SI, units recognized by CGPM",hectare,ha,ha,HAR,,,,Operational
-230,Non-SI Units tolerated because of widespread use,week, ,,,,,,Operational
-231,Non-SI Units tolerated because of widespread use,year,a,a,A,,,,Operational
+171,Other Units as used by WMO,parsec,pc,pc,PRS,,,,Operational
+200,Other Units as used by WMO,nautical mile, ,,,,(see Note 7),21,Operational
+201,Other Units as used by WMO,knot,kt,kt,KT,,,,Operational
+210,Derived SI units with special names,decibel,dB,dB,DB,,(see Note 6),17,Operational
+220,Derived SI units with special names,hectare,ha,ha,HAR,,,,Operational
+230,Other Units as used by WMO,week, ,,,,,,Operational
+231,Other Units as used by WMO,year,a,a,A,,,,Operational
 300,Other Units as used by WMO,per cent,%,%,PERCENT,,(see Note 7),21,Operational
 301,Other Units as used by WMO,parts per thousand,‰,0/00,PERTHOU,,,,Operational
 310,Other Units as used by WMO,eighths of cloud,okta,okta,OKTA,,,,Operational
