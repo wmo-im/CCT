@@ -6,8 +6,8 @@ CodeFigure,UnitType,Meaning,conventional,IA5-ASCII,ITA2,SIDefinition,Note,NoteID
 005,Base SI units,kelvin,K,K,K,,,,Operational
 006,Base SI units,mole,mol,mol,MOL,,,,Operational
 007,Base SI units,candela,cd,cd,CD,,,,Operational
-021,Supplementary SI units,radian,rad,rad,RAD,,(see Note 1),19,Operational
-022,Supplementary SI units,steradian,sr,sr,SR,,,,Operational
+021,Derived SI units with special names,radian,rad,rad,RAD,,(see Note 1),19,Operational
+022,Derived SI units with special names,steradian,sr,sr,SR,,,,Operational
 030,Derived SI units with special names,hertz,Hz,Hz,HZ,s-^1,(see Note 1),19,Operational
 031,Derived SI units with special names,newton,N,N,N,kg m s^-2,,,Operational
 032,Derived SI units with special names,pascal,Pa,Pa,PAL,kg m^-1 s^-2,,,Operational
@@ -25,7 +25,7 @@ CodeFigure,UnitType,Meaning,conventional,IA5-ASCII,ITA2,SIDefinition,Note,NoteID
 070,Derived SI units with special names,lumen,lm,lm,LM,cd sr,,,Operational
 071,Derived SI units with special names,lux,lx,lx,LX,cd sr m^-2,,,Operational
 080,Derived SI units with special names,becquerel,Bq,Bq,BQ,s^-1,,,Operational
-081,Derived SI units with special names,grey,Gy,Gy,GY,m^2 s^-2,,,Operational
+081,Derived SI units with special names,gray,Gy,Gy,GY,m^2 s^-2,,,Operational
 082,Derived SI units with special names,sievert,Sv,Sv,SV,m^2 s^-2,,,Operational
 110,"Other, non-SI, units recognized by CGPM",degree (angle),˚,deg,DEG,,(see Note 4),10,Operational
 111,"Other, non-SI, units recognized by CGPM",minute (angle),',',MNT,,,,Operational
@@ -38,11 +38,11 @@ CodeFigure,UnitType,Meaning,conventional,IA5-ASCII,ITA2,SIDefinition,Note,NoteID
 160,"Other, non-SI, units recognized by CGPM",electron volt,eV,eV,EV,,,,Operational
 161,"Other, non-SI, units recognized by CGPM",atomic mass unit,u,u,U,,,,Operational
 170,"Other, non-SI, units recognized by CGPM",astronomic unit,AU,AU,ASU,,,,Operational
-171,"Other, non-SI, units recognized by CGPM",parsec,pc,pc,PRS,,,,Operational
+171,Non-SI Units tolerated because of widespread use,parsec,pc,pc,PRS,,,,Operational
 200,Non-SI Units tolerated because of widespread use,nautical mile, ,,,,(see Note 7),21,Operational
 201,Non-SI Units tolerated because of widespread use,knot,kt,kt,KT,,,,Operational
-210,Non-SI Units tolerated because of widespread use,decibel,dB,dB,DB,,(see Note 6),17,Operational
-220,Non-SI Units tolerated because of widespread use,hectare,ha,ha,HAR,,,,Operational
+210,"Other, non-SI, units recognized by CGPM",decibel,dB,dB,DB,,(see Note 6),17,Operational
+220,"Other, non-SI, units recognized by CGPM",hectare,ha,ha,HAR,,,,Operational
 230,Non-SI Units tolerated because of widespread use,week, ,,,,,,Operational
 231,Non-SI Units tolerated because of widespread use,year,a,a,A,,,,Operational
 300,Other Units as used by WMO,per cent,%,%,PERCENT,,(see Note 7),21,Operational
