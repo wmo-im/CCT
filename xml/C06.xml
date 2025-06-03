@@ -86,7 +86,7 @@
   </C06>
   <C06>
     <CodeFigure>021</CodeFigure>
-    <UnitType>Supplementary SI units</UnitType>
+    <UnitType>Derived SI units with special names</UnitType>
     <Meaning>radian</Meaning>
     <conventional>rad</conventional>
     <IA5-ASCII>rad</IA5-ASCII>
@@ -98,7 +98,7 @@
   </C06>
   <C06>
     <CodeFigure>022</CodeFigure>
-    <UnitType>Supplementary SI units</UnitType>
+    <UnitType>Derived SI units with special names</UnitType>
     <Meaning>steradian</Meaning>
     <conventional>sr</conventional>
     <IA5-ASCII>sr</IA5-ASCII>
@@ -315,7 +315,7 @@
   <C06>
     <CodeFigure>081</CodeFigure>
     <UnitType>Derived SI units with special names</UnitType>
-    <Meaning>grey</Meaning>
+    <Meaning>gray</Meaning>
     <conventional>Gy</conventional>
     <IA5-ASCII>Gy</IA5-ASCII>
     <ITA2>GY</ITA2>
@@ -470,7 +470,7 @@
   </C06>
   <C06>
     <CodeFigure>171</CodeFigure>
-    <UnitType>Other, non-SI, units recognized by CGPM</UnitType>
+    <UnitType>Non-SI Units tolerated because of widespread use</UnitType>
     <Meaning>parsec</Meaning>
     <conventional>pc</conventional>
     <IA5-ASCII>pc</IA5-ASCII>
@@ -506,7 +506,7 @@
   </C06>
   <C06>
     <CodeFigure>210</CodeFigure>
-    <UnitType>Non-SI Units tolerated because of widespread use</UnitType>
+    <UnitType>Other, non-SI, units recognized by CGPM</UnitType>
     <Meaning>decibel</Meaning>
     <conventional>dB</conventional>
     <IA5-ASCII>dB</IA5-ASCII>
@@ -518,7 +518,7 @@
   </C06>
   <C06>
     <CodeFigure>220</CodeFigure>
-    <UnitType>Non-SI Units tolerated because of widespread use</UnitType>
+    <UnitType>Other, non-SI, units recognized by CGPM</UnitType>
     <Meaning>hectare</Meaning>
     <conventional>ha</conventional>
     <IA5-ASCII>ha</IA5-ASCII>
