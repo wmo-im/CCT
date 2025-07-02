@@ -160,7 +160,7 @@ CodeFigure,UnitType,Meaning,conventional,IA5-ASCII,ITA2,SIDefinition,Note,NoteID
 863,Other units,moles per square centimetre,mol cm^-2,mol cm-2,,,,,
 864,Other units,kilograms per litre,kg l^-1,kg l-1,,,,,
 865,Other units,milligrams per cubic metre,mg m^-3,mg m-3,,,,,
-na1,SI unit prefixes,yotta,Y,Y,Y,,"(see Notes 1, 3 and 4)","19,9,10",
+na1,SI unit prefixes,yotta,Y,Y,Y,,"(see Notes 1, 3 and 4)","19,10",
 na2,SI unit prefixes,zetta,Z,Z,Z,,,,
 na3,SI unit prefixes,exa,E,E,E,,,,
 na4,SI unit prefixes,peta,P,P,PE,,,,
