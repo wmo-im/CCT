@@ -28,15 +28,15 @@ CodeFigure,UnitType,Meaning,conventional,IA5-ASCII,ITA2,SIDefinition,Note,NoteID
 081,Derived SI units with special names,gray,Gy,Gy,GY,m^2 s^-2,,,Operational
 082,Derived SI units with special names,sievert,Sv,Sv,SV,m^2 s^-2,,,Operational
 110,"Other, non-SI, units recognized by CGPM",degree (angle),˚,deg,DEG,,(see Note 4),10,Operational
-111,"Other, non-SI, units recognized by CGPM",minute (angle),',',MNT,,(see Note 10),iss236a,Operational
-112,"Other, non-SI, units recognized by CGPM",second (angle),"""","""",SEC,,(see Note 10),iss236a,Operational
+111,"Other, non-SI, units recognized by CGPM",minute (angle),',',MNT,,(see Note 10),27,Operational
+112,"Other, non-SI, units recognized by CGPM",second (angle),"""","""",SEC,,(see Note 10),27,Operational
 120,"Other, non-SI, units recognized by CGPM",litre,l or L,l or L,L,,,,Operational
 130,"Other, non-SI, units recognized by CGPM",minute (time),min,min,MIN,,,,Operational
 131,"Other, non-SI, units recognized by CGPM",hour,h,h,HR,,,,Operational
 132,"Other, non-SI, units recognized by CGPM",day,d,d,D,,,,Operational
 150,"Other, non-SI, units recognized by CGPM",tonne,t,t,TNE,,,,Operational
 160,"Other, non-SI, units recognized by CGPM",electron volt,eV,eV,EV,,,,Operational
-161,"Other, non-SI, units recognized by CGPM",atomic mass unit,u,u,U,,(see Note 11),iss236b,Operational
+161,"Other, non-SI, units recognized by CGPM",atomic mass unit,u,u,U,,(see Note 11),28,Operational
 170,"Other, non-SI, units recognized by CGPM",astronomic unit,AU,AU,ASU,,,,Operational
 210,"Other, non-SI, units recognized by CGPM",decibel,dB,dB,DB,,(see Note 6),17,Operational
 220,"Other, non-SI, units recognized by CGPM",hectare,ha,ha,HAR,,,,Operational
@@ -146,7 +146,7 @@ CodeFigure,UnitType,Meaning,conventional,IA5-ASCII,ITA2,SIDefinition,Note,NoteID
 849,Other units,kilograms per square metre per hour,kg m^-2 h^-1,kg m-2 h-1,,,,,
 850,Other units,kelvin per kelvin,K K^-1,K K-1,,,,,
 851,Other units,watts per square metre per steradian per micrometre,W m^-2 sr^-1 um^-1,W m-2 sr-1 um-1,,,,,
-852,Other units,candelas per square metre,cd m^-2,cd m-2,,,,,
+852,Other units,candela per square metre,cd m^-2,cd m-2,,,,,
 853,Other units,logarithm per cubic metre,log(m^-3),log(m-3),,,,,
 854,Other units,per square metre,m^-2,m-2,,,,,
 855,Other units,per metre per steradian,m^-1 sr^-1,m-1 sr-1,,,,,
