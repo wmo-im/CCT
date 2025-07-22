@@ -3283,7 +3283,13 @@
     <Status>Operational</Status>
   </C14>
   <C14>
-    <CodeFigure>60035-61999</CodeFigure>
+    <CodeFigure>60035</CodeFigure>
+    <Meaning_en>Gaseous molecules</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>60036-61999</CodeFigure>
     <Meaning_en>Reserved</Meaning_en>
     <ChemicalFormula/>
     <Status>Operational</Status>

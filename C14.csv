@@ -546,7 +546,8 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 60032,All hydroxy-peroxides products of the reaction of hydroxy-isoprene adducts with O2,ISOPOOH,Operational
 60033,Anthropogenic volatile organic compounds,aVOC,Operational
 60034,Biomass burning volatile organic compounds,bbVOC,Operational
-60035-61999,Reserved,,Operational
+60035,Gaseous molecules,,Operational
+60036-61999,Reserved,,Operational
 62000,Total aerosol,,Operational
 62001,Dust dry,,Operational
 62002,Water in ambient,,Operational
