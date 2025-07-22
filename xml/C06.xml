@@ -357,7 +357,7 @@
     <ITA2>MNT</ITA2>
     <SIDefinition/>
     <Note>(see Note 10)</Note>
-    <NoteID>iss236a</NoteID>
+    <NoteID>27</NoteID>
     <Status>Operational</Status>
   </C06>
   <C06>
@@ -369,7 +369,7 @@
     <ITA2>SEC</ITA2>
     <SIDefinition/>
     <Note>(see Note 10)</Note>
-    <NoteID>iss236a</NoteID>
+    <NoteID>27</NoteID>
     <Status>Operational</Status>
   </C06>
   <C06>
@@ -453,7 +453,7 @@
     <ITA2>U</ITA2>
     <SIDefinition/>
     <Note>(see Note 11)</Note>
-    <NoteID>iss236b</NoteID>
+    <NoteID>28</NoteID>
     <Status>Operational</Status>
   </C06>
   <C06>
@@ -1767,7 +1767,7 @@
   <C06>
     <CodeFigure>852</CodeFigure>
     <UnitType>Other units</UnitType>
-    <Meaning>candelas per square metre</Meaning>
+    <Meaning>candela per square metre</Meaning>
     <conventional>cd m^-2</conventional>
     <IA5-ASCII>cd m-2</IA5-ASCII>
     <ITA2/>
