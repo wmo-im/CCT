@@ -1,0 +1,317 @@
+﻿Code,Agency_es,Type_es,InstrumentShortName_es,InstrumentLongName_es,Status
+10,BNSC,Radiómetro,AATSR,Radiómetro de exploración por pista avanzado,Operational
+11,BNSC,Radiómetro,ATSR,Radiómetro de exploración por pista,Operational
+12,BNSC,Radiómetro,ATSR-2,Radiómetro de exploración por pista-2,Operational
+13,BNSC,Radiómetro,MWR,Radiómetro de microondas,Operational
+30,CNES,Comunicaciones,ARGOS,,Operational
+40,CNES,Lidar,Reflectores láser,,Operational
+41,CNES,Lidar,DORIS,Orbitografía Doppler y posicionamiento por radio integrados por satélite,Operational
+42,CNES,Lidar,DORIS-NG,Orbitografía Doppler y posicionamiento por radio integrados por satélite-NG,Operational
+47,CNES,Altímetro de radar,POSEIDON-1 (SSALT1),Navegador orbital de posicionamiento para,Operational
+98,CRCSS,Sonda para la temperaturaReceptor GPS y humedad atmosféricas,,,Operational
+102,DLR,Radiómetro Sonda SPM CHAMP,,Receptor espacial TurboRogue SPM (TRSR),Operational
+103,DLR,Radiómetro IGOR,,GPS integrado y receptor de ocultación,Operational
+116,DLR,"Magnetómetro Equipo de gravedad CHAMP (Acelerómetro+SPM)",,Acelerómetro STAR,Operational
+117,DLR,Magnetómetro Equipo de,,Magnetómetro Overhauser (OVM) y,Operational
+120,AEE,Comunicaciones,Coms. ENVISAT,Paquete de comunicaciones en ENVISAT,Operational
+121,AEE,Comunicaciones,Coms. ERS,Paquete de comunicaciones para ERS,Operational
+130,AEE,Lidar,ALADIN,Instrumento lasérico Doppler para la investigación de la atmósfera,Operational
+131,AEE,Lidar,ATLID,Lidar atmosférico,Operational
+140,AEE,Radar,AMI/SAR/Imagen,Instrumentación de microondas activa. Modo imagen,Operational
+141,AEE,Radar,AMI/SAR/onda,Instrumentación de microondas activa. Modo ondas,Operational
+142,AEE,Radar,AMI/dispersómetro,Instrumentación de microondas activa. Modo viento,Operational
+143,AEE,Radar,ASAR,ASAR,Operational
+144,AEE,Radar de producción de imágenes por microondas,ASAR,Radar avanzado de apertura sintética (modo de imagen),Operational
+145,AEE,Radar de producción de imágenes por microondas,ASAR,Radar avanzado de apertura sintética (modo de onda),Operational
+146,AEE,Radar de perfil de las nubes y lluvia,CPR,Radar de nubes,Operational
+147,AEE,Radar,RA-2/MWR,Altímetro de radar – 2,Operational
+148,AEE,Radar,RA/MWR,Altímetro de radar,Operational
+150,AEE,Dispersómetro,SCATTEROMETER,Dispersómetro,Operational
+151,AEE,Radar de formación,SAR-C,Radar de apertura sintética (banda C),Operational
+152,AEE,Exploración a través del nadir,SW,Sonda de vigilancia troposférica TROPOMI,Operational
+161,AEE,Radiómetro,MIPAS,Sonda atmosférica pasiva por interferometría Michelson,Operational
+162,AEE,Radiómetro productor de imágenes multiespectrales (microondas pasivo),MWR-2,Radiómetro de microondas-2,Operational
+163,AEE,Instrumentos para el estudio de la química atmosférica,SOPRANO,Observación submilimétrica de los procesos en la absorción de importancia para el ozono,Operational
+170,AEE,Instrumentos para el estudio de la química atmosférica,GOME,Experimento de vigilancia del ozono mundial,Operational
+172,AEE,Espectrómetro,GOMOS,Vigilancia del ozono mundial por ocultación de estrellas,Operational
+174,AEE,Espectrómetro,MERIS,Espectrómetro de imagenización de resolución media,Operational
+175,AEE,Espectrómetro,SCIAMACHY,Espectrómetro de absorción de imagenización mediante exploración para cartografía de la atmósfera,Operational
+176,ESA,Radiómetro,MIRAS,Radiómetro de microondas formador de imágenes con síntesis de apertura,Operational
+177,ESA,Altímetro de radar,SIRAL,SAR/altímetro de radar interferométrico,Operational
+178,ESA,Altímetro de radar,SRAL,Altímetro de radar de apertura sintética,Operational
+179,ESA,Productor de imágenes ópticas de resolución media,OLCI,Productor de imágenes en color oceánicas y terrestres,Operational
+180,ESA,Productor de imágenes ópticas de resolución media,SLSTR,Radiómetro de temperaturas en los océanos y la superficie terrestre,Operational
+181,EUMETSAT,Comunicaciones,Coms. METEOSAT,Paquete de comunicaciones para METEOSAT,Operational
+182,EUMETSAT,Comunicaciones,Coms. MSG,Paquete de comunicaciones para MSG,Operational
+190,AEE/EUMETSAT,Dispersómetro,ASCAT,Dispersómetro avanzado,Operational
+200,EUMETSAT,Radiómetro,GERB,Balance geoestacionario de radiación terrena,Operational
+202,AEE/EUMETSAT,Radiómetro,GRAS,Receptor GNSS para sondeo atmosférico,Operational
+203,EUMETSAT,Radiómetro,MHS,Sonda de humedad por microondas,Operational
+205,EUMETSAT,Radiómetro,MVIRI,Reproductor de imágenes visible e infrarrojo METEOSAT,Operational
+207,EUMETSAT,Radiómetro,SEVIRI,Reproductor de imágenes visible e infrarrojo mejorado rotatorio,Operational
+208,EUMETSAT,Radiómetro productor de imágenes multiespectrales (vis/IR),VIRI,VIRI,Operational
+220,AEE/EUMETSAT,Espectrómetro,GOME-2,Experimento de vigilancia del ozono mundial – 2,Operational
+221,CNES/EUMETSAT,Sonda para la temperaturaIASI y humedad atmosféricas,,Interferómetro de sondeo atmosférico infrarrojo,Operational
+240,CAST,Comunicaciones DCP,,Transpondedor de plataforma de recopilación de datos,Operational
+245,CAST,Radiómetro CCD,,Cámara CCD de alta resolución,Operational
+246,INPE,Sonda para la temperaturaHSB y humedad atmosféricas,,Sonda de humedad/Brasil,Operational
+248,INPE,"Radiómetro productor OBA de imágenes multiespectrales (vis/IR)",,Observador Brasileiro da Amazonia,Operational
+250,CAST,Radiómetro WFI,,Reproductor de imágenes de campo extenso,Operational
+255,CAST,Espectrómetro IRMSS,,Explorador multiespectral infrarrojo,Operational
+260,ISRO,"Órbita de precisión Transpondedores BSS y FSS",,,Operational
+261,ISRO,Órbita de precisión DRT-S&R,,,Operational
+262,ISRO,Comunicaciones Coms. INSAT,,Paquete de comunicaciones para INSAT,Operational
+268,ISRO,Productor de imágenes HR-PAN ópticas de alta resolución,,Cámara pancromática de alta resolución,Operational
+269,ISRO,"Radiómetro productor MSMR de imágenes multiespectrales",,Radiómetro de microondas por exploración multifrecuencias (microondas pasivo),Operational
+270,ISRO,"Radiómetro productor VHRR de imágenes multiespectrales (vis/IR)",,Radiómetro de muy alta resolución,Operational
+271,ISRO,"Radiómetro productor WiFS tor de imágenes multiespectrales (vis/IR)",,Sensor de campo extenso,Operational
+275,ISRO,Productor de imágenes AWiFS ópticas de alta resolución,,Sensor de campo extenso avanzado,Operational
+276,ISRO,Productor de imágenes LISS-I ópticas de alta resolución,,Autoexplorador de imagenización lineal – I,Operational
+277,ISRO,Productor de imágenes LISS-II ópticas de alta resolución,,Autoexplorador de imagenización lineal – II,Operational
+278,ISRO,Productor de imágenes LISS-III ópticas de alta resolución,,Autoexplorador de imagenización lineal – III,Operational
+279,ISRO,Productor de imágenes ópticas de alta resolución,LISS-IV,Autoexplorador de imagenización lineal – IV,Operational
+284,ISRO,Productor de imágenes ópticas de alta resolución,PAN,Sensor pancromático,Operational
+285,ISRO,Radiómetro productor de imágenes multi- espectrales (vis/IR),MOS,Explorador optoelectrónico modular,Operational
+286,ISRO,Instrumento en color para el océano,OCM,Monitor en color para el océano,Operational
+287,ASI,,ROSA,Sonda atmosférica por radio ocultación,Operational
+288,ISRO,Dispoersómetro,SCAT,Dispersómetro,Operational
+289,ISRO,Reproductor de imágenes óptico,IMG,Reproductor de imágenes,Operational
+290,JMA,Comunicaciones,MTSAT Comms,Paquete de comunicaciones para MTSAT,Operational
+291,JMA,Comunicaciones,Himawari Comms,Paquete de comunicaciones para Himawari,Operational
+294,JMA,Radiómetro multiespectral productor de imágenes,JAMI,Reproductor japonés avanzado de imágenes meteorológicas,Operational
+295,JMA,Radiómetro multiespectral productor de imágenes,IMAGER/MTSAT-2,Reproductor de imágenes/MTSAT-2,Operational
+296,JMA,Radiómetro multiespectral productor de imágenes,VISSR (GMS4),Radiómetro de exploración visible e infrarrojo rotatorio (GMS4),Operational
+297,JMA,Radiómetro multiespectral productor de imágenes,AHI,Reproductor avanzado de imágenes Himawari,Operational
+300,NASA,Lidar,GLAS,Sistema de altímetro por láser para ciencias de la Tierra,Operational
+301,NASA,Órbita de precisión,LRA,Formación de retrorreflectores láser,Operational
+302,NASA,Lidar,MBLA,Altímetro láser de haz múltiple,Operational
+303,NASA,Lidar,CALIOP,Lidar de aerosoles de nube con polarización ortogonal,Operational
+309,NASA,Radar de perfil de las nubes y lluvia,CPR (Cloudsat),Radar perfilador de nubes,Operational
+312,NASA,Radar,NSCAT,Dispersómetro NASA,Operational
+313,NASA,Radar,SeaWinds,Dispersómetro ADEOS II – NASA,Operational
+314,NASA,Radar,RapidScat,Dispersómetro RapidScat,Operational
+330,NASA,Radiómetro del balance de radiaciónde la Tierra,ACRIM,Monitor de irradiancia por radiómetro de cavidad activa,Operational
+334,NASA,Ozono total y perfil del ozono,BUV,Instrumento ultravioleta de retrodispersión,Operational
+336,NASA,Productor de imágenes ópticas de alta resolución,ALI,Reproductor de imágenes terrestre avanzado,Operational
+347,NASA,Productor de imágenes ópticas de alta resolución,ASTER,Radiómetro avanzado de emisión y reflexión térmica instalado en el espacio,Operational
+348,NASA,Radiómetro del balance de radiación de la Tierra,CERES-2,Sistema de estudio del balance radiativo de la Tierra y de las nubes,Operational
+351,NASA,Sonda para la temperaturaGPSDR y humedad atmosféricas,,Receptor de demostración GPS,Operational
+353,NASA,Ozono total y perfil del  HiRDLS ozono,,Sonda tangencial dinámica de alta resolución,Operational
+354,NASA,Ozono total y perfil del  HRDI ozono,,Reproductor de imágenes Doppler de alta resolución,Operational
+356,NASA,Radiómetro LIS,,Sensor de imagenización de relámpagos,Operational
+358,NASA,"Campo magnético, límite   PEM de centelleo de imágenes aurorales",,Monitor de partículas del medio ambiente,Operational
+359,NASA,Instrumento en color para SeaWiFS el océano,,Sensor de campo visual extenso para panorámicas marinas,Operational
+360,NASA,Radiómetro del balance SUSIM (UARS) de radiación de la Tierra,,Monitor de irradiancia ultravioleta solar,Operational
+363,NASA,Ozono total y perfil del ozono,SBUV/1,Detector de retrodispersión solar ultravioleta 1,Operational
+365,NASA,Radiómetro productor de imágenes multiespectrales (microondas pasivo),TMI,Reproductor de imágenes de microondas TRMM,Operational
+366,NASA,Radiómetro productor de imágenes multiespectrales (microondas pasivo),JMR,Radiómetro de microondas JASON-1,Operational
+367,NASA,Radiómetro multiespectral de imagenización,AMR,Radiómetro de microondas avanzado,Operational
+369,NASA,Ozono total y perfil del ozono,LIMS,Aparato de sondeo tangencial infrarrojo de la estratosfera,Operational
+370,NASA,Ozono total y perfil del ozono,LRIR,Radiómetro de inversión de la radiancia del limbo,Operational
+371,NASA,Ozono total y perfil del ozono,EPIC,Cámara de imágenes policromáticas de la Tierra,Operational
+372,NASA,Radiómetro del balance de radiación de la Tierra,NISTAR,Radiómetro avanzado NIST,Operational
+373,NASA,"Campo magnético, límite de centelleo de imágenes aurorales",Plasma-Mag,,Operational
+374,NASA,Otro,XPS,Sistema fotómetro XUV,Operational
+375,NASA,Radiómetro productor de imágenes multiespectrales (vis/IR),VIRS,Explorador visible e infrarrojo,Operational
+376,CNES,Radiómetro de dirección/ polarización múltiple,POLDER II,Polarización y direccionalidad de la reflectancia de la Tierra – II,Operational
+377,NASA,Radiómetro del balance de radiación de la Tierra,TIM,Monitor de irradiancia total,Operational
+379,NASA,Radiómetro productor de imágenes multiespectrales (vis/IR),WFC,Cámara de campo extenso,Operational
+382,NASA,Espectrorradiómetro,CLAES,Espectrómetro patrón grupal tangencial criogénico,Operational
+383,NASA,Espectrorradiómetro,HALOE,Experimento de ocultación halógeno,Operational
+384,NASA,Espectrorradiómetro,ISAMS,Sonda estratosférica y mesosférica mejorada,Operational
+385,NASA,Espectrorradiómetro,MISR,Espectrorradiómetro de imagenización multiangular,Operational
+386,NASA,Espectrorradiómetro,MLS,Sonda tangencial de microondas,Operational
+387,NASA,Espectrorradiómetro,MLS (EOS-Aura),Sonda tangencial de microondas (EOS-Aura),Operational
+389,NASA,Espectrorradiómetro,MODIS,Espectrorradiómetro de imagenización de resolución moderada,Operational
+393,NASA,Gravedad,HAIRS,Sistema de telemetría intersatelital de gran precisión,Operational
+394,NASA,Ozono total y perfil del ozono,OMI,Instrumento de medición del ozono,Operational
+395,NASA,Radiómetro,Corrector atmosférico,Corrector atmosférico,Operational
+396,NASA,Radiómetro,Hyperion,Reproductor de imágenes hiperespectral,Operational
+399,NASA,Espectrorradiómetro,SAGE I,Experimento sobre gases y aerosoles estratosféricos-I,Operational
+400,NASA,Espectrorradiómetro,SAGE II,Experimento sobre gases y aerosoles estratosféricos-II,Operational
+401,NASA,Espectrorradiómetro,SAGE III,Experimento sobre gases y aerosoles estratosféricos-III,Operational
+402,NASA,Espectrorradiómetro,SAMS,Sonda estratosférica y mesosférica,Operational
+403,NASA,Espectrorradiómetro,SAM-II,Sonda de medición de aerosoles estratosféricos-II,Operational
+404,NASA,Espectrorradiómetro,IRIS,Espectrómetro interferómetro infrarrojo,Operational
+405,NASA,Sonda para la temperaturaGIFTS y humedad atmosféricas,,Espectrómetro de transformación Fourier geosincrónico productor de imágenes,Operational
+420,NASA,Espectrómetro AIRS,,Sonda infrarroja atmosférica,Operational
+426,NASA,Espectrómetro SOLSTICE,,Experimento de comparación de irradiancias solares y estelares,Operational
+430,NASA,Espectrómetro TES,,Espectrómetro de emisión troposférica,Operational
+431,NASA,Espectrómetro TOMS,,Espectrómetro de cartografía del ozono total,Operational
+432,NASA,Espectrómetro OCO,,Observatorio en órbita del carbono,Operational
+450,JAXA,Comunicaciones Coms. ADEOS,,Paquete de comunicaciones para ADEOS,Operational
+451,JAXA,Comunicaciones DCS (JAXA),,Sistema de recopilación de datos (JAXA),Operational
+453,NASDA,Comunicaciones Coms. GMS,,Paquete de comunicaciones en GMS,Operational
+454,NASDA,Comunicaciones Coms. JERS-1,,Paquete de comunicaciones para JERS-1,Operational
+460,NASDA,Lidar RIS,,Retrorreflector en el espacio,Operational
+461,NASDA,Radar PR,,Radar de precipitaciones,Operational
+462,NASDA,Radar productor de SAR imágenes por microondas,,Radar de abertura sintética,Operational
+470,JAXA,Radar productor de PALSAR imágenes por microondas,,Radar de abertura sintética en banda L de agrupamiento de fase,Operational
+478,JAXA,Radiómetro multiespectral AMSR2 productor de imágenes (microondas pasivo),,Radiómetro de exploración en microondas avanzado 2,Operational
+479,JAXA,Radiómetro multiespectral AMSR-E productor de imágenes (microondas pasivo),,Radiómetro de exploración en microondas avanzado-EOS,Operational
+480,JAXA,Productor de imágenes  PRISM (ALOS) ópticas de alta resolución,,Instrumento de teledetección pancromática para cartografías tridimensionales,Operational
+481,JAXA,Radiómetro AMSR,,Radiómetro de exploración en microondas avanzado,Operational
+482,NASDA,Productor de imágenes  AVNIR ópticas de alta resolución,,Radiómetro visible e infrarrojo cercano avanzado,Operational
+483,JAXA,Productor de imágenes  AVNIR-2 ópticas de alta resolución,,Radiómetro visible e infrarrojo cercano avanzado de tipo 2,Operational
+484,JAXA,Productor de imágenes  GLI,,Imagenizador mundial,Operational
+485,NASDA,Radiómetro MESSR,,Radiómetro de autoexploración electrónico multiespectral,Operational
+486,NASDA,Radiómetro MSR,,Radiómetro de exploración en microondas,Operational
+487,NASDA,Radiómetro OCTS,,Explorador del color y temperatura del océano,Operational
+488,NASDA,Radiómetro OPS,,Sensor óptico,Operational
+489,NASDA,Radiómetro VISSR (GMS-5),,Radiómetro visible e infrarrojo de exploración rotativa (GMS-5),Operational
+490,NASDA,Radiómetro VTIR,,Radiómetro infrarrojo térmico y visible,Operational
+510,NASDA,Espectrómetro ILAS-I,,Espectrómetro atmosférico tangencial mejorado,Operational
+511,NASDA,Espectrómetro ILAS-II,,Espectrómetro atmosférico tangencial mejorado,Operational
+512,NASDA,Espectrómetro IMG,,Monitor interferométrico de gases de efecto invernadero,Operational
+514,NASDA,Medio espacial SEM,,Aparato de control del medio espacial de la Academia Nacional de Ciencias (NASDA),Operational
+515,JAXA,Ozono total y perfil del  SOFIS ozono,,Espectrómetro de transformación Fourier de ocultación solar para satélite de órbita inclinada,Operational
+516,JAXA,Espectrómetro,TANSO-FTS,Sensor térmico y de infrarrojo corto para realizar observaciones del carbono (TANSO) – Espectrómetro de transformada de Fourier (FTS),Operational
+517,JAXA,Productor de imágenes,TANSO-CAI,Sensor térmico y de infrarrojo corto para realizar observaciones del carbono (TANSO Productor de imágenes de nubes y aerosoles (CAI),Operational
+518,JAXA,Radar de nubes y precipitación,DPR,Radar de doble frecuencia para precipitaciones,Operational
+519,NASA,"Radiómetro de imagen o sondeo por microondas, exploración cónica",GMI,Productor de imágenes por microondas GPM,Operational
+526,GeoOptics,Sonda de ocultación GNSS,Cion-A,Receptor de ocultación GNSS Cion-A de GeoOptics,Operational
+527,GeoOptics,Sonda de ocultación GNSS,Cion-B,Receptor de ocultación GNSS Cion-B de GeoOptics,Operational
+528,GeoOptics,Sonda de ocultación GNSS,Cion-C,Receptor de ocultación GNSS Cion-C de GeoOptics,Operational
+529,GeoOptics,Sonda de ocultación GNSS,Cion-D,Receptor de ocultación GNSS Cion-D de GeoOptics,Operational
+530,Spire,Sonda de ocultación GNSS,SGNOS-A,Sistema mundial de navegación por satélite con sonda de ocultación Spire A,Operational
+531,Spire,Sonda de ocultación GNSS,SGNOS-B,Sistema mundial de navegación por satélite con sonda de ocultación Spire B,Operational
+532,Spire,Sonda de ocultación GNSS,SGNOS-C,Sistema mundial de navegación por satélite con sonda de ocultación Spire C,Operational
+533,Spire,Sonda de ocultación GNSS,SGNOS-D,Sistema mundial de navegación por satélite con sonda de ocultación Spire D,Operational
+534,PlanetiQ,Sonda de ocultación GNSS,Pyxis-A,Receptor de ocultación GNSS Pyxis-A de PlanetiQ,Operational
+535,PlanetiQ,Sonda de ocultación GNSS,Pyxis-B,Receptor de ocultación GNSS Pyxis-B de PlanetiQ,Operational
+540,NOAA,Comunicaciones,DCS (NOAA),Sistema de recopilación de datos (NOAA),Operational
+541,NOAA,Comunicaciones,Coms. GOES,Paquete de comunicaciones en GOES,Operational
+542,NOAA,Comunicaciones,Coms. LANDSAT,Paquete de comunicaciones para LANDSAT,Operational
+543,NOAA,Comunicaciones,Coms. NOAA,Paquete de comunicaciones para NOAA,Operational
+544,NOAA,Comunicaciones,S&R (GOES),Búsqueda y rescate,Operational
+545,NOAA,Comunicaciones,S&R (NOAA),Búsqueda y rescate,Operational
+546,NOAA,Comunicaciones,WEFAX,Facsímil meteorológico,Operational
+547,NOAA,Espectrómetro,SEM (GOES),Aparato de control del ambiente espacial,Operational
+550,NOAA,Campo magnético,SSM,Magnetómetro con sensor especial,Operational
+551,NOAA,Campo magnético,SSJ/4,Aparato de control del plasma precipitante con sensor especial,Operational
+552,NOAA,Medio espacial,SSIES-2,Medidor de centelleo/deriva del plasma ionosférico con sensor especial,Operational
+553,NOAA,Medio espacial,SSB/X-2,Detector de partículas de rayos gamma con sensor especial,Operational
+570,NOAA,Radiómetro,AMSU-A,Unidad de sondeo en microondas avanzada-A,Operational
+574,NOAA,Radiómetro,AMSU-B,Unidad de sondeo en microondas avanzada-B,Operational
+580,NOAA,Radiómetro,"ATOVS (HIRS/3 + AMSU + AVHRR/3)",Sonda vertical operativa TIROS avanzada,Operational
+590,NOAA,Radiómetro,AVHRR/2,Radiómetro avanzado de muy alta resolución/2,Operational
+591,NOAA,Radiómetro,AVHRR/3,Radiómetro avanzado de muy alta resolución/3,Operational
+592,NOAA,Radiómetro,AVHRR/4,Radiómetro avanzado de muy alta resolución/4,Operational
+600,NOAA,Radiómetro,ERBE,Experimento sobre el balance de la radiación terrena,Operational
+601,NOAA,Radiómetro,ETM+,Trazador temático cartográfico mejorado,Operational
+604,NOAA,Radiómetro,HIRS/1,Sonda infrarroja de alta resolución/1,Operational
+605,NOAA,Radiómetro,HIRS/2,Sonda infrarroja de alta resolución/2,Operational
+606,NOAA,Radiómetro,HIRS/3,Sonda infrarroja de alta resolución/3,Operational
+607,NOAA,Radiómetro,HIRS/4,Sonda infrarroja de alta resolución/4,Operational
+615,NOAA,Radiómetro,IMAGER,Imagenizador,Operational
+616,NOAA,Radiómetro productor de imágenes multiespectrales (vis/IR),VIIRS,Serie de radiómetro imagenizador visible/infrarrojo,Operational
+617,NOAA,Radiómetro multiespectral de obtención de imágenes,ABI,Generador avanzado de imágenes de base,Operational
+618,NOAA,Generador óptico de imágenes de alta resolución,GLM,Generador geoestacionario de mapas de rayos,Operational
+620,NOAA,Sonda para la temperaturaCrIRS/NP y humedad atmosféricas,,Sonda infrarroja transversal a la trayectoria/NPOESS,Operational
+621,NOAA,Sonda para la temperaturaATMS y humedad atmosféricas,,Sonda de microondas de tecnología avanzada,Operational
+622,NOAA,Radiómetro MSS,,Sistema de exploración multiespectral,Operational
+623,NOAA,Radiómetro MSU,,Unidad de sondeo en microondas,Operational
+624,NOAA,Radiómetro SBUV/2,,Instrumento ultravioleta de retrodispersión solar/2,Operational
+625,NOAA,Radiómetro SBUV/3,,Instrumento ultravioleta de retrodispersión solar/3,Operational
+626,NOAA,Radiómetro SOUNDER,,SOUNDER,Operational
+627,NOAA,Radiómetro SSU,,Unidad de sondeo estratosférico,Operational
+628,NOAA,Radiómetro TM,,Trazador temático cartográfico,Operational
+629,NOAA,Radiómetro productor TOVS (HIRS/2 de imágenes + MSU + SSU) multiespectrales (vis/IR),,Sonda vertical operativa TIROS,Operational
+630,NOAA,Radiómetro VAS,,Sonda atmosférica VISSR,Operational
+631,NOAA,Radiómetro SSZ,,,Operational
+645,NOAA,Espectrómetro SEM,,Monitor del medio ambiente espacial,Operational
+650,NRSCC,Radiómetro MVIRSR (canal 10),,Radiómetro de exploración visible e infrarrojo multiespectral,Operational
+651,NRSCC,Radiómetro MVIRSR (canal 3),,Radiómetro de exploración visible e infrarrojo multiespectral,Operational
+652,NRSCC,Radiómetro MVIRSR (canal 5),,Radiómetro de exploración visible e infrarrojo multiespectral,Operational
+670,NSAU,Radar RLSBO,,Radar de microondas de orientación lateral,Operational
+680,NSAU,Productor de imágenes MSU-EU ópticas de alta resolución,,Radiómetro multiespectral de alta resolución,Operational
+681,NSAU,"Radiómetro productor MSU-UM de imágenes
+multiespectrales (vis/IR)",,Radiómetro multiespectral visible,Operational
+682,NSAU,Radiómetro RM-08,,Radiómetro de imagenización por microondas,Operational
+683,NSAU,Productor de imágenes SU-UMS ópticas de alta resolución,,Estereorradiómetro de alta resolución,Operational
+684,NSAU,Productor de imágenes SU-VR ópticas de alta resolución,,Radiómetro visible de alta resolución,Operational
+685,NSAU,Radiómetro TRASSER,,,Operational
+686,SOA,Dispersómetro SCAT,,Dispersómetro,Operational
+687,SOA,Altímetro de radar  ALT,,Altímetro de radar,Operational
+688,SOA,Radiómetro de microondas MWI,,Radiómetro de microondas,Operational
+700,ROSCOSMOS,Comunicaciones,KONDOR-2,Sistema de recopilación y transmisión de datos,Operational
+701,ROSCOSMOS,Comunicaciones,BRK,,Operational
+710,ROSCOSMOS,Lidar,ALISSA,Lidar de retrodispersión,Operational
+712,ROSCOSMOS,Lidar,Balkan-2 lidar,,Operational
+715,ROSCOSMOS,Lidar,MK-4,,Operational
+716,ROSCOSMOS,Lidar,MK-4M,,Operational
+730,ROSCOSMOS,Radar,Greben,Altímetro de radar,Operational
+731,ROSCOSMOS,Radar,SAR-10,Radar de abertura sintética,Operational
+732,ROSCOSMOS,Radar,SAR-3,Radar de abertura sintética,Operational
+733,ROSCOSMOS,Radar,SAR-70,Radar de abertura sintética,Operational
+740,ROSCOSMOS,Radar,SLR-3,Radar de orientación lateral,Operational
+745,ROSCOSMOS,Radar,Travers SAR,,Operational
+750,ROSCOSMOS,Radiómetro,174-K,Perfilador de temperatura y humedad,Operational
+751,ROSCOSMOS,Radiómetro,BTVK,Radiómetro de televisión por exploración,Operational
+752,ROSCOSMOS,Radiómetro,Chaika,Radiómetro infrarrojo por exploración,Operational
+753,ROSCOSMOS,Radiómetro,DELTA-2,Explorador multiespectral en microondas,Operational
+755,ROSCOSMOS,Radiómetro,IKAR-D,Explorador multiespectral en microondas,Operational
+756,ROSCOSMOS,Radiómetro,IKAR-N,Explorador multiespectral en microondas,Operational
+757,ROSCOSMOS,Radiómetro,IKAR-P,Explorador multiespectral en microondas,Operational
+760,ROSCOSMOS,Radiómetro,ISP,,Operational
+761,ROSCOSMOS,Radiómetro,KFA-1000,Cámara fotográfica,Operational
+762,ROSCOSMOS,Radiómetro,KFA-200,Cámara fotográfica,Operational
+763,ROSCOSMOS,Radiómetro,KFA-3000,Cámara fotográfica,Operational
+770,ROSCOSMOS,Radiómetro,Klimat,Radiómetro infrarrojo por exploración,Operational
+771,ROSCOSMOS,Radiómetro,Klimat-2,Radiómetro infrarrojo por exploración,Operational
+775,ROSCOSMOS,Radiómetro,MIRAS,,Operational
+776,ROSCOSMOS,Radiómetro,MIVZA,,Operational
+777,ROSCOSMOS,Radiómetro,MIVZA-M,Radiómetro de exploración en microondas,Operational
+780,ROSCOSMOS,Radiómetro,MR-2000,,Operational
+781,ROSCOSMOS,Radiómetro,MR-2000M,,Operational
+785,ROSCOSMOS,Radiómetro,MR-900,Telefotómetro de exploración,Operational
+786,ROSCOSMOS,Radiómetro,MR-900B,Telefotómetro de exploración en banda visual,Operational
+790,ROSCOSMOS,,MSU-E,Explorador electrónico multiespectral de alta resolución,Operational
+791,ROSCOSMOS,,MSU-E1,Explorador electrónico multiespectral de alta resolución,Operational
+792,ROSCOSMOS,Radiómetro,MSU-E2,Explorador electrónico multiespectral de alta resolución,Operational
+793,ROSCOSMOS,Radiómetro,MSU-M,,Operational
+794,ROSCOSMOS,Radiómetro,MSU-S,Explorador electrónico multiespectral de resolución media,Operational
+795,ROSCOSMOS,Radiómetro,MSU-SK,Explorador cónico multiespectral de resolución media,Operational
+796,ROSCOSMOS,Radiómetro,MSU-V,Explorador cónico multiespectral de alta resolución,Operational
+810,ROSCOSMOS,Radiómetro,MTZA,Radiómetro de microondas por exploración,Operational
+815,ROSCOSMOS,Radiómetro productor de imágenes multiespectrales (microondas pasivo),MZOAS,Radiómetro de microondas por exploración,Operational
+820,ROSCOSMOS,Radiómetro productor de imágenes multiespectrales (microondas pasivo),R-225,Radiómetro de microondas de canal único,Operational
+933,NRSCC,Sonda para la temperaturaIRAS y humedad atmosféricas,,Sonda atmosférica infrarroja,Operational
+934,NRSCC,Sonda para la temperaturaMWAS y humedad atmosféricas,,Sonda atmosférica por microondas,Operational
+935,NRSCC,Sonda para la temperaturaIMWAS y humedad atmosféricas,,Sonda atmosférica por microondas mejorada,Operational
+936,NRSCC,Sonda para la temperaturaMWHS y humedad atmosféricas,,Sonda de humedad por microondas,Operational
+937,NRSCC,Radiómetro productor de   MVIRS imágenes multiespectrales (vis/IR),,Espectrorradiómetro de obtención de imágenes visibles e infrarrojas de resolución moderada,Operational
+938,NRSCC,Radiómetro productor de   MWRI imágenes multiespectrales (microondas pasivo),,Imagenizador de radiación por microondas,Operational
+940,ROSCOSMOS,Sonda para la temperaturaMTVZA-OK y humedad atmosféricas,,Radiómetro de microondas por exploración,Operational
+941,CNES,Sonda para la temperaturaSAPHIR y humedad atmosféricas,,,Operational
+942,CNES,Productor de imágenes  MADRAS por microondas,,Análisis y detección por microondas de estructuras pluviales y atmosféricas,Operational
+943,CNSA,Dispersómetro SCAT (en CFOSAT),,Dispersómetro,Operational
+944,NOAA,Altímetro de radar  ALT,,Altímetro,Operational
+945,NOAA,Radiómetro del balance TSIS de radiación de la Tierra,,Sensor de la irradiancia solar total,Operational
+946,NOAA,"Radiómetro productor CMIS de imágenes multiespectrales (microondas pasivo)",,Imagenizador/sonda de microondas por exploración cónica,Operational
+947,NOAA,Ozono total y perfil del  OMPS ozono,,Serie cartográfica y perfiladora del ozono,Operational
+948,NOAA,"Sonda para la temperaturaGPSOS y humedad atmosféricas del medio espacial",,Sensor de ocultación del sistema de posicionamiento mundial,Operational
+949,NOAA,"Campo magnético, límite   SESS de centelleo de imágenes aurorales",,Serie de sensores del medio espacial,Operational
+950,NRSCC,"Radiómetro productor   VIRR de imágenes multiespectrales (vis/IR)",,Radiómetro de exploración visible e infrarrojo multiespectral (10 canales),Operational
+951,NRSCC,Ozono total y perfil del  TOM ozono,,Cartografía del ozono total,Operational
+952,NRSCC,Ozono total y perfil del  OP ozono,,Perfilador del ozono,Operational
+953,CMA,"Radiómetro de sondeo por MWHS-2 microondas, exploración transversal",,Sonda de humedad por microondas-2,Operational
+954,CMA,"Radiómetro de sondeo por MWTS-2 microondas, exploración transversal",,Sonda de temperatura por microondas 2,Operational
+955,CMA,"Sonda infrarroja de HIRAS exploración a través del nadir",,Sonda atmosférica infrarroja hiperespectral,Operational
+956,CMA,Espectrómetro SBUS,,Sonda ultravioleta de retrodispersión solar,
+957,CMA,Espectrómetro TOU,,Unidad de ozono total,
+958,CMA,Sonda de ocultación GNOS GNSS,,Sistema mundial de navegación por satélite con sonda ocultación,
+959,SNSB,Sonda para la  SMR exploración del limbo,,Radiómetro submilimétrico,
+960,,Reservada,,,
+961,CMA,Radiómetro multiespectral AGRI de obtención de imágenes,,Imagenizador de radiación geoestacionario avanzado,
+962,CMA,Sonda para la temperaturaGIIRS y humedad atmosféricas,,Interferómetro geoestacionario de sondeo en el infrarrojo,
+963,CMA,"Generador óptico de  LMI imágenes de alta resolución",,Generador de mapas de rayos,
+964,CMA,Medio espacial SEP,,Equipo de entorno espacial,
+965–,,Reservadas,,,
+979,,,,,
+980,KMA,Reproductor de imágenes  AMI,,Reproductor avanzado de imágenes meteorológicas,
+981,KMA,Reproductor de imágenes  MI,,Reproductor de imágenes meteorológicas,
+982,KMA,Entorno espacial KSEM,,Instrumento coreano de vigilancia del tiempo espacial,
+983-999,Reservadas,,,,
+1000–2046,Reservadas para usos futuros a largo plazo,,,,
+2047,Valor faltante,,,,

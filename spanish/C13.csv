@@ -1,0 +1,126 @@
+﻿CodeFigure_DataCategories,Name_DataCategories_es,CodeFigure_InternationalDataSubcategories,Name_InternationalDataSubcategories_es,Status
+0,Datos de superficie — terrestres,0,Observaciones sinópticas horarias desde estaciones terrestres fijas (SYNOP,Operational
+0,Datos de superficie — terrestres,1,Observaciones sinópticas intermedias desde estaciones terrestres fijas (SYNOP),Operational
+0,Datos de superficie — terrestres,2,Principales observaciones sinópticas desde estaciones terrestres fijas (SYNOP),Operational
+0,Datos de superficie — terrestres,3,Observaciones sinópticas horarias desde estaciones terrestres móviles (SYNOP MOBIL),Operational
+0,Datos de superficie — terrestres,4,Observaciones sinópticas intermedias desde estaciones terrestres móviles (SYNOP MOBIL),Operational
+0,Datos de superficie — terrestres,5,Principales observaciones sinópticas desde estaciones terrestres móviles (SYNOP MOBIL),Operational
+0,Datos de superficie — terrestres,6,Observaciones en una hora desde estaciones automáticas,Operational
+0,Datos de superficie — terrestres,7,Observaciones en n-minutos desde estaciones meteorológicas automáticas,Operational
+0,Datos de superficie — terrestres,8,Observaciones de radiación en períodos de una hora,Operational
+0,Datos de superficie — terrestres,9,Observaciones de radiación en período de n-minutos,Operational
+0,Datos de superficie — terrestres,10,Observaciones aeronáuticas habituales (METAR),Operational
+0,Datos de superficie — terrestres,11,Observaciones aeronáuticas especiales (SPECI),Operational
+0,Datos de superficie — terrestres,14,Observaciones de la humedad por medio de un GPS en tierra (GPS-IWV),Operational
+0,Datos de superficie — terrestres,20,Observaciones climatológicas (CLIMAT),Operational
+0,Datos de superficie — terrestres,21,Observaciones climatológicas (informes mensuales de los datos climáticos diarios),Operational
+0,Datos de superficie — terrestres,30,Ubicaciones de parásitos atmosféricos (SFLOC),Operational
+0,Datos de superficie — terrestres,40,Informes hidrológicos,Operational
+0,Datos de superficie — terrestres,50,Observaciones sinópticas horarias con datos suplementarios de una hora,Operational
+0,Datos de superficie — terrestres,51,Observaciones sinópticas intermedias con datos suplementarios de una hora,Operational
+0,Datos de superficie — terrestres,52,Observaciones sinópticas principales con datos suplementarios de una hora,Operational
+1,Datos de superficie — marinos,0,Observaciones sinópticas (SHIP),Operational
+1,Datos de superficie — marinos,6,Observaciones en una hora desde estaciones automáticas,Operational
+1,Datos de superficie — marinos,7,Observaciones en n-minutos desde estaciones meteorológicas automáticas,Operational
+1,Datos de superficie — marinos,20,Observaciones climatológicas (CLIMAT SHIP),Operational
+1,Datos de superficie — marinos,25,Observación proveniente de una boya (BUOY),Operational
+1,Datos de superficie — marinos,30,Mareógrafo,Operational
+1,Datos de superficie — marinos,31,Serie temporal observada al nivel del agua,Operational
+2,Sondeos verticales (excepto los satelitaes),1,Informes de viento en altitud desde estaciones terrestres fijas (PILOT),Operational
+2,Sondeos verticales (excepto los satelitaes),2,Informes de viento en altitud desde buques (PILOT SHIP),Operational
+2,Sondeos verticales (excepto los satelitaes),3,Informes de viento en altitud desde estaciones terrestres móviles (PILOT MOBIL),Operational
+2,Sondeos verticales (excepto los satelitaes),4,Informes de temperatura/humedad/viento en altitud desde estaciones terrestres fijas (TEMP),Operational
+2,Sondeos verticales (excepto los satelitaes),5,Informes de temperatura/humedad/viento en altitud desde buques (TEMP SHIP),Operational
+2,Sondeos verticales (excepto los satelitaes),6,Informe de temperatura/humedad/viento en altitud desde estaciones terrestres móviles (TEMP MOBIL),Operational
+2,Sondeos verticales (excepto los satelitaes),7,Informes de temperatura/humedad/viento en altitud desde sondas globo (TEMP DROP),Operational
+2,Sondeos verticales (excepto los satelitaes),10,Informes de perfilador de viento,Operational
+2,Sondeos verticales (excepto los satelitaes),11,Perfiles de temperatura de sistema de sondeo radioacústico,Operational
+2,Sondeos verticales (excepto los satelitaes),14,Informes de temperatura/humedad/viento en altitud de radiosondas en descenso originalmente lanzadas desde estaciones terrestres fijas,Operational
+2,Sondeos verticales (excepto los satelitaes),15,Informes de temperatura/humedad/viento en altitud de radiosondas en descenso originalmente lanzadas desde buques,Operational
+2,Sondeos verticales (excepto los satelitaes),16,Informes de temperatura/humedad/viento en altitud de radiosondas en descenso originalmente lanzadas desde estaciones terrestres móviles,Operational
+2,Sondeos verticales (excepto los satelitaes),20,Perfiles ASDAR/ACARS (AMDAR),Operational
+2,Sondeos verticales (excepto los satelitaes),21,Perfiles de concentración de los componentes de la atmósfera,Operational
+2,Sondeos verticales (excepto los satelitaes),25,Observaciones climatológicas desde estaciones terrestres fijas (CLIMAT TEMP),Operational
+2,Sondeos verticales (excepto los satelitaes),26,Observaciones climatológicas desde buques (CLIMAT TEMP SHIP),Operational
+3,Sondeos verticales (por satélite),0,Temperatura (SATEM),Operational
+3,Sondeos verticales (por satélite),1,TIROS (TOVS),Operational
+3,Sondeos verticales (por satélite),2,ATOVS,Operational
+3,Sondeos verticales (por satélite),3,AMSU-A,Operational
+3,Sondeos verticales (por satélite),4,AMSU-B,Operational
+3,Sondeos verticales (por satélite),5,HIRS,Operational
+3,Sondeos verticales (por satélite),6,MHS,Operational
+3,Sondeos verticales (por satélite),7,IASI,Operational
+3,Sondeos verticales (por satélite),8,VASS (sistema de sondeo atmosférico vertical),Operational
+3,Sondeos verticales (por satélite),20,Sondeo de temperatura/humedad por infrarrojos,Operational
+3,Sondeos verticales (por satélite),30,Sondeo de temperatura/humedad hiperes,Operational
+3,Sondeos verticales (por satélite),40,Sondeo de temperatura/humedad en microondas,Operational
+3,Sondeos verticales (por satélite),50,Sondeo de ocultación radio,Operational
+4,Datos de observaciones en altitud de nivel único (excepto los satelitales),0,ASDAR/ACARS (AMDAR),Operational
+4,Datos de observaciones en altitud de nivel único (excepto los satelitales),1,"Manual (AIREP, PIREP)",Operational
+5,Datos de observaciones en altitud de nivel único (satélite),0,Datos de viento derivados del desplazamiento de las nubes (SATOB,Operational
+5,Datos de observaciones en altitud de nivel único (satélite),1,Propiedades de nubes,Operational
+5,Datos de observaciones en altitud de nivel único (satélite),2,Modo-S,Operational
+6,Datos de radar,0,Datos de reflectividad,Operational
+6,Datos de radar,1,Perfiles de viento Doppler,Operational
+6,Datos de radar,2,Productos derivados,Operational
+6,Datos de radar,3,Observación meteorológica por radar terrestre (RADOB),Operational
+7,Características sinópticas,0,Trayectorias previstas de ciclones tropicales obtenidas mediante sistemas de predicción por conjuntos,Operational
+7,Características sinópticas,1,Línea de turbonada,Operational
+7,Características sinópticas,2,Predicción de ciclón tropical a partir de sistema determinista,Operational
+8,Componentes físicos/químicos,0,Ozono en superficie,Operational
+8,Componentes físicos/químicos,1,Sondeo vertical del ozono,Operational
+8,Componentes físicos/químicos,2,Ozono total,Operational
+8,Componentes físicos/químicos,3,Lluvia ácida,Operational
+9,Dispersión y transporte,0,"Trayectorias, análisis o predicción",Operational
+10,Datos radiológicos,1,Observación (RADREP),Operational
+10,Datos radiológicos,2,Predicción (RADOF),Operational
+12,Datos de observaciones en superficie (satélite),0,Producto UWA-ERS,Operational
+12,Datos de observaciones en superficie (satélite),1,Producto UWI-ERS,Operational
+12,Datos de observaciones en superficie (satélite),2,Producto URA-ERS,Operational
+12,Datos de observaciones en superficie (satélite),3,Producto UAT-ERS,Operational
+12,Datos de observaciones en superficie (satélite),4,Radiómetro SSM/I,Operational
+12,Datos de observaciones en superficie (satélite),5,Quickscat,Operational
+12,Datos de observaciones en superficie (satélite),6,Temperatura/radiación en superficie (SATOB),Operational
+12,Datos de observaciones en superficie (satélite),7,Datos ASCAT,Operational
+12,Datos de observaciones en superficie (satélite),8,Humedad de suelo,Operational
+12,Datos de observaciones en superficie (satélite),9,Índice de vegetación diferencial normalizado,Operational
+12,Datos de observaciones en superficie (satélite),10,Retrodispersión radárica normalizada,Operational
+12,Datos de observaciones en superficie (satélite),11,Emisividad superficial,Operational
+12,Datos de observaciones en superficie (satélite),12,Temperatura en la superficie del mar,Operational
+12,Datos de observaciones en superficie (satélite),13,Precipitación,Operational
+21,Radiancias (medidas por satélite),0,Presupuesto de radiación de la Tierra,Operational
+21,Radiancias (medidas por satélite),5,Sonda infrarroja transversal a la trayectoria,Operational
+21,Radiancias (medidas por satélite),6,Sonda de microondas de tecnología avanzada,Operational
+21,Radiancias (medidas por satélite),7,Serie de radiómetro imagenizador visible/ infrarrojo,Operational
+22,"Radar (satélite), pero no altímetro y dispersómetro",0,Radar de nubes y precipitación,Operational
+22,"Radar (satélite), pero no altímetro y dispersómetro",1,Radar de abertura sintética,Operational
+23,Lidar (satélite),0,"Misiones desde lidar (de viento, nubes/ aerosoles, vapor de agua, altimetría)",Operational
+24,Dispersometría (satélite),0,Dispersometría de viento,Operational
+25,Altimetría (satélite),0,Altimetría radárica,Operational
+26,Espectrometría (satélite),0,Espectrometría de onda corta a través del nadir (para aplicaciones químicas),Operational
+26,Espectrometría (satélite),1,Espectrometría en infrarrojos a través del nadir (para aplicaciones químicas),Operational
+26,Espectrometría (satélite),2,Espectrometría de sondeo límbico en onda corta,Operational
+26,Espectrometría (satélite),3,Espectrometría de sondeo límbico en infrarrojos,Operational
+26,Espectrometría (satélite),4,Espectrometría de sondeo límbico en ondas submilimétricas,Operational
+30,Conjunto de datos de calibración (satélite),0,Datos en subconjuntos,Operational
+30,Conjunto de datos de calibración (satélite),1,Datos coubicados,Operational
+30,Conjunto de datos de calibración (satélite),2,Datos de calibración a bordo,Operational
+30,Conjunto de datos de calibración (satélite),3,Monitoreo de errores sistemáticos,Operational
+30,Conjunto de datos de calibración (satélite),4,Corrección en tiempo casi real,Operational
+30,Conjunto de datos de calibración (satélite),5,Corrección de reanálisis,Operational
+31,Datos oceanográficos,0,Observación en superficie,Operational
+31,Datos oceanográficos,1,Observación en superficie a lo largo de una ruta marítima (TRACKOB),Operational
+31,Datos oceanográficos,2,Observación del espectro de las olas (WAVEOB),Operational
+31,Datos oceanográficos,3,Observación batitérmica (BATHY),Operational
+31,Datos oceanográficos,4,Flotadores subsuperficiales (perfil),Operational
+31,Datos oceanográficos,5,Perfiles XBT/XCTD (TESAC),Operational
+31,Datos oceanográficos,6,Informes de olas,Operational
+31,Datos oceanográficos,7,Datos de tsunámetro,Operational
+101,Datos en forma de imágenes (satélite),0,Imágenes en visible/infrarrojo para múltiples fines,Operational
+101,Datos en forma de imágenes (satélite),1,Imágenes de barrido cónico en microondas (frecuencias intermedias),Operational
+101,Datos en forma de imágenes (satélite),2,Imágenes en microondas de baja frecuencia,Operational
+101,Datos en forma de imágenes (satélite),3,Imágenes del color del océano,Operational
+101,Datos en forma de imágenes (satélite),4,Imágenes con geometría de visualización especial,Operational
+101,Datos en forma de imágenes (satélite),5,Imágenes de rayos,Operational
+101,Datos en forma de imágenes (satélite),6,Imágenes en onda corta de alta resultado para observaciones terrestres,Operational
+101,Datos en forma de imágenes (satélite),7,Datos SMOS,Operational

@@ -1,0 +1,134 @@
+﻿CodeFigure,UnitType_es,Meaning_es,conventional,IA5-ASCII,ITA2,SIDefinition,Note_es,NoteID,Status
+001,Unidades básicas SI,metro,m,m,M,,(see Note 1),,Operational
+002,Unidades básicas SI,kilogramo,kg,kg,KG,,,,Operational
+003,Unidades básicas SI,segundo,s,s,S,,,,Operational
+004,Unidades básicas SI,amperio,A,A,A,,,,Operational
+005,Unidades básicas SI,kelvin,K,K,K,,,,Operational
+006,Unidades básicas SI,mol,mol,mol,MOL,,,,Operational
+007,Unidades básicas SI,candela,cd,cd,CD,,,,Operational
+021,Unidades SI suplementarias,radián,rad,rad,RAD,,(see Note 1),,Operational
+022,Unidades SI suplementarias,estereorradián,sr,sr,SR,,,,Operational
+030,Unidades SI derivadas con nombres especiales,hertzio,Hz,Hz,HZ,,(see Note 1),,Operational
+031,Unidades SI derivadas con nombres especiales,newton,N,N,N,,,,Operational
+032,Unidades SI derivadas con nombres especiales,pascal,Pa,Pa,PAL,,,,Operational
+033,Unidades SI derivadas con nombres especiales,julio,J,J,J,,,,Operational
+034,Unidades SI derivadas con nombres especiales,vatio,W,W,W,,,,Operational
+035,Unidades SI derivadas con nombres especiales,culombio,C,C,C,,,,Operational
+036,Unidades SI derivadas con nombres especiales,voltio,V,V,V,,,,Operational
+037,Unidades SI derivadas con nombres especiales,faradio,F,F,F,,,,Operational
+038,Unidades SI derivadas con nombres especiales,ohmio,Ω,Ohm,OHM,,,,Operational
+039,Unidades SI derivadas con nombres especiales,simensio,S,S,SIE,,,,Operational
+040,Unidades SI derivadas con nombres especiales,weberio,Wb,Wb,WB,,,,Operational
+041,Unidades SI derivadas con nombres especiales,tesla,T,T,T,,,,Operational
+042,Unidades SI derivadas con nombres especiales,henrio,H,H,H,,,,Operational
+060,Unidades SI derivadas con nombres especiales,grado Celsius,°C,Cel,CEL,,,,Operational
+070,Unidades SI derivadas con nombres especiales,lumen,lm,lm,LM,,,,Operational
+071,Unidades SI derivadas con nombres especiales,lux,lx,lx,LX,,,,Operational
+080,Unidades SI derivadas con nombres especiales,becquerel,Bq,Bq,BQ,,,,Operational
+081,Unidades SI derivadas con nombres especiales,grey,Gy,Gy,GY,,,,Operational
+082,Unidades SI derivadas con nombres especiales,sievert,Sv,Sv,SV,,,,Operational
+110,Otras unidades no SI reconocidas por la CGPM,grado (ángulo),º,deg,DEG,,(see Note 4),,Operational
+111,Otras unidades no SI reconocidas por la CGPM,minuto (ángulo),‘,‘,MNT,,,,Operational
+112,Otras unidades no SI reconocidas por la CGPM,segundo (ángulo),“,“,SEC,,,,Operational
+120,Otras unidades no SI reconocidas por la CGPM,litro,l o L,l o L,L,,,,Operational
+130,Otras unidades no SI reconocidas por la CGPM,minuto (tiempo),min,min,MIN,,,,Operational
+131,Otras unidades no SI reconocidas por la CGPM,hora,h,h,HR,,,,Operational
+132,Otras unidades no SI reconocidas por la CGPM,día,d,d,D,,,,Operational
+150,Otras unidades no SI reconocidas por la CGPM,tonelada,t,t,TNE,,,,Operational
+160,Otras unidades no SI reconocidas por la CGPM,electronvoltio,eV,eV,EV,,,,Operational
+161,Otras unidades no SI reconocidas por la CGPM,unidad de masa atómica,u,u,U,,,,Operational
+170,Otras unidades no SI reconocidas por la CGPM,unidad astronómica,AU,AU,ASU,,,,Operational
+171,Otras unidades no SI reconocidas por la CGPM,parsec,pc,pc,PRS,,,,Operational
+200,Unidades no SI toleradas por ser de uso extendido,milla náutica,,,,,,,Operational
+201,Unidades no SI toleradas por ser de uso extendido,nudo,kt,kt,KT,,,,Operational
+210,Unidades no SI toleradas por ser de uso extendido,decibelio (6),dB,dB,DB,,,,Operational
+220,Unidades no SI toleradas por ser de uso extendido,hectárea,ha,ha,HAR,,,,Operational
+230,Unidades no SI toleradas por ser de uso extendido,semana,,,,,,,Operational
+231,Unidades no SI toleradas por ser de uso extendido,año,a,a,ANN,,,,Operational
+300,Otras unidades utilizadas por la OMM,por ciento,%,%,PERCENT,,(see Note 7),,Operational
+301,Otras unidades utilizadas por la OMM,partes por millar,‰,0/00,PERTHOU,,,,Operational
+310,Otras unidades utilizadas por la OMM,octavos de nube,octa,okta,OKTA,,,,Operational
+320,Otras unidades utilizadas por la OMM,grados verdaderos,°,deg,DEG,,,,Operational
+321,Otras unidades utilizadas por la OMM,grados por segundo,grado/s,deg/s,DEG/S,,,,Operational
+350,Otras unidades utilizadas por la OMM,grados Celsius (8),°C,C,C,,,,Operational
+351,Otras unidades utilizadas por la OMM,grados Celsius por metro,°C/m,C/m,C/M,,,,Operational
+352,Otras unidades utilizadas por la OMM,grados Celsius por 100 metros,°C/100 m,C/100 m,C/100 M,,,,Operational
+360,Otras unidades utilizadas por la OMM,Unidad Dobson (9),DU,DU,DU,,,,Operational
+430,Otras unidades utilizadas por la OMM,mes,mon,mon,MON,,,,Operational
+441,Otras unidades utilizadas por la OMM,por segundo (idéntica al hertzio),s–1,/s,/S,,,,Operational
+442,Otras unidades utilizadas por la OMM,por segundo al cuadrado,s–2,s–2,,,,,Operational
+501,Otras unidades utilizadas por la OMM,nudos por 1 000 metros,kt/1000 m,kt/km,KT/KM,,,,Operational
+510,Otras unidades utilizadas por la OMM,pie,ft,ft,FT,,,,Operational
+511,Otras unidades utilizadas por la OMM,pulgada,in,in,IN,,,,Operational
+520,Otras unidades utilizadas por la OMM,decipascales por segundo (microbares por segundo),dPa s–1,dPa/s,DPAL/S,,,,Operational
+521,Otras unidades utilizadas por la OMM,centibares por segundo,cb s–1,cb/s,CB/S,,,,Operational
+522,Otras unidades utilizadas por la OMM,centibares por 12 horas,cb/12 h,cb/12 h,CB/12 HR,,,,Operational
+523,Otras unidades utilizadas por la OMM,decapascal,daPa,daPa,DAPAL,,,,Operational
+530,Otras unidades utilizadas por la OMM,hectopascal,hPa,hPa,HPAL,,,,Operational
+531,Otras unidades utilizadas por la OMM,hectopascales por segundo,hPa s–1,hPa/s,HPAL/S,,,,Operational
+532,Otras unidades utilizadas por la OMM,hectopascales por hora,hPa h–1,hPa/h,HPAL/HR,,,,Operational
+533,Otras unidades utilizadas por la OMM,hectopascales por 3 horas,hPa/3 h,hPa/3 h,HPAL/3 HR,,,,Operational
+535,Otras unidades utilizadas por la OMM,nanobar = hPa 10–6,nbar,nbar,NBAR,,,,Operational
+620,Otras unidades utilizadas por la OMM,gramos por kilogramo,g kg–1,g/kg,G/KG,,,,Operational
+622,Otras unidades utilizadas por la OMM,"segundo kilogramos por kilogramo",kg kg–1,kg/kg,KG/KG,,,,Operational
+623,Otras unidades utilizadas por la OMM,kilogramos por kilogramo por segundo,kg kg–1 s–1,kg kg–1 s–1,,,,,Operational
+624,Otras unidades utilizadas por la OMM,kilogramos por metro cuadrado,kg m–2,kg m–2,,,,,Operational
+630,Otras unidades utilizadas por la OMM,aceleración de la gravedad,g,g,,,,,Operational
+631,Otras unidades utilizadas por la OMM,metro geopotencial,mgp,gpm,,,,,Operational
+710,Otras unidades utilizadas por la OMM,milímetro,mm,mm,MM,,,,Operational
+711,Otras unidades utilizadas por la OMM,milímetros por segundo,mm s–1,mm/s,MM/S,,,,Operational
+712,Otras unidades utilizadas por la OMM,milímetros por hora,mm h–1,mm/h,MM/HR,,,,Operational
+713,Otras unidades utilizadas por la OMM,milímetros a la sexta potencia por  metro cúbico,mm6 m–3,mm6 m–3,,,,,Operational
+715,Otras unidades utilizadas por la OMM,centímetro,cm,cm,CM,,,,Operational
+716,Otras unidades utilizadas por la OMM,centímetros por segundo,cm s–1,cm/s,CM/S,,,,Operational
+717,Otras unidades utilizadas por la OMM,centímetros por hora,cm h–1,cm/h,CM/HR,,,,Operational
+720,Otras unidades utilizadas por la OMM,decímetro,dm,dm,DM,,,,Operational
+740,Otras unidades utilizadas por la OMM,kilómetro,km,km,KM,,,,Operational
+741,Otras unidades utilizadas por la OMM,kilómetros por hora,km h–2,km/h,KM/HR,,,,Operational
+742,Otras unidades utilizadas por la OMM,kilómetros por día,km/d,km/d,KM/D,,,,Operational
+750,Otras unidades utilizadas por la OMM,becquereles por litro,Bq l–1,Bq/l,BQ/L,,,,Operational
+751,Otras unidades utilizadas por la OMM,becquereles por metro cuadrado,Bq m–2,Bq m–2,BQ/M2,,,,Operational
+752,Otras unidades utilizadas por la OMM,becquereles por metro cúbico,Bq m–3,Bq m–3,BQ/M3,,,,Operational
+753,Otras unidades utilizadas por la OMM,milisievert,mSv,mSv,MSV,,,,Operational
+810,Otras unidades utilizadas por la OMM,vatios por metro por estereorradián,,,,,,,Operational
+811,Otras unidades utilizadas por la OMM,vatios por metro cuadrado,,,,,,,Operational
+812,Otras unidades utilizadas por la OMM,vatios por metro cuadrado por estereorradián,,,,,,,Operational
+813,Otras unidades utilizadas por la OMM,vatios por metro cuadrado por estereorradián por centímetro,,,,,,,Operational
+814,Otras unidades utilizadas por la OMM,vatios por metro cuadrado por estereorradián por metro,,,,,,,Operational
+815,Otras unidades utilizadas por la OMM,vatios por metro cúbico por estereorradián,,,,,,,Operational
+820,Otras unidades utilizadas por la OMM,simensio por metro,,,,,,,Operational
+825,Otras unidades utilizadas por la OMM,grados al cuadrado,grado–2,deg2,,,,,Operational
+800,Otras unidades utilizadas por la OMM,pascales por segundo,Pa s–1,Pa/s,,,,,Operational
+801,Otras unidades utilizadas por la OMM,kilopascal,kPa,kPa,,,,,Operational
+810,Otras unidades utilizadas por la OMM,vatios por metro por estereorradián,,,,,,,Operational
+811,Otras unidades utilizadas por la OMM,vatios por metro cuadrado,,,,,,,Operational
+812,Otras unidades utilizadas por la OMM,vatios por metro cuadrado por estereorradián,,,,,,,Operational
+813,Otras unidades utilizadas por la OMM,vatios por metro cuadrado por estereorradián por centímetro,,,,,,,Operational
+814,Otras unidades utilizadas por la OMM,vatios por metro cuadrado por estereorradián por metro,,,,,,,Operational
+815,Otras unidades utilizadas por la OMM,vatios por metro cúbico por estereorradián,,,,,,,Operational
+820,Otras unidades utilizadas por la OMM,simensio por metro,,,,,,,Operational
+825,Otras unidades utilizadas por la OMM,grados al cuadrado,grado2,deg2,,,,,Operational
+830,Otras unidades utilizadas por la OMM,becquereles por segundo por metro cúbico,Bq s m–3,Bq s m–3,,,,,Operational
+835,Otras unidades utilizadas por la OMM,decibelios por metro,dB m–1,dB/m,,,,,Operational
+836,Otras unidades utilizadas por la OMM,decibelios por grado,dB grado–1,dB/deg,,,,,Operational
+841,Otras unidades utilizadas por la OMM,unidades pH,unidad pH,unidad pH,,,,,Operational
+na1,Prefijos de unidades SI,(yotta),(Y),(Y),(Y),,"(see Notes 1, 3 and 4)",,Operational
+na2,Prefijos de unidades SI,(zetta),(Z),(Z),(Z),,,,Operational
+na3,Prefijos de unidades SI,exa,E,E,E,,,,Operational
+na4,Prefijos de unidades SI,peta,P,P,PE,,,,Operational
+na5,Prefijos de unidades SI,tera,T,T,T,,,,Operational
+na6,Prefijos de unidades SI,giga,G,G,G,,,,Operational
+na7,Prefijos de unidades SI,mega,M,M,MA,,,,Operational
+na8,Prefijos de unidades SI,kilo,k,k,K,,,,Operational
+na9,Prefijos de unidades SI,hecto,h,h,H,,,,Operational
+na1,Prefijos de unidades SI,deca,da,da,DA,,,,Operational
+na2,Prefijos de unidades SI,deci,d,d,D,,,,Operational
+na3,Prefijos de unidades SI,centi,c,c,C,,,,Operational
+na4,Prefijos de unidades SI,mili,m,m,M,,,,Operational
+na5,Prefijos de unidades SI,micro,µ,u,U,,,,Operational
+na6,Prefijos de unidades SI,nano,n,n,N,,,,Operational
+na7,Prefijos de unidades SI,pico,p,p,P,,,,Operational
+na8,Prefijos de unidades SI,femto,f,f,F,,,,Operational
+na9,Prefijos de unidades SI,atto,a,a,A,,,,Operational
+na1,Prefijos de unidades SI,(zepto),(z),(z),,,,,Operational
+no,Prefijos de unidades SI,(yocto),(y),(y),,,,,Operational

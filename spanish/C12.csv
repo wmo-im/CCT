@@ -1,0 +1,151 @@
+﻿CodeFigure_OriginatingCentres,Name_OriginatingCentres_es,CodeFigure_SubCentres,Name_SubCentres_es,Status
+,,0,No existe centro secundario,Operational
+REGIÓN II,,,,Operational
+34,"Tokio (CMRE), Servicio Meteorológico de Japón",207,Syowa,Operational
+,,240,Kiyose,Operational
+,,241,Proyecto de reanálisis,Operational
+39,Beijing (CMRE),225,Beijing,Operational
+,,226,Guangzhou,Operational
+,,228,Urumuqi,Operational
+40,Seúl,243,Seúl,Operational
+,,245,Jincheon,Operational
+110,"Hong-Kong, China",229,Hong-Kong,Operational
+REGIÓN III,,,,Operational
+46,Agencia del Espacio de Brasil – INPE,10,Cachoeira Paulista (INPE),Operational
+,,11,Cuiaba (INPE),Operational
+,,12,Brasilia (SEPIS — INMET),Operational
+,,13,Fortaleza (FUNCEME),Operational
+,,14,Natal (Centro naviero higrog.),Operational
+,,15,Manaus (SIVAM),Operational
+,,16,Natal (INPE),Operational
+,,17,Boa Vista,Operational
+,,18,SIPAM-Porto Velho-RO,Operational
+,,19,SIPAM-Belém-PA,Operational
+,,25,Universidad de São Paulo (USP),Operational
+147,Comisión Nacional de Actividades Espaciales (CONAE) – Argentina,10,Córdoba,Operational
+,,15,Ushuaia,Operational
+,,20,Marambio,Operational
+,,30,Santiago de Chile,Operational
+,,40,Punta Arenas,Operational
+,,50,Base Presidente Frei,Operational
+,,60,Cotopaxi,Operational
+148,Departamento de Control del Espacio Aéreo del Brasil (DECEA),1,Centro Integrado de Meteorología Aeronáutica (CIMAER),Operational
+REGIÓN IV,,,,Operational
+7,"Servicio Meteorológico Nacional de Estados Unidos, NCEP",1,Proyecto de reanálisis del NCEP,Operational
+,,2,Productos por conjuntos del NCEP,Operational
+,,3,Operaciones centrales del NCEP,Operational
+,,4,Centro de Modelización Ambiental,Operational
+,,5,Centro de Predicción Meteorológica,Operational
+,,6,Centro de Predicción Oceánica,Operational
+,,7,Centro de Predicción del Clima,Operational
+,,8,Centro Meteorológico Aeronáutico,Operational
+,,9,Centro de Predicción Tropical,Operational
+,,10,Centro Nacional de Huracanes,Operational
+,,11,Laboratorio de Perfeccionamiento de Técnicas del Servicio Meteorológico Nacional,Operational
+,,12,Oficina de Investigaciones y Aplicaciones del NESDIS,Operational
+,,13,Administración Federal de Aviación,Operational
+,,14,Laboratorio de Desarrollo Meteorológico del Servicio Meteorológico Nacional,Operational
+,,15,Proyecto de reanálisis regional de América del Norte,Operational
+,,16,Centro de predicción meteorológica del espacio,Operational
+,,17,División de sistemas globales ESRL,Operational
+160,NOAA/NESDIS (EE. UU.),1,Centro Nacional de Datos Climáticos,Operational
+,,2,Centro Nacional de Datos Geofísicos,Operational
+,,3,Centro Nacional de Datos Oceanográficos,Operational
+,,4,Centro de Investigaciones y Aplicaciones Satelitales (STAR),Operational
+,,5,Sistema Conjunto de Satélites Polares,Operational
+,,10,Tromsø (Noruega),Operational
+,,11,McMurdo (Antártida),Operational
+161,Oficina de Investigaciones Atmosféricas y Oceánicas de la NOAA (NOAA/OAR) (EE. UU.),"1
+2","Laboratorio de Investigaciones Ambientales de los Grandes Lagos
+Laboratorio de Investigación del Sistema",Operational
+,,,Terrestre,Operational
+,,3,Laboratorio Oceanográfico y Meteorológico del Atlántico,Operational
+,,4,Laboratorio del Medio Ambiente Marino del Pacífico,Operational
+,,5,Laboratorio de Recursos Atmosféricos,Operational
+,,6,Laboratorio de Dinámica de Fluidos Geofísicos,Operational
+,,7,Laboratorio Nacional de Tormentas Severas,Operational
+173,Administración Nacional de Aeronáutica y del Espacio (NASA) (EE. UU.),1,Centro de investigación Ames,Operational
+,,2,Centro de investigación de vuelo Dryden,Operational
+,,3,Centro de investigación Glenn,Operational
+,,4,Centro de vuelos espaciales Goddard,Operational
+,,5,Laboratorio de investigación sobre la propulsión,Operational
+,,6,Centro espacial Johnson,Operational
+,,7,Centro espacial Kennedy,Operational
+,,8,Centro de investigación Langley,Operational
+,,9,Centro de vuelos espaciales Marshall,Operational
+,,10,Centro espacial Stennis,Operational
+,,11,Instituto para estudios espaciales Goddard,Operational
+,,12,Sodankyla (Finlandia),Operational
+,,13,Fairbanks (EE. UU.),Operational
+,,14,Barrow (EE. UU.),Operational
+,,15,Rothera (Antártida),Operational
+,,20,Honolulu (EE. UU.),Operational
+,,21,Gilmore Creek (EE. UU.),Operational
+,,22,Madison (EE. UU.),Operational
+,,23,Miami (EE. UU.),Operational
+,,24,Mayaguez (Puerto Rico),Operational
+,,25,Monterrey (EE. UU.),Operational
+,,26,Guam,Operational
+,,27,Corvallis (EE. UU.),Operational
+,,28,Hampton (EE. UU.),Operational
+,,29,Ciudad de New York (EE. UU.),Operational
+177,Servicio Oceánico Nacional de la NOAA (EE. UU.),1,Centro de productos y servicios oceanográficos operativos,Operational
+,,2,Laboratorio para el desarrollo del estudio de la costa,Operational
+REGIÓN V,,,,
+2,Melbourne,201,Casey,Operational
+,,203,Davis,Operational
+,,210,Alice Springs,Operational
+,,211,Melbourne Crib Point 1,Operational
+,,214,Darwin,Operational
+,,217,Perth,Operational
+,,219,Townsville,Operational
+,,232,Fiji,Operational
+,,235,Noumea,Operational
+,,237,Papeete,Operational
+,,250,Vladivostock,Operational
+,,251,Guam,Operational
+,,252,Honolulú,Operational
+69,Wellington (CMRE),204,"Instituto Nacional de Investigaciones Hidrológicas y Atmosféricas (NIWA, Nueva Zelandia)",Operational
+,,205,Niue,Operational
+,,206,Rarotonga (Islas Cook),Operational
+,,207,Apia (Samoa),Operational
+,,208,Tonga,Operational
+,,209,Tuvalu,Operational
+,,210,Kiribati,Operational
+,,211,Tokelau,Operational
+,,243,Kelburn,Operational
+,,222,"Hamburgo, CCOT Hamburgo",Operational
+,,223,"Niedersachsen, CCOT Hannover",Operational
+,,224,Austria (CMN),Operational
+,,225,"Nordrhein-Westfalen, CCOT Kamen, Leverkusen",Operational
+,,226,"Hessen, CCOT Rüsselsheim",Operational
+,,227,"Renania-Pfalz, CCOT Coblenza",Operational
+,,228,"Baden-Württemberg, CCOT Ludwigsburg",Operational
+,,229,"Baviera, CCOT Freimann",Operational
+,,230,"Saarland, CCOT Rohrbach",Operational
+,,231,"Baviera, Dirección de autopistas del norte de Baviera",Operational
+,,232,"Brandenburgo, CCOT Stolpe",Operational
+,,233,"Mecklenburg-Vorpommern, CCOT Malchow",Operational
+,,234,"Sachsen, CCOT Dresde",Operational
+,,235,"Sachsen-Anhalt, CCOT Halle",Operational
+,,236,"Thüringen, CCOT Erfurt",Operational
+,,237,EasyWay – Meteotrans,Operational
+,,254,EUMETSAT,Operational
+80,Roma (CMRE),101,Albania (CMN),Operational
+,,102,Consejo Nacional de Investigaciones/ Instituto de Ciencias Atmosféricas y del Clima (CNI-ISAC),Operational
+85,Toulouse (CMRE),200,Institut National de l'Environnement Industriel et des Risques (Francia),Operational
+,,201,Rheinisches Institut für Umweltforschung an der Universität zu Köln E.V. (Alemania),Operational
+,,202,Institut Français de Recherche pour l’Exploitation de la Mer,Operational
+,,203,Universidad de Aarhus (Dinamarca),Operational
+,,204,Instituto de Protección Medioambiental — Instituto Nacional de Investigación (Polonia),Operational
+89,Praga (RTH),1,Observatorio de la radiación solar y del ozono Hradec Kralove,Operational
+96,Atenas,1,Chipre (CMN),Operational
+227,Bélgica (CMN),1,Luxemburgo (CMN),Operational
+250,COSMO (Consorcio para la modernización en pequeña escala),76,Roshydromet (Federación de Rusia),Operational
+,,78,Deutscher Wetterdienst (Alemania),Operational
+,,80,Ufficio Generale Spazio Aereo e Meteorologia (Italia),Operational
+,,96,Servicio Meteorológico Nacional Helénico(Grecia),Operational
+,,215,MeteoSwiss (Suiza),Operational
+,,220,Instituto de Meteorología y Gestión del Agua (Polonia),Operational
+,,242,Administración Meteorológica Nacional (Rumania),Operational
+254,Centro de operaciones de EUMETSAT,10,Tromsø (Noruega),Operational
