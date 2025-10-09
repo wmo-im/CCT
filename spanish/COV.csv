@@ -1,0 +1,14 @@
+﻿table_number,table_name,usage_detail_1,usage_detail_2,usage_detail_3,usage_detail_4,usage_detail_5,usage_detail_6
+C-0,"Número de versión de la tabla maestra de GRIB, BUFR y CREX",Octeto 10 de la sección 1 de GRIB edición 2,Octeto 14 de la sección 1 de BUFR edición 4,vv y bb en el grupo Nº 1 de la sección 1 de CREX edición 2,,,
+C-1,Identificación del centro de origen/generación,F1F2 para las claves alfanuméricas,F3F3F3 para las claves alfanuméricas,Tabla de cifrado 0 en GRIB edición 1/Tabla de cifrado 0 01 033 en BUFR,Octeto 5 en la Sección 1 de GRIB edición 1/Octeto 6 en la Sección 1 de BUFR edición 3,,
+C-2,Radiosonda/sistema de sondeo utilizado,Tabla de cifrado 3685 rara (Radiosonda/sistema de sondeo utilizado) para las claves alfanuméricas,Tabla de cifrado 0 02 011 (Tipo de radiosonda) de la clave BUFR,,,,
+C-3,Marca y tipo de instrumento para la medición del perfil de la temperatura del agua con coeficientes de ecuación del índice de caída,Tabla de cifrado 1770 — IxIxIx (Tipo de instrumento para XBT con coeficientes de ecuación del índice de caída) para claves alfanuméricas,Tabla de cifrado 0 22 067 (Tipo de instrumento para la medición del perfil de la temperatura del agua) en BUFR,,,,
+C-4,Tipo de registrador del perfil de la temperatura del agua,Tabla de cifrado 4770 - XRXR (Tipo de registrador) para las claves alfanuméricas,Tabla de cifrado 0 22 068 (Tipo de registrador del perfil de la temperatura del agua) en BUFR,,,,
+C-5,Identificador del satélite,161616 para claves alfanuméricas,Tabla de cifrado 0 01 007 en BUFR,Clave utilizada en GRIB edición 2,,,
+C-6,Lista de unidades para claves determinadas por tablas,"(Utilizada únicamente en el volumen I.2, partes B y C)",,,,,
+C-7,Técnica de seguimiento/situación del sistema utilizado,Tabla de cifrado 3872 - SaSa para las claves alfanuméricas,Tabla de cifrado 0 02 014 en BUFR,,,,
+C-8,Instrumentos de satélite,Tabla de cifrado 0 02 019 en BUFR,,,,,
+C-11,Centros de origen/generación,BUFR 0 01 035,"CREX edición 2, ooooo en Grupo Poooooppp en Sección 1","GRIB edición 2, octetos 6-7 en Sección 1","BUFR edición 4, octetos 5–6 en Sección 1",,
+C-12,Centros secundarios de los centros de origen definidos por entradas en las Tablas de cifrado común C-1 ο C-11,BUFR 0 01 034,"BUFR edición 3, octeto 5 en Sección 1","BUFR edición 4, octetos 7-8 en Sección 1","GRIB edición 1, octeto 26 en Sección 1","GRIB edición 2, octetos 8-9 en Sección 1","CREX edición 2, pp en Grupo Poooooppp en Sección 1"
+C-13,Subcategorías de datos de las categorías definidas mediante entradas de la Tabla A de la clave BUFR,"BUFR edición 4, octeto 12 en Sección 1 (si = 255, significa otra subcategoría o no definido)","CREX edición 2, mmm en Grupo Annnmmm en Sección 1",,,,
+C-14,Tipo de componente químico o físico atmosférico,Tabla de cifrado 4.230 de GRIB 2,Tabla de cifrado 008 046 en BUFR,,,,

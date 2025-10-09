@@ -1,0 +1,527 @@
+﻿CodeFigure,Meaning_es,ChemicalFormula,Status
+0,Ozono,O3,Operational
+1,Vapor de agua,H2O,Operational
+2,Metano,CH4,Operational
+3,Dióxido de carbono,CO2,Operational
+4,Monóxido de carbono,CO,Operational
+5,Dióxido de nitrógeno,NO2,Operational
+6,Monóxido de nitrógeno,N2O,Operational
+7,Formaldehído,HCHO,Operational
+8,Dióxido de azufre,SO2,Operational
+9,Amoníaco,NH3,Operational
+10,Catión de amonio,NH4+,Operational
+11,Monóxido de nitrógeno,NO,Operational
+12,Oxígeno atómico,O,Operational
+13,Radical nitrato,NO3•,Operational
+14,Radical hidroperoxilo,HOO•,Operational
+15,Pentóxido de dinitrógeno,N2O5,Operational
+16,Ácido nitroso,HONO,Operational
+17,Ácido nítrico,HNO3,Operational
+18,Ácido peroxinítrico,HO2NO2,Operational
+19,Peróxido de hidrógeno,H2O2,Operational
+20,Dihidrógeno,H2,Operational
+21,Nitrógeno atómico,N,Operational
+22,Anión de sulfato,SO42-,Operational
+23,Radón atómico,Rn,Operational
+24,Vapor de mercurio,Hg(0),Operational
+25,Catión de mercurio II,Hg2+,Operational
+26,Cloro atómico,Cl,Operational
+27,Monóxido de cloro,ClO,Operational
+28,Peróxido de dicloruro,Cl2O2,Operational
+29,Ácido hipocloroso,HClO,Operational
+30,Nitrato de cloro,ClONO2,Operational
+31,Dióxido de cloro,ClO2,Operational
+32,Bromo atómico,Br,Operational
+33,Monóxido de bromo,BrO,Operational
+34,Cloruro de bromo,BrCl,Operational
+35,Bromuro de hidrógeno,BrH,Operational
+36,Ácido hipobromoso,BrOH,Operational
+37,Nitrato de bromo,BrONO2,Operational
+38,Dioxígeno,O2,Operational
+39,Cloruro de nitrilo,NO2Cl,Operational
+40,Ácido sulfúrico,H2SO4,Operational
+41,Sulfuro de hidrógeno,H2S,Operational
+42,Trióxido de azufre,SO3,Operational
+43,Bromo,Br2,Operational
+44,Ácido fluorhídrico,HF,Operational
+45,Hexafluoruro de azufre,SF6,Operational
+46,Cloro,Cl2,Operational
+47-9999,Reservadas,,Operational
+10000,Radical hidroxilo,OH•,Operational
+10001,Radical peroximetilo,CH3OO•,Operational
+10002,Hiperóxido metilo,CH3O2H,Operational
+10004,Metanol,CH3OH,Operational
+10005,Ácido fórmico,CH3 OOH,Operational
+10006,Cianuro de hidrógeno,CNH,Operational
+10007,Acetonitrilo,CH3 CN,Operational
+10008,Etano,C2 H6,Operational
+10009,Eteno (= etileno),C2 H4,Operational
+10010,Etino (= acetileno),C2 H2,Operational
+10011,Etanol,C2 H5 OH,Operational
+10012,Ácido acético,C2 H5 OOH,Operational
+10013,Nitrato de peroxiacetilo,CH3 C(O)OONO2,Operational
+10014,Propano,C3 H8,Operational
+10015,Propeno,C3 H6,Operational
+10016,Butanos (todos los isómeros),C4 H10,Operational
+10017,Isopreno,C5 H10,Operational
+10018,Alfa-pineno,C10 H16,Operational
+10019,Beta pineno,C10 H16,Operational
+10020,Limoneno,C10 H16,Operational
+10021,Benceno,C6 H6,Operational
+10022,Tolueno,C7 H8,Operational
+10023,Xileno,C8 H10,Operational
+10024,Ácido metanosulfónico,CH3 SO3 H,Operational
+10025,Metilglioxal (2-oxopropanal),CH3 C(O)CHO,Operational
+10026,Radical peroxiacetilo,CH3 C(O)OO•,Operational
+10027,Ácido metacrílico (ácido 2-metilprop-2-enoico),CH2 C(CH3 )COOH,Operational
+10028,Metacroleína (2-metilprop-2-enal),CH2 C(CH3 )CHO,Operational
+10029,Acetona (propan-2-ona),CH3 C(O)CH3,Operational
+10030,Radical dioxidanilo etílico,CH3 CH2 OO•,Operational
+10031,"Butadieno (buta-1,3-dieno)",(CH2 CH) 2,Operational
+10032,Acetaldehído (etanal),CH3 CHO,Operational
+10033,Glicolaldehído (hidroxietanal),HOCH2 CHO,Operational
+10034,"Cresol (metilfenol), todos los isómeros",CH3 C6 H4 OH,Operational
+10035,Ácido peracético (ácido etanoperoxoico),CH3 C(O)OOH,Operational
+10036,Radical 2-hidroxietiloxidanilo,HOCH2 CH2 O•,Operational
+10037,Radical 2-hidroxietildioxidanilo,HOCH2 CH2 OO•,Operational
+10038,Glioxal (oxoaldehído),OCHCHO,Operational
+10039,Radical isopropildioxidanilo,(CH3 ) 2 CHOO•,Operational
+10040,Hidroperóxido de isopropilo (2-hidroperoxipropano),(CH3 ) 2 CHOOH,Operational
+10041,Hidroxiacetona (1-hidroxipropan-2-ona),CH3 C(O)CH2 OH,Operational
+10042,Ácido peroxiacético (ácido etanoperoxoico),CH3 C(O)OOH,Operational
+10043,Metilvinilcetona (but-3-en-2-ona),CH3 C(O)CHCH2,Operational
+10044,Radical fenoxi,C6 H5O•,Operational
+10045,Radical metilo,CH3 •,Operational
+10046,Sulfuro de carbonilo (oxisulfuro de carbono),OCS,Operational
+10047,Dibromometano,CH2 Br2,Operational
+10048,Radical metoxi,CH3 O•,Operational
+10049,Tribromometano,CHBr3,Operational
+10050,Radical formilo (radical oxometilo),HOC•,Operational
+10051,Radical hidroximetildioxidanilo,HOCH2 OO•,Operational
+10052,Hidroperóxido de etilo,CH3 CH2 OOH,Operational
+10053,Radical 3-hidroxipropildioxidanilo,HOCH2 CH2 CH2 OO•,Operational
+10054,Hidroperóxido de 3-hidroxipropilo,HOCH2 CH2 CH2 OOH,Operational
+10055,Metil peroxinitrato nitrato (nitroperoxi)metano,CH3 OONO2,Operational
+10056,2-λ1-oxidaniloxi-2-metilbut-3-en-1-ol (radical 4-hidroxi-3-metilbut-1-en-3-ilperoxi),HOCH2 C(CH3 )(OO•)CHCH2,Operational
+10057,2-λ1-oxidaniloxi-3-metilbut-3-en-1-ol (radical 2-hidroxi-1-isopropeniletilperoxi),HOCH2 CH(OO•)C(CH3 )CH2,Operational
+10058,(Z)-4-hidroperoxi-2-metil-2-butenal,CH2 (OOH)CHC(CH3 )CHO,Operational
+10059,(Z)-4-hidroperoxi-3-metil-2-butenal,CH2 (OOH)C(CH3 )CHCHO,Operational
+10060–10499,"Reservadas para otras moléculas orgánicas simples (por ejemplo, aldehídos superiores, alcoholes, peróxidos, etc.)",,Operational
+10500,Sulfuro de dimetilo,CH3 SCH3 (DMS),Operational
+10501,DMSO (sulfóxido de dimetilo),(CH3 )2 SO,Operational
+10502–20000,Reservadas,,Operational
+20001,Cloruro de hidrógeno,HCl,Operational
+20002,CFC-11 (triclorofluorometano),CCl3 F,Operational
+20003,CFC-12 (diclorodifluorometano),CCl2 F2,Operational
+20004,"CFC-113 (1,1,2 tricloro-1,2,2-trifluoroetano)",Cl2 FC-CClF2,Operational
+20005,"CFC-113a (1,1,2 tricloro-2,2,2-trifluoroetano)",Cl3 C-CF3,Operational
+20006,"CFC-114 (1,2-dicloro-1,1,2,2-tetrafluoroetano)",ClF2 C-CClF2,Operational
+20007,"CFC-115 (1-cloro-1,1,2,2-pentafluoroetano)",ClF2 C-CF3,Operational
+20008,HCFC-22 (clorodifluorometano),CHClF2,Operational
+20009,"HCFC-141b (1,1-dicloro-1-fluoroetano)",Cl2 FC-CH3,Operational
+20010,"HCFC-142b (1-cloro-1,1-difluoretano)",ClF2 C- CH3,Operational
+20011,Halón-1202 (dibromodifluorometano),CBr2 F2,Operational
+20012,Halón-1211 (bromoclorodifluorometano),CBrClF2,Operational
+20013,Halón-1301 (bromotrifluorometano),CBrF3,Operational
+20014,"Halón-2402 (1,2-dibromo-1,1,2,2-tetrafluoroetano)",BrF2 C-CBrF2,Operational
+20015,HCC-40 (cloruro de metilo),CH3 Cl,Operational
+20016,HCC-10 (tetracloruro de carbono),CCl4,Operational
+20017,"HCC-140a (1,1,1-tricloroetano)",Cl3 C-CH3,Operational
+20018,HBC-40B1 (bromuro de metilo),CH3 Br,Operational
+20019,HCH (hexaclorociclohexano) todos los isómeros,C6 H6 Cl6,Operational
+20020,HCH (-hexaclorociclohexano) ambos enantiómeros,C6 H6 Cl6,Operational
+20021,"PCB-153 (2,2’,4,4’,5,5’-hexaclorobifenilo)",(C6 H2 Cl3 )2,Operational
+20022,"HCFC 141a (1,1-dicloro-2-fluoro-etano)",CL2 HC-CH2 F,Operational
+20023–29999,Reservadas,,Operational
+30000,"Contaminante radioactivo (trazador, definido por el centro de origen)",,Operational
+30001-30009,Reservadas,,Operational
+30010,Tritio (hidrógeno 3),H-3,Operational
+30011,Tritio orgánico fijado,H-3o,Operational
+30012,Tritio inorgánico,H-3a,Operational
+30013,Berilio 7,Be-7,Operational
+30014,Berilio 10,Be-10,Operational
+30015,Carbono 14,C-14,Operational
+30016,Carbono 14 CO2,C-14CO2,Operational
+30017,Carbono 14 otros gases,C-14og,Operational
+30018,Nitrógeno 13,N-13,Operational
+30019,Nitrógeno 16,N-16,Operational
+30020,Flúor 18,F-18,Operational
+30021,Sodio 22,Na-22,Operational
+30022,Fosfato 32,P-32,Operational
+30023,Fosfato 33,P-33,Operational
+30024,Azufre 35,S-35,Operational
+30025,Cloro 36,Cl-36,Operational
+30026,Potasio 40,K-40,Operational
+30027,Argón 41,Ar-41,Operational
+30028,Calcio 41,Ca-41,Operational
+30029,Calcio 45,Ca-45,Operational
+30030,Titanio 44,Ti-44,Operational
+30031,Escandio 46,Sc-46,Operational
+30032,Vanadio 48,V-48,Operational
+30033,Vanadio 49,V-49,Operational
+30034,Cromo 51,Cr-51,Operational
+30035,Manganeso 52,Mn-52,Operational
+30036,Manganeso 54,Mn-54,Operational
+30037,Hierro 55,Fe-55,Operational
+30038,Hierro 59,Fe-59,Operational
+30039,Cobalto 56,Co-56,Operational
+30040,Cobalto 57,Co-57,Operational
+30041,Cobalto 58,Co-58,Operational
+30042,Cobalto 60,Co-60,Operational
+30043,Níquel 59,Ni-59,Operational
+30044,Níquel 63,Ni-63,Operational
+30045,Zinc 65,Zn-65,Operational
+30046,Galio 67,Ga-67,Operational
+30047,Galio 68,Ga-68,Operational
+30048,Germanio 68,Ge-68,Operational
+30049,Germanio 69,Ge-69,Operational
+30050,Arsénico 73,As-73,Operational
+30051,Selenio 75,Se-75,Operational
+30052,Selenio 79,Se-79,Operational
+30053,Rubidio 81,Rb-81,Operational
+30054,Rubidio 83,Rb-83,Operational
+30055,Rubidio 84,Rb-84,Operational
+30056,Rubidio 86,Rb-86,Operational
+30057,Rubidio 87,Rb-87,Operational
+30058,Rubidio 88,Rb-88,Operational
+30059,Criptón 85,Kr-85,Operational
+30060,Criptón 85 metaestable,Kr-85m,Operational
+30061,Criptón 87,Kr-87,Operational
+30062,Criptón 88,Kr-88,Operational
+30063,Criptón 89,Kr-89,Operational
+30064,Estroncio 85,Sr-85,Operational
+30065,Estroncio 89,Sr-89,Operational
+30066,Estroncio 89/90,Sr-8990,Operational
+30067,Estroncio 90,Sr-90,Operational
+30068,Estroncio 91,Sr-91,Operational
+30069,Estroncio 92,Sr-92,Operational
+30070,Itrio 87,Y-87,Operational
+30071,Itrio 88,Y-88,Operational
+30072,Itrio 90,Y-90,Operational
+30073,Itrio 91,Y-91,Operational
+30074,Itrio 91 metaestable,Y-91m,Operational
+30075,Itrio 92,Y-92,Operational
+30076,Itrio 93,Y-93,Operational
+30077,Circonio 89,Zr-89,Operational
+30078,Circonio 93,Zr-93,Operational
+30079,Circonio 95,Zr-95,Operational
+30080,Circonio 97,Zr-97,Operational
+30081,Niobio 93 metaestable,Nb-93m,Operational
+30082,Niobio 94,Nb-94,Operational
+30083,Niobio 95,Nb-95,Operational
+30084,Niobio 95 metaestable,Nb-95m,Operational
+30085,Niobio 97,Nb-97,Operational
+30086,Niobio 97 metaestable,Nb-97m,Operational
+30087,Molibdeno 93,Mo-93,Operational
+30088,Molibdeno 99,Mo-99,Operational
+30089,Tecnecio 95 metaestable,Tc-95m,Operational
+30090,Tecnecio 96,Tc-96,Operational
+30091,Tecnecio 99,Tc-99,Operational
+30092,Tecnecio 99 metaestable,Tc-99m,Operational
+30093,Rodio 99,Rh-99,Operational
+30094,Rodio 101,Rh-101,Operational
+30095,Rodio 102 metaestable,Rh-102m,Operational
+30096,Rodio 103 metaestable,Rh-103m,Operational
+30097,Rodio 105,Rh-105,Operational
+30098,Rodio 106,Rh-106,Operational
+30099,Paladio 100,Pd-100,Operational
+30100,Paladio 103,Pd-103,Operational
+30101,Paladio 107,Pd-107,Operational
+30102,Rutenio 103,Ru-103,Operational
+30103,Rutenio 105,Ru-105,Operational
+30104,Rutenio 106,Ru-106,Operational
+30105,Plata 108 metaestable,Ag-108m,Operational
+30106,Plata 110 metaestable,Ag-110m,Operational
+30107,Cadmio 109,Cd-109,Operational
+30108,Cadmio 113 metaestable,Cd-113m,Operational
+30109,Cadmio 115 metaestable,Cd-115m,Operational
+30110,Indio 114 metaestable,In-114m,Operational
+30111,Estaño 113,Sn-113,Operational
+30112,Estaño 119 metaestable,Sn-119m,Operational
+30113,Estaño 121 metaestable,Sn-121m,Operational
+30114,Estaño 122,Sn-122,Operational
+30115,Estaño 123,Sn-123,Operational
+30116,Estaño 126,Sn-126,Operational
+30117,Antimonio 124,Sb-124,Operational
+30118,Antimonio 125,Sb-125,Operational
+30119,Antimonio 126,Sb-126,Operational
+30120,Antimonio 127,Sb-127,Operational
+30121,Antimonio 129,Sb-129,Operational
+30122,Telurio 123 metaestable,Te-123m,Operational
+30123,Telurio 125 metaestable,Te-125m,Operational
+30124,Telurio 127,Te-127,Operational
+30125,Telurio 127 metaestable,Te-127m,Operational
+30126,Telurio 129,Te-129,Operational
+30127,Telurio 129 metaestable,Te-129m,Operational
+30128,Telurio 131 metaestable,Te-131m,Operational
+30129,Telurio 132,Te-132,Operational
+30130,Yodo 123,I-123,Operational
+30131,Yodo 124,I-124,Operational
+30132,Yodo 125,I-125,Operational
+30133,Yodo 126,I-126,Operational
+30134,Yodo 129,I-129,Operational
+30135,Yodo 129 elemental gaseoso,I-129g,Operational
+30136,Yodo 129 orgánico fijado,I-129o,Operational
+30137,Yodo 131,I-131,Operational
+30138,Yodo 131 elemental gaseoso,I-131g,Operational
+30139,Yodo 131 orgánico fijado,I-131o,Operational
+30140,Yodo 131 gaseoso elemental y orgánico fijado,I-131go,Operational
+30141,Yodo 131 aerosol,I-131a,Operational
+30142,Yodo 132,I-132,Operational
+30143,Yodo 132 elemental gaseoso,I-132g,Operational
+30144,Yodo 132 orgánico fijado,I-132o,Operational
+30145,Yodo 132 gaseoso elemental y orgánico fijado,I-132go,Operational
+30146,Yodo 132 aerosol,I-132a,Operational
+30147,Yodo 133,I-133,Operational
+30148,Yodo 133 elemental gaseoso,I-133g,Operational
+30149,Yodo 133 orgánico fijado,I-133o,Operational
+30150,Yodo 133 gaseoso elemental y orgánico fijado,I-133go,Operational
+30151,Yodo 133 aerosol,I-133a,Operational
+30152,Yodo 134,I-134,Operational
+30153,Yodo 134 elemental gaseoso,I-134g,Operational
+30154,Yodo 134 orgánico fijado,I-134o,Operational
+30155,Yodo 135,I-135,Operational
+30156,Yodo 135 elemental gaseoso,I-135g,Operational
+30157,Yodo 135 orgánico fijado,I-135o,Operational
+30158,Yodo 135 gaseoso elemental y orgánico fijado,I-135go,Operational
+30159,Yodo 135 aerosol,I-135a,Operational
+30160,Xenón 131 metaestable,Xe-131m,Operational
+30161,Xenón 133,Xe-133,Operational
+30162,Xenón 133 metaestable,Xe-133m,Operational
+30163,Xenón 135,Xe-135,Operational
+30164,Xenón 135 metaestable,Xe-135m,Operational
+30165,Xenón 137,Xe-137,Operational
+30166,Xenón 138,Xe-138,Operational
+30167,Xenón suma de todos los isótopos de xenón,Xe-sum,Operational
+30168,Cesio 131,Cs-131,Operational
+30169,Cesio 134,Cs-134,Operational
+30170,Cesio 135,Cs-135,Operational
+30171,Cesio 136,Cs-136,Operational
+30172,Cesio 137,Cs-137,Operational
+30173,Bario 133,Ba-133,Operational
+30174,Bario 137 metaestable,Ba-137m,Operational
+30175,Bario 140,Ba-140,Operational
+30176,Cerio 139,Ce-139,Operational
+30177,Cerio 141,Ce-141,Operational
+30178,Cerio 143,Ce-143,Operational
+30179,Cerio 144,Ce-144,Operational
+30180,Lantano 140,La-140,Operational
+30181,Lantano 141,La-141,Operational
+30182,Praseodimio 143,Pr-143,Operational
+30183,Praseodimio 144,Pr-144,Operational
+30184,Praseodimio 144 metaestable,Pr-144m,Operational
+30185,Samario 145,Sm-145,Operational
+30186,Samario 147,Sm-147,Operational
+30187,Samario 151,Sm-151,Operational
+30188,Neodimio 147,Nd-147,Operational
+30189,Prometio 146,Pm-146,Operational
+30190,Prometio 147,Pm-147,Operational
+30191,Prometio 151,Pm-151,Operational
+30192,Europio 152,Eu-152,Operational
+30193,Europio 154,Eu-154,Operational
+30194,Europio 155,Eu-155,Operational
+30195,Gadolinio 153,Gd-153,Operational
+30196,Terbio 160,Tb-160,Operational
+30197,Holmio 166 metaestable,Ho-166m,Operational
+30198,Tulio 170,Tm-170,Operational
+30199,Iterbio 169,Yb-169,Operational
+30200,Hafnio 175,Hf-175,Operational
+30201,Hafnio 181,Hf-181,Operational
+30202,Tantalio 179,Ta-179,Operational
+30203,Tantalio 182,Ta-182,Operational
+30204,Renio 184,Re-184,Operational
+30205,Iridio 192,Ir-192,Operational
+30206,Mercurio 203,Hg-203,Operational
+30207,Talio 204,Tl-204,Operational
+30208,Talio 207,Tl-207,Operational
+30209,Talio 208,Tl-208,Operational
+30210,Talio 209,Tl-209,Operational
+30211,Bismuto 205,Bi-205,Operational
+30212,Bismuto 207,Bi-207,Operational
+30213,Bismuto 210,Bi-210,Operational
+30214,Bismuto 211,Bi-211,Operational
+30215,Bismuto 212,Bi-212,Operational
+30216,Bismuto 213,Bi-213,Operational
+30217,Bismuto 214,Bi-214,Operational
+30218,Polonio 208,Po-208,Operational
+30219,Polonio 210,Po-210,Operational
+30220,Polonio 212,Po-212,Operational
+30221,Polonio 213,Po-213,Operational
+30222,Polonio 214,Po-214,Operational
+30223,Polonio 215,Po-215,Operational
+30224,Polonio 216,Po-216,Operational
+30225,Polonio 218,Po-218,Operational
+30226,Plomo 209,Pb-209,Operational
+30227,Plomo 210,Pb-210,Operational
+30228,Plomo 211,Pb-211,Operational
+30229,Plomo 212,Pb-212,Operational
+30230,Plomo 214,Pb-214,Operational
+30231,Astatino 217,At-217,Operational
+30232,Radón 219,Rn-219,Operational
+30233,Radón 220,Rn-220,Operational
+30234,Radón 222,Rn-222,Operational
+30235,Francio 221,Fr-221,Operational
+30236,Francio 223,Fr-223,Operational
+30237,Radio 223,Ra-223,Operational
+30238,Radio 224,Ra-224,Operational
+30239,Radio 225,Ra-225,Operational
+30240,Radio 226,Ra-226,Operational
+30241,Radio 228,Ra-228,Operational
+30242,Actinio 225,Ac-225,Operational
+30243,Actinio 227,Ac-227,Operational
+30244,Actinio 228,Ac-228,Operational
+30245,Torio 227,Th-227,Operational
+30246,Torio 228,Th-228,Operational
+30247,Torio 229,Th-229,Operational
+30248,Torio 230,Th-230,Operational
+30249,Torio 231,Th-231,Operational
+30250,Torio 232,Th-232,Operational
+30251,Torio 234,Th-234,Operational
+30252,Protactinio 231,Pa-231,Operational
+30253,Protactinio 233,Pa-233,Operational
+30254,Protactinio 234 metaestable,Pa-234m,Operational
+30255,Uranio 232,U-232,Operational
+30256,Uranio 233,U-233,Operational
+30257,Uranio 234,U-234,Operational
+30258,Uranio 235,U-235,Operational
+30259,Uranio 236,U-236,Operational
+30260,Uranio 237,U-237,Operational
+30261,Uranio 238,U-238,Operational
+30262,Plutonio 236,Pu-236,Operational
+30263,Plutonio 238,Pu-238,Operational
+30264,Plutonio 239,Pu-239,Operational
+30265,Plutonio 240,Pu-240,Operational
+30266,Plutonio 241,Pu-241,Operational
+30267,Plutonio 242,Pu-242,Operational
+30268,Plutonio 244,Pu-244,Operational
+30269,Neptunio 237,Np-237,Operational
+30270,Neptunio 238,Np-238,Operational
+30271,Neptunio 239,Np-239,Operational
+30272,Americio 241,Am-241,Operational
+30273,Americio 242,Am-242,Operational
+30274,Americio 242 metaestable,Am-242m,Operational
+30275,Americio 243,Am-243,Operational
+30276,Curio 242,Cm-242,Operational
+30277,Curio 243,Cm-243,Operational
+30278,Curio 244,Cm-244,Operational
+30279,Curio 245,Cm-245,Operational
+30280,Curio 246,Cm-246,Operational
+30281,Curio 247,Cm-247,Operational
+30282,Curio 248,Cm-248,Operational
+30283,Curio 243/244,Cm-243244,Operational
+30284,Plutonio 238/Americio 241,Pu-238Am-241,Operational
+30285,Plutonio 239/240,Pu-239240,Operational
+30286,Berkelio 249,Bk-249,Operational
+30287,Californio 249,Cf-249,Operational
+30288,Californio 250,Cf-250,Operational
+30289,Californio 252,Cf-252,Operational
+30290,Suma de las partículas de aerosoles,SumAer,Operational
+30291,Suma del yodo,SumIod,Operational
+30292,Suma de los gases nobles,SumNG,Operational
+30293,Gas de activación,ActGas,Operational
+30294,Equivalente a Cs-137,EquCs137,Operational
+30295,Carbono-13,C-13,Operational
+30296,Plomo,Pb,Operational
+30297–39999,Reservadas,,Operational
+40000,Oxígeno singlete sigma (dioxígeno (singlete sigma)),O2 (1Σ+g),Operational
+40001,Oxígeno singlete delta (dioxígeno (singlete delta)),O2 (1Δg),Operational
+40002,Átomo de oxígeno en estado excitado singlete,O(1D),Operational
+40003,Átomo de oxígeno en estado fundamental triplete,O(3P),Operational
+40004-59999,Reservadas,,Operational
+60000,Radical HOx (OH+HO2 ),HOx •,Operational
+60001,Radicales peroxilos orgánicos e inorgánicos totales (HO2 • + RO2 •),ROO•,Operational
+60002,Ozono pasivo,,Operational
+60003,NOx expresado en términos de nitrógeno,NOx,Operational
+60004,Todos los óxidos de nitrógeno (NOy) expresados en términos Todos los óxidos de nitrógeno (NOy ) expresados en términos de nitrógeno,NOy,Operational
+60005,Cloro inorgánico total,Clx,Operational
+60006,Bromo inorgánico total,Brx,Operational
+60007,"Cloro inorgánico total, excepto HCl, ClONO2 : ClOx",,Operational
+60008,"Bromo inorgánico total, excepto BrH, BrONO2 : BrOx",,Operational
+60009,Alcanos agregados,,Operational
+60010,Alquenos agregados,,Operational
+60011,Compuestos aromáticos agregados,,Operational
+60012,Terpenos agregados,,Operational
+60013,"Compuestos orgánicos volátiles distintos del metano, expresados en términos de carbono",COVNM,Operational
+60014,"Compuestos orgánicos volátiles antropógenos distintos del metano, expresados en términos de carbono",COVNMa,Operational
+60015,"Compuestos orgánicos volátiles biogénicos distintos del metano, expresados en términos de carbono",COVNMb,Operational
+60016,Hidrocarburos oxigenados agregados,OVOC,Operational
+60017,NOx expresado en términos de dióxido de nitrógeno (NO2 ),NOx,Operational
+60018,Aldehídos orgánicos,RCHO,Operational
+60019,Peróxidos orgánicos,ROOH,Operational
+60020,Nitratos orgánicos,RNO3,Operational
+60021,Éteres,ROR’,Operational
+60022,Aminas,NRR’R’’,Operational
+60023,Cetonas,RC(O)R’,Operational
+60024,Dicarbonilos insaturados,RC(O)CH2 C(O)R’,Operational
+60025,Hidroxidicarbonilos insaturados,RC(O)CHOHC(O)R’,Operational
+60026,Hidroxicetonas,RC(OH)C(O)R’,Operational
+60027,Óxidos,Ox,Operational
+60028,Nitratos de peróxido-acil,RC(O)OONO2,Operational
+60029,Radical peróxido aromático (radicales arildioxidanilo),ArOO,Operational
+60030,Compuesto orgánico secundario de origen biogénico,,Operational
+60031,Compuesto orgánico secundario de origen antropógeno,,Operational
+60032,Todos los productos hidroxi-peróxidos de la reacción de aductos hidroxi- isopreno con O2,ISOPOOH,Operational
+60033–61999,Reservadas,,Operational
+62000,Aerosol total,,Operational
+62001,Polvo seco,,Operational
+62002,Agua ambiental,,Operational
+62003,Amonio seco,,Operational
+62004,Nitrato seco,,Operational
+62005,Trihidrato del ácido nítrico,,Operational
+62006,Sulfato seco,,Operational
+62007,Mercurio seco,,Operational
+62008,Sal marina seca,,Operational
+62009,Carbono negro seco,,Operational
+62010,Materia orgánica en partículas seca,,Operational
+62011,Materia orgánica en partículas primaria seca,,Operational
+62012,Materia orgánica en partículas secundaria seca,,Operational
+62013,Carbono negro hidrófilo seco,,Operational
+62014,Carbono negro hidrófobo seco,,Operational
+62015,Materia orgánica en partículas hidrófila seca,,Operational
+62016,Materia orgánica en partículas hidrófoba seca,,Operational
+62017,Nitrato hidrófilo seco,,Operational
+62018,Nitrato hidrófobo seco,,Operational
+62019,Reservada,,Operational
+62020,Humo – alta absorción,,Operational
+62021,Humo – baja absorción,,Operational
+62022,Aerosoles – alta absorción,,Operational
+62023,Aerosoles – baja absorción,,Operational
+62024,Reservada,,Operational
+62025,Ceniza volcánica,,Operational
+62026,Materia particulada (PM),,Operational
+62027,Reservada,,Operational
+62028,Aerosol hidrófilo total,,Operational
+62029,Aerosol hidrófobo total,,Operational
+62030,Partículas primarias de la materia inorgánica seca,,Operational
+62031,Partículas secundarias de la materia inorgánica seca,,Operational
+62032,Aerosol orgánico secundario de origen biogénico,,Operational
+62033,Aerosol orgánico secundario de origen antropógeno,,Operational
+62034–62099,Reservadas,,Operational
+62100,Polen de Alnus (alisos),,Operational
+62101,Polen de Betula (abedul),,Operational
+62102,Polen de Castanea (castaño),,Operational
+62103,Polen de Carpinus (carpe),,Operational
+62104,Polen de Corylus (avellano),,Operational
+62105,Polen de Fagus (haya),,Operational
+62106,Polen de Fraxinus (fresno),,Operational
+62107,Polen de Pinus (pino),,Operational
+62108,Polen de Platanus (plátano),,Operational
+62109,"Polen de Populus (álamo, chopo)",,Operational
+62110,Polen de Quercus (roble),,Operational
+62111,Polen de Salix (sauce),,Operational
+62112,Polen de Taxus (tejo),,Operational
+62113,Polen de Tilia (tilo),,Operational
+62114,Polen de Ulmus (olmo),,Operational
+62115,Polen de Olea (olivo),,Operational
+62116–62199,Reservadas,,Operational
+62200,Polen de Ambrosia (ambrosía),,Operational
+62201,"Polen de Artemisia (artemisa, ajenjo)",,Operational
+62202,"Polen de Brassica (colza, brócoli, col de Bruselas, repollo, coliflor, berza, col rizada, colirábano, mostaza, colinabo)",,Operational
+62203,Polen de Plantago (llantén),,Operational
+62204,"Polen de Rumex (acedera, vinagrera)",,Operational
+62205,Polen de Urtica (ortiga),,Operational
+62206–62299,Reservadas,,Operational
+62300,Polen de Poaceae (gramíneas),,Operational
+62301-62999,Reservadas,,Operational
+63000-65534,Para uso experimental a nivel local,,Operational
+65535,Valor faltante,,Operational

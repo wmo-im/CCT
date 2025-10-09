@@ -1,0 +1,176 @@
+﻿DateOfAssignment_en,CodeFigureForrara,CodeFigureForBUFR,RadiosondeSoundingSystemUsed_en,Status
+Sin aplicación,00,0,Reservada,Operational
+Antes,01,1,iMet-1-BB (Estados Unidos),Operational
+Sin aplicación,02,2,Ausencia de radiosonda - objetivo pasivo (p. ej. reflector),Operational
+Sin aplicación,03,3,Ausencia de radiosonda - objetivo activo (p. ej. transpondedor),Operational
+Sin aplicación,04,4,Ausencia de radiosonda - perfilador pasivo de temperatura-humedad,Operational
+Sin aplicación,05,5,Ausencia de radiosonda - perfilador activo de temperatura-humedad,Operational
+Sin aplicación,06,6,Ausencia de radiosonda - sonda radioacústica,Operational
+Antes,07,7,iMet-1-AB (Estados Unidos),Operational
+Sin aplicación,08,8,Ausencia de radiosonda - . . . (reservada),Operational
+Sin aplicación,09,9,Ausencia de radiosonda - sistema desconocido o no especificado,Operational
+Antes,10,10,VIZ tipo A conmutado por presión (Estados Unidos),Operational
+Antes,11,11,VIZ tipo B conmutado por tiempo (Estados Unidos),Operational
+Antes,12,12,RS SDC (Space Data Corporation - Estados Unidos),Operational
+Antes,13,13,Astor (ya no se fabrica - Australia),Operational
+Antes,14,14,MICROSONDE VIZ MARK I (Estados Unidos),Operational
+Antes,15,15,EEC Company tipo 23 (Estados Unidos),Operational
+Antes,16,16,Elin (Austria),Operational
+Antes,17,17,GRAW G. (Alemania),Operational
+Antes,18,18,GRAW DFM-06 (Alemania),Operational
+Antes,19,19,GRAW M60 (Alemania),Operational
+Antes,20,20,MK3 del Servicio Meteorológico Indio (India),Operational
+Antes,21,21,MICROSONDE VIZ/Jin Yang MARK I (República de Corea),Operational
+Antes,22,22,Meisei RS2-80 (Japón),Operational
+Antes,23,23,Mesural FMO 1950A (Francia),Operational
+Antes,24,24,Mesural FMO 1945A (Francia),Operational
+Antes,25,25,Mesural MH73A (Francia),Operational
+Antes,26,26,Meteolabor Basora (Suiza),Operational
+Antes,27,27,AVK-MRZ (Federación de Rusia),Operational
+Antes,28,28,Meteorit Marz2-1 (Federación de Rusia),Operational
+Antes,29,29,Meteorit Marz2-2 (Federación de Rusia),Operational
+Antes,30,30,Oki RS2-80 (Japón),Operational
+Antes,31,31,VIZ/Valcom tipo A conmutado por presión (Canadá),Operational
+Antes,32,32,Shanghai Radio (China),Operational
+Antes,33,33,MK3 del Servicio Meteorológico del Reino Unido (Reino Unido),Operational
+Antes,34,34,Vinohrady (Chequia),Operational
+Antes,35,35,Vaisala RS18 (Finlandia),Operational
+Antes,36,36,Vaisala RS21 (Finlandia),Operational
+Antes,37,37,Vaisala RS80 (Finlandia),Operational
+Antes,38,38,VIZ LOCATE Loran-C (Estados Unidos),Operational
+Antes,39,39,Sprenger E076 (Alemania),Operational
+Antes,40,40,Sprenger E084 (Alemania),Operational
+Antes,41,41,Sprenger E085 (Alemania),Operational
+Antes,42,42,Sprenger E086 (Alemania),Operational
+Antes,43,43,AIR IS - 4A – 1680 (Estados Unidos),Operational
+Antes,44,44,AIR IS - 4A – 1680 X (Estados Unidos),Operational
+Antes,45,45,RS MSS (Estados Unidos),Operational
+Antes,46,46,AIR IS - 4A - 403 (Estados Unidos),Operational
+Antes,47,47,Meisei RS2-91 (Japón),Operational
+Antes,48,48,VALCOM (Canadá),Operational
+Antes,49,49,VIZ MARK II (Estados Unidos),Operational
+Antes,50,50,GRAW DFM-90 (Alemania),Operational
+Antes,51,51,VIZ-B2 (Estados Unidos),Operational
+Antes,52,52,Vaisala RS80-57H,Operational
+Antes,53,53,AVK-RF95 (Federación de Rusia),Operational
+Antes,54,54,GRAW DFM-97 (Alemania),Operational
+Antes,55,55,Meisei RS-01G (Japón),Operational
+Antes,56,56,M2K2 (Francia),Operational
+Antes,57,57,M2K2 (Francia),Operational
+Antes,58,58,AVK-BAR (Federación de Rusia),Operational
+Antes,59,59,Radiosonda módem M2K2-R 1680 MHz RDF con chip sensor de presión (Francia),Operational
+Antes,60,60,Vaisala RS80/MicroCora (Finlandia),Operational
+Antes,61,61,"Vaisala RS80/Loran/DigiCora I, II o Marwin (Finlandia)",Operational
+Antes,62,62,Vaisala RS80/PCCora (Finlandia),Operational
+Antes,63,63,Vaisala RS80/Star (Finlandia),Operational
+Antes,64,64,"Orbital Sciences Corporation, División de datos espaciales, radiosonda transpondedora, tipo 909-11-XX, donde XX corresponde al modelo del instrumento (Estados Unidos)",Operational
+Antes,65,65,"Radiosonda transpondedora VIZ, modelo número 1499-520 (Estados Unidos)",Operational
+Antes,66,66,Vaisala RS80/Autosonde (Finlandia),Operational
+Antes,67,67,Vaisala RS80/DigiCora III (Finlandia),Operational
+Antes,68,68,AVK-RZM-2 (Federación de Rusia),Operational
+Antes,69,69,MARL-A o Vektor M-RZM-2 (Federación de Rusia),Operational
+Antes,70,70,Vaisala RS92/Star (Finlandia),Operational
+Antes,71,71,"Vaisala RS90/Loran/DigiCora I, II o Marwin (Finlandia)",Operational
+Antes,72,72,Vaisala RS90/PC-Cora (Finlandia),Operational
+Antes,73,73,Vaisala RS90/Autosonde (Finlandia),Operational
+Antes,74,74,Vaisala RS90/Star (Finlandia),Operational
+Antes,75,75,AVK-MRZ-ARMA (Federación de Rusia),Operational
+Antes,76,76,AVK-RF95-ARMA (Federación de Rusia),Operational
+Antes,77,77,GEOLINK GPSonde GL98 (Francia),Operational
+Antes,78,78,Vaisala RS90/DigiCora III (Finlandia),Operational
+Antes,79,79,"Vaisala RS92/Digicora I, II o Marwin (Finlandia)",Operational
+Antes,80,80,Vaisala RS92/Digicora III (Finlandia),Operational
+Antes,81,81,Vaisala RS92/Autosonda (Finlandia),Operational
+Antes,82,82,"Sippican MK2 GPS/STAR (Estados Unidos) con termistor de varilla, elemento de carbón y presión derivada",Operational
+Antes,83,83,"Sippican MK2 GPS/W9000 (Estados Unidos) con termistor de varilla, elemento de carbón y presión derivada",Operational
+Antes,84,84,"Sippican MARK II con termistor de chip, elemento de carbón y presión derivada de la altura del GPS",Operational
+Antes,85,85,"Sippican MARK IIA con termistor de chip, elemento de carbón y presión derivada de la altura del GPS",Operational
+Antes,86,86,"Sippican MARK II con termistor de chip, presión y elemento de carbón",Operational
+Antes,87,87,"Sippican MARK IIA con termistor de chip, presión y elemento de carbón",Operational
+Antes,88,88,MARL-A o Vektor-M-MRZ (Federación de Rusia),Operational
+Antes,89,89,MARL-A o Vektor-M-BAR (Federación de Rusia),Operational
+Sin aplicación,90,90,Radiosonda no especificada o desconocida,Operational
+Sin aplicación,91,91,Radiosonda para la medición de la presión únicamente,Operational
+Sin aplicación,92,92,"Radiosonda para la medición de la presión únicamente, equipada con un transpondedor",Operational
+Sin aplicación,93,93,"Radiosonda para la medición de la presión únicamente, equipada con un radar reflector",Operational
+Sin aplicación,94,94,Radiosonda que no mide la presión equipada con un transpondedor,Operational
+Sin aplicación,95,95,Radiosonda que no mide la presión equipada con un radar reflector,Operational
+Sin aplicación,96,96,Radiosonda descendente,Operational
+Antes,97,97,Sistema de radiogoniometría (RDF) por radiosonda iMet-2/ iMet-1500 con chip sensor de presión (Sudáfrica),Operational
+Antes,98,98,Radiosonda GPS iMet-2/iMet-1500 con presión derivada de la altura del GPS (Sudáfrica),Operational
+Antes,99,99,Radiosonda GPS iMet-2/iMet-3200 con presión derivada de la altura del GPS (Sudáfrica),Operational
+No disponible,100,100,Reservada solo para BUFR,Operational
+,01,101,No vacante,Operational
+No disponible,102-106,102-106,Reservadas solo para BUFR,Operational
+,07,107,No vacante,Operational
+No disponible,108-109,108-109,Reservadas solo para BUFR,Operational
+01/01/2008,10,110,"Sippican LMS5 con termistor de chip, sensor de humedad relativa instalado en un conducto y presión derivada de la altura del GPS",Operational
+01/01/2008,11,111,"Sippican LMS6 con termistor de chip, sensor de humedad relativa fijado a un brazo externo y presión derivada de la altura del GPS",Operational
+06/05/2015,12,112,RSG-20A Jin Yang con presión derivada de la altura del GPS/GL-5000P (República de Corea),Operational
+2010-09-15,13,113,Vaisala RS92/MARWIN MW32 (Finlandia),Operational
+2011-11-03,14,114,Vaisala RS92 / DigiCORA MW41 (Finlandia),Operational
+2011-12-01,15,115,PAZA-12M/Radioteodolito-UL (Ucrania),Operational
+2011-12-01,16,116,PAZA-22/AVK-1 (Ucrania),Operational
+2012-05-02,17,117,Graw DFM-09 (Alemania),Operational
+,18,118,No vacante,Operational
+2019-05-08,19,119,Polus-MRZ-N1 (Federación de Rusia),Operational
+,20,120,No vacante,Operational
+2015-05-06,21,121,1524LA LORAN-C/GL5000 Jin Yang (República de Corea),Operational
+2012-05-02,22,122,"Radiosonda GPS Meisei RS-11G con termistor, sensor capacitivo de humedad relativa, y presión obtenida a partir de la altura mediante GPS (Japón)",Operational
+2011-11-03,23,123,Vaisala RS41/DigiCORA MW41 (Finlandia),Operational
+2011-11-03,24,124,Vaisala RS41/AUTOSONDE (Finlandia),Operational
+2011-11-03,25,125,Vaisala RS41/MARWIN MW32 (Finlandia),Operational
+2014-05-07,26,126,Meteolabor SRS-C34/Argus 37 (Suiza),Operational
+,27,127,No vacante,Operational
+2011-09-15,28,128,AVK-AK2-02 (Federación de Rusia),Operational
+2011-09-15,29,129,MARL-A o Vektor-M-AK2-02 (Federación de Rusia),Operational
+2010-01-01,30,130,Meisei RS-06G (Japón),Operational
+2011-11-03,31,131,Taiyuan GTS1-1/GFE(L) (China),Operational
+2011-11-03,32,132,Shanghai GTS1/GFE(L) (China),Operational
+2011-11-03,33,133,Nanjing GTS1-2/GFE(L) (China),Operational
+Necesaria,34,134,Vacante,Operational
+2014-05-07,35,135,"Radiosonda Meisei iMS-100 GPS con sensor de termistor, sensor de humedad relativa por capacitancia, y presión obtenida a partir de la altura mediante GPS (Japón)",Operational
+2018-05-02,36,136,"Radiosonda GPS Meisei IMDS-17 con paracaídas y con sensor de termistor, sensor capacitivo de humedad relativa y sensor de presión capacitivo (Japón)",Operational
+,37,137,No vacante,Operational
+Necesaria,38-40,138-140,Vacante,Operational
+2011-11-03,41,141,Vaisala RS41 con presión obtenida de la altura mediante GPS/DigiCORA MW41 (Finlandia),Operational
+2011-11-03,42,142,Vaisala RS41 con presión obtenida de la altura mediante GPS/AUTOSONDE (Finlandia),Operational
+2014-05-07,43,143,NanJing Daqiao XGP-3G (China)0F*,Operational
+2014-05-07,44,144,TianJin HuaYunTianYi GTS(U)1 (China)*,Operational
+2014-05-07,45,145,Beijing Changfeng CF-06 (China)*,Operational
+2014-05-07,46,146,Shanghai Changwang GTS3 (China)*,Operational
+,47,147,No vacante,Operational
+2012-05-02,48,148,PAZA-22M/MARL-A,Operational
+,49,149,No vacante,Operational
+2016-11-02,50,150,Meteolabor SRS-C50/Argus (Suiza),Operational
+,51,151,No vacante,Operational
+2011-11-03,52,152,Vaisala RS92-NGP/Intermet IMS-2000 (Estados Unidos),Operational
+2015-05-06,53,153,AVK - I-2012 (Federación de Rusia),Operational
+2019-05-08,54,154,Graw DFM-17 (Alemania),Operational
+,55-59,15-159,No vacante,Operational
+2015-05-06,60,160,MARL-A o Vektor-M – I-2012 (Federación de Rusia),Operational
+,61,161,No vacante,Operational
+2015-05-06,62,162,MARL-A o Vektor-M – MRZ-3MK (Federación de Rusia),Operational
+2018-11-07,63,163,"Radiosonda Modem M20 con sensor de termistor, sensor de humedad relativa por capacitancia y presión obtenida a partir de la altura mediante GPS (Francia)",Operational
+2018-11-07,64,164,Radiosonda por GPS Modem PilotSonde (Francia),Operational
+Necesarias,65-66,165-166,Vacante,Operational
+,67-72,167-172,No vacante,Operational
+2016-11-02,73,173,MARL-A (Federación de Rusia) – ASPAN-15 (Kazajstán),Operational
+,74-76,174-176,No vacante,Operational
+2010-03-15,77,177,Módem GPSonde M10 (Francia),Operational
+,78-81,178-181,No vacante,Operational
+2012-11-07,82,182,"Lockheed Martin LMS-6 con termistor de chip; sensor capacitivo de HR, de polímero, sobre soporte móvil externo; sensor capacitivo de presión y sensor de viento mediante GPS",Operational
+2012-11-07,83,183,"Sensor de presión capacitivo con silicio Vaisala RS92-D/Intermet IMS 1500, sensor de temperatura capacitivo de hilo conductor, sensor de HR capacitivo de polímero calen- tado y película fina doble y sensor de viento mediante RDF",Operational
+2019-11-06,84,184,Radiosonda GPS iMet-54/iMet-3200/3400 con presión derivada de la altura del GPS (Sudáfrica),Operational
+,85-89,185-189,No vacante,Operational
+No disponible,190,190,"Sonda con paracaídas para investigación NRD94 con GPS y módulo sensor basado en la RS92 de Vaisala, del NCAR (Estados Unidos)",Operational
+No disponible,191,191,"Sonda con paracaídas para investigación NRD41 con GPS y módulo sensor basado en la RS41 de Vaisala, del NCAR (Estados Unidos)",Operational
+No disponible,192,192,"Sonda con paracaídas con GPS y módulo sensor basado en la RS41 de Vaisala, de Vaisala/NCAR (Finlandia/ Estados Unidos)",Operational
+No disponible,193,193,"Sonda con paracaídas con GPS y módulo sensor basado en la RS41 de Vaisala, de Vaisala/NCAR (Finlandia/ Estados Unidos)",Operational
+No disponible,194-196,194-196,Reservadas solo para BUFR,Operational
+,97-99,197-199,No vacante,Operational
+2020-11-16,No disponible,200,Nanjing GTS11 (China),Operational
+2020-11-16,No disponible,201,Shanghai GTS12 (China),Operational
+2020-11-16,No disponible,202,Taiyuan GTS13 (China),Operational
+,No disponible,203-254,Reservadas solo para BUFR,Operational
+,,255,Valor faltante,Operational
