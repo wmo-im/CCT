@@ -1226,6 +1226,13 @@
     <Status>Operational</Status>
   </C05>
   <C05>
+    <CodeFigureForI6I6I6>506</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>506</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>506</CodeFigureForGRIB2>
+    <SatelliteName_en>Hai Yang 2E (HY-2E, SOA/NSOAS China)</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
     <CodeFigureForI6I6I6>510</CodeFigureForI6I6I6>
     <CodeFigureForBUFR>510</CodeFigureForBUFR>
     <CodeFigureForGRIB2>510</CodeFigureForGRIB2>
@@ -1860,6 +1867,13 @@
     <CodeFigureForBUFR>806</CodeFigureForBUFR>
     <CodeFigureForGRIB2>806</CodeFigureForGRIB2>
     <SatelliteName_en>NOAA 23</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>807</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>807</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>807</CodeFigureForGRIB2>
+    <SatelliteName_en>QuickSounder</SatelliteName_en>
     <Status>Operational</Status>
   </C05>
   <C05>

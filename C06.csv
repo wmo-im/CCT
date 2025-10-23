@@ -6,8 +6,8 @@ CodeFigure,UnitType,Meaning,conventional,IA5-ASCII,ITA2,SIDefinition,Note,NoteID
 005,Base SI units,kelvin,K,K,K,,,,Operational
 006,Base SI units,mole,mol,mol,MOL,,,,Operational
 007,Base SI units,candela,cd,cd,CD,,,,Operational
-021,Supplementary SI units,radian,rad,rad,RAD,,(see Note 1),19,Operational
-022,Supplementary SI units,steradian,sr,sr,SR,,,,Operational
+021,Derived SI units with special names,radian,rad,rad,RAD,,(see Note 1),19,Operational
+022,Derived SI units with special names,steradian,sr,sr,SR,,,,Operational
 030,Derived SI units with special names,hertz,Hz,Hz,HZ,s-^1,(see Note 1),19,Operational
 031,Derived SI units with special names,newton,N,N,N,kg m s^-2,,,Operational
 032,Derived SI units with special names,pascal,Pa,Pa,PAL,kg m^-1 s^-2,,,Operational
@@ -25,158 +25,158 @@ CodeFigure,UnitType,Meaning,conventional,IA5-ASCII,ITA2,SIDefinition,Note,NoteID
 070,Derived SI units with special names,lumen,lm,lm,LM,cd sr,,,Operational
 071,Derived SI units with special names,lux,lx,lx,LX,cd sr m^-2,,,Operational
 080,Derived SI units with special names,becquerel,Bq,Bq,BQ,s^-1,,,Operational
-081,Derived SI units with special names,grey,Gy,Gy,GY,m^2 s^-2,,,Operational
+081,Derived SI units with special names,gray,Gy,Gy,GY,m^2 s^-2,,,Operational
 082,Derived SI units with special names,sievert,Sv,Sv,SV,m^2 s^-2,,,Operational
 110,"Other, non-SI, units recognized by CGPM",degree (angle),˚,deg,DEG,,(see Note 4),10,Operational
-111,"Other, non-SI, units recognized by CGPM",minute (angle),',',MNT,,,,Operational
-112,"Other, non-SI, units recognized by CGPM",second (angle),"""","""",SEC,,,,Operational
+111,"Other, non-SI, units recognized by CGPM",minute (angle),',',MNT,,(see Note 10),27,Operational
+112,"Other, non-SI, units recognized by CGPM",second (angle),"""","""",SEC,,(see Note 10),27,Operational
 120,"Other, non-SI, units recognized by CGPM",litre,l or L,l or L,L,,,,Operational
 130,"Other, non-SI, units recognized by CGPM",minute (time),min,min,MIN,,,,Operational
 131,"Other, non-SI, units recognized by CGPM",hour,h,h,HR,,,,Operational
 132,"Other, non-SI, units recognized by CGPM",day,d,d,D,,,,Operational
 150,"Other, non-SI, units recognized by CGPM",tonne,t,t,TNE,,,,Operational
 160,"Other, non-SI, units recognized by CGPM",electron volt,eV,eV,EV,,,,Operational
-161,"Other, non-SI, units recognized by CGPM",atomic mass unit,u,u,U,,,,Operational
+161,"Other, non-SI, units recognized by CGPM",atomic mass unit,u,u,U,,(see Note 11),28,Operational
 170,"Other, non-SI, units recognized by CGPM",astronomic unit,AU,AU,ASU,,,,Operational
-171,"Other, non-SI, units recognized by CGPM",parsec,pc,pc,PRS,,,,Operational
-200,Non-SI Units tolerated because of widespread use,nautical mile, ,,,,(see Note 7),21,Operational
-201,Non-SI Units tolerated because of widespread use,knot,kt,kt,KT,,,,Operational
-210,Non-SI Units tolerated because of widespread use,decibel,dB,dB,DB,,(see Note 6),17,Operational
-220,Non-SI Units tolerated because of widespread use,hectare,ha,ha,HAR,,,,Operational
-230,Non-SI Units tolerated because of widespread use,week, ,,,,,,Operational
-231,Non-SI Units tolerated because of widespread use,year,a,a,A,,,,Operational
-300,Other Units as used by WMO,per cent,%,%,PERCENT,,(see Note 7),21,Operational
-301,Other Units as used by WMO,parts per thousand,‰,0/00,PERTHOU,,,,Operational
-310,Other Units as used by WMO,eighths of cloud,okta,okta,OKTA,,,,Operational
-320,Other Units as used by WMO,degrees true,˚,deg,DEG,,,,Operational
-321,Other Units as used by WMO,degrees per second,degree/s,deg/s,DEG/S,,,,Operational
-350,Other Units as used by WMO,degrees Celsius,˚C,C,C,,(see Note 8),13,Operational
-351,Other Units as used by WMO,degrees Celsius per metre,˚C/m,C/m,C/M,,,,Operational
-352,Other Units as used by WMO,degrees Celsius per 100 metres,˚C/100 m,C/100 m,C/100 M,,,,Operational
-360,Other Units as used by WMO,Dobson Unit,DU,DU,DU,,(see Note 9),4,Operational
-430,Other Units as used by WMO,month,mon,mon,MON,,,,Operational
-441,Other Units as used by WMO,per second (same as hertz),s^-1,/s,/S,,,,Operational
-442,Other Units as used by WMO,per second squared,s^-2,s-2,,,,,Operational
-501,Other Units as used by WMO,knots per 1000 metres,kt/1000 m,kt/km,KT/KM,,,,Operational
-510,Other Units as used by WMO,foot,ft,ft,FT,,,,Operational
-511,Other Units as used by WMO,inch,in,in,IN,,,,
-520,Other Units as used by WMO,decipascals per second (microbar per second),dPa s^-1,dPa/s,DPAL/S,,,,Operational
-521,Other Units as used by WMO,centibars per second,cb s^-1,cb/s,CB/S,,,,Operational
-522,Other Units as used by WMO,centibars per 12 hours,cb/12 h,cb/12 h,CB/12 HR,,,,Operational
-523,Other Units as used by WMO,dekapascal,daPa,daPa,DAPAL,,,,Operational
-530,Other Units as used by WMO,hectopascal,hPa,hPa,HPAL,,,,Operational
-531,Other Units as used by WMO,hectopascals per second,hPa s^-1,hPa/s,HPAL/S,,,,Operational
-532,Other Units as used by WMO,hectopascals per hour,hPa h^-1,hPa/h,HPAL/HR,,,,Operational
-533,Other Units as used by WMO,hectopascals per 3 hours,hPa/3 h,hPa/3 h,HPAL/3 HR,,,,Operational
-535,Other Units as used by WMO,nanobar = hPa 10^-6,nbar,nbar,NBAR,,,,Operational
-620,Other Units as used by WMO,grams per kilogram,g kg^-1,g/kg,G/KG,,,,Operational
-621,Other Units as used by WMO,grams per kilogram per second,g kg^-1 s^-1,g kg-1 s-1,,,,,Operational
-622,Other Units as used by WMO,kilograms per kilogram,kg kg^-1,kg/kg,KG/KG,,,,Operational
-623,Other Units as used by WMO,kilograms per kilogram per second,kg kg^-1 s^-1,kg kg-1 s-1,,,,,Operational
-624,Other Units as used by WMO,kilograms per square metre,kg m^-2,kg m-2,,,,,Operational
-630,Other Units as used by WMO,acceleration due to gravity,g,g,,,,,Operational
-631,Other Units as used by WMO,geopotential metre,gpm,gpm,,,,,Operational
-710,Other Units as used by WMO,millimetre,mm,mm,MM,,,,Operational
-711,Other Units as used by WMO,millimetres per seconds,mm s^-1,mm/s,MM/S,,,,Operational
-712,Other Units as used by WMO,millimetres per hour,mm h^-1,mm/h,MM/HR,,,,Operational
-713,Other Units as used by WMO,millimetres to the sixth power per cubic metre,mm^6 m^-3,mm6 m-3,,,,,Operational
-715,Other Units as used by WMO,centimetre,cm,cm,CM,,,,Operational
-716,Other Units as used by WMO,centimetres per second,cm s^-1,cm/s,CM/S,,,,Operational
-717,Other Units as used by WMO,centimetres per hour,cm h^-1,cm/h,CM/HR,,,,Operational
-720,Other Units as used by WMO,decimetre,dm,dm,DM,,,,Operational
-731,Other Units as used by WMO,metres per second,m s^-1,m/s,M/S,,,,Operational
-732,Other Units as used by WMO,metres per second per metre,m s^-1/m,m s-1/m,,,,,Operational
-733,Other Units as used by WMO,metres per second per 1000 metres,m s^-1/1000 m,m s-1/km,,,,,Operational
-734,Other Units as used by WMO,square metres,m^2,m2,M2,,,,Operational
-735,Other Units as used by WMO,square metres per second,m^2 s^-1,m2/s,M2/S,,,,Operational
-740,Other Units as used by WMO,kilometre,km,km,KM,,,,Operational
-741,Other Units as used by WMO,kilometres per hour,km h^-1,km/h,KM/HR,,,,Operational
-742,Other Units as used by WMO,kilometres per day,km/d,km/d,KM/D,,,,Operational
-743,Other Units as used by WMO,per metre,m^-1,m-1,/M,,,,Operational
-750,Other Units as used by WMO,becquerels per litre,Bq l^-1,Bq/l,BQ/L,,,,Operational
-751,Other Units as used by WMO,becquerels per square metre,Bq m^-2,Bq m-2,BQ/M2,,,,Operational
-752,Other Units as used by WMO,becquerels per cubic metre,Bq m^-3,Bq m-3,BQ/M3,,,,Operational
-753,Other Units as used by WMO,millisievert,mSv,mSv,MSV,,,,Operational
-760,Other Units as used by WMO,metres per second squared,m s^-2,m s-2,,,,,Operational
-761,Other Units as used by WMO,square metres second,m^2 s,m2 s,,,,,Operational
-762,Other Units as used by WMO,square metres per second squared,m^2 s^-2,m2 s-2,,,,,Operational
-763,Other Units as used by WMO,square metres per radian second,m^2 rad^-1 s,m2 rad-1 s,,,,,Operational
-764,Other Units as used by WMO,square metres per hertz,m^2 Hz^-1,m2/Hz,,,,,Operational
-765,Other Units as used by WMO,cubic metres,m^3,m3,,,,,Operational
-766,Other Units as used by WMO,cubic metres per second,m^3 s^-1,m3/s,,,,,Operational
-767,Other Units as used by WMO,cubic metres per cubic metre,m^3 m^-3,m3 m-3,,,,,Operational
-768,Other Units as used by WMO,metres to the fourth power,m^4,m4,,,,,Operational
-769,Other Units as used by WMO,metres to the two thirds power per second,m^2/3 s^-1,m2/3 s-1,,,,,Operational
-772,Other Units as used by WMO,logarithm per metre,log (m^-1),log (m-1),,,,,Operational
-773,Other Units as used by WMO,logarithm per square metre,log (m^-2),log (m-2),,,,,Operational
-775,Other Units as used by WMO,kilograms per metre,km m^-1,kg/m,,,,,Operational
-776,Other Units as used by WMO,kilograms per square metre per second,kg m^-2 s^-1,kg m-2 s-1,,,,,Operational
-777,Other Units as used by WMO,kilograms per cubic metre,kg m^-3,kg m-3,,,,,Operational
-778,Other Units as used by WMO,per square kilogram per second,kg^-2 s^-1,kg-2 s-1,,,,,Operational
-779,Other Units as used by WMO,seconds per metre,s m^-1,s/m,,,,,Operational
-785,Other Units as used by WMO,kelvin metres per second,K m s^-1,K m s-1,,,,,Operational
-786,Other Units as used by WMO,kelvins per metre,K m^-1,K/m,,,,,Operational
-787,Other Units as used by WMO,kelvin square metres per kilogram per second,K m^2 kg^-1 s^-1,K m2 kg-1 s-1,,,,,Operational
-788,Other Units as used by WMO,moles per mole, mol mol^-1,mol/mol,,,,,Operational
-790,Other Units as used by WMO,radians per metre,rad m^-1,rad/m,,,,,Operational
-795,Other Units as used by WMO,newtons per square metre,N m^-2,N m-2,,,,,Operational
-800,Other Units as used by WMO,pascals per second,Pa s^-1,Pa/s,,,,,Operational
-801,Other Units as used by WMO,kilopascal,kPa,kPa,,,,,Operational
-805,Other Units as used by WMO,joules per square metre,J m^-2,J m-2,,,,,Operational
-806,Other Units as used by WMO,joules per kilogram,J kg^-1,J/kg,,,,,Operational
-810,Other Units as used by WMO,watts per metre per steradian,W m^-1 sr^-1,W m-1 sr-1,,,,,Operational
-811,Other Units as used by WMO,watts per square metre,W m^-2,W m-2,,,,,Operational
-812,Other Units as used by WMO,watts per square metre per steradian,W m^-2 sr^-1,W m-2 sr-1,,,,,Operational
-813,Other Units as used by WMO,watts per square metre per steradian centimetre,W m^-2 sr^-1 cm,W m-2 sr-1 cm,,,,,Operational
-814,Other Units as used by WMO,watts per square metre per steradian metre,W m^-2 sr^-1 m,W m-2 sr-1 m,,,,,Operational
-815,Other Units as used by WMO,watts per cubic metre per steradian,W m^-3 sr^-1,W m-3 sr-1,,,,,Operational
-820,Other Units as used by WMO,siemens per metre,S m^-1,S/m,,,,,Operational
-825,Other Units as used by WMO,square degrees,degrees^2,deg2,,,,,Operational
-830,Other Units as used by WMO,becquerel seconds per cubic metre,Bq s m^-3,Bq s m-3,,,,,Operational
-835,Other Units as used by WMO,decibels per metre,dB m^-1,dB/m,,,,,Operational
-836,Other Units as used by WMO,decibels per degree,dB degree^-1,dB/deg,,,,,Operational
-841,Other Units as used by WMO,pH unit,pH unit,pH unit,,,,,Operational
-842,Other Units as used by WMO,N units,N units,N units,,,,,Operational
-843,Other Units as used by WMO,Nephelometric turbidity units,NTU,,,,,,Operational
-844,Other Units as used by WMO,Total electron content unit,TECU,,,10^16 Electrons m^-2,,,
-845,Other Units as used by WMO,per kelvin,K^-1,K-1,,,,,
-846,Other Units as used by WMO,square kelvin,K^2,K2,,,,,
-847,Other Units as used by WMO,logarithm square metre per square metre,log(m^2 m^-2),log(m2 m-2),,,,,
-848,Other Units as used by WMO,logarithm cubic metre per square metre,log(m^3 m^-2),log(m3 m-2),,,,,
-849,Other Units as used by WMO,kilograms per square metre per hour,kg m^-2 h^-1,kg m-2 h-1,,,,,
-850,Other Units as used by WMO,kelvin per kelvin,K K^-1,K K-1,,,,,
-851,Other Units as used by WMO,watts per square metre per steradian per micrometre,W m^-2 sr^-1 um^-1,W m-2 sr-1 um-1,,,,,
-852,Other Units as used by WMO,candelas per square metre,cd m^-2,cd m-2,,,,,
-853,Other Units as used by WMO,logarithm per cubic metre,log(m^-3),log(m-3),,,,,
-854,Other Units as used by WMO,per square metre,m^-2,m-2,,,,,
-855,Other Units as used by WMO,per metre per steradian,m^-1 sr^-1,m-1 sr-1,,,,,
-856,Other Units as used by WMO,volts per metre,V m^-1,V m-1,,,,,
-857,Other Units as used by WMO,per hour,h^-1,h-1,,,,,
-858,Other Units as used by WMO,square metre seconds per radian,m^2 s rad^-1,m2 s rad-1,,,,,
-859,Other Units as used by WMO,micromoles per kilogram,umol kg^-1,umol kg-1,,,,,
-860,Other Units as used by WMO,nanosieverts per hour,nSv h^-1,nSv h-1,,,,,
-861,Other Units as used by WMO,metres per second per pascal,m s^-1 Pa^-1,m s-1 Pa-1,,,,,
-862,Other Units as used by WMO,metres per second per kelvin,m s^-1 K^-1,m s-1 K-1,,,,,
-863,Other Units as used by WMO,moles per square centimetre,mol cm^-2,mol cm-2,,,,,
-864,Other Units as used by WMO,kilograms per litre,kg l^-1,kg l-1,,,,,
-865,Other Units as used by WMO,milligrams per cubic metre,mg m^-3,mg m-3,,,,,
-na1,SI Unit prefixes,(yotta),(Y),(Y),(Y),,"(see Notes 1, 3 and 4)","19,9,10",
-na2,SI Unit prefixes,(zetta),(Z),(Z),(Z),,,,
-na3,SI Unit prefixes,exa,E,E,E,,,,
-na4,SI Unit prefixes,peta,P,P,PE,,,,
-na5,SI Unit prefixes,tera,T,T,T,,,,
-na6,SI Unit prefixes,giga,G,G,G,,,,
-na7,SI Unit prefixes,mega,M,M,MA,,,,
-na8,SI Unit prefixes,kilo,k,k,K,,,,
-na9,SI Unit prefixes,hecto,h,h,H,,,,
-na10,SI Unit prefixes,deca,da,da,D,,,,
-na11,SI Unit prefixes,deci,d,d,D,,,,
-na12,SI Unit prefixes,centi,c,c,C,,,,
-na13,SI Unit prefixes,milli,m,m,M,,,,
-na14,SI Unit prefixes,micro,µ,u,U,,,,
-na15,SI Unit prefixes,nano,n,n,N,,,,
-na16,SI Unit prefixes,pico,p,p,P,,,,
-na17,SI Unit prefixes,femto,f,f,F,,,,
-na18,SI Unit prefixes,atto,a,a,A,,,,
-na19,SI Unit prefixes,(zepto),(z),(z),,,,,
-na20,SI Unit prefixes,(yocto),(y),(y),,,,,
+210,"Other, non-SI, units recognized by CGPM",decibel,dB,dB,DB,,(see Note 6),17,Operational
+220,"Other, non-SI, units recognized by CGPM",hectare,ha,ha,HAR,,,,Operational
+171,Other units,parsec,pc,pc,PRS,,(see Note 7),21,Operational
+200,Other units,nautical mile, ,,,,,,Operational
+201,Other units,knot,kt,kt,KT,,,,Operational
+230,Other units,week, ,,,,,,Operational
+231,Other units,year,a,a,A,,,,Operational
+300,Other units,per cent,%,%,PERCENT,,,,Operational
+301,Other units,parts per thousand,‰,0/00,PERTHOU,,,,Operational
+310,Other units,eighths of cloud,okta,okta,OKTA,,,,Operational
+320,Other units,degrees true,˚,deg,DEG,,,,Operational
+321,Other units,degrees per second,degree/s,deg/s,DEG/S,,,,Operational
+350,Other units,degrees Celsius,˚C,C,C,,(see Note 8),13,Operational
+351,Other units,degrees Celsius per metre,˚C/m,C/m,C/M,,,,Operational
+352,Other units,degrees Celsius per 100 metres,˚C/100 m,C/100 m,C/100 M,,,,Operational
+360,Other units,Dobson Unit,DU,DU,DU,,(see Note 9),4,Operational
+430,Other units,month,mon,mon,MON,,,,Operational
+441,Other units,per second (same as hertz),s^-1,/s,/S,,,,Operational
+442,Other units,per second squared,s^-2,s-2,,,,,Operational
+501,Other units,knots per 1000 metres,kt/1000 m,kt/km,KT/KM,,,,Operational
+510,Other units,foot,ft,ft,FT,,,,Operational
+511,Other units,inch,in,in,IN,,,,
+520,Other units,decipascals per second (microbar per second),dPa s^-1,dPa/s,DPAL/S,,,,Operational
+521,Other units,centibars per second,cb s^-1,cb/s,CB/S,,,,Operational
+522,Other units,centibars per 12 hours,cb/12 h,cb/12 h,CB/12 HR,,,,Operational
+523,Other units,dekapascal,daPa,daPa,DAPAL,,,,Operational
+530,Other units,hectopascal,hPa,hPa,HPAL,,,,Operational
+531,Other units,hectopascals per second,hPa s^-1,hPa/s,HPAL/S,,,,Operational
+532,Other units,hectopascals per hour,hPa h^-1,hPa/h,HPAL/HR,,,,Operational
+533,Other units,hectopascals per 3 hours,hPa/3 h,hPa/3 h,HPAL/3 HR,,,,Operational
+535,Other units,nanobar = hPa 10^-6,nbar,nbar,NBAR,,,,Operational
+620,Other units,grams per kilogram,g kg^-1,g/kg,G/KG,,,,Operational
+621,Other units,grams per kilogram per second,g kg^-1 s^-1,g kg-1 s-1,,,,,Operational
+622,Other units,kilograms per kilogram,kg kg^-1,kg/kg,KG/KG,,,,Operational
+623,Other units,kilograms per kilogram per second,kg kg^-1 s^-1,kg kg-1 s-1,,,,,Operational
+624,Other units,kilograms per square metre,kg m^-2,kg m-2,,,,,Operational
+630,Other units,acceleration due to gravity,g,g,,,,,Operational
+631,Other units,geopotential metre,gpm,gpm,,,,,Operational
+710,Other units,millimetre,mm,mm,MM,,,,Operational
+711,Other units,millimetres per seconds,mm s^-1,mm/s,MM/S,,,,Operational
+712,Other units,millimetres per hour,mm h^-1,mm/h,MM/HR,,,,Operational
+713,Other units,millimetres to the sixth power per cubic metre,mm^6 m^-3,mm6 m-3,,,,,Operational
+715,Other units,centimetre,cm,cm,CM,,,,Operational
+716,Other units,centimetres per second,cm s^-1,cm/s,CM/S,,,,Operational
+717,Other units,centimetres per hour,cm h^-1,cm/h,CM/HR,,,,Operational
+720,Other units,decimetre,dm,dm,DM,,,,Operational
+731,Other units,metres per second,m s^-1,m/s,M/S,,,,Operational
+732,Other units,metres per second per metre,m s^-1/m,m s-1/m,,,,,Operational
+733,Other units,metres per second per 1000 metres,m s^-1/1000 m,m s-1/km,,,,,Operational
+734,Other units,square metres,m^2,m2,M2,,,,Operational
+735,Other units,square metres per second,m^2 s^-1,m2/s,M2/S,,,,Operational
+740,Other units,kilometre,km,km,KM,,,,Operational
+741,Other units,kilometres per hour,km h^-1,km/h,KM/HR,,,,Operational
+742,Other units,kilometres per day,km/d,km/d,KM/D,,,,Operational
+743,Other units,per metre,m^-1,m-1,/M,,,,Operational
+750,Other units,becquerels per litre,Bq l^-1,Bq/l,BQ/L,,,,Operational
+751,Other units,becquerels per square metre,Bq m^-2,Bq m-2,BQ/M2,,,,Operational
+752,Other units,becquerels per cubic metre,Bq m^-3,Bq m-3,BQ/M3,,,,Operational
+753,Other units,millisievert,mSv,mSv,MSV,,,,Operational
+760,Other units,metres per second squared,m s^-2,m s-2,,,,,Operational
+761,Other units,square metres second,m^2 s,m2 s,,,,,Operational
+762,Other units,square metres per second squared,m^2 s^-2,m2 s-2,,,,,Operational
+763,Other units,square metres per radian second,m^2 rad^-1 s,m2 rad-1 s,,,,,Operational
+764,Other units,square metres per hertz,m^2 Hz^-1,m2/Hz,,,,,Operational
+765,Other units,cubic metres,m^3,m3,,,,,Operational
+766,Other units,cubic metres per second,m^3 s^-1,m3/s,,,,,Operational
+767,Other units,cubic metres per cubic metre,m^3 m^-3,m3 m-3,,,,,Operational
+768,Other units,metres to the fourth power,m^4,m4,,,,,Operational
+769,Other units,metres to the two thirds power per second,m^2/3 s^-1,m2/3 s-1,,,,,Operational
+772,Other units,logarithm per metre,log (m^-1),log (m-1),,,,,Operational
+773,Other units,logarithm per square metre,log (m^-2),log (m-2),,,,,Operational
+775,Other units,kilograms per metre,km m^-1,kg/m,,,,,Operational
+776,Other units,kilograms per square metre per second,kg m^-2 s^-1,kg m-2 s-1,,,,,Operational
+777,Other units,kilograms per cubic metre,kg m^-3,kg m-3,,,,,Operational
+778,Other units,per square kilogram per second,kg^-2 s^-1,kg-2 s-1,,,,,Operational
+779,Other units,seconds per metre,s m^-1,s/m,,,,,Operational
+785,Other units,kelvin metres per second,K m s^-1,K m s-1,,,,,Operational
+786,Other units,kelvins per metre,K m^-1,K/m,,,,,Operational
+787,Other units,kelvin square metres per kilogram per second,K m^2 kg^-1 s^-1,K m2 kg-1 s-1,,,,,Operational
+788,Other units,moles per mole, mol mol^-1,mol/mol,,,,,Operational
+790,Other units,radians per metre,rad m^-1,rad/m,,,,,Operational
+795,Other units,newtons per square metre,N m^-2,N m-2,,,,,Operational
+800,Other units,pascals per second,Pa s^-1,Pa/s,,,,,Operational
+801,Other units,kilopascal,kPa,kPa,,,,,Operational
+805,Other units,joules per square metre,J m^-2,J m-2,,,,,Operational
+806,Other units,joules per kilogram,J kg^-1,J/kg,,,,,Operational
+810,Other units,watts per metre per steradian,W m^-1 sr^-1,W m-1 sr-1,,,,,Operational
+811,Other units,watts per square metre,W m^-2,W m-2,,,,,Operational
+812,Other units,watts per square metre per steradian,W m^-2 sr^-1,W m-2 sr-1,,,,,Operational
+813,Other units,watts per square metre per steradian centimetre,W m^-2 sr^-1 cm,W m-2 sr-1 cm,,,,,Operational
+814,Other units,watts per square metre per steradian metre,W m^-2 sr^-1 m,W m-2 sr-1 m,,,,,Operational
+815,Other units,watts per cubic metre per steradian,W m^-3 sr^-1,W m-3 sr-1,,,,,Operational
+820,Other units,siemens per metre,S m^-1,S/m,,,,,Operational
+825,Other units,square degrees,degrees^2,deg2,,,,,Operational
+830,Other units,becquerel seconds per cubic metre,Bq s m^-3,Bq s m-3,,,,,Operational
+835,Other units,decibels per metre,dB m^-1,dB/m,,,(see Note 6),17,Operational
+836,Other units,decibels per degree,dB degree^-1,dB/deg,,,(see Note 6),17,Operational
+841,Other units,pH unit,pH unit,pH unit,,,,,Operational
+842,Other units,N units,N units,N units,,,,,Operational
+843,Other units,Nephelometric turbidity units,NTU,,,,,,Operational
+844,Other units,Total electron content unit,TECU,,,10^16 Electrons m^-2,,,
+845,Other units,per kelvin,K^-1,K-1,,,,,
+846,Other units,square kelvin,K^2,K2,,,,,
+847,Other units,logarithm square metre per square metre,log(m^2 m^-2),log(m2 m-2),,,,,
+848,Other units,logarithm cubic metre per square metre,log(m^3 m^-2),log(m3 m-2),,,,,
+849,Other units,kilograms per square metre per hour,kg m^-2 h^-1,kg m-2 h-1,,,,,
+850,Other units,kelvin per kelvin,K K^-1,K K-1,,,,,
+851,Other units,watts per square metre per steradian per micrometre,W m^-2 sr^-1 um^-1,W m-2 sr-1 um-1,,,,,
+852,Other units,candela per square metre,cd m^-2,cd m-2,,,,,
+853,Other units,logarithm per cubic metre,log(m^-3),log(m-3),,,,,
+854,Other units,per square metre,m^-2,m-2,,,,,
+855,Other units,per metre per steradian,m^-1 sr^-1,m-1 sr-1,,,,,
+856,Other units,volts per metre,V m^-1,V m-1,,,,,
+857,Other units,per hour,h^-1,h-1,,,,,
+858,Other units,square metre seconds per radian,m^2 s rad^-1,m2 s rad-1,,,,,
+859,Other units,micromoles per kilogram,umol kg^-1,umol kg-1,,,,,
+860,Other units,nanosieverts per hour,nSv h^-1,nSv h-1,,,,,
+861,Other units,metres per second per pascal,m s^-1 Pa^-1,m s-1 Pa-1,,,,,
+862,Other units,metres per second per kelvin,m s^-1 K^-1,m s-1 K-1,,,,,
+863,Other units,moles per square centimetre,mol cm^-2,mol cm-2,,,,,
+864,Other units,kilograms per litre,kg l^-1,kg l-1,,,,,
+865,Other units,milligrams per cubic metre,mg m^-3,mg m-3,,,,,
+na1,SI unit prefixes,yotta,Y,Y,Y,,"(see Notes 1, 3 and 4)","19,10",
+na2,SI unit prefixes,zetta,Z,Z,Z,,,,
+na3,SI unit prefixes,exa,E,E,E,,,,
+na4,SI unit prefixes,peta,P,P,PE,,,,
+na5,SI unit prefixes,tera,T,T,T,,,,
+na6,SI unit prefixes,giga,G,G,G,,,,
+na7,SI unit prefixes,mega,M,M,MA,,,,
+na8,SI unit prefixes,kilo,k,k,K,,,,
+na9,SI unit prefixes,hecto,h,h,H,,,,
+na10,SI unit prefixes,deca,da,da,D,,,,
+na11,SI unit prefixes,deci,d,d,D,,,,
+na12,SI unit prefixes,centi,c,c,C,,,,
+na13,SI unit prefixes,milli,m,m,M,,,,
+na14,SI unit prefixes,micro,µ,u,U,,,,
+na15,SI unit prefixes,nano,n,n,N,,,,
+na16,SI unit prefixes,pico,p,p,P,,,,
+na17,SI unit prefixes,femto,f,f,F,,,,
+na18,SI unit prefixes,atto,a,a,A,,,,
+na19,SI unit prefixes,zepto,z,z,,,,,
+na20,SI unit prefixes,yocto,y,y,,,,,
