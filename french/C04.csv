@@ -1,0 +1,44 @@
+﻿CodeFigureForXRXR,CodeFigureForBUFR,Meaning_fr,Status
+01,1,Enregistreur Sippican à papier déroulant,Operational
+02,2,Sippican MK2A/SSQ-61,Operational
+03,3,Sippican MK-9,Operational
+04,4,Sippican AN/BHQ-7/MK8,Operational
+05,5,Sippican MK-12,Operational
+06,6,Sippican MK-21,Operational
+07,7,Enregistreur linéaire Sippican MK-8,Operational
+08,8,Sippican MK-10,Operational
+10,10,Processeur Sparton SOC BT/SV modèle 100,Operational
+11,11,Lockheed-Sanders Model OL5005,Operational
+20,20,ARGOS XBT-ST,Operational
+21,21,CLS-ARGOS/Protecno XBT-ST modèle 1,Operational
+22,22,CLS-ARGOS/Protecno XBT-ST modèle 2,Operational
+30,30,BATHY Systems SA-810,Operational
+31,31,Contrôleur Scripps Metrobyte,Operational
+32,32,Murayama Denki Z-60-16 III,Operational
+33,33,Murayama Denki Z-60-16 II,Operational
+34,34,Protecno ETSM2,Operational
+35,35,Nautilus Marine Service NMS-XBT,Operational
+40,40,TSK MK-2A,Operational
+41,41,TSK MK-2S,Operational
+42,42,TSK MK-30,Operational
+43,43,TSK MK-30N,Operational
+45,45,TSK MK-100,Operational
+46,46,TSK MK-130 Enregistreur compatible pour XBT et XCTD,Operational
+47,47,Enregistreur TSK MK-130A XCTD,Operational
+48,48,TSK AXBT RECEIVER MK-300,Operational
+49,49,TSK MK-150/MK-150N Enregistreur compatible pour XBT et XCTD,Operational
+50,50,JMA ASTOS,Operational
+60,60,"Communications ARGOS, échantillonnage pendant la montée",Operational
+61,61,"Communications ARGOS, échantillonnage pendant la descente",Operational
+62,62,"Communications Orbcomm, échantillonnage pendant la montée",Operational
+63,63,"Communications Orbcomm, échantillonnage pendant la descente",Operational
+64,64,"Communications Iridium, échantillonnage pendant la montée",Operational
+65,65,"Communications Iridium, échantillonnage pendant la descente",Operational
+70,70,Système d'acquisition de données XBT Devil-1 (CSIRO),Operational
+71,71,Système d'acquisition de données XBT Devil-2 (CSIRO),Operational
+72,72,Système d'acquisition de données TURO/CSIRO Quoll XBT,Operational
+80,80,"Applied Microsystems Ltd., MICRO-SVT&P",Operational
+81,81,"Sea Mammal Research Unit, Univ. St Andrews, Royaume-Uni, données non corrigées sur la salinité provenant d'un instrument fixé sur un mammifère marin",Operational
+82,82,"Sea Mammal Research Unit, Univ. St Andrews, Royaume-Uni, données corrigées sur la salinité provenant d'un instrument fixé sur un mammifère marin",Operational
+99,99,Inconnu,Operational
+,127,Valeur manquante,Operational
