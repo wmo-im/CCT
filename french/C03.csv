@@ -1,0 +1,114 @@
+﻿CodeFigureForIXIIXIX,CodeFigureForBUFR,InstrumentMakeAndType_fr,EquationCoefficients_a,EquationCoefficients_b,Status
+001,1,Sippican T-4,"6,472","-2,16",Operational
+002,2,Sippican T-4,"6,691","-2,25",Operational
+011,11,Sippican T-5,"6,828","-1,82",Operational
+021,21,Sippican Fast Deep,"6,346","-1,82",Operational
+031,31,Sippican T-6,"6,472","-2,16",Operational
+032,32,Sippican T-6,"6,691","-2,25",Operational
+041,41,Sippican T-7,"6,472","-2,16",Operational
+042,42,Sippican T-7,"6,691","-2,25",Operational
+051,51,Sippican Deep Blue,"6,472","-2,16",Operational
+052,52,Sippican Deep Blue,"6,691","-2,25",Operational
+061,61,Sippican T-10,"6,301","-2,16",Operational
+071,71,Sippican T-11,"1,7779","-0,255",Operational
+081,81,Sippican AXBT (sondes 300 m),"1,52","0,0",Operational
+201,201,TSK T-4,"6,472","-2,16",Operational
+202,202,TSK T-4,"6,691","-2,25",Operational
+211,211,TSK T-6,"6,472","-2,16",Operational
+212,212,TSK T-6,"6,691","-2,25",Operational
+221,221,TSK T-7,"6,472","-2,16",Operational
+222,222,TSK T-7,"6,691","-2,25",Operational
+231,231,TSK T-5,"6,828","-1,82",Operational
+241,241,TSK T-10,"6,301","-2,16",Operational
+251,251,TSK Deep Blue,"6,472","-2,16",Operational
+252,252,TSK Deep Blue,"6,691","-2,25",Operational
+261,261,TSK AXBT,,,Operational
+401,401,Sparton XBT-1,"6,301","-2,16",Operational
+411,411,Sparton XBT-3,"5,861","-0,0904",Operational
+421,421,Sparton XBT-4,"6,472","-2,16",Operational
+431,431,Sparton XBT-5,"6,828","-1,82",Operational
+441,441,Sparton XBT-5DB,"6,828","-1,82",Operational
+451,451,Sparton XBT-6,"6,472","-2,16",Operational
+461,461,Sparton XBT-7,"6,472","-2,16",Operational
+462,462,Sparton XBT-7,"6,705","-2,28",Operational
+471,471,Sparton XBT-7DB,"6,472","-2,16",Operational
+481,481,Sparton XBT-10,"6,301","-2,16",Operational
+491,491,Sparton XBT-20,"6,472","-2,16",Operational
+501,501,Sparton XBT-20DB,"6,472","-2,16",Operational
+510,510,Sparton 536 AXBT,"1,524",0,Operational
+700,700,Sippican XCTD Standard,,,Operational
+710,710,Sippican XCTD Deep,,,Operational
+720,720,Sippican AXCTD,,,Operational
+730,730,Sippican SXCTD,,,Operational
+741,741,TSK XCTD/XCTD-1,"3,42543","-0,47",Operational
+742,742,TSK XCTD-2,"3,43898","-0,31",Operational
+743,743,TSK XCTD-2F,"3,43898","-0,31",Operational
+744,744,TSK XCTD-3,"5,07598","-0,72",Operational
+745,745,TSK XCTD-4,"3,68081","-0,47",Operational
+751,751,TSK AXCTD,,,Operational
+780,780,Thermosalinographe Sea-Bird SBE21 SEACAT,Sans objet,Sans objet,Operational
+781,781,Thermosalinographe Sea-Bird SBE45 MicroTSG,Sans objet,Sans objet,Operational
+800,800,BT mécanique,Sans objet,Sans objet,Operational
+810,810,Station hydrographique,Sans objet,Sans objet,Operational
+820,820,Chaîne à thermistance,Sans objet,Sans objet,Operational
+825,825,Sonde thermique (sonique) et détecteur de pression,Sans objet,Sans objet,Operational
+830,830,CTD,Sans objet,Sans objet,Operational
+831,831,Flotteur CTD-P-ALACE,Sans objet,Sans objet,Operational
+835,835,PROVOR-IV,Sans objet,Sans objet,Operational
+836,836,PROVOR-III,Sans objet,Sans objet,Operational
+837,837,"ARVOR_C, capteur de conductivité SBE",,,Operational
+838,838,"ARVOR_D, capteur de conductivité SBE",,,Operational
+839,839,"PROVOR-II, capteur de conductivité SBE",,,Operational
+840,840,"PROVOR, sans capteur de conductivité",Sans objet,Sans objet,Operational
+841,841,"PROVOR, capteur de conductivité Sea-Bird",Sans objet,Sans objet,Operational
+842,842,"PROVOR, capteur de conductivité FSI",Sans objet,Sans objet,Operational
+843,843,"Système de profilage de l'océan dans les régions polaires, PROVOR, SBE CTD",,,Operational
+844,844,"Flotteur profilant, ARVOR, capteur de conductivité Sea-Bird",,,Operational
+845,845,"Webb Research, sans capteur de conductivité",Sans objet,Sans objet,Operational
+846,846,"Webb Research, capteur de conductivité Sea-Bird",Sans objet,Sans objet,Operational
+847,847,"Webb Research, capteur de conductivité FSI",Sans objet,Sans objet,Operational
+848,848,"APEX-EM, capteur de conductivité SBE",,,Operational
+849,849,"APEX_D, capteur de conductivité SBE",,,Operational
+850,850,"SOLO, sans capteur de conductivité",Sans objet,Sans objet,Operational
+851,851,"SOLO, capteur de conductivité Sea-Bird",Sans objet,Sans objet,Operational
+852,852,"SOLO, capteur de conductivité FSI",Sans objet,Sans objet,Operational
+853,853,"Flotteur profilant, SOLO2 (SCRIPPS), capteur de conductivité Sea-Bird",,,Operational
+854,854,"S2A, capteur de conductivité SBE",Sans objet,Sans objet,Operational
+855,855,"Flotteur profilant NINJA, sans capteur de conductivité",Sans objet,Sans objet,Operational
+856,856,"Flotteur profilant NINJA, capteur de conductivité SBE",Sans objet,Sans objet,Operational
+857,857,"Flotteur profilant NINJA, capteur de conductivité FSI",Sans objet,Sans objet,Operational
+858,858,"Flotteur profilant NINJA, capteur de conductivité TSK",Sans objet,Sans objet,Operational
+859,859,"Flotteur profilant NEMO, sans capteur de conductivité",Sans objet,Sans objet,Operational
+860,860,"Flotteur profilant NEMO, capteur de conductivité SBE",Sans objet,Sans objet,Operational
+861,861,"Flotteur profilant NEMO, capteur de conductivité FSI",Sans objet,Sans objet,Operational
+862,862,"SOLO_D, capteur de conductivité SBE",,,Operational
+863,863,"NAVIS-A, capteur de conductivité SBE",,,Operational
+864,864,"NINJA_D, capteur de conductivité SBE",,,Operational
+865,865,"NOVA, capteur de conductivité SBE",,,Operational
+866,866,"ALAMO, sans capteur de conductivité",,,Operational
+867,867,"ALAMO, capteur de conductivité RBR",,,Operational
+868,868,"ALAMO, capteur de conductivité SBE",,,Operational
+869,869,En réserve,,,Operational
+870,870,HM2000,Sans objet,Sans objet,Operational
+871,871,COPEX,Sans objet,Sans objet,Operational
+872,872,S2X,Sans objet,Sans objet,Operational
+873,873,ALTO,Sans objet,Sans objet,Operational
+874,874,SOLO D MRV,Sans objet,Sans objet,Operational
+875-899,873-899,En réserve,,,Operational
+900,900,Sippican LMP-5 XBT,"9,727","-0,0473",Operational
+901,901,"Profileur fixé sur la banquise, SBE CTD",,,Operational
+902,902,"Brooke Ocean, MVP (enregistreur de profil à partir de navire mobile)",,,Operational
+903,903,"Sea-Bird, CTD",,,Operational
+904,904,"AML Oceanographic, CTD",,,Operational
+905,905,"Falmouth Scientific, CTD",,,Operational
+906,906,"Ocean Sensors, CTD",,,Operational
+907,907,"Valeport, CTD",,,Operational
+908,908,"Oceanscience, MVP",,,Operational
+909,909,"IDRONAUT, CTD",,,Operational
+910,910,"Sea-Bird, SBE 38",,,Operational
+911-994,911-994,En réserve,,,Operational
+995,995,Instrument attaché sur des mammifères marins,Sans objet,Sans objet,Operational
+996,996,Instrument attaché sur des animaux autres que des mammifères marins,Sans objet,Sans objet,Operational
+997-999,997-999,En réserve,,,Operational
+,1000-1022,En réserve,,,Operational
+,1023,Valeur manquante,,,Operational

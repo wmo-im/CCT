@@ -1,0 +1,249 @@
+﻿CodeFigureForF1F2,CodeFigureForF3F3F3,Octet5GRIB1_Octet6BUFR3,OriginatingGeneratingCentres_fr,Status
+00,000,0,Secrétariat de l'OMM,Operational
+,,,01-09: CMM,Operational
+01,001,1,Melbourne,Operational
+02,002,2,Melbourne,Operational
+03,003,3,),Operational
+04,004,4,Moscou,Operational
+05,005,5,Moscou,Operational
+06,006,6,),Operational
+07,007,7,Service météorologique national des États-Unis d'Amérique - Centres nationaux de prévision environnementale (NCEP),Operational
+08,008,8,Centre de transit international du Service météorologique national des États-Unis d'Amérique (NWSTG),Operational
+09,009,9,Service météorologique national des États-Unis d'Amérique - Autres,Operational
+,,,10-25: Centres dans la Région I,Operational
+10,010,10,Le Caire (CMRS),Operational
+11,011,11,),Operational
+12,012,12,Dakar (CMRS),Operational
+13,013,13,),Operational
+14,014,14,Nairobi (CMRS),Operational
+15,015,15,),Operational
+16,016,16,Casablanca (CMRS),Operational
+17,017,17,Tunis (CMRS),Operational
+18,018,18,Tunis-Casablanca (CMRS),Operational
+19,019,19,),Operational
+20,020,20,Las Palmas,Operational
+21,021,21,Alger (CMRS),Operational
+22,022,22,ACMAD,Operational
+23,023,23,Mozambique (CMN),Operational
+24,024,24,Pretoria (CMRS),Operational
+25,025,25,La Réunion (CMRS),Operational
+,,,26-40: Centres dans la Région II,Operational
+26,026,26,Khabarovsk (CMRS),Operational
+27,027,27,),Operational
+28,028,28,New Delhi (CMRS),Operational
+29,029,29,),Operational
+30,030,30,Novosibirsk (CMRS),Operational
+31,031,31,),Operational
+32,032,32,Tachkent (CMRS),Operational
+33,033,33,Djedda (CMRS),Operational
+34,034,34,"Tokyo (CMRS), Service météorologique japonais",Operational
+35,035,35,),Operational
+36,036,36,Bangkok,Operational
+37,037,37,Oulan-Bator,Operational
+38,038,38,Beijing (CMRS),Operational
+39,039,39,),Operational
+40,040,40,Séoul,Operational
+,,,41-50: Centres dans la Région III,Operational
+41,041,41,Buenos Aires (CMRS),Operational
+42,042,42,),Operational
+43,043,43,Brasilia (CMRS),Operational
+44,044,44,),Operational
+45,045,45,Santiago,Operational
+46,046,46,Agence spatiale brésilienne – INPE,Operational
+47,047,47,Colombie (CMN),Operational
+48,048,48,Équateur (CMN),Operational
+49,049,49,Pérou (CMN),Operational
+50,050,50,Venezuela (République bolivarienne du) (CMN),Operational
+,,,51-63: Centres dans la Région IV,Operational
+51,051,51,Miami (CMRS),Operational
+52,052,52,"Miami (CMRS), Centre national pour les ouragans",Operational
+53,053,53,Centre de surveillance (SMC),Operational
+54,054,54,Montréal (CMRS),Operational
+55,055,55,San Francisco,Operational
+56,056,56,Centre ARINC,Operational
+57,057,57,US Air Force - Air Force Global Weather Central,Operational
+58,058,58,"Fleet Numerical Meteorology and Oceanography Center, Monterey, CA (États-Unis d'Amérique)",Operational
+59,059,59,"Laboratoire des systèmes de prévision de la NOAA, Boulder, CO (États-Unis d'Amérique)",Operational
+60,060,60,Centre national de recherche atmosphérique des États-Unis d'Amérique (NCAR),Operational
+61,061,61,Service ARGOS-Landover,Operational
+62,062,62,Bureau naval océanographique des États-Unis d'Amérique,Operational
+63,063,63,Institut international de recherche sur le climat et la société (IRI),Operational
+64,064,64,Honolulu (CMRS),Operational
+65,065,65,Darwin (CMRS),Operational
+66,066,66,),Operational
+67,067,67,Melbourne (CMRS),Operational
+68,068,68,En réserve,Operational
+69,069,69,Wellington (CMRS),Operational
+70,070,70,),Operational
+71,071,71,Nandi (CMRS),Operational
+72,072,72,Singapour,Operational
+73,073,73,Malaisie (CMN),Operational
+,,,74-99: Centres dans la Région VI,Operational
+74,074,74,"Service météorologique du Royaume-Uni, Exeter (CMRS)",Operational
+75,075,75,),Operational
+76,076,76,Moscou (CMRS),Operational
+77,077,77,En réserve,Operational
+78,078,78,Offenbach (CMRS),Operational
+79,079,79,),Operational
+80,080,80,Rome (CMRS),Operational
+81,081,81,),Operational
+82,082,82,Norrköping,Operational
+83,083,83,),Operational
+84,084,84,Toulouse (CMRS),Operational
+85,085,85,Toulouse (CMRS),Operational
+86,086,86,Helsinki,Operational
+87,087,87,Belgrade,Operational
+88,088,88,Oslo,Operational
+89,089,89,Prague,Operational
+90,090,90,Episkopi,Operational
+91,091,91,Ankara,Operational
+92,092,92,Francfort/Main,Operational
+93,093,93,Londres (WAFC),Operational
+94,094,94,Copenhague,Operational
+95,095,95,Rota,Operational
+96,096,96,Athènes,Operational
+97,097,97,Agence spatiale européenne (ESA),Operational
+98,098,98,Centre européen pour les prévisions météorologiques à moyen terme (CEPMMT) (CMRS),Operational
+99,099,99,De Bilt,Operational
+,,,Centres supplémentaires,Operational
+Sans objet,100,100,Brazzaville,Operational
+Sans objet,101,101,Abidjan,Operational
+Sans objet,102,102,Libye (CMN),Operational
+Sans objet,103,103,Madagascar (CMN),Operational
+Sans objet,104,104,Maurice (CMN),Operational
+Sans objet,105,105,Niger (CMN),Operational
+Sans objet,106,106,Seychelles (CMN),Operational
+Sans objet,107,107,Ouganda (CMN),Operational
+Sans objet,108,108,République-Unie de Tanzanie (CMN),Operational
+Sans objet,109,109,Zimbabwe (CMN),Operational
+Sans objet,110,110,"Hong Kong, Chine",Operational
+Sans objet,111,111,Afghanistan (CMN),Operational
+Sans objet,112,112,Bahreïn (CMN),Operational
+Sans objet,113,113,Bangladesh (CMN),Operational
+Sans objet,114,114,Bhoutan (CMN),Operational
+Sans objet,115,115,Cambodge (CMN),Operational
+Sans objet,116,116,République populaire démocratique de Corée (CMN),Operational
+Sans objet,117,117,République islamique d'Iran (CMN),Operational
+Sans objet,118,118,Iraq (CMN),Operational
+Sans objet,119,119,Kazakhstan (CMN),Operational
+Sans objet,120,120,Koweït (CMN),Operational
+Sans objet,121,121,Kirghizistan (CMN),Operational
+Sans objet,122,122,République démocratique populaire lao (CMN),Operational
+Sans objet,123,123,"Macao, Chine",Operational
+Sans objet,124,124,Maldives (CMN),Operational
+Sans objet,125,125,Myanmar (CMN),Operational
+Sans objet,126,126,Népal (CMN),Operational
+Sans objet,127,127,Oman (CMN),Operational
+Sans objet,128,128,Pakistan (CMN),Operational
+Sans objet,129,129,Qatar (CMN),Operational
+Sans objet,130,130,Yémen (CMN),Operational
+Sans objet,131,131,Sri Lanka (CMN),Operational
+Sans objet,132,132,Tadjikistan (CMN),Operational
+Sans objet,133,133,Turkménistan (CMN),Operational
+Sans objet,134,134,Émirats arabes unis (CMN),Operational
+Sans objet,135,135,Ouzbékistan (CMN),Operational
+Sans objet,136,136,Viet Nam (CMN),Operational
+Sans objet,137-139,137-139,En réserve pour d'autres centres,Operational
+Sans objet,140,140,Bolivie (État plurinational de) (CMN),Operational
+Sans objet,141,141,Guyana (CMN),Operational
+Sans objet,142,142,Paraguay (CMN),Operational
+Sans objet,143,143,Suriname (CMN),Operational
+Sans objet,144,144,Uruguay (CMN),Operational
+Sans objet,145,145,Guyane française,Operational
+Sans objet,146,146,Centre hydrographique de la marine brésilienne,Operational
+Sans objet,147,147,Commission nationale des activités spatiales (CONAE) - Argentine,Operational
+Sans objet,148,148,Département brésilien du contrôle de l'espace aérien (DECEA),Operational
+Sans objet,149,149,En réserve pour d'autres centres,Operational
+Sans objet,150,150,Antigua-et-Barbuda (CMN),Operational
+Sans objet,151,151,Bahamas (CMN),Operational
+Sans objet,152,152,Barbade (CMN),Operational
+Sans objet,153,153,Belize (CMN),Operational
+Sans objet,154,154,Centre des Territoires britanniques des Caraïbes,Operational
+Sans objet,155,155,San José,Operational
+Sans objet,156,156,Cuba (CMN),Operational
+Sans objet,157,157,Dominique (CMN),Operational
+Sans objet,158,158,République dominicaine (CMN),Operational
+Sans objet,159,159,El Salvador (CMN),Operational
+Sans objet,160,160,NOAA/NESDIS (États-Unis d'Amérique),Operational
+Sans objet,161,161,Bureau de la recherche océanique et atmosphérique de la NOAA (États-Unis d'Amérique),Operational
+Sans objet,162,162,Guatemala (CMN),Operational
+Sans objet,163,163,Haïti (CMN),Operational
+Sans objet,164,164,Honduras (CMN),Operational
+Sans objet,165,165,Jamaïque (CMN),Operational
+Sans objet,166,166,Mexique,Operational
+Sans objet,167,167,Curaçao et Sint-Maarten (CMN),Operational
+Sans objet,168,168,Nicaragua (CMN),Operational
+Sans objet,169,169,Panama (CMN),Operational
+Sans objet,170,170,Sainte-Lucie (CMN),Operational
+Sans objet,171,171,Trinité-et-Tobago (CMN),Operational
+Sans objet,172,172,Départements français dans la Région IV,Operational
+Sans objet,173,173,Administration américaine pour l'aéronautique et l'espace (NASA),Operational
+Sans objet,174,174,Gestion des données scientifiques intégrées/ Service des données sur le milieu marin (GDSI/SDMM) – Canada,Operational
+Sans objet,175,175,Corporation universitaire pour la recherche atmosphérique – États-Unis d'Amérique,Operational
+Sans objet,176,176,Institut coopératif des États-Unis d'Amérique pour les études de satellites météorologiques (CIMSS),Operational
+Sans objet,177,177,National Ocean Service de la NOAA (États-Unis d'Amérique),Operational
+Sans objet,178,178,"Spire Global, Inc.",Operational
+Sans objet,179-189,179-189,En réserve pour d'autres centres,Operational
+Sans objet,190,190,Îles Cook (CMN),Operational
+Sans objet,191,191,Polynésie française (CMN),Operational
+Sans objet,192,192,Tonga (CMN),Operational
+Sans objet,193,193,Vanuatu (CMN),Operational
+Sans objet,194,194,Brunéi Darussalam (CMN),Operational
+Sans objet,195,195,Indonésie (CMN),Operational
+Sans objet,196,196,Kiribati (CMN),Operational
+Sans objet,197,197,États fédérés de Micronésie (CMN),Operational
+Sans objet,198,198,Nouvelle-Calédonie (CMN),Operational
+Sans objet,199,199,Nioué,Operational
+Sans objet,200,200,Papouasie-Nouvelle-Guinée (CMN),Operational
+Sans objet,201,201,Philippines (CMN),Operational
+Sans objet,202,202,Samoa (CMN),Operational
+Sans objet,203,203,Îles Salomon (CMN),Operational
+Sans objet,204,204,National Institute of Water and Atmospheric Research (NIWA) – Nouvelle-Zélande,Operational
+Sans objet,205-209,205-209,En réserve,Operational
+Sans objet,210,210,Frascati (ESA/ESRIN),Operational
+Sans objet,211,211,Lannion,Operational
+Sans objet,212,212,Lisbonne,Operational
+Sans objet,213,213,Reykjavik,Operational
+Sans objet,214,214,Madrid,Operational
+Sans objet,215,215,Zurich,Operational
+Sans objet,216,216,Service Argos Toulouse,Operational
+Sans objet,217,217,Bratislava,Operational
+Sans objet,218,218,Budapest,Operational
+Sans objet,219,219,Ljubljana,Operational
+Sans objet,220,220,Varsovie,Operational
+Sans objet,221,221,Zagreb,Operational
+Sans objet,222,222,Albanie (CMN),Operational
+Sans objet,223,223,Arménie (CMN),Operational
+Sans objet,224,224,Autriche (CMN),Operational
+Sans objet,225,225,Azerbaïdjan (CMN),Operational
+Sans objet,226,226,Bélarus (CMN),Operational
+Sans objet,227,227,Belgique (CMN),Operational
+Sans objet,228,228,Bosnie-Herzégovine (CMN),Operational
+Sans objet,229,229,Bulgarie (CMN),Operational
+Sans objet,230,230,Chypre (CMN),Operational
+Sans objet,231,231,Estonie (CMN),Operational
+Sans objet,232,232,Géorgie (CMN),Operational
+Sans objet,233,233,Dublin,Operational
+Sans objet,234,234,Israël (CMN),Operational
+Sans objet,235,235,Jordanie (CMN),Operational
+Sans objet,236,236,Lettonie (CMN),Operational
+Sans objet,237,237,Liban (CMN),Operational
+Sans objet,238,238,Lituanie (CMN),Operational
+Sans objet,239,239,Luxembourg,Operational
+Sans objet,240,240,Malte (CMN),Operational
+Sans objet,241,241,Monaco,Operational
+Sans objet,242,242,Roumanie (CMN),Operational
+Sans objet,243,243,République arabe syrienne (CMN),Operational
+Sans objet,244,244,Macédoine du Nord (CMN),Operational
+Sans objet,245,245,Ukraine (CMN),Operational
+Sans objet,246,246,République de Moldova (CMN),Operational
+Sans objet,247,247,Programme opérationnel d'échange d'informations obtenues par radar météorologique (OPERA) – EUMETNET,Operational
+Sans objet,248,248,Monténégro (CMN),Operational
+Sans objet,249,249,"Centre de prévision des tempêtes de poussière, Barcelone",Operational
+Sans objet,250,250,Consortium pour la modélisation à petite échelle (COSMO),Operational
+Sans objet,251,251,Coopération météorologique en faveur de la prévision numérique opérationnelle (MetCoOp),Operational
+Sans objet,252,252,Institut de météorologie Max Planck (MPI-M),Operational
+Sans objet,253,253,En réserve pour d'autres centres,Operational
+Sans objet,254,254,Centre d'exploitation d'EUMETSAT,Operational
+Sans objet,255,255,Valeur manquante,Operational
+Sans objet,256-999,Sans objet,Inutilisés,Operational

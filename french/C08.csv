@@ -1,0 +1,354 @@
+﻿Code,Agency_en,Type_fr,InstrumentShortName_fr,InstrumentLongName_fr,Status
+10,BNSC,Radiomètre,AATSR,Radiomètre perfectionné à balayage dans le sens de la trace au sol,Operational
+11,BNSC,Radiomètre,ATSR,Radiomètre à balayage dans le sens de la trace au sol,Operational
+12,BNSC,Radiomètre,ATSR-2,Radiomètre à balayage dans le sens de la trace au sol - 2,Operational
+13,BNSC,Radiomètre,MWR,Radiomètre hyperfréquence,Operational
+30,CNES,Communications,ARGOS,ARGOS,Operational
+40,CNES,Lidar,Réflecteurs laser,Réflecteurs laser,Operational
+41,CNES,Lidar,DORIS,Détermination Doppler d'orbite et radio-localisation intégrées par satellite,Operational
+42,CNES,Lidar,DORIS-NG,Détermination Doppler d'orbite et radio-localisation intégrées par satellite-NG,Operational
+47,CNES,Altimètre radar,POSEIDON-1 (SSALT1),"Navigateur en orbite de localisation de l'océan, de la terre et de la dynamique des glaces (altimètre radar à semi-conducteurs à fréquence unique)",Operational
+48,CNES,Altimètre radar,POSEIDON-2 (SSALT2),"Navigateur en orbite de localisation de l'océan, de la terre et de la dynamique des glaces (altimètre radar à semi-conducteurs bi-fréquence)",Operational
+49,CNES,Altimètre radar,POSEIDON-3 (SSALT3),"Navigateur en orbite de localisation de l'océan, de la terre et de la dynamique des glaces (altimètre radar à semi-conducteurs bi-fréquence)",Operational
+50,CNES,Radiomètre imageur multispectral,ATSR/M,ATSR/M,Operational
+51,CNES,Imageur optique haute résolution,HRG,,Operational
+52,CNES,Radiomètre,HRV,Haute résolution dans le spectre visible,Operational
+53,CNES,Radiomètre,HRVIR,Haute résolution dans le spectre visible et l'infrarouge,Operational
+54,CNES,Radiomètre,ScaRaB/MV2,Scanner du bilan radiatif de la Terre,Operational
+55,CNES,Radiomètre,POLDER,POLDER,Operational
+56,CNES,Radiomètre imageur multispectral,IIR,Radiomètre imageur dans l'infrarouge,Operational
+57,ESA/EUMETSAT,Altimètre radar,POSEIDON-4,"Altimétrie haute précision, altimètre radar double fréquence (bandes C et Ku) à limitation de largeur d'impulsion, ouverture synthétique, faible débit et haut débit entrelacés",Operational
+60,CNES,Spectromètre,VEGETATION,VEGETATION,Operational
+61,CNES,Spectromètre,WINDII,WINDII,Operational
+62,CNES,Altimètre,AltiKa,Altimètre radar en bande Ka,Operational
+80,CSA,Communications,RADARSAT DTT,,Operational
+81,CSA,Communications,RADARSAT TTC,,Operational
+85,CSA,Radar,SAR (CSA),Radar à ouverture synthétique (CSA),Operational
+90,CSA,Radiomètre,MOPITT,Mesure de la pollution dans la troposphère,Operational
+91,CSA,Instrument pour l'étude de la chimie de l'atmosphère,OSIRIS,Spectrographe optique avec système imageur dans l'infrarouge,Operational
+92,CSA,Sondage au limbe,ACE-FTS,Expérience sur la chimie atmosphérique - Spectromètre à transformée de Fourier,Operational
+97,CSIRO,Radiomètre,,Imageur panchromatique,Operational
+98,CRCSS,Sondeur de température et d'humidité de l'atmosphère,Récepteur GPS,,Operational
+102,DLR,Radiomètre,Sondeur GPS CHAMP,Récepteur spatial GPS TurboRogue (TRSR),Operational
+103,DLR,Radiomètre,IGOR,Récepteur intégré à radio-occultation GPS,Operational
+104,NASA,Sondeur à occultation GNSS,Tri-G,"Triple-G (GPS, Galileo, GLONASS)",Operational
+116,DLR,Magnétomètre,Ensemble de gravité CHAMP (accéléromètre + GPS),Accéléromètre STAR,Operational
+117,DLR,Magnétomètre,Ensemble de magnétométrie CHAMP (1 scalaire + 2 magnétomètres vectoriels),Magnétomètre Overhauser (OVM) et magnétomètre Fluxgate (FGM),Operational
+120,ESA,Communications,ENVISAT Comms,Ensemble de communications pour ENVISAT,Operational
+121,ESA,Communications,ERS Comms,Ensemble de communications pour ERS,Operational
+130,ESA,Lidar,ALADIN,Instrument laser Doppler d'observation de l'atmosphère,Operational
+131,ESA,Lidar,ATLID,Lidar atmosphérique,Operational
+140,ESA,Radar,AMI/SAR/image,"Instrument hyperfréquence actif, mode image",Operational
+141,ESA,Radar,AMI/SAR/onde,"Instrument hyperfréquence actif, mode onde",Operational
+142,ESA,Radar,AMI/diffusiomètre,"Instrument hyperfréquence actif, mode vent",Operational
+143,ESA,Radar,ASAR,ASAR,Operational
+144,ESA,Radar imageur à hyperfréquences,ASAR,Radar perfectionné à ouverture synthétique (mode image),Operational
+145,ESA,Radar imageur à hyperfréquences,ASAR,Radar perfectionné à ouverture synthétique (mode onde),Operational
+146,ESA,Radar profileur de nuage et radar de pluie,CPR,Radar nuage,Operational
+147,ESA,Radar,RA-2/MWR,Altimètre radar - 2,Operational
+148,ESA,Radar,RA/MWR,Altimètre radar,Operational
+150,ESA,Diffusiomètre,SCATTEROMETER,Diffusiomètre,Operational
+151,ESA,Radar imageur,C-SAR,Radar à ouverture synthétique en bande C,Operational
+152,ESA,Balayage transversal,SW,Instrument TROPOMI pour la surveillance de la troposphère,Operational
+161,ESA,Radiomètre,MIPAS,Sondeur atmosphérique passif interférométrique Michelson,Operational
+162,ESA,Radiomètre imageur multispectral (hyperfréquence passive),MWR-2,Radiomètre hyperfréquence-2,Operational
+163,ESA,Instrument pour l'étude de la chimie de l'atmosphère,SOPRANO,Observation submillimètrique de processus atmosphériques présentant un intérêt pour l'ozone,Operational
+170,ESA,Instrument pour l'étude de la chimie de l'atmosphère,GOME,Expérience de surveillance de l'ozone de l'échelle du globe,Operational
+172,ESA,Spectromètre,GOMOS,Surveillance de l'ozone à l'échelle du globe par occultation des étoiles,Operational
+174,ESA,Spectromètre,MERIS,Spectromètre d'imagerie à résolution moyenne,Operational
+175,ESA,Spectromètre,SCIAMACHY,Spectromètre d'absorption d'imagerie à balayage pour cartographie atmosphérique,Operational
+176,ESA,Radiomètre,MIRAS,Radiomètre imageur hyperfréquence à synthèse d'ouverture,Operational
+177,ESA,Altimètre radar,SIRAL,SAR/altimètre radar interférométrique,Operational
+178,ESA,Altimètre radar,SRAL,Altimètre radar à ouverture synthétique,Operational
+179,ESA,Imageur optique à résolution modérée,OLCI,Imageur de la couleur de l'océan et des terres immergées,Operational
+180,ESA,Imageur optique à résolution modérée,SLSTR,Radiomètre de la température de la mer et des terres en surface,Operational
+181,EUMETSAT,Communications,METEOSAT Comms,Ensemble de communications pour METEOSAT,Operational
+182,EUMETSAT,Communications,MSG Comms,Ensemble de communications pour MSG,Operational
+190,ESA/EUMETSAT,Diffusiomètre,ASCAT,Diffusiomètre perfectionné,Operational
+200,EUMETSAT,Radiomètre,GERB,Bilan radiatif géostationnaire de la Terre,Operational
+202,ESA/EUMETSAT,Radiomètre,GRAS,Récepteur GNSS pour sondages atmosphériques,Operational
+203,EUMETSAT,Radiomètre,MHS,Sondeur d'humidité hyperfréquence,Operational
+205,EUMETSAT,Radiomètre,MVIRI,Imageur METEOSAT dans le spectre visible et l'infrarouge,Operational
+207,EUMETSAT,Radiomètre,SEVIRI,Imageur rotatif perfectionné dans le spectre visible et l'infrarouge,Operational
+208,EUMETSAT,Radiomètre imageur multispectral (vis/IR),VIRI,VIRI,Operational
+220,ESA/EUMETSAT,Spectromètre,GOME-2,Expérience de surveillance de l'ozone à l'échelle du globe - 2,Operational
+221,CNES/EUMETSAT,Sondeur de température et d'humidité de l'atmosphère,IASI,Interféromètre de sondage atmosphérique dans l'infrarouge,Operational
+240,CAST,Communications,DCP,Transpondeur plate-forme de collecte de données,Operational
+245,CAST,Radiomètre,CCD,Caméra haute résolution à dispositif de couplage de charge,Operational
+246,INPE,Sondeur de température et d'humidité de l'atmosphère,HSB,Sondeur d'humidité/Brésil,Operational
+248,INPE,Radiomètre imageur multi-spectral (vis/IR),OBA,Obervador Brasileiro da Amazonia,Operational
+250,CAST,Radiomètre,WFI,Imageur grand angulaire,Operational
+255,CAST,Spectromètre,IRMSS,Scanner multispectral à infrarouge,Operational
+260,ISRO,Instrument pour la détermination précise de l'orbite,Transpondeurs BSS et FSS,,Operational
+261,ISRO,Instrument pour la détermination précise de l'orbite,DRT-S&R,,Operational
+262,ISRO,Communications,INSAT Comms,Ensemble de communications pour l'INSAT,Operational
+268,ISRO,Imageur optique haute résolution,HR-PAN,Caméra panchromatique haute résolution,Operational
+269,ISRO,Radiomètre imageur multispectral (hyperfréquence passive),MSMR,Radiomètre hyperfréquence à balayage multifréquence,Operational
+270,ISRO,Radiomètre imageur multi-spectral (vis/IR),VHRR,Radiomètre très haute résolution,Operational
+271,ISRO,Radiomètre imageur multi-spectral (vis/IR),WiFS,Capteur à grand champ,Operational
+275,ISRO,Imageur optique haute résolution,AWIFS,Capteur perfectionné à grand champ,Operational
+276,ISRO,Imageur optique haute résolution,LISS-I,Autoscanner à imagerie linéaire - I,Operational
+277,ISRO,Imageur optique haute résolution,LISS-II,Autoscanner à imagerie linéaire - II,Operational
+278,ISRO,Imageur optique haute résolution,LISS-III,Autoscanner à imagerie linéaire - III,Operational
+279,ISRO,Imageur optique haute résolution,LISS-IV,Autoscanner à imagerie linéaire - IV,Operational
+284,ISRO,Imageur optique haute résolution,PAN,Capteur panchromatique,Operational
+285,ISRO,Radiomètre imageur multispectral (vis/IR),MOS,Scanner modulaire opto-électronique,Operational
+286,ISRO,Instrument d'observation de la couleur de l'océan,OCM,Moniteur couleur océanique,Operational
+287,ASI,,ROSA,Sondeur atmosphérique à radio-occultation,Operational
+288,ISRO,Diffusiomètre,SCAT,Diffusiomètre,Operational
+289,ISRO,Imageur optique,IMG,Imageur,Operational
+290,JMA,Communications,MTSAT Comms,Ensemble de communications pour MTSAT,Operational
+291,JMA,Communications,Himawari Comms,Ensemble de communications pour Himawari,Operational
+294,JMA,Radiomètre imageur multispectral,JAMI,Imageur météorologique perfectionné du Japon,Operational
+295,JMA,Radiomètre imageur multispectral,IMAGER/MTSAT-2,Imageur/MTSAT-2,Operational
+296,JMA,Radiomètre imageur multispectral,VISSR (GMS4),Radiomètre à balayage rotatif dans le spectre visible et l'infrarouge (GMS4),Operational
+297,JMA,Radiomètre imageur multispectral,AHI,Imageur perfectionné Himawari,Operational
+300,NASA,Lidar,GLAS,Système altimètre laser pour les sciences de la Terre,Operational
+301,NASA,Instrument pour la détermination précise de l'orbite,LRA,Ensemble rétroréflecteur laser,Operational
+302,NASA,Lidar,MBLA,Altimètre laser à faisceaux multiples,Operational
+303,NASA,Lidar,CALIOP,Lidar à rétrodiffusion sensible à la polarisation,Operational
+309,NASA,Radar profileur de nuage et radar de pluie,CPR (Cloudsat),Radar profileur de nuage,Operational
+312,NASA,Radar,NSCAT,Diffusiomètre de la NASA,Operational
+313,NASA,Radar,SeaWinds,ADEOS II - Diffusiomètre de la NASA,Operational
+314,NASA,Radar,RapidScat,Diffusiomètre RapidScat,Operational
+330,NASA,Radiomètre pour la mesure du bilan radiatif de la Terre,ACRIM,Moniteur d'éclairement énergétique à radiomètre actif à cavité,Operational
+334,NASA,Instrument de mesure de l'ozone total et du profil de l'ozone,BUV,Détecteur de rayonnements ultraviolets rétrodiffusés,Operational
+336,NASA,Imageur optique haute résolution,ALI,Imageur terrestre perfectionné,Operational
+347,NASA,Imageur optique haute résolution,ASTER,Radiomètre spatial perfectionné pour émission et réflexion thermiques,Operational
+348,NASA,Radiomètre pour la mesure du bilan radiatif de la Terre,CERES-2,Système d'observation des nuages et de l'énergie rayonnante de la Terre,Operational
+351,NASA,Sondeur de température et d'humidité de l'atmosphère,GPSDR,Récepteur de démonstration GPS,Operational
+353,NASA,Instrument de mesure de l'ozone total et du profil de l'ozone,HiRDLS,Limbosondeur dynamique haute résolution,Operational
+354,NASA,Instrument de mesure de l'ozone total et du profil de l'ozone,HRDI,Imageur Doppler haute résolution,Operational
+356,NASA,Radiomètre,LIS,Capteur d'imagerie de la foudre,Operational
+358,NASA,"Champ magnétique, imagerie aurorale, seuil de scintillation",PEM,Moniteur de particules dans l'environnement,Operational
+359,NASA,Instrument d'observation de la couleur de l'océan,SeaWiFS,Capteur à large champ d'observation de la mer,Operational
+360,NASA,Radiomètre pour la mesure du bilan radiatif de la Terre,SUSIM (UARS),Moniteur d'éclairement énergétique dans l'ultraviolet solaire,Operational
+363,NASA,Instrument de mesure de l'ozone total et du profil de l'ozone,SBUV/1,Détecteur de rayonnements solaires ultraviolets rétrodiffusés/1,Operational
+365,NASA,Radiomètre imageur multispectral (hyperfréquence passive),TMI,Imageur hyperfréquence TRMM,Operational
+366,NASA,Radiomètre imageur multispectral (hyperfréquence passive),JMR,Radiomètre hyperfréquence JASON-1,Operational
+367,NASA,Radiomètre imageur,AMR,Radiomètre perfectionné hyperfréquence,Operational
+369,NASA,Instrument de mesure de l'ozone total et du profil de l'ozone,LIMS,Appareil de limbosondage infrarouge de la stratosphère,Operational
+370,NASA,Instrument de mesure de l'ozone total et du profil de l'ozone,LRIR,Radiomètre à inversion de la radiance du limbe,Operational
+371,NASA,Instrument de mesure de l'ozone total et du profil de l'ozone,EPIC,Caméra à imagerie polychromatique de la Terre,Operational
+372,NASA,Radiomètre pour la mesure du bilan radiatif de la Terre,NISTAR,Radiomètre perfectionné NIST,Operational
+373,NASA,"Champ magnétique, imagerie aurorale, seuil de scintillation",Plasma-Mag,,Operational
+374,NASA,Autre,XPS,Système photomètre XUV,Operational
+375,NASA,Radiomètre imageur multispectral (vis/IR),VIRS,Scanner dans le spectre visible et l'infrarouge,Operational
+376,CNES,Radiomètre multidirectionnel et à polarisation multiple,POLDER II,Polarisation et directivité de la reflectance de la Terre-II,Operational
+377,NASA,Radiomètre pour la mesure du bilan radiatif de la Terre,TIM,Moniteur d'éclairement total,Operational
+379,NASA,Radiomètre imageur multispectral (vis/IR),WFC,Caméra à grand champ,Operational
+382,NASA,Spectroradiomètre,CLAES,Spectromètre étalon de limbosondage cryogénique,Operational
+383,NASA,Spectroradiomètre,HALOE,Expérience d'occultation des halogènes,Operational
+384,NASA,Spectroradiomètre,ISAMS,Sondeur stratosphérique et mésosphérique amélioré,Operational
+385,NASA,Spectroradiomètre,MISR,Spectroradiomètre d'imagerie multi-angle,Operational
+386,NASA,Spectroradiomètre,MLS,Limbosondeur hyperfréquence,Operational
+387,NASA,Spectroradiomètre,MLS (EOS-Aura),Limbosondeur hyperfréquence (EOS-Aura),Operational
+389,NASA,Spectroradiomètre,MODIS,Spectroradiomètre d'imagerie à résolution modérée,Operational
+393,NASA,Gravité,HAIRS,Système de mesure très précise de la distance intersatellitaire,Operational
+394,NASA,Instrument de mesure de l'ozone total et du profil de l'ozone,OMI,Instrument de mesure de l'ozone,Operational
+395,NASA,Radiomètre,Correcteur atmosphérique,Correcteur atmosphérique,Operational
+396,NASA,Radiomètre,Hyperion,Imageur hyperspectral,Operational
+399,NASA,Spectroradiomètre,SAGE I,Expérience sur les aérosols et les gaz stratosphériques - I,Operational
+400,NASA,Spectroradiomètre,SAGE II,Expérience sur les aérosols et les gaz stratosphériques - II,Operational
+401,NASA,Spectroradiomètre,SAGE III,Expérience sur les aérosols et les gaz stratosphériques - III,Operational
+402,NASA,Spectroradiomètre,SAMS,Sondeur stratosphèrique et mésosphérique,Operational
+403,NASA,Spectroradiomètre,SAM II,Appareil de mesure des aérosols stratosphériques - II,Operational
+404,NASA,Spectroradiomètre,IRIS,Spectromètre interféromètre infrarouge,Operational
+405,NASA,Sondeur de température et d'humidité de l'atmosphère,GIFTS,Spectromètre imageur à transformée de Fourier pour satellite géosynchrone,Operational
+420,NASA,Spectromètre,AIRS,Sondeur atmosphérique dans l'infrarouge,Operational
+426,NASA,Spectromètre,SOLSTICE,Expérience de comparaison de l'éclairement énergétique solaire et stellaire,Operational
+430,NASA,Spectromètre,TES,Spectromètre pour les émissions troposphériques,Operational
+431,NASA,Spectromètre,TOMS,Spectromètre de cartographie de l'ozone total,Operational
+432,NASA,Spectromètre,OCO,Observatoire orbitale du carbone,Operational
+450,JAXA,Communications,ADEOS Comms,Ensemble de communications pour l'ADEOS,Operational
+451,JAXA,Communications,DCS (JAXA),Système de collecte de données (JAXA),Operational
+453,NASDA,Communications,GMS Comms,Ensemble de communications pour GMS,Operational
+454,NASDA,Communications,JERS-1 Comms,Ensemble de communications pour JERS-1,Operational
+460,NASDA,Lidar,RIS,Rétroréflecteur dans l'espace,Operational
+461,NASDA,Radar,PR,Radar de mesure des précipitations,Operational
+462,NASDA,Radar imageur hyperfréquence,SAR,Radar à ouverture synthétique,Operational
+470,JAXA,Radar imageur hyperfréquence,PALSAR,Radar à ouverture synthétique à bande L avec antenne réseau à commande de phase,Operational
+478,JAXA,Radiomètre imageur multispectral (hyperfréquence passive),AMSR2,Radiomètre perfectionné hyperfréquence à balayage 2,Operational
+479,JAXA,Radiomètre imageur multispectral (hyperfréquence passive),AMSR-E,Radiomètre perfectionné hyperfréquence à balayage-EOS,Operational
+480,JAXA,Imageur optique haute résolution,PRISM (ALOS),Instrument panchromatique de télédétection pour cartographie stéréo,Operational
+481,JAXA,Radiomètre,AMSR,Radiomètre perfectionné hyperfréquence à balayage,Operational
+482,NASDA,Imageur optique haute résolution,AVNIR,Radiomètre perfectionné dans le spectre visible et l'infrarouge proche,Operational
+483,JAXA,Imageur optique haute résolution,AVNIR-2,"Radiomètre perfectionné dans le spectre visible et l'infrarouge proche, type 2",Operational
+484,JAXA,Imageur,GLI,Imageur mondial,Operational
+485,NASDA,Radiomètre,MESSR,Radiomètre électronique multispectral à autobalayage,Operational
+486,NASDA,Radiomètre,MSR,Radiomètre hyperfréquence à balayage,Operational
+487,NASDA,Radiomètre,OCTS,Scanner de la couleur et de la température de l'océan,Operational
+488,NASDA,Radiomètre,OPS,Capteur optique,Operational
+489,NASDA,Spectroradiomètre,VISSR (GMS-5),Radiomètre à balayage rotatif dans le visible et l'infrarouge (GMS-5),Operational
+490,NASDA,Radiomètre,VTIR,Radiomètre dans le spectre visible et l'infrastructure thermique,Operational
+510,NASDA,Spectromètre,ILAS-I,Spectromètre amélioré de limbosondage de l'atmosphère,Operational
+511,NASDA,Spectromètre,ILAS-II,Spectromètre amélioré de limbosondage de l'atmosphère,Operational
+512,NASDA,Spectromètre,IMG,Moniteur inférométrique des gaz à effet de serre,Operational
+514,NASDA,Moniteur de l'environnement spatial,SEM,Moniteur de l'environnement spatial (NASDA),Operational
+515,JAXA,Instrument de mesure de l'ozone total et du profil de l'ozone,SOFIS,Spectromètre à transformée de Fourier pour la mesure de l'occultation solaire pour satellite en orbite inclinée,Operational
+516,JAXA,Spectromètre,TANSO-FTS,Capteur thermique opérant dans le proche infrarouge pour l'observation du carbone Spectromètre à transformée de Fourier,Operational
+517,JAXA,Imageur,TANSO-CAI,Capteur thermique opérant dans le proche infrarouge pour l'observation du carbone Imageur de nuages et d'aérosols,Operational
+518,JAXA,Radar de mesure de la nébulosité et des précipitations,DPR,Radar de détection des précipitations à double fréquence,Operational
+519,NASA,"Radiomètre capteur/imageur hyperfréquence, balayage conique",GMI,Imageur hyperfréquence des précipitations à l'échelle du globe,Operational
+530,Spire,Sondeur à occultation GNSS,SGNOS-A,Sondeur à occultation A du Système mondial de navigation par satellite de Spire,Operational
+531,Spire,Sondeur à occultation GNSS,SGNOS-B,Sondeur à occultation B du Système mondial de navigation par satellite de Spire,Operational
+532,Spire,Sondeur à occultation GNSS,SGNOS-C,Sondeur à occultation C du Système mondial de navigation par satellite de Spire,Operational
+533,Spire,Sondeur à occultation GNSS,SGNOS-D,Sondeur à occultation D du Système mondial de navigation par satellite de Spire,Operational
+540,NOAA,Communications,DCS (NOAA),Système de collecte de données (NOAA),Operational
+541,NOAA,Communications,GOES Comms,Ensemble de communication pour GOES,Operational
+542,NOAA,Communications,LANDSAT Comms,Ensemble de communications pour LANDSAT,Operational
+543,NOAA,Communications,NOAA Comms,Ensemble de communications de la NOAA,Operational
+544,NOAA,Communications,S&R (GOES),Recherche et sauvetage,Operational
+545,NOAA,Communications,S&R (NOAA),Recherche et sauvetage,Operational
+546,NOAA,Communications,WEFAX,Fac-similé météorologique,Operational
+547,NOAA,Spectromètre,SEM (GOES),Appareil de surveillance du milieu spatial,Operational
+550,NOAA,Magnétomètre,SSM,Magnétomètre (capteur spécial),Operational
+551,NOAA,Magnétomètre,SS/4,Moniteur de plasma précipitant (capteur spécial),Operational
+552,NOAA,Moniteur de l'environnement spatial,SSIES-2,Scintillomètre/Appareil de mesure de la dérive du plasma ionosphérique (capteur spécial),Operational
+553,NOAA,Moniteur de l'environnement spatial,SSB/X-2,Détecteur de particules à rayons gamma (capteur spécial),Operational
+570,NOAA,Radiomètre,AMSU-A,Sondeur hyperfréquence perfectionné-A,Operational
+574,NOAA,Radiomètre,AMSU-B,Sondeur hyperfréquence perfectionné-B,Operational
+580,NOAA,Radiomètre,ATOVS (HIRS/3 + AMSU + AVHRR/3),Sondeur vertical opérationnel perfectionné de TIROS,Operational
+590,NOAA,Radiomètre,AVHRR/2,Radiomètre perfectionné très haute résolution/2,Operational
+591,NOAA,Radiomètre,AVHRR/3,Radiomètre perfectionné très haute résolution/3,Operational
+592,NOAA,Radiomètre,AVHRR/4,Radiomètre perfectionné très haute résolution/4,Operational
+600,NOAA,Radiomètre,ERBE,Expérience sur la bilan radiatif de la Terre,Operational
+601,NOAA,Radiomètre,ETM+,Système perfectionné de cartographie thématique,Operational
+604,NOAA,Radiomètre,HIRS/1,Sondeur infrarouge perfectionné haute résolution/1,Operational
+605,NOAA,Radiomètre,HIRS/2,Sondeur infrarouge perfectionné haute résolution/2,Operational
+606,NOAA,Radiomètre,HIRS/3,Sondeur infrarouge perfectionné haute résolution/3,Operational
+607,NOAA,Radiomètre,HIRS/4,Sondeur infrarouge perfectionné haute résolution/4,Operational
+615,NOAA,Radiomètre,IMAGER,Imageur,Operational
+616,NOAA,Radiomètre imageur multispectral (vis/IR),VIIRS,Ensemble de radiomètres imageurs dans le spectre visible et l'infrarouge,Operational
+617,NOAA,Radiomètre imageur multispectral,ABI,Imageur perfectionné de référence,Operational
+618,NOAA,Imageur optique haute résolution,GLM,Système géostationnaire de cartographie des éclairs,Operational
+620,NOAA,Sondeur de température et d'humidité de l'atmosphère,CrIRS/NP,Sondeur infrarouge/NPOESS multivoies,Operational
+621,NOAA,Sondeur de température et d'humidité de l'atmosphère,ATMS,Sondeur hyperfréquence à technologie avancée,Operational
+622,NOAA,Radiomètre,MSS,Système de balayage multispectral,Operational
+623,NOAA,Radiomètre,MSU,Sondeur hyperfréquence,Operational
+624,NOAA,Radiomètre,SBUV/2,Détecteur de rayonnements solaires ultraviolets rétrodiffusés/2,Operational
+625,NOAA,Radiomètre,SBUV/3,Détecteur de rayonnements solaires ultraviolets rétrodiffusés/3,Operational
+626,NOAA,Radiomètre,SOUNDER,SOUNDER,Operational
+627,NOAA,Radiomètre,SSU,Sondeur stratosphérique,Operational
+628,NOAA,Radiomètre,TM,Système de cartographie thématique,Operational
+629,NOAA,Radiomètre,TOVS (HIRS/2 + MSU + SSU),Sondeur vertical opérationnel de TIROS,Operational
+630,NOAA,Radiomètre,VAS,Sondeur atmosphérique du VISSR,Operational
+631,NOAA,Radiomètre,SSZ,,Operational
+645,NOAA,Spectromètre,SEM,Appareil de surveillance du milieu spatial,Operational
+650,NRSCC,Radiomètre,MVIRSR (10 canaux),Radiomètre à balayage multispectral dans le spectre visible et l'infrarouge,Operational
+651,NRSCC,Radiomètre,MVIRSR (3 canaux),Radiomètre à balayage multispectral dans le spectre visible et l'infrarouge,Operational
+652,NRSCC,Radiomètre,MVIRSR (5 canaux),Radiomètre à balayage multispectral dans le spectre visible et l'infrarouge,Operational
+670,NSAU,Radar,RLSBO,Radar latéral hyperfréquence,Operational
+680,NSAU,Imageur optique haute résolution,MSU-EU,Radiomètre multispectral haute résolution,Operational
+681,NSAU,Radiomètre imageur multispectral (vis/IR),MSU-UM,Radiomètre multispectral dans le spectre visible,Operational
+682,NSAU,Radiomètre,RM-08,Radiomètre hyperfréquence d'imagerie,Operational
+683,NSAU,Imageur optique haute résolution,SU-UMS,Radiomètre stéréo haute résolution,Operational
+684,NSAU,Imageur optique haute résolution,SU-VR,Radiomètre haute résolution dans le spectre visible,Operational
+685,NSAU,Radiomètre,TRASSER,,Operational
+686,SOA,Diffusiomètre,SCAT,Diffusiomètre,Operational
+687,SOA,Altimètre radar,ALT,Altimètre radar,Operational
+688,SOA,Radiomètre hyperfréquence,MWI,Radiomètre hyperfréquence,Operational
+700,ROSCOSMOS,Communications,KONDOR-2,Système de collecte et de transmission des données,Operational
+701,ROSCOSMOS,Communications,BRK,,Operational
+710,ROSCOSMOS,Lidar,ALISSA,Lidar de rétrodiffusion,Operational
+712,ROSCOSMOS,Lidar,Lidar Balkan-2,,Operational
+715,ROSCOSMOS,Lidar,MK-4,,Operational
+716,ROSCOSMOS,Lidar,MK-4M,,Operational
+730,ROSCOSMOS,Radar,Greben,Altimètre radar,Operational
+731,ROSCOSMOS,Radar,SAR-10,Radar à ouverture synthétique,Operational
+732,ROSCOSMOS,Radar,SAR-3,Radar à ouverture synthétique,Operational
+733,ROSCOSMOS,Radar,SAR-70,Radar à ouverture synthétique,Operational
+740,ROSCOSMOS,Radar,SLR-3,Radar latéral,Operational
+745,ROSCOSMOS,Radar,Travers SAR,,Operational
+750,ROSCOSMOS,Radiomètre,174-K,Profileur de la température et de l'humidité,Operational
+751,ROSCOSMOS,Radiomètre,BTVK,Radiomètre télévisuel à balayage,Operational
+752,ROSCOSMOS,Radiomètre,Chaika,Radiomètre infrarouge à balayage,Operational
+753,ROSCOSMOS,Radiomètre,DELTA-2,Scanner hyperfréquence multispectral,Operational
+755,ROSCOSMOS,Radiomètre,IKAR-D,Scanner hyperfréquence multispectral,Operational
+756,ROSCOSMOS,Radiomètre,IKAR-N,Scanner hyperfréquence multispectral,Operational
+757,ROSCOSMOS,Radiomètre,IKAR-P,Scanner hyperfréquence multispectral,Operational
+760,ROSCOSMOS,Radiomètre,ISP,,Operational
+761,ROSCOSMOS,Radiomètre,KFA-1000,Chambre de prise de vues,Operational
+762,ROSCOSMOS,Radiomètre,KFA-200,Chambre de prise de vues,Operational
+763,ROSCOSMOS,Radiomètre,KFA-3000,Chambre de prise de vues,Operational
+770,ROSCOSMOS,Radiomètre,Klimat,Radiomètre infrarouge à balayage,Operational
+771,ROSCOSMOS,Radiomètre,Klimat-2,Radiomètre infrarouge à balayage,Operational
+775,ROSCOSMOS,Radiomètre,MIRAS,,Operational
+776,ROSCOSMOS,Radiomètre,MIVZA,,Operational
+777,ROSCOSMOS,Radiomètre,MIVZA-M,Radiomètre hyperfréquence à balayage,Operational
+780,ROSCOSMOS,Radiomètre,MR-2000,,Operational
+781,ROSCOSMOS,Radiomètre,MR-2000M,,Operational
+785,ROSCOSMOS,Radiomètre,MR-900,Téléphotomètre à balayage,Operational
+786,ROSCOSMOS,Radiomètre,MR-900B,Téléphotomètre à balayage à bande visuelle,Operational
+790,ROSCOSMOS,Radiomètre,MSU-E,Scanner électronique multispectral haute résolution,Operational
+791,ROSCOSMOS,Radiomètre,MSU-E1,Scanner électronique multispectral haute résolution,Operational
+792,ROSCOSMOS,Radiomètre,MSU-E2,Scanner électronique multispectral haute résolution,Operational
+793,ROSCOSMOS,Radiomètre,MSU-M,,Operational
+794,ROSCOSMOS,Radiomètre,MSU-S,Scanner multispectral moyenne résolution,Operational
+795,ROSCOSMOS,Radiomètre,MSU-SK,Scanner conique multispectral moyenne résolution,Operational
+796,ROSCOSMOS,Radiomètre,MSU-V,Scanner conique multispectral haute résolution,Operational
+810,ROSCOSMOS,Radiomètre,MTZA,Radiomètre hyperfréquence à balayage,Operational
+815,ROSCOSMOS,Radiomètre imageur multispectral (hyperfréquence passive),MZOAS,Radiomètre hyperfréquence à balayage,Operational
+820,ROSCOSMOS,Radiomètre imageur multispectral (hyperfréquence passive),R-225,Radiomètre hyperfréquence à un seul canal,Operational
+821,ROSCOSMOS,Radiomètre,R-400,,Operational
+822,ROSCOSMOS,Radiomètre,R-600,Radiomètre hyperfréquence à un seul canal,Operational
+830,ROSCOSMOS,Radiomètre,RMS,Système de mesure du rayonnement,Operational
+835,ROSCOSMOS,Radiomètre,Caméra de télévision,,Operational
+836,ROSCOSMOS,Radiomètre,SILVA,,Operational
+840,ROSCOSMOS,Spectroradiomètre,SROSMO,Spectroradiomètre de surveillance de l'océan,Operational
+850,ROSCOSMOS,Spectromètre,BUFS-2,Spectromètre à rétrodiffusion/2,Operational
+851,ROSCOSMOS,Spectromètre,BUFS-4,Spectromètre à rétrodiffusion/4,Operational
+855,ROSCOSMOS,Spectromètre,ISTOK-1,Spectromètre infrarouge,Operational
+856,ROSCOSMOS,Spectromètre,SFM-2,Spectromètre mesurant le rayonnement solaire direct,Operational
+857,ROSCOSMOS,Spectromètre,DOPI,,Operational
+858,ROSCOSMOS,Spectromètre,KGI-4,,Operational
+859,ROSCOSMOS,Spectromètre,Ozon-M,,Operational
+860,ROSCOSMOS,Spectromètre,RMK-2,,Operational
+900,NOAA,Radiomètre,MAXIE,Expérience d'imagerie par les rayons X dans la magnétosphère et l'atmosphère,Operational
+901,NOAA,Radiomètre,OLS,Système de balayage horizontal opérationnel,Operational
+905,NOAA,Radiomètre,SSM/I,Imageur hyperfréquence à capteur de mission,Operational
+906,NOAA,Radiomètre,SSM/T-1,Sondeur de température hyperfréquence à capteur de mission,Operational
+907,NOAA,Radiomètre,SSM/T-2,Sondeur de vapeur d'eau hyperfréquence à capteur de mission,Operational
+908,NOAA,Radiomètre,SSMIS,Sondeur imageur hyperfréquence (capteur spécial),Operational
+910,NOAA,Radiomètre,SXI,Imageur de rayons X solaires,Operational
+930,NOAA,Spectromètre,EHIC,Expérience sur la composition énergétique des ions lourds,Operational
+931,NOAA,Spectromètre,Charge utile: rayons X astronomiques,,Operational
+932,NRSCC,Radiomètre imageur multispectral (vis/IR),IVISSR (FY-2),Radiomètre amélioré à balayage multispectral dans le spectre visible et l'infrarouge (5 canaux),Operational
+933,NRSCC,Sondeur de température et d'humidité de l'atmosphère,IRAS,Sondeur atmosphérique infrarouge,Operational
+934,NRSCC,Sondeur de température et d'humidité de l'atmosphère,MWAS,Sondeur atmosphérique hyperfréquence,Operational
+935,NRSCC,Sondeur de température et d'humidité de l'atmosphère,IMWAS,Sondeur atmosphérique hyperfréquence amélioré,Operational
+936,NRSCC,Sondeur de température et d'humidité de l'atmosphère,MWHS,Sondeur d'humidité hyperfréquence,Operational
+937,NRSCC,Radiomètre imageur multispectral (vis/IR),MVIRS,Spectromètre imageur à moyenne résolution dans le spectre visible et l'infrarouge,Operational
+938,NRSCC,Radiomètre imageur multispectral (hyperfréquence passive),MWRI,Imageur à rayonnement hyperfréquence,Operational
+940,ROSCOSMOS,Sondeur de température et d'humidité de l'atmosphère,MTVZA-CK,Radiomètre hyperfréquence à balayage,Operational
+941,CNES,Sondeur de température et d'humidité de l'atmosphère,SAPHIR,,Operational
+942,CNES,Imageur hyperfréquence,MADRAS,Analyse et détection de la pluie et des structures atmosphériques par imagerie micro-ondes,Operational
+943,CNSA,Diffusiomètre,SCAT (sur CFOSAT),Diffusiomètre,Operational
+944,NOAA,Altimètre radar,ALT,Altimètre,Operational
+945,NOAA,Radiomètre pour la mesure du bilan radiatif de la Terre,TSIS,Capteur de rayonnement solaire total,Operational
+946,NOAA,Radiomètre imageur multispectral (hyperfréquence passive),CMIS,Sondeur/imageur hyperfréquence à balayage conique,Operational
+947,NOAA,Instrument de mesure de l'ozone total et du profil de l'ozone,OMPS,Ensemble de cartographies et de profils de l'ozone,Operational
+948,NOAA,"Sondeur de l'environnement spatial, sondeur de température et d'humidité de l'atmosphère",GPSOS,Capteur à occultation GPS,Operational
+949,NOAA,"Champ magnétique, imagerie aurorale, seuil de scintillation",SESS,Ensemble de capteurs pour la mesure de l'environnement spatial,Operational
+950,NRSCC,Radiomètre imageur multispectral (vis/IR),VIRR,Radiomètre à balayage multispectral dans le spectre visible et l'infrarouge (10 canaux),Operational
+951,NRSCC,Instrument de mesure de l'ozone total et du profil de l'ozone,TOM,Imageur d'ozone total,Operational
+952,NRSCC,Instrument de mesure de l'ozone total et du profil de l'ozone,OP,Instrument de mesure du profil de l'ozone,Operational
+953,CMA,"Radiomètre capteur hyperfréquence, balayage perpendiculaire à la trajectoire",MWHS-2,Capteur d'humidité hyperfréquence – 2,Operational
+954,CMA,"Radiomètre capteur hyperfréquence, balayage perpendiculaire à la trajectoire",MWTS-2,Capteur de température hyperfréquence - 2,Operational
+955,CMA,"Capteur infrarouge, balayage transversal",HIRAS,Capteur atmosphérique hyperspectral infrarouge,Operational
+956,CMA,Spectromètre,SBUS,Capteur du rayonnement solaire ultraviolet rétrodiffusé,Operational
+957,CMA,Spectromètre,TOU,Unité d'ozone,Operational
+958,CMA,Capteur à occultation GNSS,GNOS,Capteur à occultation - Système mondial de navigation par satellite,Operational
+959,SNSB,Sondage au limbe,SMR,Radiomètre en ondes submillimétriques,Operational
+960,En réserve,,,,Operational
+961,CMA,Radiomètre imageur multispectral,AGRI,Imageur à rayonnement géosynchrone perfectionné,Operational
+962,CMA,Sondeur de température et d'humidité de l'atmosphère,GIIRS,Sondeur infrarouge interférométrique géosynchrone,Operational
+963,CMA,Imageur optique à haute résolution,LMI,Imageur pour cartographie de la foudre,Operational
+964,CMA,Environnement spatial,SEP,Dispositif pour l'étude de l'environnement spatial,Operational
+965-979,En réserve,,,,Operational
+980,KMA,Imageur,AMI,Imageur météorologique perfectionné,Operational
+981,KMA,Imageur,MI,Imageur météorologique,Operational
+982,KMA,Environnement spatial,KSEM,Dispositif coréen de surveillance de la météorologie de l'espace,Operational
+983-999,En réserve,,,,Operational
+1000-2046,Réservés à un usage futur à long terme,,,,Operational
+2047,Valeur manquante,,,,Operational

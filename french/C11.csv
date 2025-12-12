@@ -1,0 +1,287 @@
+﻿CREX2,GRIB2_BUFR4,OriginatingGeneratingCentre_fr,Status
+00000,0,Secrétariat de l'OMM,Operational
+,,00001-00009: CMM,Operational
+00001,1,Melbourne,Operational
+00002,2,Melbourne,Operational
+00003,3,),Operational
+00004,4,Moscou,Operational
+00005,5,Moscou,Operational
+00006,6,),Operational
+00007,7,Service météorologique national des États-Unis d'Amérique - Centres nationaux de prévision environnementale (NCEP),Operational
+00008,8,Centre de transit international du Service météorologique national des États-Unis d'Amérique (NWSTG),Operational
+00009,9,Service météorologique national des États-Unis d'Amérique - Autres,Operational
+,,00010-00025: Centres dans la Région I,Operational
+00010,10,Le Caire (CMRS),Operational
+00011,11,),Operational
+00012,12,Dakar (CMRS),Operational
+00013,13,),Operational
+00014,14,Nairobi (CMRS),Operational
+00015,15,),Operational
+00016,16,Casablanca (CMRS),Operational
+00017,17,Tunis (CMRS),Operational
+00018,18,Tunis-Casablanca (CMRS),Operational
+00019,19,),Operational
+00020,20,Las Palmas,Operational
+00021,21,Alger (CMRS),Operational
+00022,22,ACMAD,Operational
+00023,23,Mozambique (CMN),Operational
+00024,24,Pretoria (CMRS),Operational
+00025,25,La Réunion (CMRS),Operational
+,,00026-00040: Centres dans la Région II,Operational
+00026,26,Khabarovsk (CMRS),Operational
+00027,27,),Operational
+00028,28,New Delhi (CMRS),Operational
+00029,29,),Operational
+00030,30,Novosibirsk (CMRS),Operational
+00031,31,),Operational
+00032,32,Tachkent (CMRS),Operational
+00033,33,Djedda (CMRS),Operational
+00034,34,"Tokyo (CMRS), Service météorologique japonais",Operational
+00035,35,),Operational
+00036,36,Bangkok,Operational
+00037,37,Oulan-Bator,Operational
+00038,38,Beijing (CMRS),Operational
+00039,39,),Operational
+00040,40,Séoul,Operational
+,,00041-00050: Centres dans la Région III,Operational
+00041,41,Buenos Aires (CMRS),Operational
+00042,42,),Operational
+00043,43,Brasilia (CMRS),Operational
+00044,44,),Operational
+00045,45,Santiago,Operational
+00046,46,Agence spatiale brésilienne – INPE,Operational
+00047,47,Colombie (CMN),Operational
+00048,48,Équateur (CMN),Operational
+00049,49,Pérou (CMN),Operational
+00050,50,Venezuela (République bolivarienne du) (CMN),Operational
+,,00051-00063: Centres dans la Région IV,Operational
+00051,51,Miami (CMRS),Operational
+00052,52,"Miami (CMRS), Centre national pour les ouragans",Operational
+00053,53,Centre de surveillance (SMC),Operational
+00054,54,Montréal (CMRS),Operational
+00055,55,San Francisco,Operational
+00056,56,Centre ARINC,Operational
+00057,57,US Air Force - Air Force Global Weather Central,Operational
+00058,58,"Fleet Numerical Meteorology and Oceanography Center, Monterey, CA (États-Unis d'Amérique)",Operational
+00059,59,"Laboratoire des systèmes de prévision de la NOAA, Boulder, CO (États-Unis d'Amérique)",Operational
+00060,60,Centre national de recherche atmosphérique des États-Unis d'Amérique (NCAR),Operational
+00061,61,Service ARGOS-Landover,Operational
+00062,62,Bureau naval océanographique des États-Unis d'Amérique,Operational
+00063,63,Institut international de recherche sur le climat et la société (IRI),Operational
+,,00064-00073: Centres dans la Région V,Operational
+00064,64,Honolulu (CMRS),Operational
+00065,65,Darwin (CMRS),Operational
+00066,66,),Operational
+00067,67,Melbourne (CMRS),Operational
+00068,68,Reserved,Operational
+00069,69,Wellington (CMRS),Operational
+00070,70,),Operational
+00071,71,Nandi (CMRS),Operational
+00072,72,Singapour,Operational
+00073,73,Malaisie (CMN),Operational
+,,00074-00099: Centres dans la Région VI,Operational
+00074,74,"Service météorologique du Royaume-Uni, Exeter (CMRS)",Operational
+00075,75,"Reserved for Service météorologique du Royaume-Uni, Exeter (CMRS)",Operational
+00076,76,Moscou (CMRS),Operational
+00077,77,En réserve,Operational
+00078,78,Offenbach (CMRS),Operational
+00079,79,),Operational
+00080,80,Rome (CMRS),Operational
+00081,81,),Operational
+00082,82,Norrköping,Operational
+00083,83,),Operational
+00084,84,Toulouse (CMRS),Operational
+00085,85,Toulouse (CMRS),Operational
+00086,86,Helsinki,Operational
+00087,87,Belgrade,Operational
+00088,88,Oslo,Operational
+00089,89,Prague,Operational
+00090,90,Episkopi,Operational
+00091,91,Ankara,Operational
+00092,92,Francfort/Main,Operational
+00093,93,Londres (WAFC),Operational
+00094,94,Copenhague,Operational
+00095,95,Rota,Operational
+00096,96,Athènes,Operational
+00097,97,Agence spatiale européenne (ESA),Operational
+00098,98,Centre européen pour les prévisions météorologiques à moyen terme (CEPMMT) (CMRS),Operational
+00099,99,De Bilt,Operational
+,,Centres supplémentaires,Operational
+00100,100,Brazzaville,Operational
+00101,101,Abidjan,Operational
+00102,102,Libye (CMN),Operational
+00103,103,Madagascar (CMN),Operational
+00104,104,Maurice (CMN),Operational
+00105,105,Niger (CMN),Operational
+00106,106,Seychelles (CMN),Operational
+00107,107,Ouganda (CMN),Operational
+00108,108,République-Unie de Tanzanie (CMN),Operational
+00109,109,Zimbabwe (CMN),Operational
+00110,110,"Hong Kong, Chine",Operational
+00111,111,Afghanistan (CMN),Operational
+00112,112,Bahreïn (CMN),Operational
+00113,113,Bangladesh (CMN),Operational
+00114,114,Bhoutan (CMN),Operational
+00115,115,Cambodge (CMN),Operational
+00116,116,République populaire démocratique de Corée (CMN),Operational
+00117,117,République islamique d'Iran (CMN),Operational
+00118,118,Iraq (CMN),Operational
+00119,119,Kazakhstan (CMN),Operational
+00120,120,Koweït (CMN),Operational
+00121,121,Kirghizistan (CMN),Operational
+00122,122,République démocratique populaire lao (CMN),Operational
+00123,123,"Macao, Chine",Operational
+00124,124,Maldives (CMN),Operational
+00125,125,Myanmar (CMN),Operational
+00126,126,Népal (CMN),Operational
+00127,127,Oman (CMN),Operational
+00128,128,Pakistan (CMN),Operational
+00129,129,Qatar (CMN),Operational
+00130,130,Yémen (CMN),Operational
+00131,131,Sri Lanka (CMN),Operational
+00132,132,Tadjikistan (CMN),Operational
+00133,133,Turkménistan (CMN),Operational
+00134,134,Émirats arabes unis (CMN),Operational
+00135,135,Ouzbékistan (CMN),Operational
+00136,136,Viet Nam (CMN),Operational
+00137-00139,137-139,En réserve pour d'autres centres,Operational
+00140,140,Bolivie (État plurinational de) (CMN),Operational
+00141,141,Guyana (CMN),Operational
+00142,142,Paraguay (CMN),Operational
+00143,143,Suriname (CMN),Operational
+00144,144,Uruguay (CMN),Operational
+00145,145,Guyane française,Operational
+00146,146,Centre hydrographique de la marine brésilienne,Operational
+00147,147,Commission nationale des activités spatiales (CONAE) – Argentine,Operational
+00148,148,Département brésilien du contrôle de l'espace aérien (DECEA),Operational
+00149,149,En réserve pour d'autres centres,Operational
+00150,150,Antigua-et-Barbuda (CMN),Operational
+00151,151,Bahamas (CMN),Operational
+00152,152,Barbade (CMN),Operational
+00153,153,Belize (CMN),Operational
+00154,154,Centre des Territoires britanniques des Caraïbes,Operational
+00155,155,San José,Operational
+00156,156,Cuba (CMN),Operational
+00157,157,Dominique (CMN),Operational
+00158,158,République dominicaine (CMN),Operational
+00159,159,El Salvador (CMN),Operational
+00160,160,NOAA/NESDIS (États-Unis d'Amérique),Operational
+00161,161,Office of Oceanic and Atmospheric Research de la NOAA (États-Unis d'Amérique),Operational
+00162,162,Guatemala (CMN),Operational
+00163,163,Haïti (CMN),Operational
+00164,164,Honduras (CMN),Operational
+00165,165,Jamaïque (CMN),Operational
+00166,166,Mexique,Operational
+00167,167,Curaçao et Sint-Maarten (CMN),Operational
+00168,168,Nicaragua (CMN),Operational
+00169,169,Panama (CMN),Operational
+00170,170,Sainte-Lucie (CMN),Operational
+00171,171,Trinité-et-Tobago (CMN),Operational
+00172,172,Départements français dans la Région IV,Operational
+00173,173,Administration américaine pour l'aéronautique et l'espace (NASA),Operational
+00174,174,Gestion des données scientifiques intégrées/Service des données sur le milieu marin (GDSI/SDMM) – Canada,Operational
+00175,175,Corporation universitaire pour la recherche atmosphérique (UCAR) – États-Unis d'Amérique,Operational
+00176,176,Institut coopératif pour les études de satellites météorologiques (CIMSS) – États-Unis d'Amérique,Operational
+00177,177,National Ocean Service de la NOAA - État-Unis d'Amérique,Operational
+00178,178,"Spire Global, Inc.",Operational
+00179-00189,179-189,En réserve pour d'autres centres,Operational
+00190,190,Îles Cook (CMN),Operational
+00191,191,Polynésie française (CMN),Operational
+00192,192,Tonga (CMN),Operational
+00193,193,Vanuatu (CMN),Operational
+00194,194,Brunéi Darussalam (CMN),Operational
+00195,195,Indonésie (CMN),Operational
+00196,196,Kiribati (CMN),Operational
+00197,197,États fédérés de Micronésie (CMN),Operational
+00198,198,Nouvelle-Calédonie (CMN),Operational
+00199,199,Nioué,Operational
+00200,200,Papouasie-Nouvelle-Guinée (CMN),Operational
+00201,201,Philippines (CMN),Operational
+00202,202,Samoa (CMN),Operational
+00203,203,Îles Salomon (CMN),Operational
+00204,204,National Institute of Water and Atmospheric Research (NIWA) - Nouvelle-Zélande,Operational
+00205-00209,205-209,En réserve pour d'autres centres,Operational
+00210,210,Frascati (ESA/ESRIN),Operational
+00211,211,Lannion,Operational
+00212,212,Lisbonne,Operational
+00213,213,Reykjavik,Operational
+00214,214,Madrid,Operational
+00215,215,Zurich,Operational
+00216,216,Service ARGOS Toulouse,Operational
+00217,217,Bratislava,Operational
+00218,218,Budapest,Operational
+00219,219,Ljubljana,Operational
+00220,220,Varsovie,Operational
+00221,221,Zagreb,Operational
+00222,222,Albanie (CMN),Operational
+00223,223,Arménie (CMN),Operational
+00224,224,Autriche (CMN),Operational
+00225,225,Azerbaïdjan (CMN),Operational
+00226,226,Bélarus (CMN),Operational
+00227,227,Belgique (CMN),Operational
+00228,228,Bosnie-Herzégovine (CMN),Operational
+00229,229,Bulgarie (CMN),Operational
+00230,230,Chypre (CMN),Operational
+00231,231,Estonie (CMN),Operational
+00232,232,Géorgie (CMN),Operational
+00233,233,Dublin,Operational
+00234,234,Israël (CMN),Operational
+00235,235,Jordanie (CMN),Operational
+00236,236,Lettonie (CMN),Operational
+00237,237,Liban (CMN),Operational
+00238,238,Lituanie (CMN),Operational
+00239,239,Luxembourg,Operational
+00240,240,Malte (CMN),Operational
+00241,241,Monaco,Operational
+00242,242,Roumanie (CMN),Operational
+00243,243,République arabe syrienne (CMN),Operational
+00244,244,Macédoine du Nord (CMN),Operational
+00245,245,Ukraine (CMN),Operational
+00246,246,République de Moldova (CMN),Operational
+00247,247,Programme opérationnel d'échange d'informations obtenues par radar météorologique (OPERA) – EUMETNET,Operational
+00248,248,Monténégro (CMN),Operational
+00249,249,"Centre de prévision des tempêtes de poussière, Barcelone",Operational
+00250,250,Consortium pour la modélisation à petite échelle (COSMO),Operational
+00251,251,Coopération météorologique en faveur de la prévision numérique opérationnelle (MetCoOp),Operational
+00252,252,Institut de météorologie Max Planck (MPI-M),Operational
+00253,253,En réserve pour d'autres centres,Operational
+00254,254,Centre d'exploitation d'EUMETSAT,Operational
+00255,255,Ne pas utiliser,Operational
+00256,256,Angola (CMN),Operational
+00257,257,Bénin (CMN),Operational
+00258,258,Botswana (CMN),Operational
+00259,259,Burkina Faso (CMN),Operational
+00260,260,Burundi (CMN),Operational
+00261,261,Cameroun (CMN),Operational
+00262,262,Cabo Verde (CMN),Operational
+00263,263,République centrafricaine (CMN),Operational
+00264,264,Tchad (CMN),Operational
+00265,265,Comores (CMN),Operational
+00266,266,République démocratique du Congo (CMN),Operational
+00267,267,Djibouti (CMN),Operational
+00268,268,Érythrée (CMN),Operational
+00269,269,Éthiopie (CMN),Operational
+00270,270,Gabon (CMN),Operational
+00271,271,Gambie (CMN),Operational
+00272,272,Ghana (CMN),Operational
+00273,273,Guinée (CMN),Operational
+00274,274,Guinée-Bissau (CMN),Operational
+00275,275,Lesotho (CMN),Operational
+00276,276,Libéria (CMN),Operational
+00277,277,Malawi (CMN),Operational
+00278,278,Mali (CMN),Operational
+00279,279,Mauritanie (CMN),Operational
+00280,280,Namibie (CMN),Operational
+00281,281,Nigéria (CMN),Operational
+00282,282,Rwanda (CMN),Operational
+00283,283,Sao Tomé-et-Principe (CMN),Operational
+00284,284,Sierra Leone (CMN),Operational
+00285,285,Somalie (CMN),Operational
+00286,286,Soudan (CMN),Operational
+00287,287,Eswatini (CMN),Operational
+00288,288,Togo (CMN),Operational
+00289,289,Zambie (CMN),Operational
+00290,290,E-Profile (EUMETNET),Operational
+00291-65534,291-65534,En réserve pour d'autres centres,Operational
+65535,65535,Valeur manquante,Operational
+65536-99999,Sans objet,Inutilisés,Operational

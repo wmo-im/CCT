@@ -1,0 +1,64 @@
+﻿CodeFigureForsasa,CodeFigureForBUFR,TrackingTechniquesStatusOfSystemUsed_fr,Status
+00,0,Pas de mesure du vent,Operational
+01,1,Système automatique avec mesure optique auxiliaire de la direction,Operational
+02,2,Système automatique avec radiogoniométrie auxiliaire,Operational
+03,3,Système automatique avec télémétrie auxiliaire,Operational
+04,4,Non utilisé,Operational
+05,5,Système automatique utilisant des signaux multiples VLF-Oméga,Operational
+06,6,Système automatique Loran-C,Operational
+07,7,Système automatique avec profileur du vent auxiliaire,Operational
+08,8,Localisation automatique par satellite,Operational
+09-18,9-18,En réserve,Operational
+19,19,Technique de poursuite non spécifiée,Operational
+,,TECHNIQUE DE POURSUITE/éTAT DU SYSTÈME ASAP,Operational
+,,INFORMATIONS CONCERNANT LE NAVIRE,Operational
+20,20,Navire arrêté,Operational
+21,21,Navire détourné de sa destination d'origine,Operational
+22,22,Arrivée du navire retardée,Operational
+23,23,Conteneur endommagé,Operational
+24,24,Panne d'alimentation du conteneur,Operational
+25-28,25-28,En réserve pour utilisation future,Operational
+29,29,Autres problèmes,Operational
+,,SYSTÈME DE SONDAGE,Operational
+30,30,Graves problèmes d'alimentation,Operational
+31,31,Non fonctionnement de l'unité d'alimentation sans coupure,Operational
+32,32,Problèmes matériels du récepteur,Operational
+33,33,Problèmes logiciels du récepteur,Operational
+34,34,Problèmes matériels de l'unité de traitement,Operational
+35,35,Problèmes logiciels de l'unité de traitement,Operational
+36,36,Système NAVAID endommagé,Operational
+37,37,Pénurie de gaz de sustentation,Operational
+38,38,En réserve,Operational
+39,39,Autres problèmes,Operational
+,,DISPOSITIF DE LâCHER DE BALLON,Operational
+40,40,Défaut mécanique,Operational
+41,41,Défaut matériel (dispositif de lâcher manuel),Operational
+42,42,Panne d'alimentation,Operational
+43,43,Défaillance du système de commande,Operational
+44,44,Défaillance pneumatique/hydraulique,Operational
+45,45,Autres problèmes,Operational
+46,46,Problèmes de compresseur,Operational
+47,47,Problèmes de ballon,Operational
+48,48,Problèmes de lâcher de ballon,Operational
+49,49,Dispositif de lâcher endommagé,Operational
+,,SYSTÈME D’ACQUISITION DE DONNéES,Operational
+50,50,Défaut de l'antenne du récepteur de la radiosonde,Operational
+51,51,Défaut de l'antenne du système NAVAID,Operational
+52,52,Défaut de câblage (de l'antenne) du récepteur de la radiosonde,Operational
+53,53,Défaut de câblage de l'antenne du système NAVAID,Operational
+54-58,54-58,En réserve,Operational
+59,59,Autres problèmes,Operational
+,,TRANSMISSIONS,Operational
+60,60,Transmissions défectueuses du système ASAP,Operational
+61,61,Données rejetées par les installations de télécommunication,Operational
+62,62,Pas d'énergie à l'antenne d'émission,Operational
+63,63,Câble d'antenne rompu,Operational
+64,64,Défaut sur le câble d'antenne,Operational
+65,65,Puissance d'émission du message inférieure à la normale,Operational
+66-68,66-68,En réserve,Operational
+69,69,Autres problèmes,Operational
+70,70,Fonctionnement normal de tous les systèmes,Operational
+71-98,71-98,En réserve,Operational
+99,99,État du système et de ses composantes non spécifié,Operational
+Non disponible,100-126,En réserve,Operational
+Non disponible,127,Valeur manquante,Operational
