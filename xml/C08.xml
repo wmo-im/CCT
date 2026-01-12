@@ -1892,8 +1892,8 @@
     <Code>536</Code>
     <Agency_en>tomorrow.io</Agency_en>
     <Type_en>Radiometer</Type_en>
-    <InstrumentShortName_en>MWS</InstrumentShortName_en>
-    <InstrumentLongName_en>Microwave sounder</InstrumentLongName_en>
+    <InstrumentShortName_en>TMS (Tomorrow)</InstrumentShortName_en>
+    <InstrumentLongName_en>Tomorrow Microwave Sounder</InstrumentLongName_en>
     <Status>Operational</Status>
   </C08>
   <C08>
