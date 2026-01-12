@@ -71,6 +71,13 @@
     <Status>Operational</Status>
   </C05>
   <C05>
+    <CodeFigureForI6I6I6>009</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>9</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>9</CodeFigureForGRIB2>
+    <SatelliteName_en>MicroCarb</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
     <CodeFigureForI6I6I6>020</CodeFigureForI6I6I6>
     <CodeFigureForBUFR>20</CodeFigureForBUFR>
     <CodeFigureForGRIB2>20</CodeFigureForGRIB2>
