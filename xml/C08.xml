@@ -3330,10 +3330,10 @@
   </C08>
   <C08>
     <Code>989</Code>
-    <Agency_en>Reserved</Agency_en>
-    <Type_en/>
-    <InstrumentShortName_en/>
-    <InstrumentLongName_en/>
+    <Agency_en>CMA</Agency_en>
+    <Type_en>Satellite instrument</Type_en>
+    <InstrumentShortName_en>TGNOS-M</InstrumentShortName_en>
+    <InstrumentLongName_en>Tianmu Global Navigation Satellite System Occultation Sounder</InstrumentLongName_en>
     <Status>Operational</Status>
   </C08>
   <C08>
