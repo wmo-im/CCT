@@ -415,7 +415,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 986,CMA,Conical scanning microwave imager,MWRI-2,Microwave radiation imager-2,Operational
 987,CMA,Conical scanning microwave imager,MWRI-RM,Microwave radiation imager-Rain Mission,Operational
 988,CMA,Conical scanning dual-frequency scatterometer,WindRAD,Wind Radar,Operational
-989,Reserved,,,,Operational
+989,CMA,Satellite instrument,TGNOS-M,Tianmu Global Navigation Satellite System Occultation Sounder,Operational
 990,NASA,Radiometer,SMMR,Scanning multichannel microwave radiometer,Operational
 991,NASA,Radiometer,THIR,Temperature-humidity infrared radiometer,Operational
 992,NASA,Radiometer,NEMS,"Nimbus-E Microwave Sounder",Operational
