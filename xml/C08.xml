@@ -3249,7 +3249,15 @@
     <Status>Operational</Status>
   </C08>
   <C08>
-    <Code>978-979</Code>
+    <Code>978</Code>
+    <Agency_en>CNES</Agency_en>
+    <Type_en>Spectrometer</Type_en>
+    <InstrumentShortName_en>MicroCarb</InstrumentShortName_en>
+    <InstrumentLongName_en>MicroCarb</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
+    <Code>979</Code>
     <Agency_en>Reserved</Agency_en>
     <Type_en/>
     <InstrumentShortName_en/>
