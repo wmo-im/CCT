@@ -405,8 +405,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 975,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",AGRI-5,Advanced Geostationary Radiation Imager-5,Operational
 976,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",AGRI-6,Advanced Geostationary Radiation Imager-6,Operational
 977,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",GHI,Geostationary High-speed Imager,Operational
-978,CNES,Spectrometer,MicroCarb,MicroCarb,Operational
-979,Reserved,,,,Operational
+978-979,Reserved,,,,Operational
 980,KMA,Imager,AMI,Advanced Meteorological Imager,Operational
 981,KMA,Imager,MI,Meteorological Imager,Operational
 982,KMA,Space environment,KSEM,Korea Space wEather Monitor,Operational
