@@ -1921,8 +1921,14 @@
     <Status>Operational</Status>
   </C11>
   <C11>
-    <CREX2>00323-65534</CREX2>
-    <GRIB2_BUFR4>323-65534</GRIB2_BUFR4>
+    <CREX2>00323</CREX2>
+    <GRIB2_BUFR4>323</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>Weather Prediction Model Intercomparison Project (WP-MIP)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00324-65534</CREX2>
+    <GRIB2_BUFR4>324-65534</GRIB2_BUFR4>
     <OriginatingGeneratingCentre_en>Reserved for other centres</OriginatingGeneratingCentre_en>
     <Status>Operational</Status>
   </C11>

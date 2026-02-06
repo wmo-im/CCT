@@ -3667,8 +3667,20 @@
     <Status>Operational</Status>
   </C14>
   <C14>
-    <CodeFigure>62206-62299</CodeFigure>
+    <CodeFigure>62206-62297</CodeFigure>
     <Meaning_en>Reserved</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62298</CodeFigure>
+    <Meaning_en>Lumped pollen</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62299</CodeFigure>
+    <Meaning_en>Lumped fungal spores</Meaning_en>
     <ChemicalFormula/>
     <Status>Operational</Status>
   </C14>
@@ -3679,7 +3691,85 @@
     <Status>Operational</Status>
   </C14>
   <C14>
-    <CodeFigure>62301-62999</CodeFigure>
+    <CodeFigure>62301-62399</CodeFigure>
+    <Meaning_en>Reserved</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62400</CodeFigure>
+    <Meaning_en>Calcite</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62401</CodeFigure>
+    <Meaning_en>Chlorite</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62402</CodeFigure>
+    <Meaning_en>Dolomite</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62403</CodeFigure>
+    <Meaning_en>Feldspar</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62404</CodeFigure>
+    <Meaning_en>Goethite</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62405</CodeFigure>
+    <Meaning_en>Gypsum</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62406</CodeFigure>
+    <Meaning_en>Hematite</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62407</CodeFigure>
+    <Meaning_en>Illite</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62408</CodeFigure>
+    <Meaning_en>Kaolinite</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62409</CodeFigure>
+    <Meaning_en>Montmorillonite</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62410</CodeFigure>
+    <Meaning_en>Quartz</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62411</CodeFigure>
+    <Meaning_en>Vermiculite</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62412-62999</CodeFigure>
     <Meaning_en>Reserved</Meaning_en>
     <ChemicalFormula/>
     <Status>Operational</Status>

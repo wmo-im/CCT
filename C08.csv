@@ -235,7 +235,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 533,Spire,GNSS occultation sounder,SGNOS-D,Spire global navigation satellite system occultation sounder D,Operational
 534,PlanetiQ,GNSS occultation sounder,Pyxis-A,PlanetiQ Pyxis GNSS occultation receiver A,Operational
 535,PlanetiQ,GNSS occultation sounder,Pyxis-B,PlanetiQ Pyxis GNSS occultation receiver B,Operational
-536,tomorrow.io,Radiometer,MWS,Microwave sounder,Operational
+536,tomorrow.io,Radiometer,TMS (Tomorrow),Tomorrow Microwave Sounder,Operational
 537,tomorrow.io,Radar,KAPR,Ka band precipitation radar,Operational
 540,NOAA,Communications,DCS (NOAA),Data-collection system (NOAA),Operational
 541,NOAA,Communications,GOES Comms,Communications package on GOES,Operational
@@ -405,7 +405,8 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 975,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",AGRI-5,Advanced Geostationary Radiation Imager-5,Operational
 976,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",AGRI-6,Advanced Geostationary Radiation Imager-6,Operational
 977,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",GHI,Geostationary High-speed Imager,Operational
-978-979,Reserved,,,,Operational
+978,CNES,Spectrometer,MicroCarb,MicroCarb,Operational
+979,Reserved,,,,Operational
 980,KMA,Imager,AMI,Advanced Meteorological Imager,Operational
 981,KMA,Imager,MI,Meteorological Imager,Operational
 982,KMA,Space environment,KSEM,Korea Space wEather Monitor,Operational
