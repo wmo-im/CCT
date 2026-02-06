@@ -939,9 +939,16 @@
     <Status>Operational</Status>
   </C02>
   <C02>
+    <DateOfAssignment_en>01/02/2027</DateOfAssignment_en>
+    <CodeFigureForrara>39</CodeFigureForrara>
+    <CodeFigureForBUFR>139</CodeFigureForBUFR>
+    <RadiosondeSoundingSystemUsed_en>Meisei RS-11GS GPS radiosonde w/thermistor temperature sensor, capacitive humidity sensor, and derived pressure from GPS altitude (Japan)</RadiosondeSoundingSystemUsed_en>
+    <Status>Operational</Status>
+  </C02>
+  <C02>
     <DateOfAssignment_en>Needed</DateOfAssignment_en>
-    <CodeFigureForrara>39-40</CodeFigureForrara>
-    <CodeFigureForBUFR>139-140</CodeFigureForBUFR>
+    <CodeFigureForrara>40</CodeFigureForrara>
+    <CodeFigureForBUFR>140</CodeFigureForBUFR>
     <RadiosondeSoundingSystemUsed_en>Vacant</RadiosondeSoundingSystemUsed_en>
     <Status>Operational</Status>
   </C02>
