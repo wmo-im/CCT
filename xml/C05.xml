@@ -1681,6 +1681,13 @@
     <Status>Operational</Status>
   </C05>
   <C05>
+    <CodeFigureForI6I6I6>760</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>760</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>760</CodeFigureForGRIB2>
+    <SatelliteName_en>WSF-M1</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
     <CodeFigureForI6I6I6>761</CodeFigureForI6I6I6>
     <CodeFigureForBUFR>761</CodeFigureForBUFR>
     <CodeFigureForGRIB2>761</CodeFigureForGRIB2>
