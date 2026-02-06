@@ -1237,8 +1237,14 @@
     <Status>Operational</Status>
   </C11>
   <C11>
-    <CREX2>00205-00209</CREX2>
-    <GRIB2_BUFR4>205-209</GRIB2_BUFR4>
+    <CREX2>00205</CREX2>
+    <GRIB2_BUFR4>205</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>Tianmu</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00206-00209</CREX2>
+    <GRIB2_BUFR4>206-209</GRIB2_BUFR4>
     <OriginatingGeneratingCentre_en>Reserved for other centres</OriginatingGeneratingCentre_en>
     <Status>Operational</Status>
   </C11>
