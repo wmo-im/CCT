@@ -205,7 +205,8 @@ CREX2,GRIB2_BUFR4,OriginatingGeneratingCentre_en,Status
 00202,202,Samoa (NMC),Operational
 00203,203,Solomon Islands (NMC),Operational
 00204,204,National Institute of Water and Atmospheric Research (NIWA - New Zealand),Operational
-00205-00209,205-209,Reserved for other centres,Operational
+00205,205,Tianmu,Operational
+00206-00209,206-209,Reserved for other centres,Operational
 00210,210,Frascati (ESA/ESRIN),Operational
 00211,211,Lannion,Operational
 00212,212,Lisboa,Operational
