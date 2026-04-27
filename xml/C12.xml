@@ -1233,6 +1233,34 @@
     <Status>Operational</Status>
   </C12>
   <C12>
+    <CodeFigure_OriginatingCentres>82</CodeFigure_OriginatingCentres>
+    <Name_OriginatingCentres_en>Norrkoping (SMHI)</Name_OriginatingCentres_en>
+    <CodeFigure_SubCentres>0</CodeFigure_SubCentres>
+    <Name_SubCentres_en>Norrkoping - Swedish Meteorological and Hydrological Institute (SMHI-Sweden)</Name_SubCentres_en>
+    <Status>Operational</Status>
+  </C12>
+  <C12>
+    <CodeFigure_OriginatingCentres>82</CodeFigure_OriginatingCentres>
+    <Name_OriginatingCentres_en>Norrkoping (SHMI)</Name_OriginatingCentres_en>
+    <CodeFigure_SubCentres>10</CodeFigure_SubCentres>
+    <Name_SubCentres_en>Kangerlussuaq - Danish Meteorological Institute (DMI-Greenland)</Name_SubCentres_en>
+    <Status>Operational</Status>
+  </C12>
+  <C12>
+    <CodeFigure_OriginatingCentres>82</CodeFigure_OriginatingCentres>
+    <Name_OriginatingCentres_en>Norrkoping (SMHI)</Name_OriginatingCentres_en>
+    <CodeFigure_SubCentres>20</CodeFigure_SubCentres>
+    <Name_SubCentres_en>Oslo - Norwegian Meteorological Institute (NMI-Norway)</Name_SubCentres_en>
+    <Status>Operational</Status>
+  </C12>
+  <C12>
+    <CodeFigure_OriginatingCentres>82</CodeFigure_OriginatingCentres>
+    <Name_OriginatingCentres_en>Norrkoping (SMHI)</Name_OriginatingCentres_en>
+    <CodeFigure_SubCentres>30</CodeFigure_SubCentres>
+    <Name_SubCentres_en>Sodankyla - Arctic Research Centre (FMI/ARC-Finland)</Name_SubCentres_en>
+    <Status>Operational</Status>
+  </C12>
+  <C12>
     <CodeFigure_OriginatingCentres>85</CodeFigure_OriginatingCentres>
     <Name_OriginatingCentres_en>Toulouse (RSMC)</Name_OriginatingCentres_en>
     <CodeFigure_SubCentres>200</CodeFigure_SubCentres>
