@@ -2873,6 +2873,14 @@
     <Status>Operational</Status>
   </C08>
   <C08>
+    <Code>911</Code>
+    <Agency_en>Dod</Agency_en>
+    <Type_en>Passive microwave radiometer</Type_en>
+    <InstrumentShortName_en>MWI</InstrumentShortName_en>
+    <InstrumentLongName_en>MicroWave Imager on WSF-M</InstrumentLongName_en>
+    <Status>Operational</Status>
+  </C08>
+  <C08>
     <Code>930</Code>
     <Agency_en>NOAA</Agency_en>
     <Type_en>Spectrometer</Type_en>
