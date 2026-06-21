@@ -115,7 +115,11 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 10066,Hexane,C6H14,Operational
 10067,Heptane,C7H16,Operational
 10068,Octane,C8H18,Operational
-10069-10499,"Reserved for other simple organic molecules (e.g. higher aldehydes, alcohols, peroxides, etc.)",,Operational
+10069,Methyl ethyl ketone / 2-butanone,CH3COCH2CH3,Operational
+10070,Trichloromethane / chloroform,CHCl3,Operational
+10071,Methyl iodide / iodomethane,CH3I,Operational
+10072,Methacrolein and methyl vinyl ketone,MACR + MVK,Operational
+10073-10499,"Reserved for other simple organic molecules (e.g. higher aldehydes, alcohols, peroxides, etc.)",,Operational
 10500,Dimethyl sulphide,CH3SCH3 (DMS),Operational
 10501,DMSO (dimethyl sulfoxide),(CH3)2SO,Operational
 10502-20000,Reserved,,Operational
@@ -547,7 +551,9 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 60033,Anthropogenic volatile organic compounds,aVOC,Operational
 60034,Biomass burning volatile organic compounds,bbVOC,Operational
 60035,Gaseous molecules,,Operational
-60036-61999,Reserved,,Operational
+60036,Gaseous Non-Methane Organic Compounds,NMOC_g,Operational
+60037,Non-Methane Hydrocarbons,NMHC_g,Operational
+60038-61999,Reserved,,Operational
 62000,Total aerosol,,Operational
 62001,Dust dry,,Operational
 62002,Water in ambient,,Operational
