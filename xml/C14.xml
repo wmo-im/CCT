@@ -697,7 +697,31 @@
     <Status>Operational</Status>
   </C14>
   <C14>
-    <CodeFigure>10069-10499</CodeFigure>
+    <CodeFigure>10069</CodeFigure>
+    <Meaning_en>Methyl ethyl ketone / 2-butanone</Meaning_en>
+    <ChemicalFormula>CH3COCH2CH3</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>10070</CodeFigure>
+    <Meaning_en>Trichloromethane / chloroform</Meaning_en>
+    <ChemicalFormula>CHCl3</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>10071</CodeFigure>
+    <Meaning_en>Methyl iodide / iodomethane</Meaning_en>
+    <ChemicalFormula>CH3I</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>10072</CodeFigure>
+    <Meaning_en>Methacrolein and methyl vinyl ketone</Meaning_en>
+    <ChemicalFormula>MACR + MVK</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>10073-10499</CodeFigure>
     <Meaning_en>Reserved for other simple organic molecules (e.g. higher aldehydes, alcohols, peroxides, etc.)</Meaning_en>
     <ChemicalFormula/>
     <Status>Operational</Status>
@@ -3289,7 +3313,19 @@
     <Status>Operational</Status>
   </C14>
   <C14>
-    <CodeFigure>60036-61999</CodeFigure>
+    <CodeFigure>60036</CodeFigure>
+    <Meaning_en>Gaseous Non-Methane Organic Compounds</Meaning_en>
+    <ChemicalFormula>NMOC_g</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>60037</CodeFigure>
+    <Meaning_en>Non-Methane Hydrocarbons</Meaning_en>
+    <ChemicalFormula>NMHC_g</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>60038-61999</CodeFigure>
     <Meaning_en>Reserved</Meaning_en>
     <ChemicalFormula/>
     <Status>Operational</Status>
