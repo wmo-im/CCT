@@ -3314,13 +3314,13 @@
   </C14>
   <C14>
     <CodeFigure>60036</CodeFigure>
-    <Meaning_en>Gaseous Non-Methane Organic Compounds</Meaning_en>
+    <Meaning_en>Gaseous non-methane organic compounds</Meaning_en>
     <ChemicalFormula>NMOC_g</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
   <C14>
     <CodeFigure>60037</CodeFigure>
-    <Meaning_en>Non-Methane Hydrocarbons</Meaning_en>
+    <Meaning_en>Non-methane hydrocarbons</Meaning_en>
     <ChemicalFormula>NMHC_g</ChemicalFormula>
     <Status>Operational</Status>
   </C14>
