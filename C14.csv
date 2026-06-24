@@ -551,8 +551,8 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 60033,Anthropogenic volatile organic compounds,aVOC,Operational
 60034,Biomass burning volatile organic compounds,bbVOC,Operational
 60035,Gaseous molecules,,Operational
-60036,Gaseous Non-Methane Organic Compounds,NMOC_g,Operational
-60037,Non-Methane Hydrocarbons,NMHC_g,Operational
+60036,Gaseous non-methane organic compounds,NMOC_g,Operational
+60037,Non-methane hydrocarbons,NMHC_g,Operational
 60038-61999,Reserved,,Operational
 62000,Total aerosol,,Operational
 62001,Dust dry,,Operational
