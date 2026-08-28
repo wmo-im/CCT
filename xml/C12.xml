@@ -15,6 +15,34 @@
     <Status>Operational</Status>
   </C12>
   <C12>
+    <CodeFigure_OriginatingCentres>22</CodeFigure_OriginatingCentres>
+    <Name_OriginatingCentres_en>ACMAD</Name_OriginatingCentres_en>
+    <CodeFigure_SubCentres>10</CodeFigure_SubCentres>
+    <Name_SubCentres_en>DBNet</Name_SubCentres_en>
+    <Status>Operational</Status>
+  </C12>
+  <C12>
+    <CodeFigure_OriginatingCentres>324</CodeFigure_OriginatingCentres>
+    <Name_OriginatingCentres_en>AGEOS </Name_OriginatingCentres_en>
+    <CodeFigure_SubCentres>10</CodeFigure_SubCentres>
+    <Name_SubCentres_en>DBNet</Name_SubCentres_en>
+    <Status>Operational</Status>
+  </C12>
+  <C12>
+    <CodeFigure_OriginatingCentres>325</CodeFigure_OriginatingCentres>
+    <Name_OriginatingCentres_en>ICPAC </Name_OriginatingCentres_en>
+    <CodeFigure_SubCentres>10</CodeFigure_SubCentres>
+    <Name_SubCentres_en>DBNet</Name_SubCentres_en>
+    <Status>Operational</Status>
+  </C12>
+  <C12>
+    <CodeFigure_OriginatingCentres>326</CodeFigure_OriginatingCentres>
+    <Name_OriginatingCentres_en>SANSA </Name_OriginatingCentres_en>
+    <CodeFigure_SubCentres>10</CodeFigure_SubCentres>
+    <Name_SubCentres_en>DBNet</Name_SubCentres_en>
+    <Status>Operational</Status>
+  </C12>
+  <C12>
     <CodeFigure_OriginatingCentres/>
     <Name_OriginatingCentres_en/>
     <CodeFigure_SubCentres/>
