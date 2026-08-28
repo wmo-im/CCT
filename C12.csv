@@ -2,10 +2,9 @@ CodeFigure_OriginatingCentres,Name_OriginatingCentres_en,CodeFigure_SubCentres,N
 ,,0,No sub-centre,Operational
 ,REGION I,,,Operational
 22,ACMAD,10,DBNet,Operational
-324,AGEOS ,10,DBNet,Operational
-325,ICPAC ,10,DBNet,Operational
-326,SANSA ,10,DBNet,Operational
-,,,,Operational
+324,AGEOS,10,DBNet,Operational
+325,ICPAC,10,DBNet,Operational
+326,SANSA,10,DBNet,Operational
 ,REGION II,,,Operational
 34,"Tokyo (RSMC), Japan Meteorological Agency",207,Syowa,Operational
 34,"Tokyo (RSMC), Japan Meteorological Agency",240,Kiyose,Operational
