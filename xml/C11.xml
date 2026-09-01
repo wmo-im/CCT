@@ -1933,8 +1933,26 @@
     <Status>Operational</Status>
   </C11>
   <C11>
-    <CREX2>00324-65534</CREX2>
-    <GRIB2_BUFR4>324-65534</GRIB2_BUFR4>
+    <CREX2>00324</CREX2>
+    <GRIB2_BUFR4>324</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>L'Agence Gabonaise d'Etudes et d'Observations Spatiales (AGEOS, Gabon)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00325</CREX2>
+    <GRIB2_BUFR4>325</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>IGAD Climate Prediction and Applications Centre (ICPAC, Kenya)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00326</CREX2>
+    <GRIB2_BUFR4>326</GRIB2_BUFR4>
+    <OriginatingGeneratingCentre_en>South African National Space Agency (SANSA, South Africa)</OriginatingGeneratingCentre_en>
+    <Status>Operational</Status>
+  </C11>
+  <C11>
+    <CREX2>00327-65534</CREX2>
+    <GRIB2_BUFR4>327-65534</GRIB2_BUFR4>
     <OriginatingGeneratingCentre_en>Reserved for other centres</OriginatingGeneratingCentre_en>
     <Status>Operational</Status>
   </C11>

@@ -115,7 +115,11 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 10066,Hexane,C6H14,Operational
 10067,Heptane,C7H16,Operational
 10068,Octane,C8H18,Operational
-10069-10499,"Reserved for other simple organic molecules (e.g. higher aldehydes, alcohols, peroxides, etc.)",,Operational
+10069,Methyl ethyl ketone / 2-butanone,CH3COCH2CH3,Operational
+10070,Trichloromethane / chloroform,CHCl3,Operational
+10071,Methyl iodide / iodomethane,CH3I,Operational
+10072,Methacrolein and methyl vinyl ketone,MACR + MVK,Operational
+10073-10499,"Reserved for other simple organic molecules (e.g. higher aldehydes, alcohols, peroxides, etc.)",,Operational
 10500,Dimethyl sulphide,CH3SCH3 (DMS),Operational
 10501,DMSO (dimethyl sulfoxide),(CH3)2SO,Operational
 10502-20000,Reserved,,Operational
@@ -547,7 +551,9 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 60033,Anthropogenic volatile organic compounds,aVOC,Operational
 60034,Biomass burning volatile organic compounds,bbVOC,Operational
 60035,Gaseous molecules,,Operational
-60036-61999,Reserved,,Operational
+60036,Gaseous non-methane organic compounds,NMOC_g,Operational
+60037,Non-methane hydrocarbons,NMHC_g,Operational
+60038-61999,Reserved,,Operational
 62000,Total aerosol,,Operational
 62001,Dust dry,,Operational
 62002,Water in ambient,,Operational
@@ -586,7 +592,16 @@ CodeFigure,Meaning_en,ChemicalFormula,Status
 62035,Cloud water,H2Ocloud,Operational
 62036,Brown carbon dry,,Operational
 62037,Sea salt wet at 80% relative humidity,,Operational
-62038-62099,Reserved,,Operational
+62038,Brown carbon hydrophilic dry,,Operational
+62039,Brown carbon hydrophobic dry,,Operational
+62040,Organic carbon dry,,Operational
+62041,Organic carbon hydrophilic dry,,Operational
+62042,Organic carbon hydrophobic dry,,Operational
+62043,Total carbon dry,,Operational
+62044,Total carbon hydrophilic dry,,Operational
+62045,Total carbon hydrophobic dry,,Operational
+62046,"Burnt carbon as sum of carbon in all carbon species (CO, CO2, OC, BC, Ch4)",,Operational
+62047-62099,Reserved,,Operational
 62100,Alnus (alder) pollen,,Operational
 62101,Betula (birch) pollen,,Operational
 62102,Castanea (chestnut) pollen,,Operational

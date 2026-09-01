@@ -697,7 +697,31 @@
     <Status>Operational</Status>
   </C14>
   <C14>
-    <CodeFigure>10069-10499</CodeFigure>
+    <CodeFigure>10069</CodeFigure>
+    <Meaning_en>Methyl ethyl ketone / 2-butanone</Meaning_en>
+    <ChemicalFormula>CH3COCH2CH3</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>10070</CodeFigure>
+    <Meaning_en>Trichloromethane / chloroform</Meaning_en>
+    <ChemicalFormula>CHCl3</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>10071</CodeFigure>
+    <Meaning_en>Methyl iodide / iodomethane</Meaning_en>
+    <ChemicalFormula>CH3I</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>10072</CodeFigure>
+    <Meaning_en>Methacrolein and methyl vinyl ketone</Meaning_en>
+    <ChemicalFormula>MACR + MVK</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>10073-10499</CodeFigure>
     <Meaning_en>Reserved for other simple organic molecules (e.g. higher aldehydes, alcohols, peroxides, etc.)</Meaning_en>
     <ChemicalFormula/>
     <Status>Operational</Status>
@@ -3289,7 +3313,19 @@
     <Status>Operational</Status>
   </C14>
   <C14>
-    <CodeFigure>60036-61999</CodeFigure>
+    <CodeFigure>60036</CodeFigure>
+    <Meaning_en>Gaseous non-methane organic compounds</Meaning_en>
+    <ChemicalFormula>NMOC_g</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>60037</CodeFigure>
+    <Meaning_en>Non-methane hydrocarbons</Meaning_en>
+    <ChemicalFormula>NMHC_g</ChemicalFormula>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>60038-61999</CodeFigure>
     <Meaning_en>Reserved</Meaning_en>
     <ChemicalFormula/>
     <Status>Operational</Status>
@@ -3523,7 +3559,61 @@
     <Status>Operational</Status>
   </C14>
   <C14>
-    <CodeFigure>62038-62099</CodeFigure>
+    <CodeFigure>62038</CodeFigure>
+    <Meaning_en>Brown carbon hydrophilic dry</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62039</CodeFigure>
+    <Meaning_en>Brown carbon hydrophobic dry</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62040</CodeFigure>
+    <Meaning_en>Organic carbon dry</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62041</CodeFigure>
+    <Meaning_en>Organic carbon hydrophilic dry</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62042</CodeFigure>
+    <Meaning_en>Organic carbon hydrophobic dry</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62043</CodeFigure>
+    <Meaning_en>Total carbon dry</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62044</CodeFigure>
+    <Meaning_en>Total carbon hydrophilic dry</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62045</CodeFigure>
+    <Meaning_en>Total carbon hydrophobic dry</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62046</CodeFigure>
+    <Meaning_en>Burnt carbon as sum of carbon in all carbon species (CO, CO2, OC, BC, Ch4)</Meaning_en>
+    <ChemicalFormula/>
+    <Status>Operational</Status>
+  </C14>
+  <C14>
+    <CodeFigure>62047-62099</CodeFigure>
     <Meaning_en>Reserved</Meaning_en>
     <ChemicalFormula/>
     <Status>Operational</Status>

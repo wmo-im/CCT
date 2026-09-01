@@ -358,6 +358,7 @@ Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
 908,NOAA,Radiometer,SSMIS,Special sensor microwave imager sounder,Operational
 909,NOAA,Radiometer,VTPR,Vertical temperature profile radiometer,Operational
 910,NOAA,Radiometer,SXI,Solar X-ray imager,Operational
+911,DoD,Passive microwave radiometer,MWI,MicroWave Imager on WSF-M,Operational
 930,NOAA,Spectrometer,EHIC,Energetic heavy ion composition experiment,Operational
 931,NOAA,Spectrometer,X-ray astronomy payload,,Operational
 932,NRSCC,Imaging multi-spectral radiometer (vis/IR),IVISSR (FY-2),Improved multispectral visible and Infrared scan radiometer (5 channels),Operational
