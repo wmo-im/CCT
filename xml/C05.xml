@@ -1359,6 +1359,27 @@
     <Status>Operational</Status>
   </C05>
   <C05>
+    <CodeFigureForI6I6I6>527</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>527</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>527</CodeFigureForGRIB2>
+    <SatelliteName_en>FY-3H</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>528</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>528</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>528</CodeFigureForGRIB2>
+    <SatelliteName_en>FY-3I</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
+    <CodeFigureForI6I6I6>529</CodeFigureForI6I6I6>
+    <CodeFigureForBUFR>529</CodeFigureForBUFR>
+    <CodeFigureForGRIB2>529</CodeFigureForGRIB2>
+    <SatelliteName_en>FY-3J</SatelliteName_en>
+    <Status>Operational</Status>
+  </C05>
+  <C05>
     <CodeFigureForI6I6I6>530</CodeFigureForI6I6I6>
     <CodeFigureForBUFR>530</CodeFigureForBUFR>
     <CodeFigureForGRIB2>530</CodeFigureForGRIB2>
