@@ -364,8 +364,8 @@
     <CodeFigure>112</CodeFigure>
     <UnitType>Other, non-SI, units recognized by CGPM</UnitType>
     <Meaning>second (angle)</Meaning>
-    <conventional>&quot;</conventional>
-    <IA5-ASCII>&quot;</IA5-ASCII>
+    <conventional>"</conventional>
+    <IA5-ASCII>"</IA5-ASCII>
     <ITA2>SEC</ITA2>
     <SIDefinition/>
     <Note>(see Note 10)</Note>
