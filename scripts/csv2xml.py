@@ -41,6 +41,8 @@ for fileName in files:
         for record in data:
             r = ET.SubElement(xmlFile, recordElement)
             for i, field in enumerate(record):
+                if header[i] == 'ID':
+                    continue
                 ET.SubElement(r, header[i].replace(' ', '-')).text = field
 
         tree = ET.ElementTree(xmlFile)
