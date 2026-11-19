@@ -1,428 +1,428 @@
 ID,Code,Agency_en,Type_en,InstrumentShortName_en,InstrumentLongName_en,Status
-,7,DoD,Infrared radiometer,SSH,Special Sensor H,Operational
-,8,DoD,Radiometer,SSM/T,"Special Sensor Microwave-Temperature",Operational
-,9,DoD,Radiometer,SSM/T2,"Special Sensor Microwave-Humidity",Operational
-,10,BNSC,Radiometer,AATSR,Advanced along track scanning radiometer,Operational
-,11,BNSC,Radiometer,ATSR,Along track scanning radiometer,Operational
-,12,BNSC,Radiometer,ATSR-2,Along track scanning radiometer-2,Operational
-,13,BNSC,Radiometer,MWR,Microwave radiometer,Operational
-,14,UKSA,Radiometer,PMR,Pressure modulator radiometer,Operational
-,15,UKSA,Radiometer,SCR,Selective Chopper Radiometer,Operational
-,30,CNES,Communications,ARGOS,,Operational
-,40,CNES,Lidar,Laser reflectors,,Operational
-,41,CNES,Lidar,DORIS,Doppler orbitography and radio-positioning integrated by satellite,Operational
-,42,CNES,Lidar,DORIS-NG,Doppler orbitography and radio-positioning integrated by satellite-NG,Operational
-,47,CNES,Radar altimeter,POSEIDON-1 (SSALT1),"Positioning ocean, solid Earth, ice dynamics orbiting navigator (single frequency solid state radar altimeter)",Operational
-,48,CNES,Radar altimeter,POSEIDON-2 (SSALT2),"Positioning ocean, solid Earth, ice dynamics orbiting navigator (double frequency solid state radar altimeter)",Operational
-,49,CNES,Radar altimeter,POSEIDON-3 (SSALT3),"Positioning ocean, solid Earth, ice dynamics orbiting navigator (double frequency solid state radar altimeter)",Operational
-,50,CNES,Imaging radiometer,ATSR/M,ATSR/M,Operational
-,51,CNES,High-resolution optical imager,HRG,,Operational
-,52,CNES,Radiometer,HRV,High-resolution visible,Operational
-,53,CNES,Radiometer,HRVIR,High-resolution visible and infrared,Operational
-,54,CNES,Radiometer,ScaRaB/MV2,Scanner for Earth's radiation budget,Operational
-,55,CNES,Radiometer,POLDER,POLDER,Operational
-,56,CNES,Imaging multi-spectral radiometer,IIR,Imaging Infrared Radiometer,Operational
-,57,ESA/EUMETSAT,Radar altimeter,POSEIDON-4,"High precision altimetry, dual frequency (C- and Ku-band) pulse-width limited radar altimeter, synthetic-aperture processing, interleaved Low Rate and High Rate",Operational
-,60,CNES,Spectrometer,VEGETATION,VEGETATION,Operational
-,61,CNES,Spectrometer,WINDII,WINDII,Operational
-,62,CNES,Altimeter,AltiKa,Ka band Radar Altimeter,Operational
-,63,CNES,Rotating multi-beam altimeter,SWIM,Surface Waves Investigation and Monitoring,Operational
-,80,CSA,Communications,RADARSAT DTT,,Operational
-,81,CSA,Communications,RADARSAT TTC,,Operational
-,85,CSA,Radar,SAR (CSA),Synthetic aperture radar (CSA),Operational
-,90,CSA,Radiometer,MOPITT,Measurements of pollution in the troposphere,Operational
-,91,CSA,Atmospheric chemistry instrument,OSIRIS,Optical spectrograph and Infrared imaging system,Operational
-,92,CSA,Limb-scanning sounder,ACE-FTS,Atmospheric Chemistry Experiment - Fourier Transform Spectrometer,Operational
-,97,CSIRO,Radiometer,Panchromatic imager,,Operational
-,98,CRCSS,Atmospheric temperature and humidity sounder,GPS receiver,,Operational
-,102,DLR,Radiometer,CHAMP GPS sounder,GPS turborogue space receiver (TRSR),Operational
-,103,DLR,Radiometer,IGOR,Integrated GPS and Occultation Receiver,Operational
-,104,NASA,GNSS occultation sounder,Tri-G,"Triple-G (GPS, Galileo, GLONASS)",Operational
-,116,DLR,Magnetometer,CHAMP gravity package (Accelerometer+GPS),STAR accelerometer,Operational
-,117,DLR,Magnetometer,CHAMP magnetometry package (1 scalar+2 vector magnetometer),Overhauser magnetometer (OVM) and fluxgate magnetometer (FGM),Operational
-,120,ESA,Communications,ENVISAT Comms,Communications package on ENVISAT,Operational
-,121,ESA,Communications,ERS Comms,Communication package for ERS,Operational
-,130,ESA,Lidar,ALADIN,Atmospheric laser Doppler instrument,Operational
-,131,ESA,Lidar,ATLID,Atmospheric lidar,Operational
-,140,ESA,Radar,AMI/SAR/image,Active microwave instrumentation image mode,Operational
-,141,ESA,Radar,AMI/SAR/wave,Active microwave instrumentation wave mode,Operational
-,142,ESA,Radar,AMI/scatterometer,Active microwave instrumentation wind mode,Operational
-,143,ESA,Radar,ASAR,ASAR,Operational
-,144,ESA,Imaging microwave,ASAR,Advanced synthetic aperture radar (image mode),Operational
-,145,ESA,Imaging microwave,ASAR,Advanced synthetic aperture radar (wave mode),Operational
-,146,ESA,Cloud profile and rain radar,CPR,Cloud radar,Operational
-,147,ESA,Radar,RA-2/MWR,Radar altimeter-2,Operational
-,148,ESA,Radar,RA/MWR,Radar altimeter,Operational
-,150,ESA,Scatterometer,SCATTEROMETER,Scatterometer,Operational
-,151,ESA,Imaging radar,SAR-C,Synthetic Aperture Radar (C-band),Operational
-,152,ESA,Cross-nadir scanning,SW,Sounder TROPOMI Tropospheric Monitoring Instrument,Operational
-,161,ESA,Radiometer,MIPAS,Michelson interferometric passive atmosphere sounder,Operational
-,162,ESA,Imaging multi-spectral radiometer (passive microwave),MWR-2,Microwave radiometer-2,Operational
-,163,ESA,Atmospheric chemistry instrument,SOPRANO,Sub-millimetre observation of processes in the absorption noteworthy for ozone,Operational
-,170,ESA,Atmospheric chemistry instrument,GOME,Global ozone monitoring experiment,Operational
-,172,ESA,Spectrometer,GOMOS,Global ozone monitoring by occultation of stars,Operational
-,173,ESA,Spectrometer,ALTIUS,Atmospheric Limb Tracker for Investigation of the Upcoming Stratosphere,Operational
-,174,ESA,Spectrometer,MERIS,Medium resolution imaging spectrometer,Operational
-,175,ESA,Spectrometer,SCIAMACHY,Scanning imaging absorption spectrometer for atmospheric cartography,Operational
-,176,ESA,Radiometer,MIRAS,Microwave imaging radiometer using aperture synthesis,Operational
-,177,ESA,Radar Altimeter,SIRAL,SAR/Interferometric Radar Altimeter,Operational
-,178,ESA,Radar altimeter,SRAL,Synthetic aperture radar altimeter,Operational
-,179,ESA,Moderate resolution optical imager,OLCI,Ocean and land colour imager,Operational
-,180,ESA,Moderate resolution optical imager,SLSTR,Sea and land surface temperature radiometer,Operational
-,181,EUMETSAT,Communications,METEOSAT Comms,Communications package for METEOSAT,Operational
-,182,EUMETSAT,Communications,MSG Comms,Communications package for MSG,Operational
-,190,ESA/EUMETSAT,Scatterometer,ASCAT,Advanced scatterometer,Operational
-,200,EUMETSAT,Radiometer,GERB,Geostationary Earth radiation budget,Operational
-,202,ESA/EUMETSAT,Radiometer,GRAS,GNSS receiver for atmospheric sounding,Operational
-,203,EUMETSAT,Radiometer,MHS,Microwave humidity sounder,Operational
-,205,EUMETSAT,Radiometer,MVIRI,METEOSAT visible and infrared imager,Operational
-,207,EUMETSAT,Radiometer,SEVIRI,Spinning enhanced visible and infrared imager,Operational
-,208,EUMETSAT,Imaging multi-spectral radiometer (vis/IR),VIRI,VIRI,Operational
-,209,ESA,Radiometer,MWR,EPS Sterna Radiometer,Operational
-,210,ESA/EUMETSAT/Thales Alenia Space,Imager,FCI,Flexible Combined Imager,Operational
-,211,ESA/EUMETSAT/Leonardo,Imager,LI,Lightning imager,Operational
-,212,ESA/EUMETSAT/OHB,Interferometer,IRS,Infrared sounder,Operational
-,213,ESA/EUMETSAT/Copernicus - Airbus,Spectrometer,S4,Ultraviolet and Near-Infrared Multispectral Spectrometer (S4 UVN),Operational
-,214,ESA,Spectrometer,CO2I,Integrated CO2 and NO2 Imaging Spectrometer,Operational
-,215,ESA,Multiple direction/polarization radiometer,MAP,Multi-Angle Polarimeter,Operational
-,216,ESA,Imaging multi-spectral radiometer (vis/IR),CLIM,Cloud Imager,Operational
-,220,ESA/EUMETSAT,Spectrometer,GOME-2,Global ozone monitoring experiment-2,Operational
-,221,CNES/EUMETSAT,Atmospheric temperature and humidity sounder,IASI,Infrared atmospheric sounding interferometer,Operational
-,230,ESA/EUMETSAT,Radiometer,3MI,Multi-viewing Multi-channel Multi-polarisation Imaging,Operational
-,231,CNES/EUMETSAT,Sounder - interferometer,IASI-NG,Infrared Atmospheric Sounding Interferometer - New Generation,Operational
-,232,DLR/EUMETSAT,Radiometer,METimage,Meteorological Imager,Operational
-,233,ESA/EUMETSAT,Radiometer,MWS,Microwave Sounder,Operational
-,234,ESA/EUMETSAT,Radio Occultation,RO,Radio Occultation,Operational
-,235,ESA/EUMETSAT/EU,Spectrometer,S5/UVNS,Copernicus Sentinel-5 Ultraviolet Visible Near-infrared and Shortwave-infrared Spectrometer,Operational
-,236,ESA/EUMETSAT,Radiometer,ICI,Ice Cloud Imager,Operational
-,237,ESA/EUMETSAT,Radiometer,MWI,Microwave Imager,Operational
-,238,ESA/EUMETSAT,Radar,SCA,Scatterometer,Operational
-,240,CAST,Communications,DCP,Data-collection platform transponder,Operational
-,245,CAST,Radiometer,CCD,High-resolution CCD camera,Operational
-,246,INPE,Atmospheric temperature and humidity sounder,HSB,Humidity sounder/Brazil,Operational
-,248,INPE,Imaging multi-spectral radiometer (vis/IR),OBA,Observador Brasileiro da Amazonia,Operational
-,250,CAST,Radiometer,WFI,Wide field imager,Operational
-,255,CAST,Spectrometer,IRMSS,Infrared multispectral scanner,Operational
-,260,ISRO,Precision orbit,BSS & FSS transponders,,Operational
-,261,ISRO,Precision orbit,DRT-S&R,,Operational
-,262,ISRO,Communications,INSAT Comms,Communications package for INSAT,Operational
-,268,ISRO,High-resolution optical imager,HR-PAN,High-resolution panchromatic camera,Operational
-,269,ISRO,Imaging multi-spectral radiometer (passive microwave),MSMR,Multifrequency scanning microwave radiometer,Operational
-,270,ISRO,Imaging multi-spectral radiometer (vis/IR),VHRR,Very high-resolution radiometer,Operational
-,271,ISRO,Imaging multi-spectral radiometer (vis/IR),WiFS,Wide field sensor,Operational
-,275,ISRO,High-resolution optical imager,AWiFS,Advanced wide field sensor,Operational
-,276,ISRO,High-resolution optical imager,LISS-I,Linear imaging self scanner-I,Operational
-,277,ISRO,High-resolution optical imager,LISS-II,Linear imaging self scanner-II,Operational
-,278,ISRO,High-resolution optical imager,LISS-III,Linear imaging self scanner-III,Operational
-,279,ISRO,High-resolution optical imager,LISS-IV,Linear imaging self scanner-IV,Operational
-,284,ISRO,High-resolution optical imager,PAN,Panchromatic sensor,Operational
-,285,ISRO,Imaging multi-spectral radiometer (vis/IR),MOS,Modular opto-electronic scanner,Operational
-,286,ISRO,Ocean colour instrument,OCM,Ocean colour monitor,Operational
-,287,ASI,,ROSA,Radio Occultation Sounder of the Atmosphere,Operational
-,288,ISRO,Scatterometer,SCAT,Scatterometer,Operational
-,289,ISRO,Optical imager,IMG,Imager,Operational
-,290,JMA,Communications,MTSAT Comms,Communications package for MTSAT,Operational
-,291,JMA,Communications,Himawari Comms,Communications package for Himawari,Operational
-,294,JMA,Imaging multi-spectral radiometer,JAMI,Japanese Advanced Meteorological Imager,Operational
-,295,JMA,Imaging multi-spectral radiometer,IMAGER/MTSAT-2,Imager/MTSAT-2,Operational
-,296,JMA,Imaging multi-spectral radiometer,VISSR,Visible and infrared spin scan radiometer,Operational
-,297,JMA,Imaging multi-spectral radiometer,AHI,Advanced Himawari Imager,Operational
-,300,NASA,Lidar,GLAS,Geoscience laser altimeter system,Operational
-,301,NASA,Precision orbit,LRA,Laser retroreflector array,Operational
-,302,NASA,Lidar,MBLA,Multi-beam laser altimeter,Operational
-,303,NASA,Lidar,CALIOP,Cloud-aerosol lidar with orthogonal polarization,Operational
-,309,NASA,Cloud profile and rain radar,CPR (Cloudsat),Cloud profiling radar,Operational
-,312,NASA,Radar,NSCAT,NASA scatterometer,Operational
-,313,NASA,Radar,SeaWinds,ADEOS II - NASA scatterometer,Operational
-,314,NASA,Radar,RapidScat,RapidScat scatterometer,Operational
-,330,NASA,Earth radiation budget radiometer,ACRIM,Active cavity radiometer irradiance monitor,Operational
-,334,NASA,Total and profile ozone,BUV,Backscatter ultraviolet instrument,Operational
-,336,NASA,High-resolution optical imager,ALI,Advanced land imager,Operational
-,347,NASA,High-resolution optical imager,ASTER,Advanced spaceborne thermal emission and reflection radiometer,Operational
-,348,NASA,Earth radiation budget radiometer,CERES-2,Cloud and the Earth's radiant energy system,Operational
-,351,NASA,Atmospheric temperature and humidity sounder,GPSDR,GPS demonstration receiver,Operational
-,353,NASA,Total and profile ozone,HiRDLS,High-resolution dynamics limb sounder,Operational
-,354,NASA,Total and profile ozone,HRDI,High-resolution Doppler imager,Operational
-,356,NASA,Radiometer,LIS,Lightning imaging sensor,Operational
-,358,NASA,"Magnetic field, auroal imagery scintillation boundary",PEM,Particle environment monitor,Operational
-,359,NASA,Ocean colour instrument,SeaWiFS,Sea-viewing wide field-of-view sensor,Operational
-,360,NASA,Earth radiation budget radiometer,SUSIM (UARS),Solar ultraviolet irradiance monitor,Operational
-,363,NASA,Total and profile ozone,SBUV/1,Solar backscatter ultraviolet 1 instrument,Operational
-,365,NASA,Imaging multi-spectral radiometer (passive microwave),TMI,TRMM microwave imager,Operational
-,366,NASA,Imaging multi-spectral radiometer (passive microwave),JMR,JASON-1 microwave radiometer,Operational
-,367,NASA,Imaging multi-spectral radiometer,AMR,Advanced microwave radiometer,Operational
-,368,NASA,Radiometer,MW radiometer,Microwave radiometer,Operational
-,369,NASA,Total and profile ozone,LIMS,Limb infrared monitor of the stratosphere,Operational
-,370,NASA,Total and profile ozone,LRIR,Limb radiance inversion radiometer instrument,Operational
-,371,NASA,Total and profile ozone,EPIC,Earth polychromatic imaging camera,Operational
-,372,NASA,Earth radiation budget radiometer,NISTAR,NIST advanced radiometer,Operational
-,373,NASA,"Magnetic field, auroal imagery scintillation boundary",Plasma-Mag,,Operational
-,374,NASA,Other,XPS,XUV photometer system,Operational
-,375,NASA,Imaging multi-spectral radiometer (vis/IR),VIRS,Visible infrared scanner,Operational
-,376,CNES,Multiple direction/polarization radiometer,POLDER II,Polarization and directionality of the Earth's reflectance-II,Operational
-,377,NASA,Earth radiation budget radiometer,TIM,Total irradiance monitor,Operational
-,379,NASA,Imaging multi-spectral radiometer (vis/IR),WFC,Wide field camera,Operational
-,382,NASA,Spectro-radiometer,CLAES,Cryogenic limb array etalon spectrometer,Operational
-,383,NASA,Spectro-radiometer,HALOE,Halogen occultation experiment,Operational
-,384,NASA,Spectro-radiometer,ISAMS,Improved stratospheric and mesospheric sounder,Operational
-,385,NASA,Spectro-radiometer,MISR,Multi-angle imaging spectroradiometer,Operational
-,386,NASA,Spectro-radiometer,MLS,Microwave limb sounder,Operational
-,387,NASA,Spectro-radiometer,MLS (EOS-Aura),Microwave limb sounder (EOS-Aura),Operational
-,389,NASA,Spectro-radiometer,MODIS,Moderate-resolution imaging spectroradiometer,Operational
-,393,NASA,Gravity,HAIRS,High accuracy inter-satellite ranging system,Operational
-,394,NASA,Total and profile ozone,OMI,Ozone measuring instrument,Operational
-,395,NASA,Radiometer,Atmospheric corrector,Atmospheric corrector,Operational
-,396,NASA,Radiometer,Hyperion,Hyperspectral imager,Operational
-,397,NASA,Radiometer,HRIR,High-resolution infrared radiometer,Operational
-,398,NASA,Radiometer,MRIR,Medium resolution infrared radiometer,Operational
-,399,NASA,Spectro-radiometer,SAGE I,Stratospheric aerosol and gas experiment-I,Operational
-,400,NASA,Spectro-radiometer,SAGE II,Stratospheric aerosol and gas experiment-II,Operational
-,401,NASA,Spectro-radiometer,SAGE III,Stratospheric aerosol and gas experiment-III,Operational
-,402,NASA,Spectro-radiometer,SAMS,Stratospheric and mesospheric sounder,Operational
-,403,NASA,Spectro-radiometer,SAM-II,Stratospheric aerosol measurement-II,Operational
-,404,NASA,Spectro-radiometer,IRIS,Infrared interferometer spectrometer,Operational
-,405,NASA,Atmospheric temperature and humidity sounder,GIFTS,Geosynchronous imaging Fourier transform spectrometer,Operational
-,420,NASA,Spectrometer,AIRS,Atmospheric Infrared sounder,Operational
-,421,NASA,Spectrometer,SIRS-A,Satellite infrared spectrometer-A,Operational
-,422,NASA,Spectrometer,SIRS-B,Satellite infrared spectrometer-B,Operational
-,426,NASA,Spectrometer,SOLSTICE,Solar stellar irradiance comparison experiment,Operational
-,430,NASA,Spectrometer,TES,Tropospheric emission spectrometer,Operational
-,431,NASA,Spectrometer,TOMS,Total ozone mapping spectrometer,Operational
-,432,NASA,Spectrometer,OCO,Orbiting carbon observatory,Operational
-,433,NASA,Spectrometer,TMS,TROPICS Millimeter-wave Sounder,Operational
-,434,NASA,MW radiometer,SMAP,Soil Moisture Active-Passive,Operational
-,435,NASA,Spectrometer,TEMPO,Tropospheric Emissions: Monitoring of Pollution,Operational
-,450,JAXA,Communications,ADEOS Comms,Communications package for ADEOS,Operational
-,451,JAXA,Communications,DCS (JAXA),Data-collection system (JAXA),Operational
-,453,NASDA,Communications,GMS Comms,Communications package on GMS,Operational
-,454,NASDA,Communications,JERS-1 Comms,Communications package for JERS-1,Operational
-,460,NASDA,Lidar,RIS,Retroreflector in space,Operational
-,461,NASDA,Radar,PR,Precipitation radar,Operational
-,462,NASDA,Imaging microwave radar,SAR,Synthetic aperture radar,Operational
-,470,JAXA,Imaging microwave radar,PALSAR,Phased array type L-band synthetic aperture radar,Operational
-,477,JAXA,Imaging multi spectral radiometer (passive microwave),AMSR3,Advanced Microwave Scanning Radiometer 3,Operational
-,478,JAXA,Imaging multi-spectral radiometer (passive microwave),AMSR2,Advanced Microwave Scanning Radiometer 2,Operational
-,479,JAXA,Imaging multi-spectral radiometer (passive microwave),AMSR-E,Advanced microwave scanning radiometer - EOS,Operational
-,480,JAXA,High-resolution optical imager,PRISM (ALOS),Panchromatic remote-sensing instrument for stereo mapping,Operational
-,481,JAXA,Radiometer,AMSR,Advanced microwave scanning radiometer,Operational
-,482,NASDA,High-resolution optical imager,AVNIR,Advanced visible and near infrared radiometer,Operational
-,483,JAXA,High-resolution optical imager,AVNIR-2,Advanced visible and near infrared radiometer type 2,Operational
-,484,JAXA,Imager,GLI,Global imager,Operational
-,485,NASDA,Radiometer,MESSR,Multispectral electronic self scanning radiometer,Operational
-,486,NASDA,Radiometer,MSR,Microwave scanning radiometer,Operational
-,487,NASDA,Radiometer,OCTS,Ocean colour and temperature scanner,Operational
-,488,NASDA,Radiometer,OPS,Optical sensor,Operational
-,489,NASDA,Radiometer,VISSR (GMS-5),Visible and infrared spin scan radiometer (GMS-5),Operational
-,490,NASDA,Radiometer,VTIR,Visible and thermal infrared radiometer,Operational
-,510,NASDA,Spectrometer,ILAS-I,Improved limb atmospheric spectrometer,Operational
-,511,NASDA,Spectrometer,ILAS-II,Improved limb atmospheric spectrometer,Operational
-,512,NASDA,Spectrometer,IMG,Inferometric monitor of greenhouse gases,Operational
-,514,NASDA,Space environment,SEM,Space environment monitor (NASDA),Operational
-,515,JAXA,Total and profile ozone,SOFIS,Solar occultation Fourier transform spectrometer for inclined orbit satellite,Operational
-,516,JAXA,Spectrometer,TANSO-FTS,Thermal and Near infrared Sensor for carbon Observations (TANSO) Fourier Transform Spectrometer (FTS),Operational
-,517,JAXA,Imager,TANSO-CAI,Thermal and Near infrared Sensor for carbon Observations (TANSO) Cloud and Aerosol Imager (CAI),Operational
-,518,JAXA,Cloud and precipitation radar,DPR,Dual-frequency precipitation radar,Operational
-,519,NASA,"MW imaging/sounding radiometer, conical scanning",GMI,GPM microwave imager,Operational
-,520,NASA,Imaging radiometer,SMMR,Scanning Multichannel Microwave Radiometer,Operational
-,521,JAXA,Spectrometer,TANSO-FTS2,Thermal and Near infrared Sensor for carbon Observations (TANSO) - Fourier Transform Spectrometer/2,Operational
-,526,GeoOptics,GNSS occultation sounder,Cion-A,GeoOptics Cion GNSS occultation receiver A,Operational
-,527,GeoOptics,GNSS occultation sounder,Cion-B,GeoOptics Cion GNSS occultation receiver B,Operational
-,528,GeoOptics,GNSS occultation sounder,Cion-C,GeoOptics Cion GNSS occultation receiver C,Operational
-,529,GeoOptics,GNSS occultation sounder,Cion-D,GeoOptics Cion GNSS occultation receiver D,Operational
-,530,Spire,GNSS occultation sounder,SGNOS-A,Spire global navigation satellite system occultation sounder A,Operational
-,531,Spire,GNSS occultation sounder,SGNOS-B,Spire global navigation satellite system occultation sounder B,Operational
-,532,Spire,GNSS occultation sounder,SGNOS-C,Spire global navigation satellite system occultation sounder C,Operational
-,533,Spire,GNSS occultation sounder,SGNOS-D,Spire global navigation satellite system occultation sounder D,Operational
-,534,PlanetiQ,GNSS occultation sounder,Pyxis-A,PlanetiQ Pyxis GNSS occultation receiver A,Operational
-,535,PlanetiQ,GNSS occultation sounder,Pyxis-B,PlanetiQ Pyxis GNSS occultation receiver B,Operational
-,536,tomorrow.io,Radiometer,TMS (Tomorrow),Tomorrow Microwave Sounder,Operational
-,537,tomorrow.io,Radar,KAPR,Ka band precipitation radar,Operational
-,540,NOAA,Communications,DCS (NOAA),Data-collection system (NOAA),Operational
-,541,NOAA,Communications,GOES Comms,Communications package on GOES,Operational
-,542,NOAA,Communications,LANDSAT Comms,Communications package for LANDSAT,Operational
-,543,NOAA,Communications,NOAA Comms,Communications package for NOAA,Operational
-,544,NOAA,Communications,S&R (GOES),Search and rescue,Operational
-,545,NOAA,Communications,S&R (NOAA),Search and rescue,Operational
-,546,NOAA,Communications,WEFAX,Weather facsimile,Operational
-,547,NOAA,Spectrometer,SEM (GOES),Space environment monitor,Operational
-,550,NOAA,Magnetic field,SSM,Special sensor magnetometer,Operational
-,551,NOAA,Magnetic field,SSJ/4,Special sensor precipitating plasma monitor,Operational
-,552,NOAA,Space environment,SSIES-2,Special sensor ionospheric plasma drift/scintillation meter,Operational
-,553,NOAA,Space environment,SSB/X-2,Special sensor gamma ray particle detector,Operational
-,570,NOAA,Radiometer,AMSU-A,Advanced microwave sounding unit-A,Operational
-,574,NOAA,Radiometer,AMSU-B,Advanced microwave sounding unit-B,Operational
-,580,NOAA,Radiometer,ATOVS (HIRS/3 + AMSU + AVHRR/3),Advanced TIROS operational vertical sounder,Operational
-,590,NOAA,Radiometer,AVHRR/2,Advanced very high-resolution radiometer/2,Operational
-,591,NOAA,Radiometer,AVHRR/3,Advanced very high-resolution radiometer/3,Operational
-,592,NOAA,Radiometer,AVHRR/4,Advanced very high-resolution radiometer/4,Operational
-,600,NOAA,Radiometer,ERBE,Earth's radiation budget experiment,Operational
-,601,NOAA,Radiometer,ETM+,Enhanced thematic mapper,Operational
-,604,NOAA,Radiometer,HIRS/1,High-resolution infrared sounder/1,Operational
-,605,NOAA,Radiometer,HIRS/2,High-resolution infrared sounder/2,Operational
-,606,NOAA,Radiometer,HIRS/3,High-resolution infrared sounder/3,Operational
-,607,NOAA,Radiometer,HIRS/4,High-resolution infrared sounder/4,Operational
-,615,NOAA,Radiometer,IMAGER,Imager,Operational
-,616,NOAA,Imaging multi-spectral radiometer (vis/IR),VIIRS,Visible/infrared imager radiometer suite,Operational
-,617,NOAA,Imaging multi-spectral radiometer,ABI,Advanced baseline imager,Operational
-,618,NOAA,High-resolution optical imager,GLM,Geostationary lightning mapper,Operational
-,620,NOAA,Atmospheric temperature and humidity sounder,CrIS/NP,Cross-track infrared sounder/NPOESS,Operational
-,621,NOAA,Atmospheric temperature and humidity sounder,ATMS,Advanced technology microwave sounder,Operational
-,622,NOAA,Radiometer,MSS,Multispectral scanning system,Operational
-,623,NOAA,Radiometer,MSU,Microwave sounding unit,Operational
-,624,NOAA,Radiometer,SBUV/2,Solar backscatter ultraviolet instrument/2,Operational
-,625,NOAA,Radiometer,SBUV/3,Solar backscatter ultraviolet instrument/3,Operational
-,626,NOAA,Radiometer,SOUNDER,SOUNDER,Operational
-,627,NOAA,Radiometer,SSU,Stratospheric sounding unit,Operational
-,628,NOAA,Radiometer,TM,Thematic mapper,Operational
-,629,NOAA,Radiometer,TOVS (HIRS/2 + MSU + SSU),TIROS operational vertical sounder,Operational
-,630,NOAA,Radiometer,VAS,VISSR atmospheric sounder,Operational
-,631,NOAA,Radiometer,SSZ,,Operational
-,645,NOAA,Spectrometer,SEM,Space environment monitor,Operational
-,650,NRSCC,Radiometer,MVIRSR (10 channel),Multispectral visible and infrared scan radiometer,Operational
-,651,NRSCC,Radiometer,MVIRSR (3 channel),Multispectral visible and infrared scan radiometer,Operational
-,652,NRSCC,Radiometer,MVIRSR (5 channel),Multispectral visible and infrared scan radiometer,Operational
-,670,NSAU,Radar,RLSBO,Side looking microwave radar,Operational
-,680,NSAU,High-resolution optical imager,MSU-EU,Multispectral radiometer with high-resolution,Operational
-,681,NSAU,Imaging multi-spectral radiometer (vis/IR),MSU-UM,Visible multispectral radiometer,Operational
-,682,NSAU,Radiometer,RM-08,Imaging microwave radiometer,Operational
-,683,NSAU,High-resolution optical imager,SU-UMS,Stereo radiometer with high-resolution,Operational
-,684,NSAU,High-resolution optical imager,SU-VR,Visible radiometer with high-resolution,Operational
-,685,NSAU,Radiometer,TRASSER,,Operational
-,686,SOA,Scatterometer,SCAT,Scatterometer,Operational
-,687,SOA,Radar altimeter,ALT,Radar altimeter,Operational
-,688,SOA,Microwave radiometer,MWI,Microwave radiometer,Operational
-,689,ME(NIER),Spectrometer,GEMS,Geostationary Environmental Monitoring Spectrometer,Operational
-,700,ROSCOSMOS,Communications,KONDOR-2,Data-collection and transmission system,Operational
-,701,ROSCOSMOS,Communications,BRK,,Operational
-,710,ROSCOSMOS,Lidar,ALISSA,Backscatter lidar,Operational
-,712,ROSCOSMOS,Lidar,Balkan-2 lidar,,Operational
-,715,ROSCOSMOS,Lidar,MK-4,,Operational
-,716,ROSCOSMOS,Lidar,MK-4M,,Operational
-,730,ROSCOSMOS,Radar,Greben,Radar altimeter,Operational
-,731,ROSCOSMOS,Radar,SAR-10,Synthetic aperture radar,Operational
-,732,ROSCOSMOS,Radar,SAR-3,Synthetic aperture radar,Operational
-,733,ROSCOSMOS,Radar,SAR-70,Synthetic aperture radar,Operational
-,740,ROSCOSMOS,Radar,SLR-3,Side looking radar,Operational
-,745,ROSCOSMOS,Radar,Travers SAR,,Operational
-,750,ROSCOSMOS,Radiometer,174-K,Temperature and humidity profiler,Operational
-,751,ROSCOSMOS,Radiometer,BTVK,Scanning television radiometer,Operational
-,752,ROSCOSMOS,Radiometer,Chaika,Scanning infrared radiometer,Operational
-,753,ROSCOSMOS,Radiometer,DELTA-2,Multispectral microwave scanner,Operational
-,755,ROSCOSMOS,Radiometer,IKAR-D,Multispectral microwave scanner,Operational
-,756,ROSCOSMOS,Radiometer,IKAR-N,Multispectral microwave scanner,Operational
-,757,ROSCOSMOS,Radiometer,IKAR-P,Multispectral microwave scanner,Operational
-,760,ROSCOSMOS,Radiometer,ISP,,Operational
-,761,ROSCOSMOS,Radiometer,KFA-1000,Photographic camera,Operational
-,762,ROSCOSMOS,Radiometer,KFA-200,Photographic camera,Operational
-,763,ROSCOSMOS,Radiometer,KFA-3000,Photographic camera,Operational
-,770,ROSCOSMOS,Radiometer,Klimat,Scanning infrared radiometer,Operational
-,771,ROSCOSMOS,Radiometer,Klimat-2,Scanning infrared radiometer,Operational
-,775,ROSCOSMOS,Radiometer,MIRAS,,Operational
-,776,ROSCOSMOS,Radiometer,MIVZA,,Operational
-,777,ROSCOSMOS,Radiometer,MIVZA-M,Microwave scanning radiometer,Operational
-,780,ROSCOSMOS,Radiometer,MR-2000,,Operational
-,781,ROSCOSMOS,Radiometer,MR-2000M,,Operational
-,785,ROSCOSMOS,Radiometer,MR-900,Scanning telephotometer,Operational
-,786,ROSCOSMOS,Radiometer,MR-900B,Scanning visual band telephotometer,Operational
-,790,ROSCOSMOS,Radiometer,MSU-E,Multispectral high-resolution electronic scanner,Operational
-,791,ROSCOSMOS,Radiometer,MSU-E1,Multispectral high-resolution electronic scanner,Operational
-,792,ROSCOSMOS,Radiometer,MSU-E2,Multispectral high-resolution electronic scanner,Operational
-,793,ROSCOSMOS,Radiometer,MSU-M,,Operational
-,794,ROSCOSMOS,Radiometer,MSU-S,Multispectral medium-resolution scanner,Operational
-,795,ROSCOSMOS,Radiometer,MSU-SK,Multispectral medium-resolution conical scanner,Operational
-,796,ROSCOSMOS,Radiometer,MSU-V,Multispectral high-resolution conical scanner,Operational
-,810,ROSCOSMOS,Radiometer,MTZA,Scanning microwave radiometer,Operational
-,815,ROSCOSMOS,Imaging multi-spectral radiometer (passive microwave),MZOAS,Scanning microwave radiometer,Operational
-,820,ROSCOSMOS,Imaging multi-spectral radiometer (passive microwave),R-225,Single channel microwave radiometer,Operational
-,821,ROSCOSMOS,Radiometer,R-400,,Operational
-,822,ROSCOSMOS,Radiometer,R-600,Single channel microwave radiometer,Operational
-,830,ROSCOSMOS,Radiometer,RMS,Radiation measurement system,Operational
-,835,ROSCOSMOS,Radiometer,TV camera,,Operational
-,836,ROSCOSMOS,Radiometer,SILVA,,Operational
-,840,ROSCOSMOS,Spectro-radiometer,SROSMO,Spectroradiometer for ocean monitoring,Operational
-,850,ROSCOSMOS,Spectrometer,BUFS-2,Backscatter spectrometer/2,Operational
-,851,ROSCOSMOS,Spectrometer,BUFS-4,Backscatter spectrometer/4,Operational
-,855,ROSCOSMOS,Spectrometer,ISTOK-1,Infrared spectrometer,Operational
-,856,ROSCOSMOS,Spectrometer,SFM-2,Spectrometer to measure direct solar radiation,Operational
-,857,ROSCOSMOS,Spectrometer,DOPI,,Operational
-,858,ROSCOSMOS,Spectrometer,KGI-4,,Operational
-,859,ROSCOSMOS,Spectrometer,Ozon-M,,Operational
-,860,ROSCOSMOS,Spectrometer,RMK-2,,Operational
-,861,ROSCOSMOS,Atmospheric temperature and humidity sounder,MTVZA-GY,Module for temperature and humidity sounding in the atmosphere,Operational
-,862,ROSCOSMOS,Spectrometer,IKFS-2,Infrared Fourier spectrometer,Operational
-,900,NOAA,Radiometer,MAXIE,Magnetospheric atmospheric X-ray imaging experiment,Operational
-,901,NOAA,Radiometer,OLS,Operational linescan system,Operational
-,905,NOAA,Radiometer,SSM/I,Mission sensor microwave imager,Operational
-,906,NOAA,Radiometer,SSM/T-1,Mission sensor microwave temperature sounder,Operational
-,907,NOAA,Radiometer,SSM/T-2,Mission sensor microwave water vapour sounder,Operational
-,908,NOAA,Radiometer,SSMIS,Special sensor microwave imager sounder,Operational
-,909,NOAA,Radiometer,VTPR,Vertical temperature profile radiometer,Operational
-,910,NOAA,Radiometer,SXI,Solar X-ray imager,Operational
-,911,DoD,Passive microwave radiometer,MWI,MicroWave Imager on WSF-M,Operational
-,930,NOAA,Spectrometer,EHIC,Energetic heavy ion composition experiment,Operational
-,931,NOAA,Spectrometer,X-ray astronomy payload,,Operational
-,932,NRSCC,Imaging multi-spectral radiometer (vis/IR),IVISSR (FY-2),Improved multispectral visible and Infrared scan radiometer (5 channels),Operational
-,933,NRSCC,Atmospheric temperature and humidity sounder,IRAS,Infrared atmospheric sounder,Operational
-,934,NRSCC,Atmospheric temperature and humidity sounder,MWAS,Microwave atmospheric sounder,Operational
-,935,NRSCC,Atmospheric temperature and humidity sounder,IMWAS,Improved Microwave atmospheric sounder,Operational
-,936,NRSCC,Atmospheric temperature and humidity sounder,MWHS,Microwave humidity sounder,Operational
-,937,NRSCC,Imaging multi-spectral radiometer (vis/IR),MVIRS,Moderate resolution visible and infrared imaging spectroradiometer,Operational
-,938,NRSCC,Imaging multi-spectral radiometer (passive microwave),MWRI,Microwave radiation imager,Operational
-,940,ROSCOSMOS,Atmospheric temperature and humidity sounder,MTVZA-OK,Scanning microwave radiometer,Operational
-,941,CNES,Atmospheric temperature and humidity sounder,SAPHIR,,Operational
-,942,CNES,Microwave imager,MADRAS,Microwave Analysis and Detection of Rain and Atmospheric Structures,Operational
-,943,CNSA,Scatterometer,SCAT (on CFOSAT),Scatterometer,Operational
-,944,NOAA,Radar altimeter,ALT,Altimeter,Operational
-,945,NOAA,Earth radiation budget radiometer,TSIS,Total solar irradiance sensor,Operational
-,946,NOAA,Imaging multi-spectral radiometer (passive microwave),CMIS,Conical-scanning microwave imager/sounder,Operational
-,947,NOAA,Total and profile ozone,OMPS-nadir,Ozone mapping and profiler suite,Operational
-,948,NOAA,Space environment atmospheric temperature and humidity sounder,GPSOS,Global positioning system occultation sensor,Operational
-,949,NOAA,"Magnetic field, auroal imagery scintillation boundary",SESS,Space environmental sensor suite,Operational
-,950,NRSCC,Imaging multi-spectral radiometer (vis/IR),VIRR,Multispectral visible and infrared scan radiometer (10 channels),Operational
-,951,NRSCC,Total and profile ozone,TOM,Total ozone mapper,Operational
-,952,NRSCC,Total and profile ozone,OP,Ozone profiler,Operational
-,953,CMA,"Microwave sounding radiometer, crosstrack scanning",MWHS-2,Microwave humidity sounder-2,Operational
-,954,CMA,"Microwave sounding radiometer, crosstrack scanning",MWTS-2,Microwave temperature sounder-2,Operational
-,955,CMA,Cross-nadir scanning IR sounder,HIRAS,Hyperspectral infrared atmospheric sounder,Operational
-,956,CMA,Spectrometer,SBUS,Solar backscatter ultraviolet sounder,Operational
-,957,CMA,Spectrometer,TOU,Total ozone unit,Operational
-,958,CMA,GNSS occultation sounder,GNOS,Global navigation satellite system occultation sounder,Operational
-,959,SNSB,Limb-scanning sounder,SMR,Sub-millimetre radiometer,Operational
-,960,NASA,Total and profile ozone,OMPS-limb,Ozone Mapping and Profiler Suite,Operational
-,961,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",AGRI-1,Advanced Geostationary Radiation Imager-1,Operational
-,962,CMA,"Hyperspectral infrared sounding radiometer, step-stare scanning",GIIRS-1,Geostationary Interferometric Infrared Sounder-1,Operational
-,963,CMA,High-resolution optical imager,LMI,Lightning Mapping Imager,Operational
-,964,CMA,Space environment,SEP,Space Environment Package,Operational
-,965,CMA,GNSS occultation,GNOS-2,GNSS radio occultation sounder-2,Operational
-,966,CMA,"Microwave sounding radiometer,cross-track scanning",MWTS-3,Microwave temperature sounder-3,Operational
-,967,CMA,"Hyperspectral infrared sounding radiometer, step-stare scanning",GIIRS-2,Geostationary Interferometric Infrared Sounder-2,Operational
-,968,CMA,"Hyperspectral infrared sounding radiometer, step-stare scanning",GIIRS-3,Geostationary Interferometric Infrared Sounder-3,Operational
-,969,CMA,"Hyperspectral infrared sounding radiometer, step-stare scanning",GIIRS-4,Geostationary Interferometric Infrared Sounder-4,Operational
-,970,CMA,"Hyperspectral infrared sounding radiometer, step-stare scanning",GIIRS-5,Geostationary Interferometric Infrared Sounder-5,Operational
-,971,CMA,"Hyperspectral infrared sounding radiometer, step-stare scanning",GIIRS-6,Geostationary Interferometric Infrared Sounder-6,Operational
-,972,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",AGRI-2,Advanced Geostationary Radiation Imager-2,Operational
-,973,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",AGRI-3,Advanced Geostationary Radiation Imager-3,Operational
-,974,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",AGRI-4,Advanced Geostationary Radiation Imager-4,Operational
-,975,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",AGRI-5,Advanced Geostationary Radiation Imager-5,Operational
-,976,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",AGRI-6,Advanced Geostationary Radiation Imager-6,Operational
-,977,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",GHI,Geostationary High-speed Imager,Operational
-,978,CNES,Spectrometer,MicroCarb,Carbon Dioxide Monitoring Mission,Operational
-,979,Reserved,,,,Operational
-,980,KMA,Imager,AMI,Advanced Meteorological Imager,Operational
-,981,KMA,Imager,MI,Meteorological Imager,Operational
-,982,KMA,Space environment,KSEM,Korea Space wEather Monitor,Operational
-,983,CMA,"Cross-track scanning, IR Hyperspectral sounder",HIRAS-2,Hyperspectral infrared atmospheric sounder-2,Operational
-,984,CMA,"Cross-track scanning, IR Hyperspectral sounder",HIRAS-3,Hyperspectral infrared atmospheric sounder-3,Operational
-,985,CMA,Conical scanning microwave imager,MWRI-1,Microwave radiation imager-1,Operational
-,986,CMA,Conical scanning microwave imager,MWRI-2,Microwave radiation imager-2,Operational
-,987,CMA,Conical scanning microwave imager,MWRI-RM,Microwave radiation imager-Rain Mission,Operational
-,988,CMA,Conical scanning dual-frequency scatterometer,WindRAD,Wind Radar,Operational
-,989,CMA,GNSS occultation,TGNOS-M,Tianmu Global Navigation Satellite System Occultation Sounder,Operational
-,990,NASA,Radiometer,SMMR,Scanning multichannel microwave radiometer,Operational
-,991,NASA,Radiometer,THIR,Temperature-humidity infrared radiometer,Operational
-,992,NASA,Radiometer,NEMS,"Nimbus-E Microwave Sounder",Operational
-,993,NASA,Radiometer,SCAMS,Scanning Microwave Spectrometer,Operational
-,994,NASA,Radiometer,ESMR,Electrically Scanning Microwave Radiometer,Operational
-,995-999,Reserved,,,,Operational
-,1000-2046,Reserved for long-term future use,,,,Operational
-,2047,Missing value,,,,Operational
+tmp-id,7,DoD,Infrared radiometer,SSH,Special Sensor H,Operational
+tmp-id,8,DoD,Radiometer,SSM/T,"Special Sensor Microwave-Temperature",Operational
+tmp-id,9,DoD,Radiometer,SSM/T2,"Special Sensor Microwave-Humidity",Operational
+tmp-id,10,BNSC,Radiometer,AATSR,Advanced along track scanning radiometer,Operational
+tmp-id,11,BNSC,Radiometer,ATSR,Along track scanning radiometer,Operational
+tmp-id,12,BNSC,Radiometer,ATSR-2,Along track scanning radiometer-2,Operational
+tmp-id,13,BNSC,Radiometer,MWR,Microwave radiometer,Operational
+tmp-id,14,UKSA,Radiometer,PMR,Pressure modulator radiometer,Operational
+tmp-id,15,UKSA,Radiometer,SCR,Selective Chopper Radiometer,Operational
+tmp-id,30,CNES,Communications,ARGOS,,Operational
+tmp-id,40,CNES,Lidar,Laser reflectors,,Operational
+tmp-id,41,CNES,Lidar,DORIS,Doppler orbitography and radio-positioning integrated by satellite,Operational
+tmp-id,42,CNES,Lidar,DORIS-NG,Doppler orbitography and radio-positioning integrated by satellite-NG,Operational
+tmp-id,47,CNES,Radar altimeter,POSEIDON-1 (SSALT1),"Positioning ocean, solid Earth, ice dynamics orbiting navigator (single frequency solid state radar altimeter)",Operational
+tmp-id,48,CNES,Radar altimeter,POSEIDON-2 (SSALT2),"Positioning ocean, solid Earth, ice dynamics orbiting navigator (double frequency solid state radar altimeter)",Operational
+tmp-id,49,CNES,Radar altimeter,POSEIDON-3 (SSALT3),"Positioning ocean, solid Earth, ice dynamics orbiting navigator (double frequency solid state radar altimeter)",Operational
+tmp-id,50,CNES,Imaging radiometer,ATSR/M,ATSR/M,Operational
+tmp-id,51,CNES,High-resolution optical imager,HRG,,Operational
+tmp-id,52,CNES,Radiometer,HRV,High-resolution visible,Operational
+tmp-id,53,CNES,Radiometer,HRVIR,High-resolution visible and infrared,Operational
+tmp-id,54,CNES,Radiometer,ScaRaB/MV2,Scanner for Earth's radiation budget,Operational
+tmp-id,55,CNES,Radiometer,POLDER,POLDER,Operational
+tmp-id,56,CNES,Imaging multi-spectral radiometer,IIR,Imaging Infrared Radiometer,Operational
+tmp-id,57,ESA/EUMETSAT,Radar altimeter,POSEIDON-4,"High precision altimetry, dual frequency (C- and Ku-band) pulse-width limited radar altimeter, synthetic-aperture processing, interleaved Low Rate and High Rate",Operational
+tmp-id,60,CNES,Spectrometer,VEGETATION,VEGETATION,Operational
+tmp-id,61,CNES,Spectrometer,WINDII,WINDII,Operational
+tmp-id,62,CNES,Altimeter,AltiKa,Ka band Radar Altimeter,Operational
+tmp-id,63,CNES,Rotating multi-beam altimeter,SWIM,Surface Waves Investigation and Monitoring,Operational
+tmp-id,80,CSA,Communications,RADARSAT DTT,,Operational
+tmp-id,81,CSA,Communications,RADARSAT TTC,,Operational
+tmp-id,85,CSA,Radar,SAR (CSA),Synthetic aperture radar (CSA),Operational
+tmp-id,90,CSA,Radiometer,MOPITT,Measurements of pollution in the troposphere,Operational
+tmp-id,91,CSA,Atmospheric chemistry instrument,OSIRIS,Optical spectrograph and Infrared imaging system,Operational
+tmp-id,92,CSA,Limb-scanning sounder,ACE-FTS,Atmospheric Chemistry Experiment - Fourier Transform Spectrometer,Operational
+tmp-id,97,CSIRO,Radiometer,Panchromatic imager,,Operational
+tmp-id,98,CRCSS,Atmospheric temperature and humidity sounder,GPS receiver,,Operational
+tmp-id,102,DLR,Radiometer,CHAMP GPS sounder,GPS turborogue space receiver (TRSR),Operational
+tmp-id,103,DLR,Radiometer,IGOR,Integrated GPS and Occultation Receiver,Operational
+tmp-id,104,NASA,GNSS occultation sounder,Tri-G,"Triple-G (GPS, Galileo, GLONASS)",Operational
+tmp-id,116,DLR,Magnetometer,CHAMP gravity package (Accelerometer+GPS),STAR accelerometer,Operational
+tmp-id,117,DLR,Magnetometer,CHAMP magnetometry package (1 scalar+2 vector magnetometer),Overhauser magnetometer (OVM) and fluxgate magnetometer (FGM),Operational
+tmp-id,120,ESA,Communications,ENVISAT Comms,Communications package on ENVISAT,Operational
+tmp-id,121,ESA,Communications,ERS Comms,Communication package for ERS,Operational
+tmp-id,130,ESA,Lidar,ALADIN,Atmospheric laser Doppler instrument,Operational
+tmp-id,131,ESA,Lidar,ATLID,Atmospheric lidar,Operational
+tmp-id,140,ESA,Radar,AMI/SAR/image,Active microwave instrumentation image mode,Operational
+tmp-id,141,ESA,Radar,AMI/SAR/wave,Active microwave instrumentation wave mode,Operational
+tmp-id,142,ESA,Radar,AMI/scatterometer,Active microwave instrumentation wind mode,Operational
+tmp-id,143,ESA,Radar,ASAR,ASAR,Operational
+tmp-id,144,ESA,Imaging microwave,ASAR,Advanced synthetic aperture radar (image mode),Operational
+tmp-id,145,ESA,Imaging microwave,ASAR,Advanced synthetic aperture radar (wave mode),Operational
+tmp-id,146,ESA,Cloud profile and rain radar,CPR,Cloud radar,Operational
+tmp-id,147,ESA,Radar,RA-2/MWR,Radar altimeter-2,Operational
+tmp-id,148,ESA,Radar,RA/MWR,Radar altimeter,Operational
+tmp-id,150,ESA,Scatterometer,SCATTEROMETER,Scatterometer,Operational
+tmp-id,151,ESA,Imaging radar,SAR-C,Synthetic Aperture Radar (C-band),Operational
+tmp-id,152,ESA,Cross-nadir scanning,SW,Sounder TROPOMI Tropospheric Monitoring Instrument,Operational
+tmp-id,161,ESA,Radiometer,MIPAS,Michelson interferometric passive atmosphere sounder,Operational
+tmp-id,162,ESA,Imaging multi-spectral radiometer (passive microwave),MWR-2,Microwave radiometer-2,Operational
+tmp-id,163,ESA,Atmospheric chemistry instrument,SOPRANO,Sub-millimetre observation of processes in the absorption noteworthy for ozone,Operational
+tmp-id,170,ESA,Atmospheric chemistry instrument,GOME,Global ozone monitoring experiment,Operational
+tmp-id,172,ESA,Spectrometer,GOMOS,Global ozone monitoring by occultation of stars,Operational
+tmp-id,173,ESA,Spectrometer,ALTIUS,Atmospheric Limb Tracker for Investigation of the Upcoming Stratosphere,Operational
+tmp-id,174,ESA,Spectrometer,MERIS,Medium resolution imaging spectrometer,Operational
+tmp-id,175,ESA,Spectrometer,SCIAMACHY,Scanning imaging absorption spectrometer for atmospheric cartography,Operational
+tmp-id,176,ESA,Radiometer,MIRAS,Microwave imaging radiometer using aperture synthesis,Operational
+tmp-id,177,ESA,Radar Altimeter,SIRAL,SAR/Interferometric Radar Altimeter,Operational
+tmp-id,178,ESA,Radar altimeter,SRAL,Synthetic aperture radar altimeter,Operational
+tmp-id,179,ESA,Moderate resolution optical imager,OLCI,Ocean and land colour imager,Operational
+tmp-id,180,ESA,Moderate resolution optical imager,SLSTR,Sea and land surface temperature radiometer,Operational
+tmp-id,181,EUMETSAT,Communications,METEOSAT Comms,Communications package for METEOSAT,Operational
+tmp-id,182,EUMETSAT,Communications,MSG Comms,Communications package for MSG,Operational
+tmp-id,190,ESA/EUMETSAT,Scatterometer,ASCAT,Advanced scatterometer,Operational
+tmp-id,200,EUMETSAT,Radiometer,GERB,Geostationary Earth radiation budget,Operational
+tmp-id,202,ESA/EUMETSAT,Radiometer,GRAS,GNSS receiver for atmospheric sounding,Operational
+tmp-id,203,EUMETSAT,Radiometer,MHS,Microwave humidity sounder,Operational
+tmp-id,205,EUMETSAT,Radiometer,MVIRI,METEOSAT visible and infrared imager,Operational
+tmp-id,207,EUMETSAT,Radiometer,SEVIRI,Spinning enhanced visible and infrared imager,Operational
+tmp-id,208,EUMETSAT,Imaging multi-spectral radiometer (vis/IR),VIRI,VIRI,Operational
+tmp-id,209,ESA,Radiometer,MWR,EPS Sterna Radiometer,Operational
+tmp-id,210,ESA/EUMETSAT/Thales Alenia Space,Imager,FCI,Flexible Combined Imager,Operational
+tmp-id,211,ESA/EUMETSAT/Leonardo,Imager,LI,Lightning imager,Operational
+tmp-id,212,ESA/EUMETSAT/OHB,Interferometer,IRS,Infrared sounder,Operational
+tmp-id,213,ESA/EUMETSAT/Copernicus - Airbus,Spectrometer,S4,Ultraviolet and Near-Infrared Multispectral Spectrometer (S4 UVN),Operational
+tmp-id,214,ESA,Spectrometer,CO2I,Integrated CO2 and NO2 Imaging Spectrometer,Operational
+tmp-id,215,ESA,Multiple direction/polarization radiometer,MAP,Multi-Angle Polarimeter,Operational
+tmp-id,216,ESA,Imaging multi-spectral radiometer (vis/IR),CLIM,Cloud Imager,Operational
+tmp-id,220,ESA/EUMETSAT,Spectrometer,GOME-2,Global ozone monitoring experiment-2,Operational
+tmp-id,221,CNES/EUMETSAT,Atmospheric temperature and humidity sounder,IASI,Infrared atmospheric sounding interferometer,Operational
+tmp-id,230,ESA/EUMETSAT,Radiometer,3MI,Multi-viewing Multi-channel Multi-polarisation Imaging,Operational
+tmp-id,231,CNES/EUMETSAT,Sounder - interferometer,IASI-NG,Infrared Atmospheric Sounding Interferometer - New Generation,Operational
+tmp-id,232,DLR/EUMETSAT,Radiometer,METimage,Meteorological Imager,Operational
+tmp-id,233,ESA/EUMETSAT,Radiometer,MWS,Microwave Sounder,Operational
+tmp-id,234,ESA/EUMETSAT,Radio Occultation,RO,Radio Occultation,Operational
+tmp-id,235,ESA/EUMETSAT/EU,Spectrometer,S5/UVNS,Copernicus Sentinel-5 Ultraviolet Visible Near-infrared and Shortwave-infrared Spectrometer,Operational
+tmp-id,236,ESA/EUMETSAT,Radiometer,ICI,Ice Cloud Imager,Operational
+tmp-id,237,ESA/EUMETSAT,Radiometer,MWI,Microwave Imager,Operational
+tmp-id,238,ESA/EUMETSAT,Radar,SCA,Scatterometer,Operational
+tmp-id,240,CAST,Communications,DCP,Data-collection platform transponder,Operational
+tmp-id,245,CAST,Radiometer,CCD,High-resolution CCD camera,Operational
+tmp-id,246,INPE,Atmospheric temperature and humidity sounder,HSB,Humidity sounder/Brazil,Operational
+tmp-id,248,INPE,Imaging multi-spectral radiometer (vis/IR),OBA,Observador Brasileiro da Amazonia,Operational
+tmp-id,250,CAST,Radiometer,WFI,Wide field imager,Operational
+tmp-id,255,CAST,Spectrometer,IRMSS,Infrared multispectral scanner,Operational
+tmp-id,260,ISRO,Precision orbit,BSS & FSS transponders,,Operational
+tmp-id,261,ISRO,Precision orbit,DRT-S&R,,Operational
+tmp-id,262,ISRO,Communications,INSAT Comms,Communications package for INSAT,Operational
+tmp-id,268,ISRO,High-resolution optical imager,HR-PAN,High-resolution panchromatic camera,Operational
+tmp-id,269,ISRO,Imaging multi-spectral radiometer (passive microwave),MSMR,Multifrequency scanning microwave radiometer,Operational
+tmp-id,270,ISRO,Imaging multi-spectral radiometer (vis/IR),VHRR,Very high-resolution radiometer,Operational
+tmp-id,271,ISRO,Imaging multi-spectral radiometer (vis/IR),WiFS,Wide field sensor,Operational
+tmp-id,275,ISRO,High-resolution optical imager,AWiFS,Advanced wide field sensor,Operational
+tmp-id,276,ISRO,High-resolution optical imager,LISS-I,Linear imaging self scanner-I,Operational
+tmp-id,277,ISRO,High-resolution optical imager,LISS-II,Linear imaging self scanner-II,Operational
+tmp-id,278,ISRO,High-resolution optical imager,LISS-III,Linear imaging self scanner-III,Operational
+tmp-id,279,ISRO,High-resolution optical imager,LISS-IV,Linear imaging self scanner-IV,Operational
+tmp-id,284,ISRO,High-resolution optical imager,PAN,Panchromatic sensor,Operational
+tmp-id,285,ISRO,Imaging multi-spectral radiometer (vis/IR),MOS,Modular opto-electronic scanner,Operational
+tmp-id,286,ISRO,Ocean colour instrument,OCM,Ocean colour monitor,Operational
+tmp-id,287,ASI,,ROSA,Radio Occultation Sounder of the Atmosphere,Operational
+tmp-id,288,ISRO,Scatterometer,SCAT,Scatterometer,Operational
+tmp-id,289,ISRO,Optical imager,IMG,Imager,Operational
+tmp-id,290,JMA,Communications,MTSAT Comms,Communications package for MTSAT,Operational
+tmp-id,291,JMA,Communications,Himawari Comms,Communications package for Himawari,Operational
+tmp-id,294,JMA,Imaging multi-spectral radiometer,JAMI,Japanese Advanced Meteorological Imager,Operational
+tmp-id,295,JMA,Imaging multi-spectral radiometer,IMAGER/MTSAT-2,Imager/MTSAT-2,Operational
+tmp-id,296,JMA,Imaging multi-spectral radiometer,VISSR,Visible and infrared spin scan radiometer,Operational
+tmp-id,297,JMA,Imaging multi-spectral radiometer,AHI,Advanced Himawari Imager,Operational
+tmp-id,300,NASA,Lidar,GLAS,Geoscience laser altimeter system,Operational
+tmp-id,301,NASA,Precision orbit,LRA,Laser retroreflector array,Operational
+tmp-id,302,NASA,Lidar,MBLA,Multi-beam laser altimeter,Operational
+tmp-id,303,NASA,Lidar,CALIOP,Cloud-aerosol lidar with orthogonal polarization,Operational
+tmp-id,309,NASA,Cloud profile and rain radar,CPR (Cloudsat),Cloud profiling radar,Operational
+tmp-id,312,NASA,Radar,NSCAT,NASA scatterometer,Operational
+tmp-id,313,NASA,Radar,SeaWinds,ADEOS II - NASA scatterometer,Operational
+tmp-id,314,NASA,Radar,RapidScat,RapidScat scatterometer,Operational
+tmp-id,330,NASA,Earth radiation budget radiometer,ACRIM,Active cavity radiometer irradiance monitor,Operational
+tmp-id,334,NASA,Total and profile ozone,BUV,Backscatter ultraviolet instrument,Operational
+tmp-id,336,NASA,High-resolution optical imager,ALI,Advanced land imager,Operational
+tmp-id,347,NASA,High-resolution optical imager,ASTER,Advanced spaceborne thermal emission and reflection radiometer,Operational
+tmp-id,348,NASA,Earth radiation budget radiometer,CERES-2,Cloud and the Earth's radiant energy system,Operational
+tmp-id,351,NASA,Atmospheric temperature and humidity sounder,GPSDR,GPS demonstration receiver,Operational
+tmp-id,353,NASA,Total and profile ozone,HiRDLS,High-resolution dynamics limb sounder,Operational
+tmp-id,354,NASA,Total and profile ozone,HRDI,High-resolution Doppler imager,Operational
+tmp-id,356,NASA,Radiometer,LIS,Lightning imaging sensor,Operational
+tmp-id,358,NASA,"Magnetic field, auroal imagery scintillation boundary",PEM,Particle environment monitor,Operational
+tmp-id,359,NASA,Ocean colour instrument,SeaWiFS,Sea-viewing wide field-of-view sensor,Operational
+tmp-id,360,NASA,Earth radiation budget radiometer,SUSIM (UARS),Solar ultraviolet irradiance monitor,Operational
+tmp-id,363,NASA,Total and profile ozone,SBUV/1,Solar backscatter ultraviolet 1 instrument,Operational
+tmp-id,365,NASA,Imaging multi-spectral radiometer (passive microwave),TMI,TRMM microwave imager,Operational
+tmp-id,366,NASA,Imaging multi-spectral radiometer (passive microwave),JMR,JASON-1 microwave radiometer,Operational
+tmp-id,367,NASA,Imaging multi-spectral radiometer,AMR,Advanced microwave radiometer,Operational
+tmp-id,368,NASA,Radiometer,MW radiometer,Microwave radiometer,Operational
+tmp-id,369,NASA,Total and profile ozone,LIMS,Limb infrared monitor of the stratosphere,Operational
+tmp-id,370,NASA,Total and profile ozone,LRIR,Limb radiance inversion radiometer instrument,Operational
+tmp-id,371,NASA,Total and profile ozone,EPIC,Earth polychromatic imaging camera,Operational
+tmp-id,372,NASA,Earth radiation budget radiometer,NISTAR,NIST advanced radiometer,Operational
+tmp-id,373,NASA,"Magnetic field, auroal imagery scintillation boundary",Plasma-Mag,,Operational
+tmp-id,374,NASA,Other,XPS,XUV photometer system,Operational
+tmp-id,375,NASA,Imaging multi-spectral radiometer (vis/IR),VIRS,Visible infrared scanner,Operational
+tmp-id,376,CNES,Multiple direction/polarization radiometer,POLDER II,Polarization and directionality of the Earth's reflectance-II,Operational
+tmp-id,377,NASA,Earth radiation budget radiometer,TIM,Total irradiance monitor,Operational
+tmp-id,379,NASA,Imaging multi-spectral radiometer (vis/IR),WFC,Wide field camera,Operational
+tmp-id,382,NASA,Spectro-radiometer,CLAES,Cryogenic limb array etalon spectrometer,Operational
+tmp-id,383,NASA,Spectro-radiometer,HALOE,Halogen occultation experiment,Operational
+tmp-id,384,NASA,Spectro-radiometer,ISAMS,Improved stratospheric and mesospheric sounder,Operational
+tmp-id,385,NASA,Spectro-radiometer,MISR,Multi-angle imaging spectroradiometer,Operational
+tmp-id,386,NASA,Spectro-radiometer,MLS,Microwave limb sounder,Operational
+tmp-id,387,NASA,Spectro-radiometer,MLS (EOS-Aura),Microwave limb sounder (EOS-Aura),Operational
+tmp-id,389,NASA,Spectro-radiometer,MODIS,Moderate-resolution imaging spectroradiometer,Operational
+tmp-id,393,NASA,Gravity,HAIRS,High accuracy inter-satellite ranging system,Operational
+tmp-id,394,NASA,Total and profile ozone,OMI,Ozone measuring instrument,Operational
+tmp-id,395,NASA,Radiometer,Atmospheric corrector,Atmospheric corrector,Operational
+tmp-id,396,NASA,Radiometer,Hyperion,Hyperspectral imager,Operational
+tmp-id,397,NASA,Radiometer,HRIR,High-resolution infrared radiometer,Operational
+tmp-id,398,NASA,Radiometer,MRIR,Medium resolution infrared radiometer,Operational
+tmp-id,399,NASA,Spectro-radiometer,SAGE I,Stratospheric aerosol and gas experiment-I,Operational
+tmp-id,400,NASA,Spectro-radiometer,SAGE II,Stratospheric aerosol and gas experiment-II,Operational
+tmp-id,401,NASA,Spectro-radiometer,SAGE III,Stratospheric aerosol and gas experiment-III,Operational
+tmp-id,402,NASA,Spectro-radiometer,SAMS,Stratospheric and mesospheric sounder,Operational
+tmp-id,403,NASA,Spectro-radiometer,SAM-II,Stratospheric aerosol measurement-II,Operational
+tmp-id,404,NASA,Spectro-radiometer,IRIS,Infrared interferometer spectrometer,Operational
+tmp-id,405,NASA,Atmospheric temperature and humidity sounder,GIFTS,Geosynchronous imaging Fourier transform spectrometer,Operational
+tmp-id,420,NASA,Spectrometer,AIRS,Atmospheric Infrared sounder,Operational
+tmp-id,421,NASA,Spectrometer,SIRS-A,Satellite infrared spectrometer-A,Operational
+tmp-id,422,NASA,Spectrometer,SIRS-B,Satellite infrared spectrometer-B,Operational
+tmp-id,426,NASA,Spectrometer,SOLSTICE,Solar stellar irradiance comparison experiment,Operational
+tmp-id,430,NASA,Spectrometer,TES,Tropospheric emission spectrometer,Operational
+tmp-id,431,NASA,Spectrometer,TOMS,Total ozone mapping spectrometer,Operational
+tmp-id,432,NASA,Spectrometer,OCO,Orbiting carbon observatory,Operational
+tmp-id,433,NASA,Spectrometer,TMS,TROPICS Millimeter-wave Sounder,Operational
+tmp-id,434,NASA,MW radiometer,SMAP,Soil Moisture Active-Passive,Operational
+tmp-id,435,NASA,Spectrometer,TEMPO,Tropospheric Emissions: Monitoring of Pollution,Operational
+tmp-id,450,JAXA,Communications,ADEOS Comms,Communications package for ADEOS,Operational
+tmp-id,451,JAXA,Communications,DCS (JAXA),Data-collection system (JAXA),Operational
+tmp-id,453,NASDA,Communications,GMS Comms,Communications package on GMS,Operational
+tmp-id,454,NASDA,Communications,JERS-1 Comms,Communications package for JERS-1,Operational
+tmp-id,460,NASDA,Lidar,RIS,Retroreflector in space,Operational
+tmp-id,461,NASDA,Radar,PR,Precipitation radar,Operational
+tmp-id,462,NASDA,Imaging microwave radar,SAR,Synthetic aperture radar,Operational
+tmp-id,470,JAXA,Imaging microwave radar,PALSAR,Phased array type L-band synthetic aperture radar,Operational
+tmp-id,477,JAXA,Imaging multi spectral radiometer (passive microwave),AMSR3,Advanced Microwave Scanning Radiometer 3,Operational
+tmp-id,478,JAXA,Imaging multi-spectral radiometer (passive microwave),AMSR2,Advanced Microwave Scanning Radiometer 2,Operational
+tmp-id,479,JAXA,Imaging multi-spectral radiometer (passive microwave),AMSR-E,Advanced microwave scanning radiometer - EOS,Operational
+tmp-id,480,JAXA,High-resolution optical imager,PRISM (ALOS),Panchromatic remote-sensing instrument for stereo mapping,Operational
+tmp-id,481,JAXA,Radiometer,AMSR,Advanced microwave scanning radiometer,Operational
+tmp-id,482,NASDA,High-resolution optical imager,AVNIR,Advanced visible and near infrared radiometer,Operational
+tmp-id,483,JAXA,High-resolution optical imager,AVNIR-2,Advanced visible and near infrared radiometer type 2,Operational
+tmp-id,484,JAXA,Imager,GLI,Global imager,Operational
+tmp-id,485,NASDA,Radiometer,MESSR,Multispectral electronic self scanning radiometer,Operational
+tmp-id,486,NASDA,Radiometer,MSR,Microwave scanning radiometer,Operational
+tmp-id,487,NASDA,Radiometer,OCTS,Ocean colour and temperature scanner,Operational
+tmp-id,488,NASDA,Radiometer,OPS,Optical sensor,Operational
+tmp-id,489,NASDA,Radiometer,VISSR (GMS-5),Visible and infrared spin scan radiometer (GMS-5),Operational
+tmp-id,490,NASDA,Radiometer,VTIR,Visible and thermal infrared radiometer,Operational
+tmp-id,510,NASDA,Spectrometer,ILAS-I,Improved limb atmospheric spectrometer,Operational
+tmp-id,511,NASDA,Spectrometer,ILAS-II,Improved limb atmospheric spectrometer,Operational
+tmp-id,512,NASDA,Spectrometer,IMG,Inferometric monitor of greenhouse gases,Operational
+tmp-id,514,NASDA,Space environment,SEM,Space environment monitor (NASDA),Operational
+tmp-id,515,JAXA,Total and profile ozone,SOFIS,Solar occultation Fourier transform spectrometer for inclined orbit satellite,Operational
+tmp-id,516,JAXA,Spectrometer,TANSO-FTS,Thermal and Near infrared Sensor for carbon Observations (TANSO) Fourier Transform Spectrometer (FTS),Operational
+tmp-id,517,JAXA,Imager,TANSO-CAI,Thermal and Near infrared Sensor for carbon Observations (TANSO) Cloud and Aerosol Imager (CAI),Operational
+tmp-id,518,JAXA,Cloud and precipitation radar,DPR,Dual-frequency precipitation radar,Operational
+tmp-id,519,NASA,"MW imaging/sounding radiometer, conical scanning",GMI,GPM microwave imager,Operational
+tmp-id,520,NASA,Imaging radiometer,SMMR,Scanning Multichannel Microwave Radiometer,Operational
+tmp-id,521,JAXA,Spectrometer,TANSO-FTS2,Thermal and Near infrared Sensor for carbon Observations (TANSO) - Fourier Transform Spectrometer/2,Operational
+tmp-id,526,GeoOptics,GNSS occultation sounder,Cion-A,GeoOptics Cion GNSS occultation receiver A,Operational
+tmp-id,527,GeoOptics,GNSS occultation sounder,Cion-B,GeoOptics Cion GNSS occultation receiver B,Operational
+tmp-id,528,GeoOptics,GNSS occultation sounder,Cion-C,GeoOptics Cion GNSS occultation receiver C,Operational
+tmp-id,529,GeoOptics,GNSS occultation sounder,Cion-D,GeoOptics Cion GNSS occultation receiver D,Operational
+tmp-id,530,Spire,GNSS occultation sounder,SGNOS-A,Spire global navigation satellite system occultation sounder A,Operational
+tmp-id,531,Spire,GNSS occultation sounder,SGNOS-B,Spire global navigation satellite system occultation sounder B,Operational
+tmp-id,532,Spire,GNSS occultation sounder,SGNOS-C,Spire global navigation satellite system occultation sounder C,Operational
+tmp-id,533,Spire,GNSS occultation sounder,SGNOS-D,Spire global navigation satellite system occultation sounder D,Operational
+tmp-id,534,PlanetiQ,GNSS occultation sounder,Pyxis-A,PlanetiQ Pyxis GNSS occultation receiver A,Operational
+tmp-id,535,PlanetiQ,GNSS occultation sounder,Pyxis-B,PlanetiQ Pyxis GNSS occultation receiver B,Operational
+tmp-id,536,tomorrow.io,Radiometer,TMS (Tomorrow),Tomorrow Microwave Sounder,Operational
+tmp-id,537,tomorrow.io,Radar,KAPR,Ka band precipitation radar,Operational
+tmp-id,540,NOAA,Communications,DCS (NOAA),Data-collection system (NOAA),Operational
+tmp-id,541,NOAA,Communications,GOES Comms,Communications package on GOES,Operational
+tmp-id,542,NOAA,Communications,LANDSAT Comms,Communications package for LANDSAT,Operational
+tmp-id,543,NOAA,Communications,NOAA Comms,Communications package for NOAA,Operational
+tmp-id,544,NOAA,Communications,S&R (GOES),Search and rescue,Operational
+tmp-id,545,NOAA,Communications,S&R (NOAA),Search and rescue,Operational
+tmp-id,546,NOAA,Communications,WEFAX,Weather facsimile,Operational
+tmp-id,547,NOAA,Spectrometer,SEM (GOES),Space environment monitor,Operational
+tmp-id,550,NOAA,Magnetic field,SSM,Special sensor magnetometer,Operational
+tmp-id,551,NOAA,Magnetic field,SSJ/4,Special sensor precipitating plasma monitor,Operational
+tmp-id,552,NOAA,Space environment,SSIES-2,Special sensor ionospheric plasma drift/scintillation meter,Operational
+tmp-id,553,NOAA,Space environment,SSB/X-2,Special sensor gamma ray particle detector,Operational
+tmp-id,570,NOAA,Radiometer,AMSU-A,Advanced microwave sounding unit-A,Operational
+tmp-id,574,NOAA,Radiometer,AMSU-B,Advanced microwave sounding unit-B,Operational
+tmp-id,580,NOAA,Radiometer,ATOVS (HIRS/3 + AMSU + AVHRR/3),Advanced TIROS operational vertical sounder,Operational
+tmp-id,590,NOAA,Radiometer,AVHRR/2,Advanced very high-resolution radiometer/2,Operational
+tmp-id,591,NOAA,Radiometer,AVHRR/3,Advanced very high-resolution radiometer/3,Operational
+tmp-id,592,NOAA,Radiometer,AVHRR/4,Advanced very high-resolution radiometer/4,Operational
+tmp-id,600,NOAA,Radiometer,ERBE,Earth's radiation budget experiment,Operational
+tmp-id,601,NOAA,Radiometer,ETM+,Enhanced thematic mapper,Operational
+tmp-id,604,NOAA,Radiometer,HIRS/1,High-resolution infrared sounder/1,Operational
+tmp-id,605,NOAA,Radiometer,HIRS/2,High-resolution infrared sounder/2,Operational
+tmp-id,606,NOAA,Radiometer,HIRS/3,High-resolution infrared sounder/3,Operational
+tmp-id,607,NOAA,Radiometer,HIRS/4,High-resolution infrared sounder/4,Operational
+tmp-id,615,NOAA,Radiometer,IMAGER,Imager,Operational
+tmp-id,616,NOAA,Imaging multi-spectral radiometer (vis/IR),VIIRS,Visible/infrared imager radiometer suite,Operational
+tmp-id,617,NOAA,Imaging multi-spectral radiometer,ABI,Advanced baseline imager,Operational
+tmp-id,618,NOAA,High-resolution optical imager,GLM,Geostationary lightning mapper,Operational
+tmp-id,620,NOAA,Atmospheric temperature and humidity sounder,CrIS/NP,Cross-track infrared sounder/NPOESS,Operational
+tmp-id,621,NOAA,Atmospheric temperature and humidity sounder,ATMS,Advanced technology microwave sounder,Operational
+tmp-id,622,NOAA,Radiometer,MSS,Multispectral scanning system,Operational
+tmp-id,623,NOAA,Radiometer,MSU,Microwave sounding unit,Operational
+tmp-id,624,NOAA,Radiometer,SBUV/2,Solar backscatter ultraviolet instrument/2,Operational
+tmp-id,625,NOAA,Radiometer,SBUV/3,Solar backscatter ultraviolet instrument/3,Operational
+tmp-id,626,NOAA,Radiometer,SOUNDER,SOUNDER,Operational
+tmp-id,627,NOAA,Radiometer,SSU,Stratospheric sounding unit,Operational
+tmp-id,628,NOAA,Radiometer,TM,Thematic mapper,Operational
+tmp-id,629,NOAA,Radiometer,TOVS (HIRS/2 + MSU + SSU),TIROS operational vertical sounder,Operational
+tmp-id,630,NOAA,Radiometer,VAS,VISSR atmospheric sounder,Operational
+tmp-id,631,NOAA,Radiometer,SSZ,,Operational
+tmp-id,645,NOAA,Spectrometer,SEM,Space environment monitor,Operational
+tmp-id,650,NRSCC,Radiometer,MVIRSR (10 channel),Multispectral visible and infrared scan radiometer,Operational
+tmp-id,651,NRSCC,Radiometer,MVIRSR (3 channel),Multispectral visible and infrared scan radiometer,Operational
+tmp-id,652,NRSCC,Radiometer,MVIRSR (5 channel),Multispectral visible and infrared scan radiometer,Operational
+tmp-id,670,NSAU,Radar,RLSBO,Side looking microwave radar,Operational
+tmp-id,680,NSAU,High-resolution optical imager,MSU-EU,Multispectral radiometer with high-resolution,Operational
+tmp-id,681,NSAU,Imaging multi-spectral radiometer (vis/IR),MSU-UM,Visible multispectral radiometer,Operational
+tmp-id,682,NSAU,Radiometer,RM-08,Imaging microwave radiometer,Operational
+tmp-id,683,NSAU,High-resolution optical imager,SU-UMS,Stereo radiometer with high-resolution,Operational
+tmp-id,684,NSAU,High-resolution optical imager,SU-VR,Visible radiometer with high-resolution,Operational
+tmp-id,685,NSAU,Radiometer,TRASSER,,Operational
+tmp-id,686,SOA,Scatterometer,SCAT,Scatterometer,Operational
+tmp-id,687,SOA,Radar altimeter,ALT,Radar altimeter,Operational
+tmp-id,688,SOA,Microwave radiometer,MWI,Microwave radiometer,Operational
+tmp-id,689,ME(NIER),Spectrometer,GEMS,Geostationary Environmental Monitoring Spectrometer,Operational
+tmp-id,700,ROSCOSMOS,Communications,KONDOR-2,Data-collection and transmission system,Operational
+tmp-id,701,ROSCOSMOS,Communications,BRK,,Operational
+tmp-id,710,ROSCOSMOS,Lidar,ALISSA,Backscatter lidar,Operational
+tmp-id,712,ROSCOSMOS,Lidar,Balkan-2 lidar,,Operational
+tmp-id,715,ROSCOSMOS,Lidar,MK-4,,Operational
+tmp-id,716,ROSCOSMOS,Lidar,MK-4M,,Operational
+tmp-id,730,ROSCOSMOS,Radar,Greben,Radar altimeter,Operational
+tmp-id,731,ROSCOSMOS,Radar,SAR-10,Synthetic aperture radar,Operational
+tmp-id,732,ROSCOSMOS,Radar,SAR-3,Synthetic aperture radar,Operational
+tmp-id,733,ROSCOSMOS,Radar,SAR-70,Synthetic aperture radar,Operational
+tmp-id,740,ROSCOSMOS,Radar,SLR-3,Side looking radar,Operational
+tmp-id,745,ROSCOSMOS,Radar,Travers SAR,,Operational
+tmp-id,750,ROSCOSMOS,Radiometer,174-K,Temperature and humidity profiler,Operational
+tmp-id,751,ROSCOSMOS,Radiometer,BTVK,Scanning television radiometer,Operational
+tmp-id,752,ROSCOSMOS,Radiometer,Chaika,Scanning infrared radiometer,Operational
+tmp-id,753,ROSCOSMOS,Radiometer,DELTA-2,Multispectral microwave scanner,Operational
+tmp-id,755,ROSCOSMOS,Radiometer,IKAR-D,Multispectral microwave scanner,Operational
+tmp-id,756,ROSCOSMOS,Radiometer,IKAR-N,Multispectral microwave scanner,Operational
+tmp-id,757,ROSCOSMOS,Radiometer,IKAR-P,Multispectral microwave scanner,Operational
+tmp-id,760,ROSCOSMOS,Radiometer,ISP,,Operational
+tmp-id,761,ROSCOSMOS,Radiometer,KFA-1000,Photographic camera,Operational
+tmp-id,762,ROSCOSMOS,Radiometer,KFA-200,Photographic camera,Operational
+tmp-id,763,ROSCOSMOS,Radiometer,KFA-3000,Photographic camera,Operational
+tmp-id,770,ROSCOSMOS,Radiometer,Klimat,Scanning infrared radiometer,Operational
+tmp-id,771,ROSCOSMOS,Radiometer,Klimat-2,Scanning infrared radiometer,Operational
+tmp-id,775,ROSCOSMOS,Radiometer,MIRAS,,Operational
+tmp-id,776,ROSCOSMOS,Radiometer,MIVZA,,Operational
+tmp-id,777,ROSCOSMOS,Radiometer,MIVZA-M,Microwave scanning radiometer,Operational
+tmp-id,780,ROSCOSMOS,Radiometer,MR-2000,,Operational
+tmp-id,781,ROSCOSMOS,Radiometer,MR-2000M,,Operational
+tmp-id,785,ROSCOSMOS,Radiometer,MR-900,Scanning telephotometer,Operational
+tmp-id,786,ROSCOSMOS,Radiometer,MR-900B,Scanning visual band telephotometer,Operational
+tmp-id,790,ROSCOSMOS,Radiometer,MSU-E,Multispectral high-resolution electronic scanner,Operational
+tmp-id,791,ROSCOSMOS,Radiometer,MSU-E1,Multispectral high-resolution electronic scanner,Operational
+tmp-id,792,ROSCOSMOS,Radiometer,MSU-E2,Multispectral high-resolution electronic scanner,Operational
+tmp-id,793,ROSCOSMOS,Radiometer,MSU-M,,Operational
+tmp-id,794,ROSCOSMOS,Radiometer,MSU-S,Multispectral medium-resolution scanner,Operational
+tmp-id,795,ROSCOSMOS,Radiometer,MSU-SK,Multispectral medium-resolution conical scanner,Operational
+tmp-id,796,ROSCOSMOS,Radiometer,MSU-V,Multispectral high-resolution conical scanner,Operational
+tmp-id,810,ROSCOSMOS,Radiometer,MTZA,Scanning microwave radiometer,Operational
+tmp-id,815,ROSCOSMOS,Imaging multi-spectral radiometer (passive microwave),MZOAS,Scanning microwave radiometer,Operational
+tmp-id,820,ROSCOSMOS,Imaging multi-spectral radiometer (passive microwave),R-225,Single channel microwave radiometer,Operational
+tmp-id,821,ROSCOSMOS,Radiometer,R-400,,Operational
+tmp-id,822,ROSCOSMOS,Radiometer,R-600,Single channel microwave radiometer,Operational
+tmp-id,830,ROSCOSMOS,Radiometer,RMS,Radiation measurement system,Operational
+tmp-id,835,ROSCOSMOS,Radiometer,TV camera,,Operational
+tmp-id,836,ROSCOSMOS,Radiometer,SILVA,,Operational
+tmp-id,840,ROSCOSMOS,Spectro-radiometer,SROSMO,Spectroradiometer for ocean monitoring,Operational
+tmp-id,850,ROSCOSMOS,Spectrometer,BUFS-2,Backscatter spectrometer/2,Operational
+tmp-id,851,ROSCOSMOS,Spectrometer,BUFS-4,Backscatter spectrometer/4,Operational
+tmp-id,855,ROSCOSMOS,Spectrometer,ISTOK-1,Infrared spectrometer,Operational
+tmp-id,856,ROSCOSMOS,Spectrometer,SFM-2,Spectrometer to measure direct solar radiation,Operational
+tmp-id,857,ROSCOSMOS,Spectrometer,DOPI,,Operational
+tmp-id,858,ROSCOSMOS,Spectrometer,KGI-4,,Operational
+tmp-id,859,ROSCOSMOS,Spectrometer,Ozon-M,,Operational
+tmp-id,860,ROSCOSMOS,Spectrometer,RMK-2,,Operational
+tmp-id,861,ROSCOSMOS,Atmospheric temperature and humidity sounder,MTVZA-GY,Module for temperature and humidity sounding in the atmosphere,Operational
+tmp-id,862,ROSCOSMOS,Spectrometer,IKFS-2,Infrared Fourier spectrometer,Operational
+tmp-id,900,NOAA,Radiometer,MAXIE,Magnetospheric atmospheric X-ray imaging experiment,Operational
+tmp-id,901,NOAA,Radiometer,OLS,Operational linescan system,Operational
+tmp-id,905,NOAA,Radiometer,SSM/I,Mission sensor microwave imager,Operational
+tmp-id,906,NOAA,Radiometer,SSM/T-1,Mission sensor microwave temperature sounder,Operational
+tmp-id,907,NOAA,Radiometer,SSM/T-2,Mission sensor microwave water vapour sounder,Operational
+tmp-id,908,NOAA,Radiometer,SSMIS,Special sensor microwave imager sounder,Operational
+tmp-id,909,NOAA,Radiometer,VTPR,Vertical temperature profile radiometer,Operational
+tmp-id,910,NOAA,Radiometer,SXI,Solar X-ray imager,Operational
+tmp-id,911,DoD,Passive microwave radiometer,MWI,MicroWave Imager on WSF-M,Operational
+tmp-id,930,NOAA,Spectrometer,EHIC,Energetic heavy ion composition experiment,Operational
+tmp-id,931,NOAA,Spectrometer,X-ray astronomy payload,,Operational
+tmp-id,932,NRSCC,Imaging multi-spectral radiometer (vis/IR),IVISSR (FY-2),Improved multispectral visible and Infrared scan radiometer (5 channels),Operational
+tmp-id,933,NRSCC,Atmospheric temperature and humidity sounder,IRAS,Infrared atmospheric sounder,Operational
+tmp-id,934,NRSCC,Atmospheric temperature and humidity sounder,MWAS,Microwave atmospheric sounder,Operational
+tmp-id,935,NRSCC,Atmospheric temperature and humidity sounder,IMWAS,Improved Microwave atmospheric sounder,Operational
+tmp-id,936,NRSCC,Atmospheric temperature and humidity sounder,MWHS,Microwave humidity sounder,Operational
+tmp-id,937,NRSCC,Imaging multi-spectral radiometer (vis/IR),MVIRS,Moderate resolution visible and infrared imaging spectroradiometer,Operational
+tmp-id,938,NRSCC,Imaging multi-spectral radiometer (passive microwave),MWRI,Microwave radiation imager,Operational
+tmp-id,940,ROSCOSMOS,Atmospheric temperature and humidity sounder,MTVZA-OK,Scanning microwave radiometer,Operational
+tmp-id,941,CNES,Atmospheric temperature and humidity sounder,SAPHIR,,Operational
+tmp-id,942,CNES,Microwave imager,MADRAS,Microwave Analysis and Detection of Rain and Atmospheric Structures,Operational
+tmp-id,943,CNSA,Scatterometer,SCAT (on CFOSAT),Scatterometer,Operational
+tmp-id,944,NOAA,Radar altimeter,ALT,Altimeter,Operational
+tmp-id,945,NOAA,Earth radiation budget radiometer,TSIS,Total solar irradiance sensor,Operational
+tmp-id,946,NOAA,Imaging multi-spectral radiometer (passive microwave),CMIS,Conical-scanning microwave imager/sounder,Operational
+tmp-id,947,NOAA,Total and profile ozone,OMPS-nadir,Ozone mapping and profiler suite,Operational
+tmp-id,948,NOAA,Space environment atmospheric temperature and humidity sounder,GPSOS,Global positioning system occultation sensor,Operational
+tmp-id,949,NOAA,"Magnetic field, auroal imagery scintillation boundary",SESS,Space environmental sensor suite,Operational
+tmp-id,950,NRSCC,Imaging multi-spectral radiometer (vis/IR),VIRR,Multispectral visible and infrared scan radiometer (10 channels),Operational
+tmp-id,951,NRSCC,Total and profile ozone,TOM,Total ozone mapper,Operational
+tmp-id,952,NRSCC,Total and profile ozone,OP,Ozone profiler,Operational
+tmp-id,953,CMA,"Microwave sounding radiometer, crosstrack scanning",MWHS-2,Microwave humidity sounder-2,Operational
+tmp-id,954,CMA,"Microwave sounding radiometer, crosstrack scanning",MWTS-2,Microwave temperature sounder-2,Operational
+tmp-id,955,CMA,Cross-nadir scanning IR sounder,HIRAS,Hyperspectral infrared atmospheric sounder,Operational
+tmp-id,956,CMA,Spectrometer,SBUS,Solar backscatter ultraviolet sounder,Operational
+tmp-id,957,CMA,Spectrometer,TOU,Total ozone unit,Operational
+tmp-id,958,CMA,GNSS occultation sounder,GNOS,Global navigation satellite system occultation sounder,Operational
+tmp-id,959,SNSB,Limb-scanning sounder,SMR,Sub-millimetre radiometer,Operational
+tmp-id,960,NASA,Total and profile ozone,OMPS-limb,Ozone Mapping and Profiler Suite,Operational
+tmp-id,961,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",AGRI-1,Advanced Geostationary Radiation Imager-1,Operational
+tmp-id,962,CMA,"Hyperspectral infrared sounding radiometer, step-stare scanning",GIIRS-1,Geostationary Interferometric Infrared Sounder-1,Operational
+tmp-id,963,CMA,High-resolution optical imager,LMI,Lightning Mapping Imager,Operational
+tmp-id,964,CMA,Space environment,SEP,Space Environment Package,Operational
+tmp-id,965,CMA,GNSS occultation,GNOS-2,GNSS radio occultation sounder-2,Operational
+tmp-id,966,CMA,"Microwave sounding radiometer,cross-track scanning",MWTS-3,Microwave temperature sounder-3,Operational
+tmp-id,967,CMA,"Hyperspectral infrared sounding radiometer, step-stare scanning",GIIRS-2,Geostationary Interferometric Infrared Sounder-2,Operational
+tmp-id,968,CMA,"Hyperspectral infrared sounding radiometer, step-stare scanning",GIIRS-3,Geostationary Interferometric Infrared Sounder-3,Operational
+tmp-id,969,CMA,"Hyperspectral infrared sounding radiometer, step-stare scanning",GIIRS-4,Geostationary Interferometric Infrared Sounder-4,Operational
+tmp-id,970,CMA,"Hyperspectral infrared sounding radiometer, step-stare scanning",GIIRS-5,Geostationary Interferometric Infrared Sounder-5,Operational
+tmp-id,971,CMA,"Hyperspectral infrared sounding radiometer, step-stare scanning",GIIRS-6,Geostationary Interferometric Infrared Sounder-6,Operational
+tmp-id,972,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",AGRI-2,Advanced Geostationary Radiation Imager-2,Operational
+tmp-id,973,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",AGRI-3,Advanced Geostationary Radiation Imager-3,Operational
+tmp-id,974,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",AGRI-4,Advanced Geostationary Radiation Imager-4,Operational
+tmp-id,975,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",AGRI-5,Advanced Geostationary Radiation Imager-5,Operational
+tmp-id,976,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",AGRI-6,Advanced Geostationary Radiation Imager-6,Operational
+tmp-id,977,CMA,"Visible/NIR/TIR imager, E-W continuous, S-N stepping scanning",GHI,Geostationary High-speed Imager,Operational
+tmp-id,978,CNES,Spectrometer,MicroCarb,Carbon Dioxide Monitoring Mission,Operational
+tmp-id,979,Reserved,,,,Operational
+tmp-id,980,KMA,Imager,AMI,Advanced Meteorological Imager,Operational
+tmp-id,981,KMA,Imager,MI,Meteorological Imager,Operational
+tmp-id,982,KMA,Space environment,KSEM,Korea Space wEather Monitor,Operational
+tmp-id,983,CMA,"Cross-track scanning, IR Hyperspectral sounder",HIRAS-2,Hyperspectral infrared atmospheric sounder-2,Operational
+tmp-id,984,CMA,"Cross-track scanning, IR Hyperspectral sounder",HIRAS-3,Hyperspectral infrared atmospheric sounder-3,Operational
+tmp-id,985,CMA,Conical scanning microwave imager,MWRI-1,Microwave radiation imager-1,Operational
+tmp-id,986,CMA,Conical scanning microwave imager,MWRI-2,Microwave radiation imager-2,Operational
+tmp-id,987,CMA,Conical scanning microwave imager,MWRI-RM,Microwave radiation imager-Rain Mission,Operational
+tmp-id,988,CMA,Conical scanning dual-frequency scatterometer,WindRAD,Wind Radar,Operational
+tmp-id,989,CMA,GNSS occultation,TGNOS-M,Tianmu Global Navigation Satellite System Occultation Sounder,Operational
+tmp-id,990,NASA,Radiometer,SMMR,Scanning multichannel microwave radiometer,Operational
+tmp-id,991,NASA,Radiometer,THIR,Temperature-humidity infrared radiometer,Operational
+tmp-id,992,NASA,Radiometer,NEMS,"Nimbus-E Microwave Sounder",Operational
+tmp-id,993,NASA,Radiometer,SCAMS,Scanning Microwave Spectrometer,Operational
+tmp-id,994,NASA,Radiometer,ESMR,Electrically Scanning Microwave Radiometer,Operational
+tmp-id,995-999,Reserved,,,,Operational
+tmp-id,1000-2046,Reserved for long-term future use,,,,Operational
+tmp-id,2047,Missing value,,,,Operational
