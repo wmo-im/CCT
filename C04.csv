@@ -1,44 +1,44 @@
-CodeFigureForXRXR,CodeFigureForBUFR,Meaning_en,Status
-01,1,Sippican Strip Chart Recorder,Operational
-02,2,Sippican MK2A/SSQ-61,Operational
-03,3,Sippican MK-9,Operational
-04,4,Sippican AN/BHQ-7/MK8,Operational
-05,5,Sippican MK-12,Operational
-06,6,Sippican MK-21,Operational
-07,7,Sippican MK-8 Linear Recorder,Operational
-08,8,Sippican MK-10,Operational
-10,10,Sparton SOC BT/SV Processor Model 100,Operational
-11,11,Lockheed-Sanders Model OL5005,Operational
-20,20,ARGOS XBT-ST,Operational
-21,21,CLS-ARGOS/Protecno XBT-ST Model-1,Operational
-22,22,CLS-ARGOS/Protecno XBT-ST Model-2,Operational
-30,30,BATHY Systems SA-810,Operational
-31,31,Scripps Metrobyte Controller,Operational
-32,32,Murayama Denki Z-60-16 III,Operational
-33,33,Murayama Denki Z-60-16 II,Operational
-34,34,Protecno ETSM2,Operational
-35,35,Nautilus Marine Service NMS-XBT,Operational
-40,40,TSK MK-2A,Operational
-41,41,TSK MK-2S,Operational
-42,42,TSK MK-30,Operational
-43,43,TSK MK-30N,Operational
-45,45,TSK MK-100,Operational
-46,46,TSK MK-130 Compatible recorder for both XBT and XCTD,Operational
-47,47,TSK MK-130A XCTD recorder,Operational
-48,48,TSK AXBT RECEIVER MK-300,Operational
-49,49,TSK MK-150/MK-150N/MK-200 Compatible recorder for both XBT and XCTD,Operational
-50,50,JMA ASTOS,Operational
-60,60,"ARGOS communications, sampling on up transit",Operational
-61,61,"ARGOS communications, sampling on down transit",Operational
-62,62,"Orbcomm communications, sampling on up transit",Operational
-63,63,"Orbcomm communications, sampling on down transit",Operational
-64,64,"Iridium communications, sampling on up transit",Operational
-65,65,"Iridium communications, sampling on down transit",Operational
-70,70,CSIRO Devil-1 XBT acquisition system,Operational
-71,71,CSIRO Devil-2 XBT acquisition system,Operational
-72,72,TURO/CSIRO Quoll XBT acquisition system,Operational
-80,80,"Applied Microsystems Ltd., MICRO-SVT&P",Operational
-81,81,"Sea Mammal Research Unit, Univ. St. Andrews, UK, uncorrected salinity from a sea mammal mounted instrument",Operational
-82,82,"Sea Mammal Research Unit, Univ. St. Andrews, UK, corrected salinity from a sea mammal mounted instrument",Operational
-99,99,Unknown,Operational
-,127,Missing value,Operational
+ID,CodeFigureForXRXR,CodeFigureForBUFR,Meaning_en,Status
+tmp-id,01,1,Sippican Strip Chart Recorder,Operational
+tmp-id,02,2,Sippican MK2A/SSQ-61,Operational
+tmp-id,03,3,Sippican MK-9,Operational
+tmp-id,04,4,Sippican AN/BHQ-7/MK8,Operational
+tmp-id,05,5,Sippican MK-12,Operational
+tmp-id,06,6,Sippican MK-21,Operational
+tmp-id,07,7,Sippican MK-8 Linear Recorder,Operational
+tmp-id,08,8,Sippican MK-10,Operational
+tmp-id,10,10,Sparton SOC BT/SV Processor Model 100,Operational
+tmp-id,11,11,Lockheed-Sanders Model OL5005,Operational
+tmp-id,20,20,ARGOS XBT-ST,Operational
+tmp-id,21,21,CLS-ARGOS/Protecno XBT-ST Model-1,Operational
+tmp-id,22,22,CLS-ARGOS/Protecno XBT-ST Model-2,Operational
+tmp-id,30,30,BATHY Systems SA-810,Operational
+tmp-id,31,31,Scripps Metrobyte Controller,Operational
+tmp-id,32,32,Murayama Denki Z-60-16 III,Operational
+tmp-id,33,33,Murayama Denki Z-60-16 II,Operational
+tmp-id,34,34,Protecno ETSM2,Operational
+tmp-id,35,35,Nautilus Marine Service NMS-XBT,Operational
+tmp-id,40,40,TSK MK-2A,Operational
+tmp-id,41,41,TSK MK-2S,Operational
+tmp-id,42,42,TSK MK-30,Operational
+tmp-id,43,43,TSK MK-30N,Operational
+tmp-id,45,45,TSK MK-100,Operational
+tmp-id,46,46,TSK MK-130 Compatible recorder for both XBT and XCTD,Operational
+tmp-id,47,47,TSK MK-130A XCTD recorder,Operational
+tmp-id,48,48,TSK AXBT RECEIVER MK-300,Operational
+tmp-id,49,49,TSK MK-150/MK-150N/MK-200 Compatible recorder for both XBT and XCTD,Operational
+tmp-id,50,50,JMA ASTOS,Operational
+tmp-id,60,60,"ARGOS communications, sampling on up transit",Operational
+tmp-id,61,61,"ARGOS communications, sampling on down transit",Operational
+tmp-id,62,62,"Orbcomm communications, sampling on up transit",Operational
+tmp-id,63,63,"Orbcomm communications, sampling on down transit",Operational
+tmp-id,64,64,"Iridium communications, sampling on up transit",Operational
+tmp-id,65,65,"Iridium communications, sampling on down transit",Operational
+tmp-id,70,70,CSIRO Devil-1 XBT acquisition system,Operational
+tmp-id,71,71,CSIRO Devil-2 XBT acquisition system,Operational
+tmp-id,72,72,TURO/CSIRO Quoll XBT acquisition system,Operational
+tmp-id,80,80,"Applied Microsystems Ltd., MICRO-SVT&P",Operational
+tmp-id,81,81,"Sea Mammal Research Unit, Univ. St. Andrews, UK, uncorrected salinity from a sea mammal mounted instrument",Operational
+tmp-id,82,82,"Sea Mammal Research Unit, Univ. St. Andrews, UK, corrected salinity from a sea mammal mounted instrument",Operational
+tmp-id,99,99,Unknown,Operational
+tmp-id,,127,Missing value,Operational

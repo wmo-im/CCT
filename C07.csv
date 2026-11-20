@@ -1,64 +1,64 @@
-CodeFigureForsasa,CodeFigureForBUFR,TrackingTechniquesStatusOfSystemUsed_en,Status
-00,0,No wind finding,Operational
-01,1,Automatic with auxiliary optical direction finding,Operational
-02,2,Automatic with auxiliary radio direction finding,Operational
-03,3,Automatic with auxiliary ranging,Operational
-04,4,Not used,Operational
-05,5,Automatic with multiple VLF-Omega signals,Operational
-06,6,Automatic cross chain Loran-C,Operational
-07,7,Automatic with auxiliary wind profiler,Operational
-08,8,Automatic satellite navigation,Operational
-09-18,9-18,Reserved,Operational
-19,19,Tracking technique not specified,Operational
-,,TRACKING TECHNIQUES/STATUS OF ASAP SYSTEM,Operational
-,,STATUS OF SHIP SYSTEM,Operational
-20,20,Vessel stopped,Operational
-21,21,Vessel diverted from original destination,Operational
-22,22,Vessel's arrival delayed,Operational
-23,23,Container damaged,Operational
-24,24,Power failure to container,Operational
-25-28,25-28,Reserved for future use,Operational
-29,29,Other problems,Operational
-,,SOUNDING SYSTEM,Operational
-30,30,Major power problems,Operational
-31,31,UPS inoperative,Operational
-32,32,Receiver hardware problems,Operational
-33,33,Receiver software problems,Operational
-34,34,Processor hardware problems,Operational
-35,35,Processor software problems,Operational
-36,36,NAVAID system damaged,Operational
-37,37,Shortage of lifting gas,Operational
-38,38,Reserved,Operational
-39,39,Other problems,Operational
-,,LAUNCH FACILITIES,Operational
-40,40,Mechanical defect,Operational
-41,41,Material defect (hand launcher),Operational
-42,42,Power failure,Operational
-43,43,Control failure,Operational
-44,44,Pneumatic/hydraulic failure,Operational
-45,45,Other problems,Operational
-46,46,Compressor problems,Operational
-47,47,Balloon problems,Operational
-48,48,Balloon release problems,Operational
-49,49,Launcher damaged,Operational
-,,DATA ACQUISITION SYSTEM,Operational
-50,50,R/S receiver antenna defect,Operational
-51,51,NAVAID antenna defect,Operational
-52,52,R/S receiver cabling (antenna) defect,Operational
-53,53,NAVAID antenna cabling defect,Operational
-54-58,54-58,Reserved,Operational
-59,59,Other problems,Operational
-,,COMMUNICATIONS,Operational
-60,60,ASAP communications defect,Operational
-61,61,Communications facility rejected data,Operational
-62,62,No power at transmitting antenna,Operational
-63,63,Antenna cable broken,Operational
-64,64,Antenna cable defect,Operational
-65,65,Message transmitted power below normal,Operational
-66-68,66-68,Reserved,Operational
-69,69,Other problems,Operational
-70,70,All systems in normal operation,Operational
-71-98,71-98,Reserved,Operational
-99,99,Status of system and its components not specified,Operational
-Not available,100-126,Reserved,Operational
-Not available,127,Missing value,Operational
+ID,CodeFigureForsasa,CodeFigureForBUFR,TrackingTechniquesStatusOfSystemUsed_en,Status
+tmp-id,00,0,No wind finding,Operational
+tmp-id,01,1,Automatic with auxiliary optical direction finding,Operational
+tmp-id,02,2,Automatic with auxiliary radio direction finding,Operational
+tmp-id,03,3,Automatic with auxiliary ranging,Operational
+tmp-id,04,4,Not used,Operational
+tmp-id,05,5,Automatic with multiple VLF-Omega signals,Operational
+tmp-id,06,6,Automatic cross chain Loran-C,Operational
+tmp-id,07,7,Automatic with auxiliary wind profiler,Operational
+tmp-id,08,8,Automatic satellite navigation,Operational
+tmp-id,09-18,9-18,Reserved,Operational
+tmp-id,19,19,Tracking technique not specified,Operational
+tmp-id,,,TRACKING TECHNIQUES/STATUS OF ASAP SYSTEM,Operational
+tmp-id,,,STATUS OF SHIP SYSTEM,Operational
+tmp-id,20,20,Vessel stopped,Operational
+tmp-id,21,21,Vessel diverted from original destination,Operational
+tmp-id,22,22,Vessel's arrival delayed,Operational
+tmp-id,23,23,Container damaged,Operational
+tmp-id,24,24,Power failure to container,Operational
+tmp-id,25-28,25-28,Reserved for future use,Operational
+tmp-id,29,29,Other problems,Operational
+tmp-id,,,SOUNDING SYSTEM,Operational
+tmp-id,30,30,Major power problems,Operational
+tmp-id,31,31,UPS inoperative,Operational
+tmp-id,32,32,Receiver hardware problems,Operational
+tmp-id,33,33,Receiver software problems,Operational
+tmp-id,34,34,Processor hardware problems,Operational
+tmp-id,35,35,Processor software problems,Operational
+tmp-id,36,36,NAVAID system damaged,Operational
+tmp-id,37,37,Shortage of lifting gas,Operational
+tmp-id,38,38,Reserved,Operational
+tmp-id,39,39,Other problems,Operational
+tmp-id,,,LAUNCH FACILITIES,Operational
+tmp-id,40,40,Mechanical defect,Operational
+tmp-id,41,41,Material defect (hand launcher),Operational
+tmp-id,42,42,Power failure,Operational
+tmp-id,43,43,Control failure,Operational
+tmp-id,44,44,Pneumatic/hydraulic failure,Operational
+tmp-id,45,45,Other problems,Operational
+tmp-id,46,46,Compressor problems,Operational
+tmp-id,47,47,Balloon problems,Operational
+tmp-id,48,48,Balloon release problems,Operational
+tmp-id,49,49,Launcher damaged,Operational
+tmp-id,,,DATA ACQUISITION SYSTEM,Operational
+tmp-id,50,50,R/S receiver antenna defect,Operational
+tmp-id,51,51,NAVAID antenna defect,Operational
+tmp-id,52,52,R/S receiver cabling (antenna) defect,Operational
+tmp-id,53,53,NAVAID antenna cabling defect,Operational
+tmp-id,54-58,54-58,Reserved,Operational
+tmp-id,59,59,Other problems,Operational
+tmp-id,,,COMMUNICATIONS,Operational
+tmp-id,60,60,ASAP communications defect,Operational
+tmp-id,61,61,Communications facility rejected data,Operational
+tmp-id,62,62,No power at transmitting antenna,Operational
+tmp-id,63,63,Antenna cable broken,Operational
+tmp-id,64,64,Antenna cable defect,Operational
+tmp-id,65,65,Message transmitted power below normal,Operational
+tmp-id,66-68,66-68,Reserved,Operational
+tmp-id,69,69,Other problems,Operational
+tmp-id,70,70,All systems in normal operation,Operational
+tmp-id,71-98,71-98,Reserved,Operational
+tmp-id,99,99,Status of system and its components not specified,Operational
+tmp-id,Not available,100-126,Reserved,Operational
+tmp-id,Not available,127,Missing value,Operational
